@@ -46,7 +46,7 @@ export function ShlokCard({
     };
 
     return (
-        <div className="mb-8 text-center py-8 px-6 bg-white rounded-xl border border-gray-100 shadow-sm">
+        <div className="mb-8 text-center py-8 px-4 md:px-6 bg-white rounded-xl border border-gray-100 shadow-sm">
             {shlokSanskrit && (
                 <h2 className="text-2xl font-serif text-gray-800 leading-relaxed mb-4 whitespace-pre-wrap">
                     {formatShlokText(shlokSanskrit)}
@@ -91,16 +91,16 @@ export function NavButtons({
     nextHref: string | null;
 }) {
     return (
-        <div className="flex justify-between items-center mt-12 pt-6 border-t border-gray-100 sticky bottom-0 bg-white/95 backdrop-blur-sm pb-6">
+        <div className="flex flex-col sm:flex-row justify-between items-center mt-12 pt-6 border-t border-gray-100 sticky bottom-0 bg-white/95 backdrop-blur-sm pb-6 gap-4">
             {prevHref ? (
                 <Link
                     href={prevHref}
-                    className="px-6 py-2 border border-gray-300 rounded-full text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors text-sm font-medium"
+                    className="w-full sm:w-auto text-center px-6 py-3 sm:py-2 border border-gray-300 rounded-full text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors text-sm font-medium"
                 >
                     ← Previous Shlok
                 </Link>
             ) : (
-                <span className="px-6 py-2 border border-gray-100 rounded-full text-gray-300 text-sm font-medium cursor-not-allowed">
+                <span className="w-full sm:w-auto text-center px-6 py-3 sm:py-2 border border-gray-100 rounded-full text-gray-300 text-sm font-medium cursor-not-allowed">
                     Previous
                 </span>
             )}
@@ -108,12 +108,12 @@ export function NavButtons({
             {nextHref ? (
                 <Link
                     href={nextHref}
-                    className="px-6 py-2 border border-gray-300 rounded-full text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors text-sm font-medium"
+                    className="w-full sm:w-auto text-center px-6 py-3 sm:py-2 border border-gray-300 rounded-full text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors text-sm font-medium"
                 >
                     Next Shlok →
                 </Link>
             ) : (
-                <span className="px-6 py-2 border border-gray-100 rounded-full text-gray-300 text-sm font-medium cursor-not-allowed">
+                <span className="w-full sm:w-auto text-center px-6 py-3 sm:py-2 border border-gray-100 rounded-full text-gray-300 text-sm font-medium cursor-not-allowed">
                     Next
                 </span>
             )}

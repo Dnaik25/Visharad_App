@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
-import { Sidebar } from '@/components/Sidebar';
+import { MainLayout } from '@/components/MainLayout';
 import { getAllClassesMetadata } from '@/lib/data';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -20,11 +20,10 @@ export default async function RootLayout({
 
   return (
     <html lang="en">
-      <body className={`${inter.className} min-h-screen flex bg-white`}>
-        <Sidebar classes={classesData} />
-        <main className="flex-1 ml-64 min-h-screen bg-white">
+      <body className={inter.className}>
+        <MainLayout classes={classesData}>
           {children}
-        </main>
+        </MainLayout>
       </body>
     </html>
   );

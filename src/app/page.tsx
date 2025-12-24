@@ -13,27 +13,39 @@ export default async function Home() {
   }
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-[80vh] text-center px-4">
-      <div className="bg-blue-50 p-4 rounded-full mb-6">
-        <BookOpen size={48} className="text-blue-600" />
-      </div>
+    <div className="relative flex flex-col items-center justify-center min-h-[80vh] text-center px-4 rounded-3xl overflow-hidden shadow-2xl mt-2">
+      {/* Background Image */}
+      <div
+        className="absolute inset-0 z-0 bg-cover bg-center"
+        style={{ backgroundImage: "url('/banner.png')" }}
+      />
 
-      <h1 className="text-4xl font-bold text-gray-900 mb-4 tracking-tight">
-        Visharad Sahayak
-      </h1>
+      {/* Overlay for readability */}
+      <div className="absolute inset-0 z-10 bg-black/50" />
 
-      <p className="text-xl text-gray-600 max-w-md mb-10 leading-relaxed">
-        Study support for Visharad classes. Browse classes and shloks comfortably on any device.
-      </p>
+      {/* Content */}
+      <div className="relative z-20 flex flex-col items-center max-w-2xl mx-auto">
+        <div className="p-5 rounded-full mb-8 bg-white/10 backdrop-blur-md border border-white/20 shadow-lg">
+          <BookOpen size={56} className="text-orange-400" />
+        </div>
 
-      <div className="flex flex-col sm:flex-row gap-4">
-        <Link
-          href={startLink}
-          className="inline-flex items-center justify-center px-8 py-3 text-base font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors shadow-lg shadow-blue-200"
-        >
-          Start Studying
-          <ArrowRight className="ml-2" size={20} />
-        </Link>
+        <h1 className="text-5xl md:text-6xl font-extrabold text-white mb-6 tracking-tight drop-shadow-xl">
+          Visharad Sahayak
+        </h1>
+
+        <p className="text-xl md:text-2xl text-orange-50 max-w-lg mb-12 leading-relaxed drop-shadow-md font-medium">
+          Study support for Vidvāns
+        </p>
+
+        <div className="flex flex-col sm:flex-row gap-4">
+          <Link
+            href={startLink}
+            className="group inline-flex items-center justify-center px-10 py-4 text-lg font-bold text-white bg-red-600 rounded-full hover:bg-red-700 transition-all transform hover:scale-105 shadow-xl shadow-red-900/30"
+          >
+            Start Studying
+            <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={24} />
+          </Link>
+        </div>
       </div>
     </div>
   );

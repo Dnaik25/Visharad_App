@@ -69,8 +69,10 @@ export function ReferenceItem({ item, source }: { item: RefItem; source: string 
     const formattedText = item.text.replace(/\.\.\./g, '...\n');
 
     return (
-        <div className="mb-6 pl-4 border-l-2 border-gray-200">
-            <AudioPlaceholder label={`Audio for ${item.ref}`} />
+        <div className="mb-6 pl-4 border-l-2 border-gray-200 reference-block" data-reference={item.ref}>
+            <div className="audio-placeholder">
+                <AudioPlaceholder label={`Audio for ${item.ref}`} />
+            </div>
             <div>
                 <span className="inline-block bg-gray-100 text-gray-600 text-xs font-bold px-2 py-1 rounded mb-2">
                     {item.ref}

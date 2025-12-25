@@ -51,10 +51,6 @@ export default async function ShlokPage({ params }: Props) {
 
     return (
         <div className="max-w-3xl mx-auto px-6 py-12 pb-24">
-            {/* 1. Audio Placeholder */}
-            <AudioPlaceholder label="Audio File for the Shlok" />
-
-            {/* 2. Shlok Text */}
             {/* 2. Shlok Text */}
             <ShlokCard
                 shlokSanskrit={shlok.shlokSanskrit}
@@ -62,8 +58,6 @@ export default async function ShlokPage({ params }: Props) {
                 shlokNumber={shlok.shlokNumber}
             />
 
-            {/* 3. Explanation Placeholder */}
-            <ExplanationPlaceholder />
 
             {/* 4. References (Dynamic) */}
             <div className="space-y-8">

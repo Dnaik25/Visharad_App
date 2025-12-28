@@ -1,7 +1,7 @@
 import { AUDIO_MAPPING } from './audioMapping';
 
-// The CONTAINER-LEVEL SAS URL provided by the user
-const CONTAINER_SAS_URL = "https://refaudio.blob.core.windows.net/audio?sp=racwdl&st=2025-12-25T15:49:30Z&se=2026-12-01T00:04:30Z&spr=https&sv=2024-11-04&sr=c&sig=CqZo2G%2B02XufoTb5x1Q76TSc32S%2BpLhjRZVV4ip0EXI%3D";
+// The CONTAINER-LEVEL SAS URL provided by the user (now in environment variable)
+const CONTAINER_SAS_URL = process.env.NEXT_PUBLIC_CONTAINER_SAS_URL;
 
 interface ParsedSas {
     baseUrl: string;
@@ -39,6 +39,11 @@ export function getAudioUrl(reference: string): string | null {
 
     if (!blobPath) {
         console.warn(`Audio mapping not found for reference: "${reference}"`);
+        return null;
+    }
+
+    if (!CONTAINER_SAS_URL) {
+        console.error("Missing NEXT_PUBLIC_CONTAINER_SAS_URL environment variable");
         return null;
     }
 

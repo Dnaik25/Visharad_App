@@ -21,11 +21,11 @@ export const AUDIO_MAPPING: Record<string, string> = {
     // Class 3
     "Swā.Vāto: 1/17": "class 3/SV 1.17.m4a",
     "Vach.Ga.An.2": "class 3/V GA2.m4a",
-    "Vach.Ga.Sā.9": "class 3/V Sar9.m4a",
+    "Vach.Sā.9": "class 3/V Sar9.m4a",
 
     // Class 4
     "Vach.Ga.An.39": "class 4/V GA39.m4a",
-    "Vach.Ga.Va.4": "class 4/V Var4.m4a",
+    "Vach.Va.4": "class 4/V Var4.m4a",
 
     // Class 5
     "Swā.Vāto: 1/301": "class 5/SV 1.301.m4a",

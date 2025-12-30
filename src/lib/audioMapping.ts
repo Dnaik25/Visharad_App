@@ -17,6 +17,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Swā.Vāto: 4/99": "class 2/SV 4.99.m4a",
     "Vach.Ga.Pa.21": "class 2/V GP21.m4a",
     "Vach.Ga.An.30": "class 2/V GA30.m4a",
+    "Narayandas Swami": "class 2/Nāshvant ā deh.m4a"
 
     // Class 3
     "Swā.Vāto: 1/17": "class 3/SV 1.17.m4a",

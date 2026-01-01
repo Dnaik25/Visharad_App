@@ -48,15 +48,17 @@ export function ShlokCard({
     return (
         <div className="mb-8 text-center py-8 px-4 md:px-6 bg-white rounded-xl border border-gray-100 shadow-sm">
             {shlokSanskrit && (
-                <h2 className="text-2xl font-serif text-gray-800 leading-relaxed mb-4 whitespace-pre-wrap">
-                    {formatShlokText(shlokSanskrit)}
-                </h2>
+                <h2
+                    className="text-2xl font-serif text-gray-800 leading-relaxed mb-4 whitespace-pre-wrap"
+                    dangerouslySetInnerHTML={{ __html: formatShlokText(shlokSanskrit) || '' }}
+                />
             )}
 
             {shlokTransliteration && (
-                <p className={`font-serif leading-relaxed whitespace-pre-wrap ${shlokSanskrit ? 'text-lg text-gray-600' : 'text-2xl text-gray-800'}`}>
-                    {formatShlokText(shlokTransliteration)}
-                </p>
+                <p
+                    className={`font-serif leading-relaxed whitespace-pre-wrap ${shlokSanskrit ? 'text-lg text-gray-600' : 'text-2xl text-gray-800'}`}
+                    dangerouslySetInnerHTML={{ __html: formatShlokText(shlokTransliteration) || '' }}
+                />
             )}
         </div>
     );

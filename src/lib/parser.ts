@@ -68,11 +68,29 @@ export function parseClassTxt(text: string): ShlokBlock[] {
         if (currentBlock && currentSection) {
             if (currentSection === 'SHLOK') {
                 const isBullet = trimmed.startsWith('- ') || trimmed.startsWith('• ');
-                const content = isBullet ? trimmed.substring(2).trim() : trimmed;
+                if (!isBullet) continue; // Ignore non-bullet lines in Shlok section
+
+                let content = trimmed.substring(2).trim();
+                // Replace single danda '।' or single pipe '|' with newline to break the shlok lines
+                // Ensure we don't break on double danda '॥' or double pipe '||'
+                content = content.replace(/(?<![|])\|(?![|])/g, '\n').replace(/।/g, '\n');
+
+                // Prevent line breaks inside shlok markers like "|| 8 ||" or "॥ 8 ॥"
+                // Wrap them in a span with white-space: nowrap to guarantee they stay together
+                content = content.replace(/([|॥]+\s+\d+(?:-\d+)?\s+[|॥]+)/g, '<span class="whitespace-nowrap">$1</span>');
+
+                // Ignore empty bullets acting as separators
+                if (!content) continue;
 
                 if (currentBlock.shlokTransliteration) {
-                    // Second line found -> First becomes Sanskrit, Second is Transliteration
-                    currentBlock.shlokSanskrit = currentBlock.shlokTransliteration;
+                    // We already have a transliteration (which was the last line seen so far).
+                    // Move it to Sanskrit (append if needed), and make the new content the Transliteration.
+
+                    if (currentBlock.shlokSanskrit) {
+                        currentBlock.shlokSanskrit += '\n' + currentBlock.shlokTransliteration;
+                    } else {
+                        currentBlock.shlokSanskrit = currentBlock.shlokTransliteration;
+                    }
                     currentBlock.shlokTransliteration = content;
                 } else {
                     // First line found -> Tentatively Transliteration

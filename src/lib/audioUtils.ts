@@ -101,6 +101,16 @@ export function injectAudioPlayers() {
                 audioEl.style.marginTop = '8px';
                 audioEl.style.marginBottom = '8px';
 
+                // 5. Enforce single active playback
+                audioEl.addEventListener('play', (e) => {
+                    const allAudios = document.querySelectorAll('audio');
+                    allAudios.forEach((audio) => {
+                        if (audio !== e.target) {
+                            audio.pause();
+                        }
+                    });
+                });
+
                 placeholder.appendChild(audioEl);
             } else {
                 console.warn(`No audio mapping found for reference: "${reference}"`);

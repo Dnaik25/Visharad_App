@@ -47,5 +47,19 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.An.7 (2)": "class 8/V GA7-2.m4a",
     "Vach.Ga.Pa.58": "class 8/V GP58.m4a",
     "Vach.Ga.Pa.72": "class 8/V GP72.m4a",
-    "Vach.Je.5": "class 8/V Jet5.m4a"
+    "Vach.Je.5": "class 8/V Jet5.m4a",
+
+    // Class 9
+    "Vach.Je.1": "class 9/V Jet1.m4a",
+    "Vach.Ga.Ma.59": "class 9/V GM59-1.m4a",
+    "Vach.Lo.3": "class 9/V Loya3.m4a",
+    "Vach.Ga.Ma.59 (2)": "class 9/V GM59-2.m4a",
+    "Vach.Va.14": "class 9/V Var14.m4a",
+    "Swa.Vato.1/114": "class 9/SV 1.114.m4a",
+
+    // Class 10
+    "Vach.Je.1": "class 10/V Jet1.m4a",
+    "Sadguru Premanand Swami": "class 10/Kirtan SantParamHitkari.m4a",
+    "Swa.Vato.1/114": "class 10/SV 1.114.m4a",
+
 };

@@ -1,5 +1,6 @@
 export type RefItem = {
     ref: string;
+    displayRef?: string;
     text: string;
 };
 

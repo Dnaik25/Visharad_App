@@ -38,5 +38,15 @@
         "id": "8",
         "file": "Class_8.txt",
         "title": "Class 8"
+    },
+    {
+        "id": "9",
+        "file": "Class_9.txt",
+        "title": "Class 9"
+    },
+    {
+        "id": "10",
+        "file": "Class_10.txt",
+        "title": "Class 10"
     }
 ]

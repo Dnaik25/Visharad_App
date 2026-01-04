@@ -7,6 +7,9 @@ export function parseClassTxt(text: string): ShlokBlock[] {
     let currentBlock: ShlokBlock | null = null;
     let currentSection: string | null = null;
 
+    // Track reference counts for deduplication within the file
+    const seenRefCounts: Record<string, number> = {};
+
     // Buffer for current reference being built
     let currentRef: RefItem | null = null;
 
@@ -108,15 +111,28 @@ export function parseClassTxt(text: string): ShlokBlock[] {
                     if (refText.startsWith('•')) refText = refText.substring(1).trim();
                     else if (refText.startsWith('-')) refText = refText.substring(1).trim();
 
+                    // Handle duplicates: "Ref" -> "Ref (2)" -> "Ref (3)"
+                    const baseRef = refText;
+                    const count = seenRefCounts[baseRef] || 0;
+                    seenRefCounts[baseRef] = count + 1;
+
+                    let storedRef = baseRef;
+                    if (count > 0) {
+                        storedRef = `${baseRef} (${count + 1})`;
+                    }
+
                     currentRef = {
-                        ref: refText,
+                        ref: storedRef,
+                        displayRef: baseRef,
                         text: ''
                     };
                 } else {
                     // Continuation of current ref text
+                    const joinChar = (currentSection?.includes('Kirtan') || currentSection?.includes('Padi')) ? '\n' : ' ';
+
                     if (currentRef) {
                         currentRef.text = currentRef.text
-                            ? currentRef.text + '\n' + trimmed
+                            ? currentRef.text + joinChar + trimmed
                             : trimmed;
                     }
                 }

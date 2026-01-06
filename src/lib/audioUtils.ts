@@ -32,13 +32,27 @@ export function parseSasUrl(fullUrl: string): ParsedSas {
 /**
  * 3️⃣ Build FULL audio URLs
  * @param reference The text reference (e.g., "Vach.Sā.1")
+ * @param classId Optional class ID for context-aware lookup (e.g. "12")
  * @returns The full signed URL or null if not found
  */
-export function getAudioUrl(reference: string): string | null {
-    const blobPath = AUDIO_MAPPING[reference];
+export function getAudioUrl(reference: string, classId?: string | number): string | null {
+    // 1. Try specific lookup if classId is provided
+    let blobPath = null;
+
+    if (classId) {
+        const specificKey = `${reference} (Class ${classId})`;
+        if (AUDIO_MAPPING[specificKey]) {
+            blobPath = AUDIO_MAPPING[specificKey];
+        }
+    }
+
+    // 2. Fallback to direct lookup
+    if (!blobPath) {
+        blobPath = AUDIO_MAPPING[reference];
+    }
 
     if (!blobPath) {
-        console.warn(`Audio mapping not found for reference: "${reference}"`);
+        console.warn(`Audio mapping not found for reference: "${reference}" (Class ${classId || 'N/A'})`);
         return null;
     }
 
@@ -78,6 +92,7 @@ export function injectAudioPlayers() {
     blocks.forEach((block) => {
         // 2. Read reference value
         const reference = block.getAttribute('data-reference');
+        const classId = block.getAttribute('data-class-id');
         const placeholder = block.querySelector('.audio-placeholder');
 
         if (reference && placeholder) {
@@ -87,7 +102,7 @@ export function injectAudioPlayers() {
             }
 
             // 3. Look up audio mapping
-            const audioUrl = getAudioUrl(reference);
+            const audioUrl = getAudioUrl(reference, classId || undefined);
 
             if (audioUrl) {
                 // Clear placeholder text first if it exists

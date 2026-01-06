@@ -64,7 +64,7 @@ export function ShlokCard({
     );
 }
 
-export function ReferenceItem({ item, source }: { item: RefItem; source: string }) {
+export function ReferenceItem({ item, classId }: { item: RefItem; source?: string; classId?: string }) {
     // Format Kirtan lines: break after "..." if strictly asked
     // The parser now joins with \n, so original file structure is preserved.
     // We add extra logic for specific "..." cases if they are inline.
@@ -72,7 +72,7 @@ export function ReferenceItem({ item, source }: { item: RefItem; source: string 
     const formattedText = item.text;
 
     return (
-        <div className="mb-6 pl-4 border-l-2 border-gray-200 reference-block" data-reference={item.ref}>
+        <div className="mb-6 pl-4 border-l-2 border-gray-200 reference-block" data-reference={item.ref} data-class-id={classId}>
             <div className="audio-placeholder">
                 <AudioPlaceholder label={`Audio for ${item.displayRef || item.ref}`} />
             </div>

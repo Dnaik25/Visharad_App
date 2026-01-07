@@ -73,7 +73,7 @@ export default async function ShlokPage({ params }: Props) {
                                 <ReferenceItem
                                     key={`${source}-${refIdx}`}
                                     item={ref}
-                                    source={source}
+                                    classId={classId}
                                 />
                             ))}
                         </div>

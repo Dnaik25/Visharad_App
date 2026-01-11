@@ -30,7 +30,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Va.4": "class 4/V Var4.m4a",
     "Sadguru Premanand Swami": "class 4/Kirtan Premanand_Aksharnavasi.m4a",
     "Sadguru Nishkulanand Swami": "class 4/Kirtan Nishkulanand_SachoMalyoSatsang.m4a",
-    //"Sadguru Brahmanand Swami": "class 4/Kirtan Brahmanand_SantSamagam.m4a",
+    "Sadguru Brahmanand Swami": "class 4/Kirtan Brahmanand_SantSamagam.m4a",
 
     // Class 5
     "Swā.Vāto: 1/301": "class 5/SV 1.301.m4a",
@@ -66,16 +66,18 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //"Vach.Ga.Pa.40": "class 10/V GP40.m4a",
     //"Vach.Ga.Pa.60": "class 10/V GP60.m4a",
     //"Vach.Ga.Pa.54": "class 10/V GP54.m4a",
+    "Sadguru Premanand Swami (Class 10)": "class 10/Kirtan Premanand_Nirvikalp.m4a",
+    "Sadguru Premanand Swami - Nirvikalp": "class 10/Kirtan Premanand_NirvikalpUttamAtiEvo.m4a",
     "Vach.Ga.An.27": "class 10/V GA27.m4a",
     "Vach.Lo.12": "class 10/V Loya12.m4a",
     "Vach.Lo.7": "class 10/V Loya7.m4a",
     "Swa.Vato.1/119": "class 10/SV 1.119.m4a",
-    //"Bhaktachintamani (Class 10)": "class 10/Kirtan Bhaktachintamani_JanPratye.m4a",
+    "Bhaktachintamani (Class 10)": "class 10/Kirtan Bhaktachintamani_SantKrupa.m4a",
 
     // Class 11
     "Vach.Ga.Pa.44": "class 11/V GP44.m4a",
     "Swa.Vato.1/30": "class 11/SV 1.30.m4a",
-    //"Bhaktachintamani (Class 11)": "class 11/Kirtan Bhaktachintamani_Kamdugha.m4a",
+    "Bhaktachintamani (Class 11)": "class 11/Kirtan Bhaktachintamani_Kamdugha.m4a",
     "Vach.Ga.An.2 (Class 11)": "class 11/V GA2.m4a",
     //"Shvetashvatar Upanishad": "class 11/Upanishad Shvetashvatar.m4a",
 

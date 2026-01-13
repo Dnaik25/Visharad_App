@@ -1,11 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Sidebar } from './Sidebar';
 import { Menu } from 'lucide-react';
 import { usePathname } from 'next/navigation';
-import { injectAudioPlayers } from '@/lib/audioUtils';
-
 type MainLayoutProps = {
     classes: {
         filename: string;
@@ -21,14 +19,8 @@ export function MainLayout({ classes, children }: MainLayoutProps) {
 
     const closeMenu = () => setIsMobileMenuOpen(false);
 
-    // Inject audio players whenever the path changes
-    useEffect(() => {
-        // Small timeout to allow DOM to settle after navigation
-        const timer = setTimeout(() => {
-            injectAudioPlayers();
-        }, 100);
-        return () => clearTimeout(timer);
-    }, [pathname]);
+    // Audio players are now handled by the AudioPlayer component directly
+    // injectAudioPlayers logic removed
 
     return (
         <div className="min-h-screen bg-white text-gray-900 font-sans flex flex-col md:flex-row">

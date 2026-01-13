@@ -100,7 +100,6 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Ma.45": "class 15/V GM45.m4a",
     "BHAKTACHINTAMANI 76/39-41": "class 15/Kirtan Bhaktachintamani_76_39_41.m4a",
     "Vach.Ga.An.7 (Class 15)": "class 15/V GA7.m4a",
-    "HARIBALGITA 38/1,2": "class 15/Haribalgita_38_1_2.m4a",
 
     //Class 16
     "Vach.Je.5 (Class 16)": "class 16/V Jet5.m4a",
@@ -121,7 +120,5 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Swa.Vato.1/153": "class 18/SV 1.153.m4a",
 
     //Class 19
-    "Vach.Ka.4": "class 19/V Ka4.m4a",
-    "Vach.Ga.Ma.3 (Class 19)": "class 19/V GM3.m4a",
     "Vach.Ga.Ma.40": "class 19/V GM40.m4a"
 };

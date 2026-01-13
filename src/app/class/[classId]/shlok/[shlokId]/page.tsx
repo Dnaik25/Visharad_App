@@ -2,7 +2,6 @@ import { notFound } from 'next/navigation';
 import { getClassContent } from '@/lib/data';
 import {
     ShlokCard,
-    AudioPlaceholder,
     ExplanationPlaceholder,
     ReferenceItem,
     NavButtons

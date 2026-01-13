@@ -3,16 +3,9 @@ import { RefItem } from '@/lib/types';
 
 // --- Placeholders ---
 
-export function AudioPlaceholder({ label }: { label: string }) {
-    return (
-        <div className="bg-gray-50 border border-gray-100 rounded-lg p-3 mb-4 flex flex-col items-center justify-center text-center">
-            <div className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-1">
-                {label}
-            </div>
-            <div className="text-sm text-gray-500">Coming soon</div>
-        </div>
-    );
-}
+// --- Placeholders ---
+
+// Removed AudioPlaceholder as it is now handled in AudioPlayer component
 
 export function ExplanationPlaceholder() {
     return (
@@ -64,17 +57,19 @@ export function ShlokCard({
     );
 }
 
+import { AudioPlayer } from './AudioPlayer';
+
 export function ReferenceItem({ item, classId }: { item: RefItem; source?: string; classId?: string }) {
-    // Format Kirtan lines: break after "..." if strictly asked
-    // The parser now joins with \n, so original file structure is preserved.
-    // We add extra logic for specific "..." cases if they are inline.
-    // We remove the aggressive newline replacement after ellipses to prevent orphaned quotes.
     const formattedText = item.text;
 
     return (
-        <div className="mb-6 pl-4 border-l-2 border-gray-200 reference-block" data-reference={item.ref} data-class-id={classId}>
-            <div className="audio-placeholder">
-                <AudioPlaceholder label={`Audio for ${item.displayRef || item.ref}`} />
+        <div className="mb-6 pl-4 border-l-2 border-gray-200 reference-block">
+            <div className="mb-2">
+                <AudioPlayer
+                    reference={item.ref}
+                    displayRef={item.displayRef || item.ref}
+                    classId={classId}
+                />
             </div>
             <div>
                 <span className="inline-block bg-gray-100 text-gray-600 text-xs font-bold px-2 py-1 rounded mb-2">

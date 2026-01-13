@@ -95,4 +95,30 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.An.13": "class 14/V GA13.m4a",
     "Swa.Vato.1/148": "class 14/SV 1.148.m4a",
     //"Dhiraj Akhyan": "class 14/Kirtan Dhiraj_Akhyan.m4a",
+
+    //Class 15
+    "Vach.Ga.Ma.45": "class 15/V GM45.m4a",
+    "BHAKTACHINTAMANI 76/39-41": "class 15/Kirtan Bhaktachintamani_76_39_41.m4a",
+    "Vach.Ga.An.7 (Class 15)": "class 15/V GA7.m4a",
+
+    //Class 16
+    "Vach.Je.5 (Class 16)": "class 16/V Jet5.m4a",
+
+    //Class 17
+    "Vach.Lo.7 (Class 17)": "class 17/V Loya7.m4a",
+    "Vach.Ga.Pa.20": "class 17/V GP20.m4a",
+    "Vach.Ga.Ma.3": "class 17/V GM3.m4a",
+    "Vach.Va.5": "class 17/V Var5.m4a",
+    "Vach.Ga.Pa.68": "class 17/V GP68.m4a",
+    "Vach.Ga.Ma.59 (Class 17)": "class 17/V GM59.m4a",
+    "Vach.Ga.An.7 (Class 17)": "class 17/V GA7.m4a",
+    "PURUSHOTTAM PRAKASH 41/9": "class 17/PurushottamPrakash_41_9.m4a",
+
+    //Class 18
+    "Vach.Ga.Ma.21": "class 18/V GM21.m4a",
+    "Vach.Ga.Pa.56": "class 18/V GP56.m4a",
+    "Swa.Vato.1/153": "class 18/SV 1.153.m4a",
+
+    //Class 19
+    "Vach.Ga.Ma.40": "class 19/V GM40.m4a"
 };

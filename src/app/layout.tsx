@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { Analytics } from "@vercel/analytics/next";
 import { Inter } from 'next/font/google';
 import './globals.css';
 import { MainLayout } from '@/components/MainLayout';
@@ -24,6 +25,7 @@ export default async function RootLayout({
         <MainLayout classes={classesData}>
           {children}
         </MainLayout>
+        <Analytics />
       </body>
     </html>
   );

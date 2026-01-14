@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 19 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tyār bād dāsbhāve purushoe sāşhţāng dandavat praņām karavā ane strīoe besīne ______ praņām karavā.",
+      "options": [
+        "panchāng",
+        "sāşhţāng",
+        "dandavat",
+        "ekāng"
+      ],
+      "correct_answer": "panchāng",
+      "explanation": "The complete shlok is: Tyār bād dāsbhāve purushoe sāşhţāng dandavat praņām karavā ane strīoe besīne panchāng praņām karavā. (69)",
+      "source_reference": "Satsang Diksha Shlok 69"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Sāşhţāngā dandavat kāryāh praņāmāh purushais-tataha | Nārībhis-tūpavishyaiva panchāngā dāsa-bhāvataha ||",
+      "options": [
+        "Satsang Diksha Shlok 69",
+        "Satsang Diksha Shlok 68",
+        "Satsang Diksha Shlok 70",
+        "Vach.Ga.Ma.40"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 69",
+      "explanation": "This is the Sanskrit shlok for number 69 from Satsang Diksha.",
+      "source_reference": "Satsang Diksha Shlok 69"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Koī bhaktano droh thayo hoy tenā nivāranne arthe ______ pratidin ek dandavat praņām adhik karavo.",
+      "options": [
+        "kshamā-yāchanā-pūrvak",
+        "bhakti-bhāve",
+        "ādar-bhāve",
+        "prem-bhāve"
+      ],
+      "correct_answer": "kshamā-yāchanā-pūrvak",
+      "explanation": "The complete sentence is: Koī bhaktano droh thayo hoy tenā nivāranne arthe kshamā-yāchanā-pūrvak pratidin ek dandavat praņām adhik karavo.",
+      "source_reference": "Satsang Diksha Shlok 70"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Tyār bād sarvanā kendra samān ane vyāpak evā Akshar-Purushottam Mahārājne sambhāratā pratimāonī pradakshiņā karavī.",
+      "options": [
+        "Satsang Diksha Shlok 68",
+        "Satsang Diksha Shlok 69",
+        "Satsang Diksha Shlok 70",
+        "Vach.Ga.Ma.40"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 68",
+      "explanation": "This is the Gujarati translation of Shlok 68.",
+      "source_reference": "Satsang Diksha Shlok 68"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tatah sanchintayan kuryād ______ | Vyāpakam sarva kendram cha pratimānām pradakshiņāhā ||",
+      "options": [
+        "Akshara-Purushottamam",
+        "Sarva-Shaktim",
+        "Divya-Atmanam",
+        "Brahma-jyotim"
+      ],
+      "correct_answer": "Akshara-Purushottamam",
+      "explanation": "The complete shlok is: Tatah sanchintayan kuryād Akshara-Purushottamam | Vyāpakam sarva kendram cha pratimānām pradakshiņāhā || 68 ||",
+      "source_reference": "Satsang Diksha Shlok 68"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu; ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu...",
+      "options": [
+        "Vach.Ga.Ma.40",
+        "Satsang Diksha Shlok 68",
+        "Satsang Diksha Shlok 69",
+        "Satsang Diksha Shlok 70"
+      ],
+      "correct_answer": "Vach.Ga.Ma.40",
+      "explanation": "This quotation is from Vachanamrut Gadhada I-40.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne ______ na karavo.",
+      "options": [
+        "droh",
+        "prem",
+        "ādar",
+        "bhakti"
+      ],
+      "correct_answer": "droh",
+      "explanation": "The complete sentence is: Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na karavo.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Praņāmo dandavach-chaikah kshamā-yāchana-pūrvakam | Bhakta-droha-nivārārtham kāryo'dhiko hi pratyaham ||",
+      "options": [
+        "Satsang Diksha Shlok 70",
+        "Satsang Diksha Shlok 68",
+        "Satsang Diksha Shlok 69",
+        "Vach.Ga.Ma.40"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 70",
+      "explanation": "This is the Sanskrit shlok for number 70 from Satsang Diksha.",
+      "source_reference": "Satsang Diksha Shlok 70"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tyār bād sarvanā ______ samān ane vyāpak evā Akshar-Purushottam Mahārājne sambhāratā pratimāonī pradakshiņā karavī.",
+      "options": [
+        "kendra",
+        "ādhār",
+        "swaroop",
+        "pragat"
+      ],
+      "correct_answer": "kendra",
+      "explanation": "The complete sentence is: Tyār bād sarvanā kendra samān ane vyāpak evā Akshar-Purushottam Mahārājne sambhāratā pratimāonī pradakshiņā karavī.",
+      "source_reference": "Satsang Diksha Shlok 68"
+    },
+    {
+      "id": "10",
+      "type": "quotation_reference_mcq",
+      "question_text": "Tyār bād dāsbhāve purushoe sāşhţāng dandavat praņām karavā ane strīoe besīne panchāng praņām karavā.",
+      "options": [
+        "Satsang Diksha Shlok 69",
+        "Satsang Diksha Shlok 68",
+        "Satsang Diksha Shlok 70",
+        "Vach.Ga.Ma.40"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 69",
+      "explanation": "This is the Gujarati translation of Shlok 69.",
+      "source_reference": "Satsang Diksha Shlok 69"
+    }
+  ]
+}

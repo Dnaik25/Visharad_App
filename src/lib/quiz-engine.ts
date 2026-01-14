@@ -1,148 +1,45 @@
-import { GoogleGenerativeAI, SchemaType } from "@google/generative-ai";
 import fs from "fs/promises";
 import path from "path";
 import { unstable_cache } from "next/cache";
 
-// Initialize Gemini checking is done inside the function to ensure env vars are loaded.
-
-const SYSTEM_INSTRUCTION = `
-You are the "Visharad Sahãyak Quiz & Review Engine".
-Role: Closed-book educational assessment engine.
-Evaluation Standard: NotebookLM-aligned rigor.
-Goal: Generate quizzes grounded strictly in the provided "Satsang Diksha" class content.
-
-Policy:
-1. Closed Book: Use ONLY the provided source text. Do not use external knowledge.
-2. Language: Strict language preservation (Sanskrit/Gujarati). NO translation.
-3. Formats:
-   - "fill_in_the_blanks_mcq": 1-3 blanks. Verbatim text ONLY.
-   - "quotation_to_reference_mcq": Quote a line, ask for the reference (e.g., "Gadhada I-1").
-4. Distractors: Plausible but incorrect. Must not be true for other shlokas in the context if possible.
-5. Content: If the source text is insufficient or empty, return an empty quiz or refusal.
-`;
+// STATIC MODE: No LLM imports here.
+// The "generateQuiz" function is preserved but now READS from static files.
 
 export async function generateQuiz(classId: string, type: 'class_quiz' | 'mini_review' = 'class_quiz') {
-  const apiKey = process.env.GEMINI_API_KEY;
-
-  // Debug log for Vercel (safe mask)
-  if (process.env.NODE_ENV === 'production') {
-    const status = apiKey ? `Present (starts with ${apiKey.substring(0, 4)}...)` : "MISSING";
-    console.log(`[QuizEngine] checking API Key: ${status}`);
-  }
-
-  if (!apiKey) {
-    throw new Error("Configuration Error: GEMINI_API_KEY is missing. Please set it in .env.local or your deployment settings.");
-  }
-
-  const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({
-    model: "gemini-2.0-flash",
-    generationConfig: {
-      responseMimeType: "application/json",
-      responseSchema: {
-        type: SchemaType.OBJECT,
-        properties: {
-          quiz_title: { type: SchemaType.STRING },
-          questions: {
-            type: SchemaType.ARRAY,
-            items: {
-              type: SchemaType.OBJECT,
-              properties: {
-                id: { type: SchemaType.STRING },
-                type: { type: SchemaType.STRING },
-                question_text: { type: SchemaType.STRING },
-                options: { type: SchemaType.ARRAY, items: { type: SchemaType.STRING } },
-                correct_answer: { type: SchemaType.STRING },
-                explanation: { type: SchemaType.STRING },
-                source_reference: { type: SchemaType.STRING }
-              },
-              required: ["id", "type", "question_text", "options", "correct_answer", "explanation", "source_reference"]
-            }
-          }
-        },
-        required: ["quiz_title", "questions"]
-      }
-    }
-  });
-
   try {
-    let fileContent = "";
-    let systemPromptSuffix = "";
+    const quizzesDir = path.join(process.cwd(), 'public', 'quizzes');
+    let fileName = '';
 
     if (type === 'class_quiz') {
-      const fileName = `Class_${classId}.txt`;
-      const filePath = path.join(process.cwd(), "public", fileName);
-      try {
-        fileContent = await fs.readFile(filePath, "utf-8");
-      } catch (e) {
-        throw new Error(`Content for Class ${classId} not found.`);
-      }
-      systemPromptSuffix = `TASK: Generate a "class_quiz" with 5 questions based on the content above. Focus on Class ${classId}.`;
-
-    } else if (type === 'mini_review') {
-      const currentClass = parseInt(classId);
-      if (isNaN(currentClass)) throw new Error("Invalid Class ID for review");
-
-      const startClass = Math.max(1, currentClass - 4);
-      const classesToLoad = [];
-      for (let i = startClass; i <= currentClass; i++) {
-        classesToLoad.push(i);
-      }
-
-      const contents = await Promise.all(classesToLoad.map(async (c) => {
-        try {
-          const p = path.join(process.cwd(), "public", `Class_${c}.txt`);
-          const text = await fs.readFile(p, "utf-8");
-          return `--- Class ${c} Content ---\n${text}\n----------------`;
-        } catch (e) {
-          return ""; // Skip missing classes
-        }
-      }));
-
-      fileContent = contents.join("\n\n");
-      systemPromptSuffix = `TASK: Generate a "mini_review" with 10 questions.
-      - Distribution: Evenly distributed across Class ${startClass} to Class ${currentClass}.
-      - Focus: Recall and synthesis across these chapters.`;
+      fileName = `class_${classId}.json`;
+    } else {
+      fileName = `mini_review_${classId}.json`;
     }
 
-    if (!fileContent.trim()) {
-      throw new Error("Content appears to be empty.");
+    const filePath = path.join(quizzesDir, fileName);
+
+    // simple file read, Next.js data cache can be used if needed but FS read is fast enough for small JSONs
+    // We stick to the existing signature returning a Promise
+
+    // Check if file exists
+    try {
+      await fs.access(filePath);
+    } catch {
+      // Fallback or error? Cost-constraint says "Automatic fallback to static content" -> this IS the static content.
+      // If missing, we throw error.
+      console.error(`Quiz file not found: ${fileName} in ${quizzesDir}`);
+      throw new Error("Quiz content not available yet. Please contact admin to generate.");
     }
 
-    // 4. Implement Caching using unstable_cache
-    // Key components: classId, type, and the file content hash (implicitly via revalidation if file changes, but here we cache by ID)
-    // The spec asks for "class_range", "question_type".
-    // We use Next.js `unstable_cache` to cache the RESULT of the generation.
-    // This makes repeat requests for the same class instant.
+    const content = await fs.readFile(filePath, 'utf-8');
+    const quizData = JSON.parse(content);
 
-    const getCachedQuiz = unstable_cache(
-      async () => {
-        const prompt = `
-${SYSTEM_INSTRUCTION}
+    // We return the FULL POOL here. 
+    // The client (QuizRunner) determines which questions to show.
+    return quizData;
 
-SOURCE CONTENT:
-"""
-${fileContent}
-"""
-
-${systemPromptSuffix}
-`;
-        console.log(`Generating quiz for ${classId} (${type})...`);
-        const result = await model.generateContent(prompt);
-        const text = result.response.text();
-        return JSON.parse(text);
-      },
-      [`quiz-${classId}-${type}`], // Cache Key
-      {
-        revalidate: 3600, // Cache for 1 hour (or until manual revalidation)
-        tags: [`quiz-${classId}`]
-      }
-    );
-
-    return await getCachedQuiz();
-
-  } catch (error) {
-    console.error("Quiz Generation Error:", error);
+  } catch (error: any) {
+    console.error("Static Quiz Load Error:", error.message);
     throw error;
   }
 }

@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 11 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Naivā’pi tattvato ________ paramānanda-prāpaṇam । Nā’pi trividha-tāpānām nāsho Brahma-gurum vinā ॥",
+      "options": [
+        "bhaktih",
+        "guruh",
+        "paramatma",
+        "akshardham"
+      ],
+      "correct_answer": "bhaktih",
+      "explanation": "The shlok is 'Naivā’pi tattvato bhaktih paramānanda-prāpaṇam । Nā’pi trividha-tāpānām nāsho Brahma-gurum vinā ॥'",
+      "source_reference": "Satsang Diksha Shlok 24"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Satpuruṣhno je prasang e ja Parameshvarne viṣhe draḍh prīti thavānu kāraṇ chhe.”",
+      "options": [
+        "Vach.Ga.Pa.44",
+        "Swa.Vato.1/30",
+        "Vach.Ga.An.2",
+        "Bhaktachintamani"
+      ],
+      "correct_answer": "Vach.Ga.Pa.44",
+      "explanation": "This quotation is from Vachanamrut Gadhada Pratham 44.",
+      "source_reference": "Vachanamrut"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Āvā Sādhune manmā sambhārīe to mannā pāp baḷī jāy ne vātu sāmbhaḷīe to ________ pāp baḷī jāy ne darshan karīe to ānkhnā pāp baḷī jāy, em mahimā jāṇavo.",
+      "options": [
+        "kānnā",
+        "pagna",
+        "hathna",
+        "mukhna"
+      ],
+      "correct_answer": "kānnā",
+      "explanation": "The Swamini Vato states 'Āvā Sādhune manmā sambhārīe to mannā pāp baḷī jāy ne vātu sāmbhaḷīe to kānnā pāp baḷī jāy ne darshan karīe to ānkhnā pāp baḷī jāy, em mahimā jāṇavo.'",
+      "source_reference": "Swamini Vato"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Kāmdughā kalpataru, pāras chintāmaṇi chār; Sant samān e eke nahi, me manmā karyo vichār.",
+      "options": [
+        "Bhaktachintamani",
+        "Satsang Diksha Shlok 24",
+        "Satsang Diksha Shlok 25",
+        "Shvetashvatar Upanishad"
+      ],
+      "correct_answer": "Bhaktachintamani",
+      "explanation": "This quotation is from Bhaktachintamani.",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "________ samāshrayen-nityam pratyakṣham Akṣharam gurum । Sarva-siddhi-karam divyam Paramātmā’nubhāvakam ॥",
+      "options": [
+        "Atah",
+        "Tatah",
+        "Yatah",
+        "Kimartham"
+      ],
+      "correct_answer": "Atah",
+      "explanation": "The shlok is 'Atah samāshrayen-nityam pratyakṣham Akṣharam gurum । Sarva-siddhi-karam divyam Paramātmā’nubhāvakam ॥'",
+      "source_reference": "Satsang Diksha Shlok 25"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Jevī parokṣh devne viṣhe jīvne pratīti chhe tevī jo pratyakṣh gururūp Harine viṣhe āve, to jeṭalā arth prāpt thavānā kahyā chhe teṭalā sarve arth tene prāpt thāy chhe.”",
+      "options": [
+        "Vach.Ga.An.2",
+        "Vach.Ga.Pa.44",
+        "Swa.Vato.1/30",
+        "Bhaktachintamani"
+      ],
+      "correct_answer": "Vach.Ga.An.2",
+      "explanation": "This quotation is from Vachanamrut Gadhada Antya 2.",
+      "source_reference": "Vachanamrut"
+    },
+    {
+      "id": "7",
+      "type": "quotation_reference_mcq",
+      "question_text": "Yasya deve parābhaktir, yathā deve tathā gurau | Tasyaite kathitā hyarthāhā, prakāshante mahātmanaha ||",
+      "options": [
+        "Shvetashvatar Upanishad",
+        "Satsang Diksha Shlok 24",
+        "Satsang Diksha Shlok 25",
+        "Bhaktachintamani"
+      ],
+      "correct_answer": "Shvetashvatar Upanishad",
+      "explanation": "This quotation is from Shvetashvatar Upanishad.",
+      "source_reference": "Upanishads"
+    },
+    {
+      "id": "8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sant sevye sukh ūpaje, rahe ________ aṭaḷ eh.",
+      "options": [
+        "akhanḍ",
+        "khanḍit",
+        "sadaiv",
+        "kshannik"
+      ],
+      "correct_answer": "akhanḍ",
+      "explanation": "The line from Bhaktachintamani is 'Sant sevye sukh ūpaje, rahe akhanḍ aṭaḷ eh.'",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Āthī sarva arthnī siddhi kare tathā Paramātmāno anubhav karāve tevā pratyakṣh ________ guruno āsharo sadāy karavo.",
+      "options": [
+        "Akṣharbrahma",
+        "Purushottam",
+        "Akshar",
+        "Brahma"
+      ],
+      "correct_answer": "Akṣharbrahma",
+      "explanation": "The translation of Satsang Diksha Shlok 25 contains the words 'Akṣharbrahma'",
+      "source_reference": "Satsang Diksha Shlok 25"
+    },
+    {
+      "id": "10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Brahmaswarūp guru vinā yathārth bhakti paṇ na thaī shake, param ________ prāpti na thāy ane trividh tāpano nāsh paṇ na thāy.",
+      "options": [
+        "ānandnī",
+        "shantine",
+        "bhaktini",
+        "mokshni"
+      ],
+      "correct_answer": "ānandnī",
+      "explanation": "The translation of Satsang Diksha Shlok 24 contains the word 'ānandnī'",
+      "source_reference": "Satsang Diksha Shlok 24"
+    }
+  ]
+}

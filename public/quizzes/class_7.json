@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 7 Quiz",
+  "questions": [
+    {
+      "id": "7-1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sarve’dhikāriṇo mokṣhe gṛuhiṇas-tyāgino’pi cha । Na nyūnā’dhikatā tatra sarve ______ yatah Prabhoho ॥ 17 ॥",
+      "options": [
+        "bhaktā",
+        "mokṣhe",
+        "adhikāriṇo",
+        "tyāgino"
+      ],
+      "correct_answer": "bhaktā",
+      "explanation": "The shlok states that all are devotees of God.",
+      "source_reference": "Satsang Diksha Shlok 17"
+    },
+    {
+      "id": "7-2",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
+      "options": [
+        "Vach.Ga.Ma.8",
+        "Vach.Va.20",
+        "Satsang Diksha Shlok 17",
+        "Satsang Diksha Shlok 18"
+      ],
+      "correct_answer": "Vach.Ga.Ma.8",
+      "explanation": "This quote emphasizes the equality of gṛuhasth and tyāgī.",
+      "source_reference": "Vach.Ga.Ma.8"
+    },
+    {
+      "id": "7-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Gṛuhasth tathā tyāgī sarve ______ adhikārī chhe. Temā nyūnādhik-bhāv nathī, kāraṇ ke gṛuhasth ke tyāgī badhā Bhagwānnā bhakto chhe. (17)",
+      "options": [
+        "mokṣhanā",
+        "sarve",
+        "tyāgī",
+        "nyūnādhik"
+      ],
+      "correct_answer": "mokṣhanā",
+      "explanation": "Both gṛuhasth and tyāgī are eligible for moksha.",
+      "source_reference": "Satsang Diksha Shlok 17"
+    },
+    {
+      "id": "7-4",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
+      "options": [
+        "Vach.Va.20",
+        "Vach.Ga.Ma.8",
+        "Satsang Diksha Shlok 18",
+        "Satsang Diksha Shlok 17"
+      ],
+      "correct_answer": "Vach.Va.20",
+      "explanation": "Understanding is the key to being a great devotee.",
+      "source_reference": "Vach.Va.20"
+    },
+    {
+      "id": "7-5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Swāminārāyaṇe’nanya-dṛuḍha-parama-bhaktaye । Gṛuhītvā’shraya-dīkṣhāyā ______ satsangam āpnuyāt ॥ 18 ॥",
+      "options": [
+        "mantram",
+        "bhaktaye",
+        "dṛuḍha",
+        "Gṛuhītvā"
+      ],
+      "correct_answer": "mantram",
+      "explanation": "One obtains satsang by taking the ashraya-diksha-mantra.",
+      "source_reference": "Satsang Diksha Shlok 18"
+    },
+    {
+      "id": "7-6",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Swāminārāyaṇ Bhagwānne viṣhe ananya, dṛuḍh ane param ______ māṭe āshraya-dīkṣhā-mantra grahaṇ karī satsang prāpta karavo. (18)",
+      "options": [
+        "bhakti",
+        "ananya",
+        "dṛuḍh",
+        "mantra"
+      ],
+      "correct_answer": "bhakti",
+      "explanation": "Ashraya diksha mantra is accepted for ananya, drudh, and param bhakti.",
+      "source_reference": "Satsang Diksha Shlok 18"
+    },
+    {
+      "id": "7-7",
+      "type": "quotation_reference_mcq",
+      "question_text": "Swāminārāyaṇe’nanya-dṛuḍha-parama-bhaktaye । Gṛuhītvā’shraya-dīkṣhāyā mantram satsangam āpnuyāt ॥ 18 ॥",
+      "options": [
+        "Satsang Diksha Shlok 18",
+        "Satsang Diksha Shlok 17",
+        "Vach.Ga.Ma.8",
+        "Vach.Va.20"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 18",
+      "explanation": "This shlok describes how to attain satsang.",
+      "source_reference": "Satsang Diksha Shlok 18"
+    },
+    {
+      "id": "7-8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Na nyūnā’dhikatā tatra sarve bhaktā yatah ______ ॥ 17 ॥",
+      "options": [
+        "Prabhoho",
+        "mokṣhe",
+        "adhikāriṇo",
+        "tyāgino"
+      ],
+      "correct_answer": "Prabhoho",
+      "explanation": "This completes the shlok related to adhikari and moksha.",
+      "source_reference": "Satsang Diksha Shlok 17"
+    },
+    {
+      "id": "7-9",
+      "type": "quotation_reference_mcq",
+      "question_text": "Gṛuhasth tathā tyāgī sarve mokṣhanā adhikārī chhe. Temā nyūnādhik-bhāv nathī, kāraṇ ke gṛuhasth ke tyāgī badhā Bhagwānnā bhakto chhe. (17)",
+      "options": [
+        "Satsang Diksha Shlok 17",
+        "Vach.Ga.Ma.8",
+        "Vach.Va.20",
+        "Satsang Diksha Shlok 18"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 17",
+      "explanation": "This is the translation of shlok 17.",
+      "source_reference": "Satsang Diksha Shlok 17"
+    },
+    {
+      "id": "7-10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Gṛuhītvā’shraya-dīkṣhāyā mantram ______ āpnuyāt ॥ 18 ॥",
+      "options": [
+        "satsangam",
+        "mantram",
+        "bhaktaye",
+        "Gṛuhītvā"
+      ],
+      "correct_answer": "satsangam",
+      "explanation": "Ashraya diksha mantra leads to satsang.",
+      "source_reference": "Satsang Diksha Shlok 18"
+    }
+  ]
+}

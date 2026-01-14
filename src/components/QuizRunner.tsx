@@ -24,9 +24,23 @@ type QuizRunnerProps = {
     title: string;
 };
 
+// Helper to shuffle array
+function shuffleArray<T>(array: T[]): T[] {
+    const newArr = [...array];
+    for (let i = newArr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+    }
+    return newArr;
+}
+
 export function QuizRunner({ classId, type, title }: QuizRunnerProps) {
     const [loading, setLoading] = useState(false);
+    // quizData holds the ACTIVE set of questions for the current run
     const [quizData, setQuizData] = useState<QuizData | null>(null);
+    // fullPool holds ALL available questions from the static file
+    const [fullPool, setFullPool] = useState<QuizData | null>(null);
+
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [userAnswers, setUserAnswers] = useState<Record<string, string>>({});
 
@@ -36,20 +50,17 @@ export function QuizRunner({ classId, type, title }: QuizRunnerProps) {
     const [showResults, setShowResults] = useState(false);
     const [error, setError] = useState<string | null>(null);
 
+    // State to track incorrect IDs from previous runs in this session for adaptive re-test
+    const [incorrectHistory, setIncorrectHistory] = useState<Set<string>>(new Set());
+
     // Initial fetch on mount
     useEffect(() => {
-        startQuiz();
+        fetchQuizPool();
     }, [classId, type]);
 
-    const startQuiz = async () => {
+    const fetchQuizPool = async () => {
         setLoading(true);
         setError(null);
-        setQuizData(null);
-        setCurrentQuestionIndex(0);
-        setUserAnswers({});
-        setSubmittedQuestionIds(new Set());
-        setShowResults(false);
-
         try {
             const res = await fetch("/api/quiz", {
                 method: "POST",
@@ -63,12 +74,68 @@ export function QuizRunner({ classId, type, title }: QuizRunnerProps) {
             }
 
             const data = await res.json();
-            setQuizData(data);
+            setFullPool(data);
+            startNewRun(data, new Set()); // First run, no priority constraints
         } catch (err: any) {
             setError(err.message);
         } finally {
             setLoading(false);
         }
+    };
+
+    const startNewRun = (poolData: QuizData, priorityIds: Set<string>) => {
+        // Selection Logic
+        const LIMIT = type === 'mini_review' ? 10 : 5;
+        const allQuestions = poolData.questions;
+
+        let selectedQuestions: Question[] = [];
+
+        // 1. Prioritize Incorrect
+        const priorityQuestions = allQuestions.filter(q => priorityIds.has(q.id));
+
+        // 2. Remove priority from pool to pick potential new/other ones
+        const remainingPool = allQuestions.filter(q => !priorityIds.has(q.id));
+
+        // 3. Shuffle remaining
+        const shuffledRemaining = shuffleArray(remainingPool);
+
+        // 4. Fill slots
+        const slotsNeeded = Math.max(0, LIMIT - priorityQuestions.length);
+        const fillers = shuffledRemaining.slice(0, slotsNeeded);
+
+        // 5. Combine and Shuffle Final Set
+        const finalSelection = shuffleArray([...priorityQuestions, ...fillers]);
+
+        // 6. Shuffle Options for each question (Rules: shuffle_option_order: true)
+        const questionsWithOptionsShuffled = finalSelection.map(q => ({
+            ...q,
+            options: shuffleArray(q.options)
+        }));
+
+        // If total < LIMIT (e.g. small pool), we just take what we have
+
+        setQuizData({
+            ...poolData,
+            questions: questionsWithOptionsShuffled
+        });
+
+        setCurrentQuestionIndex(0);
+        setUserAnswers({});
+        setSubmittedQuestionIds(new Set());
+        setShowResults(false);
+    };
+
+    const handleTakeAgain = () => {
+        if (!fullPool || !quizData) return;
+
+        // Identify incorrect answers from THIS run
+        const currentIncorrectIds = quizData.questions
+            .filter(q => userAnswers[q.id] !== q.correct_answer)
+            .map(q => q.id);
+
+        // Start new run treating these as priority
+        const newPriority = new Set(currentIncorrectIds);
+        startNewRun(fullPool, newPriority);
     };
 
     const handleOptionSelect = (option: string) => {
@@ -130,7 +197,7 @@ export function QuizRunner({ classId, type, title }: QuizRunnerProps) {
                     <h3 className="text-lg font-bold">Failed to load quiz</h3>
                     <p className="mt-2">{error}</p>
                 </div>
-                <button onClick={startQuiz} className="px-6 py-2 bg-red-600 text-white rounded-full">Try Again</button>
+                <button onClick={fetchQuizPool} className="px-6 py-2 bg-red-600 text-white rounded-full">Try Again</button>
             </div>
         );
     }
@@ -186,7 +253,7 @@ export function QuizRunner({ classId, type, title }: QuizRunnerProps) {
 
                     <div className="p-6 bg-gray-50 dark:bg-neutral-900 flex justify-center">
                         <button
-                            onClick={startQuiz}
+                            onClick={handleTakeAgain}
                             className="flex items-center gap-2 px-6 py-3 bg-red-600 text-white rounded-full font-bold hover:bg-red-700 transition"
                         >
                             <RefreshCw size={20} /> Take Another Quiz

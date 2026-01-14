@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 14 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwān je kare te sadāy ______ māṭe hoy. Temanī ichchhā e ja māru prārabdha chhe. Teo ja mārā tārak chhe.",
+      "options": [
+        "sārā",
+        "kharāb",
+        "ṭhik",
+        "khara"
+      ],
+      "correct_answer": "sārā",
+      "explanation": "From Satsang Diksha Shlok 45: Bhagwān je kare te sadāy sārā māṭe hoy.",
+      "source_reference": "Satsang Diksha Shlok 45"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Jo mār mār karato koī āvato hoy to em samajavu je, ‘Mārā Swāmīnu ja karyu sarve thāy chhe, paṇ te vinā koīnu halāvyu pānaḍu paṇ halatu nathī.’”",
+      "options": [
+        "Swa.Vato.1/88",
+        "Swa.Vato.1/22",
+        "Vach.Ga.Pa.74",
+        "Vach.Ga.An.13"
+      ],
+      "correct_answer": "Swa.Vato.1/88",
+      "explanation": "The quote is directly from Swamini Vato 1/88.",
+      "source_reference": "Swa.Vato.1/88"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwān sarva-kartā chhe, ______ chhe, sarvanu rakṣhaṇ karanārā chhe ane e ja sadā mārā sarve sankaṭonā ṭāḷanārā chhe.",
+      "options": [
+        "dayāḷu",
+        "krodhi",
+        "lobhi",
+        "mohi"
+      ],
+      "correct_answer": "dayāḷu",
+      "explanation": "From Satsang Diksha Shlok 44: Bhagwān sarva-kartā chhe, dayāḷu chhe, sarvanu rakṣhaṇ karanārā chhe...",
+      "source_reference": "Satsang Diksha Shlok 44"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy chhe: ek to Bhagwānnu bhajan karavu ne bīju Bhagwānne sarva-kartā samajavā ne temā sukh āve to sukh bhogavī levu ne dukh āve to dukh bhogavī levu. Te kahyu chhe je, Dāsnā dushman Hari ke’dī hoy nahi, jem karashe tem sukh ja thāshe.”",
+      "options": [
+        "Swa.Vato.1/148",
+        "Swa.Vato.1/88",
+        "Vach.Ga.An.13",
+        "Vach.Ga.Pa.74"
+      ],
+      "correct_answer": "Swa.Vato.1/148",
+      "explanation": "The quote is from Swamini Vato 1/148.",
+      "source_reference": "Swa.Vato.1/148"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwān to potānā ______ rakṣhā karavāmā ja beṭhā chhe. Kenī peṭhe? To jem pāpaṇ ānkhanī rakṣhā kare chhe ne hāth kanṭhanī rakṣhā kare chhe ne māvatar chhokarānī rakṣhā kare chhe ne rājā prajānī rakṣhāmā chhe, tem ja Bhagwān āpaṇī rakṣhāmā chhe.",
+      "options": [
+        "bhaktanī",
+        "shatrūnī",
+        "dushmanonī",
+        "prajānī"
+      ],
+      "correct_answer": "bhaktanī",
+      "explanation": "The filled word is 'bhaktanī'.",
+      "source_reference": "Swa.Vato.1/22"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Ane e Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane gadheḍe besāḍe to gadheḍe besīne rājī rahevu. Ane e Bhagwānnā charaṇārvind vinā bīje kyāy prīti rākhavī nahī...e Bhagwānnu karyu sarve thāy chhe. Māṭe sūku pānaḍu jem vāyune ādhāre fare tem e Bhagwānne ādhīn rahīne ānandmā e Parameshvarnu bhajan karavu ane koī jātno manmā udveg āvavā devo nahī.”",
+      "options": [
+        "Vach.Ga.Pa.74",
+        "Vach.Ga.An.13",
+        "Swa.Vato.1/22",
+        "Swa.Vato.1/88"
+      ],
+      "correct_answer": "Vach.Ga.Pa.74",
+      "explanation": "The quote is from Vachanamrut Gadhada Pratham 74.",
+      "source_reference": "Vach.Ga.Pa.74"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "āpaṇe jyāre tan-man-dhan ______ arpaṇ karyu tyāre have Bhagwānnī ichchhā te ja āpaṇu prārabdha chhe, te vinā bīju koī prārabdha nathī.",
+      "options": [
+        "Bhagwānne",
+        "devone",
+        "guruone",
+        "sādhuone"
+      ],
+      "correct_answer": "Bhagwānne",
+      "explanation": "From Vachanamrut Gadhada Antya 13: āpaṇe jyāre tan-man-dhan Bhagwānne arpaṇ karyu...",
+      "source_reference": "Vach.Ga.An.13"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Je dukhe thāy sukh janne, te de chhe dukh dayā kari | jeha sukhe dukh upaje, te āpe nahi kedi hari ||",
+      "options": [
+        "Dhiraj Akhyan",
+        "Satsang Diksha Shlok 44",
+        "Satsang Diksha Shlok 45",
+        "Swa.Vato.1/22"
+      ],
+      "correct_answer": "Dhiraj Akhyan",
+      "explanation": "The given quote belongs to Dhiraj Akhyan.",
+      "source_reference": "Dhiraj Akhyan"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Temanī ______ e ja māru prārabdha chhe. Teo ja mārā tārak chhe.",
+      "options": [
+        "ichchhā",
+        "krupā",
+        "marji",
+        "dayā"
+      ],
+      "correct_answer": "ichchhā",
+      "explanation": "From Satsang Diksha Shlok 45: Temanī ichchhā e ja māru prārabdha chhe.",
+      "source_reference": "Satsang Diksha Shlok 45"
+    },
+    {
+      "id": "10",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Bhagwān to potānā bhaktanī rakṣhā karavāmā ja beṭhā chhe. Kenī peṭhe? To jem pāpaṇ ānkhanī rakṣhā kare chhe ne hāth kanṭhanī rakṣhā kare chhe ne māvatar chhokarānī rakṣhā kare chhe ne rājā prajānī rakṣhāmā chhe, tem ja Bhagwān āpaṇī rakṣhāmā chhe.”",
+      "options": [
+        "Swa.Vato.1/22",
+        "Swa.Vato.1/88",
+        "Vach.Ga.An.13",
+        "Vach.Ga.Pa.74"
+      ],
+      "correct_answer": "Swa.Vato.1/22",
+      "explanation": "The quote is from Swamini Vato 1/22.",
+      "source_reference": "Swa.Vato.1/22"
+    }
+  ]
+}

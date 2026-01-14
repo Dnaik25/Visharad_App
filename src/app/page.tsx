@@ -51,13 +51,7 @@ export default async function Home() {
             <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={24} />
           </Link>
 
-          <Link
-            href="/quiz"
-            className="group inline-flex items-center justify-center px-10 py-4 text-lg font-bold text-red-600 bg-white border-2 border-red-100 rounded-full hover:bg-red-50 transition-all transform hover:scale-105 shadow-lg"
-          >
-            Take a Quiz
-            <BookOpen className="ml-2" size={24} />
-          </Link>
+          {/* Quiz link removed - now in sidebar */}
         </div>
       </div>
     </div>

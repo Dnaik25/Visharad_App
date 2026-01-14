@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 13 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Yāgārtham apyajādīnām nirdoṣhāṇām hi ________ । Hinsanam naiva kartavyam satsangibhihi kadāchana ॥ 35 ॥",
+      "options": [
+        "prāṇinām",
+        "bhaktānām",
+        "devānām",
+        "satsanginām"
+      ],
+      "correct_answer": "prāṇinām",
+      "explanation": "The shlok states that violence should not be done to innocent creatures in yagnas.",
+      "source_reference": "Satsang Diksha Shlok 35"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Yāgādike cha kartavye siddhāntam sāmpradāyikam । Anusṛutya hi kartavyam hinsā-rahitam eva tat ॥ 36 ॥",
+      "options": [
+        "Satsang Diksha Shlok 36",
+        "Satsang Diksha Shlok 37",
+        "Satsang Diksha Shlok 38",
+        "Satsang Diksha Shlok 35"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 36",
+      "explanation": "This is the 36th shlok of Satsang Diksha.",
+      "source_reference": "Satsang Diksha Shlok 36"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Matvā’pi yagna-sheṣham cha vā’pi deva-niveditam । Mānsam kadāpi bhakṣhyam na ________ āshritair-janaihi ॥ 37 ॥",
+      "options": [
+        "satsangam",
+        "bhaktim",
+        "dharmam",
+        "tyāgam"
+      ],
+      "correct_answer": "satsangam",
+      "explanation": "Satsangis should never eat meat even if it is offered to deities.",
+      "source_reference": "Satsang Diksha Shlok 37"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Kasyā’pi tāḍanam naiva karaṇīyam kadāchana । Apa-shabdā’pamānādi-sūkṣhma-hinsā’pi naiva cha ॥ 38 ॥",
+      "options": [
+        "Satsang Diksha Shlok 38",
+        "Satsang Diksha Shlok 39",
+        "Satsang Diksha Shlok 40",
+        "Satsang Diksha Shlok 37"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 38",
+      "explanation": "This is the 38th shlok of Satsang Diksha.",
+      "source_reference": "Satsang Diksha Shlok 38"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sattā-kīrti-dhana-dravya-strī-puruṣhādikā’ptaye । Mānerṣhyā-krodhatash-chā’pi ________ naiva samācharet ॥ 39 ॥",
+      "options": [
+        "hinsām",
+        "dharmam",
+        "bhaktim",
+        "tyāgam"
+      ],
+      "correct_answer": "hinsām",
+      "explanation": "One should not resort to violence for the sake of wealth, fame, etc.",
+      "source_reference": "Satsang Diksha Shlok 39"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Manasā vachasā vā’pi karmaṇā hinsane kṛute । Tat-sthito dukhyate nūnam Swāminārāyaṇo Harihi ॥ 40 ॥",
+      "options": [
+        "Satsang Diksha Shlok 40",
+        "Satsang Diksha Shlok 41",
+        "Satsang Diksha Shlok 42",
+        "Satsang Diksha Shlok 39"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 40",
+      "explanation": "This is the 40th shlok of Satsang Diksha.",
+      "source_reference": "Satsang Diksha Shlok 40"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ātma-ghāto’pi ________ na kāryo’tah kadāchana । Patana-gala-bandhādyair viṣha-bhakṣhādibhis-tathā ॥ 41 ॥",
+      "options": [
+        "hinsaiva",
+        "dharmena",
+        "bhakti",
+        "tyāgena"
+      ],
+      "correct_answer": "hinsaiva",
+      "explanation": "Suicide is also a form of violence and should never be committed.",
+      "source_reference": "Satsang Diksha Shlok 41"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Dukha-lajjā-bhaya-krodha-rogādyāpatti kāraṇāt । Dharmā’rtham api kashchiddhi hanyān-na swam na vā param ॥ 42 ॥",
+      "options": [
+        "Satsang Diksha Shlok 42",
+        "Satsang Diksha Shlok 43",
+        "Satsang Diksha Shlok 41",
+        "Satsang Diksha Shlok 40"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 42",
+      "explanation": "This is the 42nd shlok of Satsang Diksha.",
+      "source_reference": "Satsang Diksha Shlok 42"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tīrthe’pi naiva kartavya ________ mumukṣhubhihi । Naivā’pi mokṣha-puṇyāpti bhāvāt kāryah sa tatra cha ॥ 43 ॥",
+      "options": [
+        "ātma-ghāto",
+        "dharma-kāryam",
+        "bhakti-mārgam",
+        "tyāga-mārgam"
+      ],
+      "correct_answer": "ātma-ghāto",
+      "explanation": "Even in a pilgrimage site, suicide should not be committed.",
+      "source_reference": "Satsang Diksha Shlok 43"
+    },
+    {
+      "id": "10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Hinsā na karnī jantukī, ________ sangko tyāg;",
+      "options": [
+        "partriyā",
+        "paradravya",
+        "paradhana",
+        "paravastu"
+      ],
+      "correct_answer": "partriyā",
+      "explanation": "From the kirtan: 'Hinsa na karni jantuki, partriya sangko tyag'",
+      "source_reference": "Kirtan"
+    }
+  ]
+}

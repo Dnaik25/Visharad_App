@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 3 Quiz",
+  "questions": [
+    {
+      "id": "3.1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sarvam idam hi _________-labhyate nishchitam janaihi । Atah sadaiva satsangah karaṇīyo mumukṣhubhihi ॥ 5 ॥",
+      "options": [
+        "satsangāl",
+        "bhakti",
+        "gyane",
+        "dhyanam"
+      ],
+      "correct_answer": "satsangāl",
+      "explanation": "From Satsang Diksha Shlok 5: Sarvam idam hi satsangāl-labhyate nishchitam janaihi । Atah sadaiva satsangah karaṇīyo mumukṣhubhihi ॥ 5 ॥",
+      "source_reference": "Satsang Diksha Shlok 5"
+    },
+    {
+      "id": "3.2",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...ati sāche bhāve karīne satsang kare to tene koī jātno doṣh haiyāmā rahe nahī ane deh chhatā ja brahmarūp thaī jāy.”",
+      "options": [
+        "Vach.Sā.9",
+        "Vach.Ga.An.2",
+        "Swā.Vāto: 1/17",
+        "Bhaktachintamani: 84"
+      ],
+      "correct_answer": "Vach.Sā.9",
+      "explanation": "This quotation is from Vachanamrut Sārangpur 9.",
+      "source_reference": "Vach.Sā.9"
+    },
+    {
+      "id": "3.3",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...jyāre āvo sant-samāgam prāpt thayo tyāre deh mūkīne jene pāmavā hatā te to deh chhatā ja maḷyā chhe; māṭe jene parampad kahīe, mokṣh kahīe tene chhate dehe ja pāmyo chhe.”",
+      "options": [
+        "Vach.Ga.An.2",
+        "Vach.Sā.9",
+        "Swā.Vāto: 1/17",
+        "Bhaktachintamani: 84"
+      ],
+      "correct_answer": "Vach.Ga.An.2",
+      "explanation": "This quotation is from Vachanamrut Gadhada Antya 2.",
+      "source_reference": "Vach.Ga.An.2"
+    },
+    {
+      "id": "3.4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwāne kahyu chhe je, “Jevo hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik _________ karīne paṇ vash nathī thāto.”",
+      "options": [
+        "sādhane",
+        "tapasya",
+        "bhakti",
+        "seva"
+      ],
+      "correct_answer": "sādhane",
+      "explanation": "From Swamini Vato 1/17: Bhagwāne kahyu chhe je, “Jevo hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto.”",
+      "source_reference": "Swā.Vāto: 1/17"
+    },
+    {
+      "id": "3.5",
+      "type": "quotation_reference_mcq",
+      "question_text": "Jan pratye jīvan kahe, jene jeṭalo satsang; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
+      "options": [
+        "Bhaktachintamani: 84",
+        "Swā.Vāto: 1/17",
+        "Vach.Ga.An.2",
+        "Vach.Sā.9"
+      ],
+      "correct_answer": "Bhaktachintamani: 84",
+      "explanation": "This quotation is from Bhaktachintamani 84.",
+      "source_reference": "Bhaktachintamani: 84"
+    },
+    {
+      "id": "3.6",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ā badhu satsang karavāthī avashya ________ thāya chhe. Āthī mumukṣhuoe sadāya satsang karavo.",
+      "options": [
+        "prāpta",
+        "nāsh",
+        "dūr",
+        "safal"
+      ],
+      "correct_answer": "prāpta",
+      "explanation": "From Satsang Diksha Shlok 5 translation: Ā badhu satsang karavāthī avashya prāpta thāya chhe. Āthī mumukṣhuoe sadāya satsang karavo.",
+      "source_reference": "Satsang Diksha Shlok 5"
+    },
+    {
+      "id": "3.7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Te satsang shu je, ‘Moṭā Ekāntikne hāth joḍavā ne te kahe tem ________ e ja chhe.’",
+      "options": [
+        "karavu",
+        "sambhalavu",
+        "jāṇavu",
+        "samajavu"
+      ],
+      "correct_answer": "karavu",
+      "explanation": "From Swamini Vato 1/17: Te satsang shu je, ‘Moṭā Ekāntikne hāth joḍavā ne te kahe tem karavu e ja chhe.’",
+      "source_reference": "Swā.Vāto: 1/17"
+    },
+    {
+      "id": "3.8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tene teṭalā pāpno, thāy ________ bhītar bhang.",
+      "options": [
+        "bāher",
+        "andar",
+        "thodo",
+        "vadhū"
+      ],
+      "correct_answer": "bāher",
+      "explanation": "From Bhaktachintamani 84: Tene teṭalā pāpno, thāy bāher bhītar bhang.",
+      "source_reference": "Bhaktachintamani: 84"
+    },
+    {
+      "id": "3.9",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Jevo hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto.”",
+      "options": [
+        "Swā.Vāto: 1/17",
+        "Vach.Ga.An.2",
+        "Vach.Sā.9",
+        "Bhaktachintamani: 84"
+      ],
+      "correct_answer": "Swā.Vāto: 1/17",
+      "explanation": "This quotation is from Swamini Vato 1/17.",
+      "source_reference": "Swā.Vāto: 1/17"
+    },
+    {
+      "id": "3.10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "...ati sāche bhāve karīne satsang kare to tene koī jātno doṣh haiyāmā rahe nahī ane deh chhatā ja ________ thaī jāy.",
+      "options": [
+        "brahmarūp",
+        "ishwarrup",
+        "aksharrup",
+        "gunatit"
+      ],
+      "correct_answer": "brahmarūp",
+      "explanation": "From Vachanamrut Sarangpur 9: ...ati sāche bhāve karīne satsang kare to tene koī jātno doṣh haiyāmā rahe nahī ane deh chhatā ja brahmarūp thaī jāy.",
+      "source_reference": "Vach.Sā.9"
+    }
+  ]
+}

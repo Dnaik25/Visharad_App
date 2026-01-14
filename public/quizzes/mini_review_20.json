@@ -1,0 +1,271 @@
+{
+  "quiz_title": "Satsang Diksha & Vachanamrut Mini-Review (Classes 16-20)",
+  "questions": [
+    {
+      "id": "16-1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsang Diksha Shlok 50 says: Shuddhih sarvavidhā pālyā bāhyā chā'bhyantarā sadā | Shuddhi-priyah prasīdech-cha shuddhi-mati jane ________ ||",
+      "options": [
+        "Harihi",
+        "Krishna",
+        "Swaminarayan",
+        "Nilkanth"
+      ],
+      "correct_answer": "Harihi",
+      "explanation": "The shloka emphasizes the importance of purity, both internal and external, and states that Shri Hari is pleased with those who maintain shuddhi.",
+      "source_reference": "Satsang Diksha Shlok 50"
+    },
+    {
+      "id": "16-2",
+      "type": "conceptual_mcq",
+      "question_text": "According to Vachanamrut Je.5, what is considered the most important thing?",
+      "options": [
+        "Accumulating wealth",
+        "Bhagwanne bhajavu",
+        "Achieving worldly success",
+        "Gaining knowledge"
+      ],
+      "correct_answer": "Bhagwanne bhajavu",
+      "explanation": "Vachanamrut Je.5 states that worshipping Bhagwan is the most important thing.",
+      "source_reference": "Vach.Je.5"
+    },
+    {
+      "id": "16-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "According to Satsang Diksha Shlok 55, strīoe bhālne vishe kevaļ _________ karavo. Tilak na karavu.",
+      "options": [
+        "chandan",
+        "kumkumno chāndalo",
+        "kesar",
+        "abhishek"
+      ],
+      "correct_answer": "kumkumno chāndalo",
+      "explanation": "The shloka specifies that women should only apply a kumkum chandlo on their forehead, and not a tilak.",
+      "source_reference": "Satsang Diksha Shlok 55"
+    },
+    {
+      "id": "17-1",
+      "type": "quotation_to_reference_mcq",
+      "question_text": "Which Vachanamrut says 'je brahmarūp thayo tene ja Purushottamnī bhaktino adhikār chhe'?",
+      "options": [
+        "Vach.Ga.Pa.20",
+        "Vach.Lo.7",
+        "Vach.Ga.Ma.3",
+        "Vach.Va.5"
+      ],
+      "correct_answer": "Vach.Lo.7",
+      "explanation": "Vachanamrut Loya 7 states that only one who has become brahmarup has the right to bhakti of Purushottam.",
+      "source_reference": "Vach.Lo.7"
+    },
+    {
+      "id": "17-2",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsang Diksha Shlok 57 states: Aksharam-aham ityevam bhaktyā prasanna chetasā, Purushottama _________ mantram etam vadech-chhuchim",
+      "options": [
+        "bhaktosmi",
+        "dāso'smi",
+        "swaruposmi",
+        "anandosmi"
+      ],
+      "correct_answer": "dāso'smi",
+      "explanation": "This shloka encourages the devotee to chant the mantra 'Aksharam aham Purushottama-dāsosmi' with devotion and a joyful heart.",
+      "source_reference": "Satsang Diksha Shlok 57"
+    },
+    {
+      "id": "17-3",
+      "type": "conceptual_mcq",
+      "question_text": "According to Vachanamrut Gadhadha I-68, where does Maharaj reside?",
+      "options": [
+        "In the Himalayas",
+        "In the hearts of devotees",
+        "In the asht prakārnī pratimā tathā sant",
+        "In the Akshardham"
+      ],
+      "correct_answer": "In the asht prakārnī pratimā tathā sant",
+      "explanation": "Vachanamrut Gadhadha I-68, states that Maharaj resides in the asht prakārnī pratimā tathā sant.",
+      "source_reference": "Vach.Ga.Pa.68"
+    },
+    {
+      "id": "17-4",
+      "type": "quotation_to_reference_mcq",
+      "question_text": "Which Purushottam Prakash quote states, 'Sant hu ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re;'?",
+      "options": [
+        "PURUSHOTTAM PRAKASH 41/9",
+        "PURUSHOTTAM PRAKASH 22/5",
+        "PURUSHOTTAM PRAKASH 1/2",
+        "PURUSHOTTAM PRAKASH 50/1"
+      ],
+      "correct_answer": "PURUSHOTTAM PRAKASH 41/9",
+      "explanation": "This quote is from Purushottam Prakash 41/9.",
+      "source_reference": "PURUSHOTTAM PRAKASH 41/9"
+    },
+    {
+      "id": "18-1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsang Diksha Shlok 61 states: Madhye tu sthāpayet tatra hyakshara-Purushottamau | Swāminam hi _________ Mahārājam cha tat param.",
+      "options": [
+        "Vāsudevam",
+        "Ghanshyamam",
+        "Guņātītam",
+        "Sahajānandam"
+      ],
+      "correct_answer": "Guņātītam",
+      "explanation": "This shloka instructs to place the murti of Akshar (Gunatitanand Swami) and Purushottam Maharaj in the center.",
+      "source_reference": "Satsang Diksha Shlok 61"
+    },
+    {
+      "id": "18-2",
+      "type": "conceptual_mcq",
+      "question_text": "According to Vachanamrut Gadhadha Madhya 21, what understanding removes all doubts from the path to liberation?",
+      "options": [
+        "Understanding the scriptures",
+        "Understanding the greatness of both past incarnations of God and present manifest form of God and His Bhakta.",
+        "Performing rituals",
+        "Renouncing the world"
+      ],
+      "correct_answer": "Understanding the greatness of both past incarnations of God and present manifest form of God and His Bhakta.",
+      "explanation": "Understanding the greatness of both past incarnations of God and present manifest form of God and His Bhakta removes all doubts from the path to liberation.",
+      "source_reference": "Vach.Ga.Ma.21"
+    },
+    {
+      "id": "18-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Swa.Vato.1/153 states: Swāminārāyan nāmnā mantra jevo bījo koī mantra āj _________ nathī.",
+      "options": [
+        "saral",
+        "baļiyo",
+        "sācho",
+        "mithyo"
+      ],
+      "correct_answer": "baļiyo",
+      "explanation": "Swamini Vato 1/153 states that no other mantra is as powerful as the Swaminarayan mantra.",
+      "source_reference": "Swa.Vato.1/153"
+    },
+    {
+      "id": "19-1",
+      "type": "conceptual_mcq",
+      "question_text": "According to Satsang Diksha Shlok 68, Whose remembrance should accompany pradakshina of the murtis?",
+      "options": [
+        "Radha-Krishna",
+        "Shiva-Parvati",
+        "Akshar-Purushottam",
+        "Lakshmi-Narayan"
+      ],
+      "correct_answer": "Akshar-Purushottam",
+      "explanation": "The shloka specifies that Akshar-Purushottam Maharaj should be remembered during the pradakshina.",
+      "source_reference": "Satsang Diksha Shlok 68"
+    },
+    {
+      "id": "19-2",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsang Diksha Shlok 69 states: Sāşhţāngā dandavat kāryāh praņāmāh purushais-tataha | Nārībhis-tūpavishyaiva _________ dāsa-bhāvataha.",
+      "options": [
+        "ashtāngā",
+        "dashaang",
+        "ekāngā",
+        "panchāngā"
+      ],
+      "correct_answer": "panchāngā",
+      "explanation": "This shloka details that men should do sashtang dandvat pranam, while women should do panchanga pranam with a servant's heart.",
+      "source_reference": "Satsang Diksha Shlok 69"
+    },
+    {
+      "id": "19-3",
+      "type": "conceptual_mcq",
+      "question_text": "According to Vachanamrut Gadhadha Madhya 40, what is the result of showing hatred towards the bhaktas of God?",
+      "options": [
+        "It is equivalent to hating God himself",
+        "The jiva experiences immense suffering",
+        "It leads to worldly success",
+        "It has no effect"
+      ],
+      "correct_answer": "The jiva experiences immense suffering",
+      "explanation": "Vachanamrut Gadhadha Madhya 40 states that immense suffering comes to the jiva as a result of showing hatred towards the bhaktas of God.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "20-1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsang Diksha Shlok 72 states: Bhaktitah pūjayitvaivam Akshara-Purushottamam, Punar-āgama-mantreņa _________ nijātmani.",
+      "options": [
+        "sthapayet",
+        "prasthāpayen",
+        "āhvayet",
+        "bhajet"
+      ],
+      "correct_answer": "prasthāpayen",
+      "explanation": "This shloka describes that after performing puja with devotion, Akshar-Purushottam Maharaj should be invited to reside within one's self using the punaragaman mantra.",
+      "source_reference": "Satsang Diksha Shlok 72"
+    },
+    {
+      "id": "20-2",
+      "type": "conceptual_mcq",
+      "question_text": "According to Satsang Diksha Shlok 74, What kind of scriptures should be read daily for strengthening one's Satsang?",
+      "options": [
+        "Stories of kings and queens",
+        "Scriptures with the updesho and ādesho of Shri Hari and the Guru",
+        "Ancient poems",
+        "Books on worldly knowledge"
+      ],
+      "correct_answer": "Scriptures with the updesho and ādesho of Shri Hari and the Guru",
+      "explanation": "This shloka advises reading scriptures that contain the teachings and commands of Shri Hari and the Guru for strengthening one's Satsang.",
+      "source_reference": "Satsang Diksha Shlok 74"
+    },
+    {
+      "id": "20-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsang Diksha Shlok 76 states: Bhojyam naiva na peyam vā vinā _________ jalādikam.",
+      "options": [
+        "japam",
+        "dhyanam",
+        "pūjām",
+        "bhajanam"
+      ],
+      "correct_answer": "pūjām",
+      "explanation": "This shloka instructs one not to eat or drink anything, including water, before performing puja.",
+      "source_reference": "Satsang Diksha Shlok 76"
+    },
+    {
+      "id": "20-4",
+      "type": "conceptual_mcq",
+      "question_text": "According to Satsang Diksha Shlok 78, From what age should one's children begin having their own puja?",
+      "options": [
+        "When they turn 5 years old",
+        "When they are old enough to understand",
+        "From the day of their birth",
+        "When they start going to school"
+      ],
+      "correct_answer": "From the day of their birth",
+      "explanation": "The shloka emphasizes that children should begin having their own puja from the day of their birth.",
+      "source_reference": "Satsang Diksha Shlok 78"
+    },
+    {
+      "id": "20-5",
+      "type": "quotation_to_reference_mcq",
+      "question_text": "Satsang Diksha Shlok 64 contains the line 'Uttishtha Sahajānanda Shri-Hare Purushottama'. What is the next line of this shloka?",
+      "options": [
+        "Āgamyatām hi pūjārtham āgamyatām mad-ātmataha",
+        "Guņātītāʼkshara Brahmann-uttishtha krupayā guro",
+        "Madhye tu sthāpayet tatra hyakshara-Purushottamau",
+        "Swāminārāyaņam mantram japan kuryād gurum smaran"
+      ],
+      "correct_answer": "Guņātītāʼkshara Brahmann-uttishtha krupayā guro",
+      "explanation": "The second line of Satsang Diksha Shlok 64 is 'Guņātītāʼkshara Brahmann-uttishtha krupayā guro'",
+      "source_reference": "Satsang Diksha Shlok 64"
+    },
+    {
+      "id": "20-6",
+      "type": "conceptual_mcq",
+      "question_text": "According to Satsang Diksha Shlok 77, What should one do if they are unable to perform puja due to old age or illness?",
+      "options": [
+        "Completely stop performing puja",
+        "Have someone else perform the puja on their behalf",
+        "Perform a shorter version of the puja",
+        "Visualize the puja in their mind"
+      ],
+      "correct_answer": "Have someone else perform the puja on their behalf",
+      "explanation": "The shloka advises that if one is unable to perform puja due to old age or illness, they should have someone else perform it on their behalf.",
+      "source_reference": "Satsang Diksha Shlok 77"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Mini-Review Quiz (Classes 11-15)",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Brahmaswarūp guru vinā yathārth bhakti paṇ na thaī shake, param ānandnī prāpti na thāy ane trividh _______ nāsh paṇ na thāy.",
+      "options": [
+        "mokshano",
+        "tāpano",
+        "bhaktino",
+        "dhanno"
+      ],
+      "correct_answer": "tāpano",
+      "explanation": "From Satsang Diksha Shlok 24: Brahmaswarūp guru vinā yathārth bhakti paṇ na thaī shake, param ānandnī prāpti na thāy ane trividh tāpano nāsh paṇ na thāy.",
+      "source_reference": "Satsang Diksha Shlok 24"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Satpuruṣhno je prasang e ja Parameshvarne viṣhe draḍh prīti thavānu kāraṇ chhe.”",
+      "options": [
+        "Vach.Ga.Pa.44",
+        "Swa.Vato.1/30",
+        "Vach.Ga.An.2",
+        "Vach.Ga.Ma.33"
+      ],
+      "correct_answer": "Vach.Ga.Pa.44",
+      "explanation": "The quote is directly from Vachanamrut Gadhada Pratham 44.",
+      "source_reference": "Vach.Ga.Pa.44"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Āvā Sādhune manmā sambhārīe to mannā pāp baḷī jāy ne vātu sāmbhaḷīe to kānnā pāp baḷī jāy ne darshan karīe to _______ pāp baḷī jāy, em mahimā jāṇavo.",
+      "options": [
+        "jivhnā",
+        "chakshunā",
+        "ānkhnā",
+        "hrudaynā"
+      ],
+      "correct_answer": "ānkhnā",
+      "explanation": "From Swamini Vato 1/30: Āvā Sādhune manmā sambhārīe to mannā pāp baḷī jāy ne vātu sāmbhaḷīe to kānnā pāp baḷī jāy ne darshan karīe to ānkhnā pāp baḷī jāy, em mahimā jāṇavo.",
+      "source_reference": "Swa.Vato.1/30"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Yasya deve parābhaktir, yathā deve tathā gurau | Tasyaite kathitā hyarthāhā, prakāshante mahātmanaha ||",
+      "options": [
+        "Shvetashvatar Upanishad",
+        "Satsang Diksha Shlok 25",
+        "Bhaktachintamani",
+        "Vach.Ga.An.2"
+      ],
+      "correct_answer": "Shvetashvatar Upanishad",
+      "explanation": "The quote is directly from Shvetashvatar Upanishad.",
+      "source_reference": "Shvetashvatar Upanishad"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sarve strī tathā puruṣhoe sarva prakārnā _______ tathā vyabhichārno tyāg karavo.",
+      "options": [
+        "krodhno",
+        "lobhno",
+        "mohno",
+        "jugārno"
+      ],
+      "correct_answer": "jugārno",
+      "explanation": "From Satsang Diksha Shlok 28: Sarve strī tathā puruṣhoe sarva prakārnā jugārno tathā vyabhichārno tyāg karavo.",
+      "source_reference": "Satsang Diksha Shlok 28"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "“jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī pāse ja chhīe; ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe. Ane amane niṣhkāmī bhakta hoy tenā ja hāthnī karī sevā game chhe.”",
+      "options": [
+        "Vach.Ga.Ma.33",
+        "Satsang Diksha Shlok 26",
+        "Satsang Diksha Shlok 29",
+        "Satsang Diksha Shlok 31"
+      ],
+      "correct_answer": "Vach.Ga.Ma.33",
+      "explanation": "The quote is directly from Vachanamrut Gadhada Madhya 33.",
+      "source_reference": "Vach.Ga.Ma.33"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsangīoe chorī kyārey na karvī. _______ arthe paṇ chorī kyārey na karavī.",
+      "options": [
+        "Dharmane",
+        "Arthne",
+        "Kāmne",
+        "Mokshne"
+      ],
+      "correct_answer": "Dharmane",
+      "explanation": "From Satsang Diksha Shlok 31: Satsangīoe chorī kyārey na karvī. Dharmane arthe paṇ chorī kyārey na karavī.",
+      "source_reference": "Satsang Diksha Shlok 31"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Avani par āvī vahāle satsang sthāpyo, Harijanone kol, kalyāṇno āpyo rāj...",
+      "options": [
+        "Sadguru Premanand Swami",
+        "Satsang Diksha Shlok 32",
+        "Aksharnā vāsī vahālo",
+        "Bāīo dekhīne bhāīo"
+      ],
+      "correct_answer": "Aksharnā vāsī vahālo",
+      "explanation": "The quote is directly from the kirtan 'Aksharnā vāsī vahālo' by Sadguru Premanand Swami.",
+      "source_reference": "Aksharnā vāsī vahālo"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Kyārey manuṣhya, pashu, pakṣhī, tathā mānkaḍ ādik koī paṇ jīv-jantuonī _______ na karavī.",
+      "options": [
+        "sevā",
+        "hinsā",
+        "pūjā",
+        "bhakti"
+      ],
+      "correct_answer": "hinsā",
+      "explanation": "From Satsang Diksha Shlok 33-34: Kyārey manuṣhya, pashu, pakṣhī, tathā mānkaḍ ādik koī paṇ jīv-jantuonī hinsā na karavī.",
+      "source_reference": "Satsang Diksha Shlok 33-34"
+    },
+    {
+      "id": "10",
+      "type": "quotation_reference_mcq",
+      "question_text": "Hinsā na karnī jantukī, partriyā sangko tyāg; Māns na khāvat madhyaku, pīvat nahi badbhāg.",
+      "options": [
+        "Nirvikalp uttam ati",
+        "Satsang Diksha Shlok 35",
+        "Ehī (vidhi) dharmake niyamme",
+        "So Patrī me atibaḍe"
+      ],
+      "correct_answer": "Nirvikalp uttam ati",
+      "explanation": "The quote is directly from the kirtan 'Nirvikalp uttam ati' by Sadguru Premanand Swami.",
+      "source_reference": "Nirvikalp uttam ati"
+    },
+    {
+      "id": "11",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsangīoe yagnane arthe paṇ bakarā vagere _______ prāṇīonī hinsā kyārey na ja karavī.",
+      "options": [
+        "paśuo",
+        "nirdoṣh",
+        "pāpī",
+        "krūr"
+      ],
+      "correct_answer": "nirdoṣh",
+      "explanation": "From Satsang Diksha Shlok 35: Satsangīoe yagnane arthe paṇ bakarā vagere nirdoṣh prāṇīonī hinsā kyārey na ja karavī.",
+      "source_reference": "Satsang Diksha Shlok 35"
+    },
+    {
+      "id": "12",
+      "type": "quotation_reference_mcq",
+      "question_text": "Mane karīne, vachane karīne ke karme karīne hinsā karavāthī tenāmā rahelā Swāminārāyaṇ Bhagwān dukhāy chhe.",
+      "options": [
+        "Satsang Diksha Shlok 40",
+        "Satsang Diksha Shlok 36",
+        "Satsang Diksha Shlok 37",
+        "Satsang Diksha Shlok 41"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 40",
+      "explanation": "The quote is directly from Satsang Diksha Shlok 40.",
+      "source_reference": "Satsang Diksha Shlok 40"
+    },
+    {
+      "id": "13",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Dukh, lajjā, bhay, krodh tathā rog ityādi _______ kāraṇe, ke pachhī dharmane arthe paṇ koīe potānī ke anyanī hatyā na karavī.",
+      "options": [
+        "āpattine",
+        "sampattine",
+        "bhaktine",
+        "shaktine"
+      ],
+      "correct_answer": "āpattine",
+      "explanation": "From Satsang Diksha Shlok 42: Dukh, lajjā, bhay, krodh tathā rog ityādi āpattine kāraṇe, ke pachhī dharmane arthe paṇ koīe potānī ke anyanī hatyā na karavī.",
+      "source_reference": "Satsang Diksha Shlok 42"
+    },
+    {
+      "id": "14",
+      "type": "quotation_reference_mcq",
+      "question_text": "Bhagwān sarva-kartā chhe, dayāḷu chhe, sarvanu rakṣhaṇ karanārā chhe ane e ja sadā mārā sarve sankaṭonā ṭāḷanārā chhe.",
+      "options": [
+        "Satsang Diksha Shlok 44",
+        "Satsang Diksha Shlok 43",
+        "Satsang Diksha Shlok 45",
+        "Satsang Diksha Shlok 46"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 44",
+      "explanation": "The quote is directly from Satsang Diksha Shlok 44.",
+      "source_reference": "Satsang Diksha Shlok 44"
+    },
+    {
+      "id": "15",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ane e Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane _______ besāḍe to gadheḍe besīne rājī rahevu.",
+      "options": [
+        "ghode",
+        "gadheḍe",
+        "pālkīe",
+        "rathe"
+      ],
+      "correct_answer": "gadheḍe",
+      "explanation": "From Vachanamrut Gadhada Pratham 74: Ane e Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane gadheḍe besāḍe to gadheḍe besīne rājī rahevu.",
+      "source_reference": "Vach.Ga.Pa.74"
+    },
+    {
+      "id": "16",
+      "type": "quotation_reference_mcq",
+      "question_text": "Jo mār mār karato koī āvato hoy to em samajavu je, ‘Mārā Swāmīnu ja karyu sarve thāy chhe, paṇ te vinā koīnu halāvyu pānaḍu paṇ halatu nathī.’",
+      "options": [
+        "Swa.Vato.1/88",
+        "Swa.Vato.1/22",
+        "Swa.Vato.1/148",
+        "Vach.Ga.An.13"
+      ],
+      "correct_answer": "Swa.Vato.1/88",
+      "explanation": "The quote is directly from Swamini Vato 1/88.",
+      "source_reference": "Swa.Vato.1/88"
+    },
+    {
+      "id": "17",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Mārā vighno, pāp, dosh tathā _______ avashya nāsh pāmashe.",
+      "options": [
+        "durguṇo",
+        "pāpo",
+        "mitro",
+        "shatruo"
+      ],
+      "correct_answer": "durguṇo",
+      "explanation": "From Satsang Diksha Shlok 46: Mārā vighno, pāp, dosh tathā durguṇo avashya nāsh pāmashe.",
+      "source_reference": "Satsang Diksha Shlok 46"
+    },
+    {
+      "id": "18",
+      "type": "quotation_reference_mcq",
+      "question_text": "je je mārā kahevāyā chho temā māre ek talmātra kasar rahevā devī nathī. Māțe tame pan sūdhā sāvadhān rahejyo; jo jarāy gāfalāī rākhasho to tamāro pag takashe nahī. Ane māre to je tame Bhagwānnā bhakta chho tenā hrudaymā koī jātnī vāsanā tathā koī jātno ayogya swabhāv te rahevā devo nathī.",
+      "options": [
+        "Vach.Ga.Ma.45",
+        "Satsang Diksha Shlok 47",
+        "BHAKTACHINTAMANI 76/39-41",
+        "Satsang Diksha Shlok 48"
+      ],
+      "correct_answer": "Vach.Ga.Ma.45",
+      "explanation": "The quote is directly from Vachanamrut Gadhada Madhya 45.",
+      "source_reference": "Vach.Ga.Ma.45"
+    },
+    {
+      "id": "19",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Kāraṇ ke mane sākşhāt _______ Mahārāj malyā chhe.",
+      "options": [
+        "Akshar-Purushottam",
+        "Ghanshyām",
+        "Hari",
+        "Krishna"
+      ],
+      "correct_answer": "Akshar-Purushottam",
+      "explanation": "From Satsang Diksha Shlok 47: Kāran ke mane sākşhāt Akshar-Purushottam Mahārāj malyā chhe.",
+      "source_reference": "Satsang Diksha Shlok 47"
+    },
+    {
+      "id": "20",
+      "type": "quotation_reference_mcq",
+      "question_text": "Shāstramā tathā lokmā nishedh karyo hoy tevā sthānone vishe kyārey thūnkavu nahī tathā mal-mūtrādi na karavu.",
+      "options": [
+        "Satsang Diksha Shlok 49",
+        "Vach.Ga.An.7",
+        "BHAKTACHINTAMANI 76/39-41",
+        "Satsang Diksha Shlok 48"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 49",
+      "explanation": "The quote is directly from Satsang Diksha Shlok 49.",
+      "source_reference": "Satsang Diksha Shlok 49"
+    }
+  ]
+}

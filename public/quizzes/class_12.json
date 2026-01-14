@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 12 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sarvam dur-vyasanam tyājyam sarvaih _________ sadā । Aneka-roga-dukhānām kāraṇam vyasanam yataha ॥ 26 ॥",
+      "options": [
+        "satsangibhih",
+        "satsangam",
+        "satsangino",
+        "satsange"
+      ],
+      "correct_answer": "satsangibhih",
+      "explanation": "The shlok states 'Sarvam dur-vyasanam tyājyam sarvaih satsangibhih sadā'.",
+      "source_reference": "Satsang Diksha Shlok 26"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "“jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī pāse ja chhīe; ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe. Ane amane niṣhkāmī bhakta hoy tenā ja hāthnī karī sevā game chhe.”",
+      "options": [
+        "Vach.Ga.Ma.33",
+        "Satsang Diksha Shlok 26",
+        "Satsang Diksha Shlok 33-34",
+        "Akshar 1"
+      ],
+      "correct_answer": "Vach.Ga.Ma.33",
+      "explanation": "This quotation is from Vachanamrut Gadhada Madhya 33.",
+      "source_reference": "Vach.Ga.Ma.33"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Surā-bhangā-tamālādi yad yad bhaveddhi _________ । Tad bhakṣhayet piben-naiva dhūmra-pānam api tyajet ॥ 27 ॥",
+      "options": [
+        "mādakam",
+        "bhārtam",
+        "pānakam",
+        "ānandakam"
+      ],
+      "correct_answer": "mādakam",
+      "explanation": "The shlok states 'Surā-bhangā-tamālādi yad yad bhaveddhi mādakam'.",
+      "source_reference": "Satsang Diksha Shlok 27"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Pānche vartmān pāḷe, bāīo ne bhāīo,\nHarijan sangāthe kīdhī, sāchī sagāīo rāj... Akshar 2",
+      "options": [
+        "Akshar 2",
+        "Akshar 4",
+        "Satsang Diksha Shlok 28",
+        "Vach.Ga.Ma.33"
+      ],
+      "correct_answer": "Akshar 2",
+      "explanation": "These lines are from Kirtan Akshar 2.",
+      "source_reference": "Akshar 2"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Pari-tyājyam sadā dyūtam sarvaih ________ । Tyaktavyo vyabhichārash-cha nārībhih puruṣhais-tathā ॥ 28 ॥",
+      "options": [
+        "sarva-prakārakam",
+        "sarva-dharmikam",
+        "sarva-bhāvikam",
+        "sarva-yogikam"
+      ],
+      "correct_answer": "sarva-prakārakam",
+      "explanation": "The shlok states 'Pari-tyājyam sadā dyūtam sarvaih sarva-prakārakam'.",
+      "source_reference": "Satsang Diksha Shlok 28"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Kyārey manuṣhya, pashu, pakṣhī, tathā mānkaḍ ādik koī paṇ jīv-jantuonī hinsā na karavī. Ahinsā param dharma chhe, hinsā adharma chhe em Shruti-Smṛutyādi shāstromā spaṣhṭa kahevāmā āvyu chhe. (33-34)",
+      "options": [
+        "Satsang Diksha Shlok 33-34",
+        "Satsang Diksha Shlok 31",
+        "Vach.Ga.Ma.33",
+        "Satsang Diksha Shlok 27"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 33-34",
+      "explanation": "This is the translation of Satsang Diksha Shloks 33 and 34.",
+      "source_reference": "Satsang Diksha Shlok 33-34"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Mānsam matsyam tathā’nḍāni bhakṣhayeyur na karhichit । Palānḍum lashunam hingu na cha ________ janāhā ॥ 29 ॥",
+      "options": [
+        "satsangino",
+        "bhaktajano",
+        "dhārmikā",
+        "sevakā"
+      ],
+      "correct_answer": "satsangino",
+      "explanation": "The shlok states 'Mānsam matsyam tathā’nḍāni bhakṣhayeyur na karhichit । Palānḍum lashunam hingu na cha satsangino janāhā'.",
+      "source_reference": "Satsang Diksha Shlok 29"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Avani par āvī vahāle satsang sthāpyo\nHarijanone kol, kalyāṇno āpyo rāj... Akshar 1",
+      "options": [
+        "Akshar 1",
+        "Akshar 3",
+        "Satsang Diksha Shlok 30",
+        "Vach.Ga.Ma.33"
+      ],
+      "correct_answer": "Akshar 1",
+      "explanation": "These lines are from Kirtan Akshar 1.",
+      "source_reference": "Akshar 1"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Chauryam na karhichit kāryam satsangam ________ janaihi । Dharmārtham api no kāryam chora-kāryam tu karhichit ॥ 31 ॥",
+      "options": [
+        "āshritair",
+        "sahitair",
+        "yuktair",
+        "praṇitair"
+      ],
+      "correct_answer": "āshritair",
+      "explanation": "The shlok states 'Chauryam na karhichit kāryam satsangam āshritair janaihi'.",
+      "source_reference": "Satsang Diksha Shlok 31"
+    },
+    {
+      "id": "10",
+      "type": "quotation_reference_mcq",
+      "question_text": "Puṣhp, faḷo jevī vastu paṇ tenā dhaṇīnī paravāngī vagar na levī. Paravāngī vagar levu te sūkṣhma chorī kahevāy chhe. (32)",
+      "options": [
+        "Satsang Diksha Shlok 32",
+        "Akshar 5",
+        "Satsang Diksha Shlok 29",
+        "Vach.Ga.Ma.33"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 32",
+      "explanation": "This is the translation of Satsang Diksha Shlok 32.",
+      "source_reference": "Satsang Diksha Shlok 32"
+    }
+  ]
+}

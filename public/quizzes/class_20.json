@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 20 Quiz",
+  "questions": [
+    {
+      "id": "20-A-1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tyār bād Swāminārāyan mantrano jap karatā shubh sankalponī pūrti māțe divyabhāv ane __________ sahit prārthanā (dhūn) karavī.",
+      "options": [
+        "bhaktie",
+        "dhyāne",
+        "gyāne",
+        "viveke"
+      ],
+      "correct_answer": "bhaktie",
+      "explanation": "The exact quote from Satsang Diksha Shlok 71 is: Tyār bād Swāminārāyan mantrano jap karatā shubh sankalponī pūrti māțe divyabhāv ane bhaktie sahit prārthanā (dhūn) karavī.",
+      "source_reference": "Satsang Diksha Shlok 71"
+    },
+    {
+      "id": "20-B-1",
+      "type": "quotation_reference_mcq",
+      "question_text": "Ā rīte bhakti-bhāve pūjā karīne punarāgaman mantrathī Akshar-Purushottam Mahārājne potānā ātmāne vishe padharāvavā.",
+      "options": [
+        "Satsang Diksha Shlok 72",
+        "Satsang Diksha Shlok 73",
+        "Satsang Diksha Shlok 74",
+        "Satsang Diksha Shlok 75"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 72",
+      "explanation": "This is the Gujarati translation of Satsang Diksha Shlok 72.",
+      "source_reference": "Satsang Diksha Shlok 72"
+    },
+    {
+      "id": "20-A-2",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "He Aksharbrahma sahit birājmān Purushottam Nārāyan! Āpanī pūjā bhakti-bhāvthī ane __________ ja me sampanna karī chhe.",
+      "options": [
+        "divya-bhāvthī",
+        "prema-bhāvthī",
+        "shānti-bhāvthī",
+        "vinaya-bhāvthī"
+      ],
+      "correct_answer": "divya-bhāvthī",
+      "explanation": "The exact quote from Satsang Diksha Shlok 73 is: He Aksharbrahma sahit birājmān Purushottam Nārāyan! Āpanī pūjā bhakti-bhāvthī ane divya-bhāvthī ja me sampanna karī chhe.",
+      "source_reference": "Satsang Diksha Shlok 73"
+    },
+    {
+      "id": "20-B-2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Tyār bād satsangnī drudhatā māțe jemā Shrīhari tathā gurunā updesho ane adesho samāyā hoy tevā shāstranu roj vānchan karavu.",
+      "options": [
+        "Satsang Diksha Shlok 74",
+        "Satsang Diksha Shlok 75",
+        "Satsang Diksha Shlok 76",
+        "Satsang Diksha Shlok 77"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 74",
+      "explanation": "This is the Gujarati translation of Satsang Diksha Shlok 74.",
+      "source_reference": "Satsang Diksha Shlok 74"
+    },
+    {
+      "id": "20-A-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tyār bād ādar ane __________ bhaktone praņām karavā. Ā rīte pūjā karīne pachhī ja potānā vyavahārnu kārya karavu.",
+      "options": [
+        "namrabhāve",
+        "prembhāve",
+        "hrudaybhāve",
+        "ānandbhāve"
+      ],
+      "correct_answer": "namrabhāve",
+      "explanation": "The exact quote from Satsang Diksha Shlok 75 is: Tyār bād ādar ane namrabhāve bhaktone praņām karavā. Ā rīte pūjā karīne pachhī ja potānā vyavahārnu kārya karavu.",
+      "source_reference": "Satsang Diksha Shlok 75"
+    },
+    {
+      "id": "20-B-3",
+      "type": "quotation_reference_mcq",
+      "question_text": "Pūjā karyā vinā jamavu nahī ne pāṇī vagere pan na pīvu.",
+      "options": [
+        "Satsang Diksha Shlok 76",
+        "Satsang Diksha Shlok 77",
+        "Satsang Diksha Shlok 78",
+        "Satsang Diksha Shlok 71"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 76",
+      "explanation": "This is part of the Gujarati translation of Satsang Diksha Shlok 76.",
+      "source_reference": "Satsang Diksha Shlok 76"
+    },
+    {
+      "id": "20-A-4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Vruddhāvasthā, rogādi tathā anya __________ līdhe pote pūjā karavā asamarth hoy tene anya pāse te pūjā karāvavī.",
+      "options": [
+        "āpattine",
+        "dukhine",
+        "mushkeline",
+        "chintāne"
+      ],
+      "correct_answer": "āpattine",
+      "explanation": "The exact quote from Satsang Diksha Shlok 77 is: Vruddhāvasthā, rogādi tathā anya āpattine līdhe pote pūjā karavā asamarth hoy tene anya pāse te pūjā karāvavī.",
+      "source_reference": "Satsang Diksha Shlok 77"
+    },
+    {
+      "id": "20-B-4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Gharmā pratyek satsangie potānī swatantra pūjā rākhavī.",
+      "options": [
+        "Satsang Diksha Shlok 78",
+        "Satsang Diksha Shlok 71",
+        "Satsang Diksha Shlok 72",
+        "Satsang Diksha Shlok 73"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 78",
+      "explanation": "This is part of the Gujarati translation of Satsang Diksha Shlok 78.",
+      "source_reference": "Satsang Diksha Shlok 78"
+    },
+    {
+      "id": "20-A-5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Evam pūjām __________ kuryāt sva-vyāvahārikam.",
+      "options": [
+        "samāpyaiva",
+        "kuryādeva",
+        "ārabhyaiva",
+        "tyaktvaiva"
+      ],
+      "correct_answer": "samāpyaiva",
+      "explanation": "The exact quote from Satsang Diksha Shlok 75 is: Evam pūjām samāpyaiva kuryāt sva-vyāvahārikam.",
+      "source_reference": "Satsang Diksha Shlok 75"
+    },
+    {
+      "id": "20-B-5",
+      "type": "quotation_reference_mcq",
+      "question_text": "Divya-bhāvena bhaktyā cha tad-anu prārthayej-japan",
+      "options": [
+        "Satsang Diksha Shlok 71",
+        "Satsang Diksha Shlok 72",
+        "Satsang Diksha Shlok 73",
+        "Satsang Diksha Shlok 74"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 71",
+      "explanation": "This is the Sanskrit of Satsang Diksha Shlok 71.",
+      "source_reference": "Satsang Diksha Shlok 71"
+    }
+  ]
+}

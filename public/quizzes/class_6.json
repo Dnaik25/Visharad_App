@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 6 Quiz",
+  "questions": [
+    {
+      "id": "6-1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Satsangā’dhikṛutah ______ sarve sukhā’dhi-kāriṇaha । Sarve’rhā brahmavidyāyām nāryash-chaiva narās-tathā ॥",
+      "options": [
+        "sarve",
+        "api",
+        "eva",
+        "khalu"
+      ],
+      "correct_answer": "sarve",
+      "explanation": "The verse states 'Satsangā’dhikṛutah sarve sarve sukhā’dhi-kāriṇaha'.",
+      "source_reference": "Satsang Diksha Shlok 12"
+    },
+    {
+      "id": "6-2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Satsangmā ling-bhedthī nyūnādhikpaṇu na ja samajavu. Badhā pot-potānī maryādāmā rahī bhakti vaḍe muktine pāmī shake chhe.",
+      "options": [
+        "Satsang Diksha Shlok 13",
+        "Satsang Diksha Shlok 12",
+        "Satsang Diksha Shlok 14-16",
+        "Satsang Diksha Shlok 1"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 13",
+      "explanation": "This is the translation of Satsang Diksha Shlok 13.",
+      "source_reference": "Satsang Diksha Shlok 13"
+    },
+    {
+      "id": "6-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Naiva nyūnādhikatvam syāt satsange ______ । Sva-sva-maryādayā sarve bhaktyā muktim samāpnuyuhu ॥",
+      "options": [
+        "linga-bhedataha",
+        "varna-bhedataha",
+        "desha-bhedataha",
+        "kala-bhedataha"
+      ],
+      "correct_answer": "linga-bhedataha",
+      "explanation": "The verse states 'Naiva nyūnādhikatvam syāt satsange linga-bhedataha'.",
+      "source_reference": "Satsang Diksha Shlok 13"
+    },
+    {
+      "id": "6-4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Sarva varṇanā sarva strīo tathā sarva puruṣho sadāy satsang, brahma-vidyā ane mokṣhanā adhikārī chhe.",
+      "options": [
+        "Satsang Diksha Shlok 14-16",
+        "Satsang Diksha Shlok 12",
+        "Satsang Diksha Shlok 13",
+        "Satsang Diksha Shlok 1"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 14-16",
+      "explanation": "This is the translation of Satsang Diksha Shlok 14.",
+      "source_reference": "Satsang Diksha Shlok 14-16"
+    },
+    {
+      "id": "6-5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sarva-varṇa-gatāh sarvā nāryah sarve narās-tathā । Satsange brahmavidyāyām mokṣhe ______ ॥",
+      "options": [
+        "sadā’dhikāriṇaha",
+        "api adhikāriṇaha",
+        "eva adhikāriṇaha",
+        "nanu adhikāriṇaha"
+      ],
+      "correct_answer": "sadā’dhikāriṇaha",
+      "explanation": "The verse states 'Satsange brahmavidyāyām mokṣhe sadā’dhikāriṇaha'.",
+      "source_reference": "Satsang Diksha Shlok 14-16"
+    },
+    {
+      "id": "6-6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Varṇanā ādhāre kyārey nyūnādhik-bhāv na karavo. Sarva janoe potānā varṇanu mān tyajīne paraspar sevā karavī.",
+      "options": [
+        "Satsang Diksha Shlok 14-16",
+        "Satsang Diksha Shlok 12",
+        "Satsang Diksha Shlok 13",
+        "Satsang Diksha Shlok 1"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 14-16",
+      "explanation": "This is the translation of Satsang Diksha Shlok 15.",
+      "source_reference": "Satsang Diksha Shlok 14-16"
+    },
+    {
+      "id": "6-7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tyaktvā sva-varṇa-mānam cha sevā kāryā ______ samaihi ॥",
+      "options": [
+        "mithah",
+        "itah",
+        "atah",
+        "atah"
+      ],
+      "correct_answer": "mithah",
+      "explanation": "The verse states 'Tyaktvā sva-varṇa-mānam cha sevā kāryā mithah samaihi'.",
+      "source_reference": "Satsang Diksha Shlok 14-16"
+    },
+    {
+      "id": "6-8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Jātie karīne koī mahān nathī ane koī nyūn paṇ nathī. Tethī nāt-jātne laīne klesh na karavo ne sukhe satsang karavo.",
+      "options": [
+        "Satsang Diksha Shlok 14-16",
+        "Satsang Diksha Shlok 13",
+        "Satsang Diksha Shlok 12",
+        "Satsang Diksha Shlok 1"
+      ],
+      "correct_answer": "Satsang Diksha Shlok 14-16",
+      "explanation": "This is the translation of Satsang Diksha Shlok 16.",
+      "source_reference": "Satsang Diksha Shlok 14-16"
+    },
+    {
+      "id": "6-9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Jātyā naiva mahān ko’pi naiva ______ tathā yataha । Jātyā klesho na kartavyah sukham satsangam ācharet ॥",
+      "options": [
+        "nyūnas",
+        "adhikas",
+        "shreshthas",
+        "varishtas"
+      ],
+      "correct_answer": "nyūnas",
+      "explanation": "The verse states 'Jātyā naiva mahān ko’pi naiva nyūnas-tathā yataha'.",
+      "source_reference": "Satsang Diksha Shlok 14-16"
+    },
+    {
+      "id": "6-10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Puruṣho tathā strīo sarve satsangnā ______ chhe, sarve sukhnā adhikārī chhe ane sarve brahma-vidyānā adhikārī chhe.",
+      "options": [
+        "adhikārī",
+        "sevak",
+        "bhakt",
+        "mitra"
+      ],
+      "correct_answer": "adhikārī",
+      "explanation": "The translation states 'Puruṣho tathā strīo sarve satsangnā adhikārī chhe'.",
+      "source_reference": "Satsang Diksha Shlok 12"
+    }
+  ]
+}

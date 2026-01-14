@@ -3,37 +3,7 @@ import fs from "fs/promises";
 import path from "path";
 import { unstable_cache } from "next/cache";
 
-// Initialize Gemini
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "");
-const model = genAI.getGenerativeModel({
-  model: "gemini-2.0-flash",
-  generationConfig: {
-    responseMimeType: "application/json",
-    responseSchema: {
-      type: SchemaType.OBJECT,
-      properties: {
-        quiz_title: { type: SchemaType.STRING },
-        questions: {
-          type: SchemaType.ARRAY,
-          items: {
-            type: SchemaType.OBJECT,
-            properties: {
-              id: { type: SchemaType.STRING },
-              type: { type: SchemaType.STRING },
-              question_text: { type: SchemaType.STRING },
-              options: { type: SchemaType.ARRAY, items: { type: SchemaType.STRING } },
-              correct_answer: { type: SchemaType.STRING },
-              explanation: { type: SchemaType.STRING },
-              source_reference: { type: SchemaType.STRING }
-            },
-            required: ["id", "type", "question_text", "options", "correct_answer", "explanation", "source_reference"]
-          }
-        }
-      },
-      required: ["quiz_title", "questions"]
-    }
-  }
-});
+// Initialize Gemini checking is done inside the function to ensure env vars are loaded.
 
 const SYSTEM_INSTRUCTION = `
 You are the "Visharad Sahãyak Quiz & Review Engine".
@@ -52,6 +22,49 @@ Policy:
 `;
 
 export async function generateQuiz(classId: string, type: 'class_quiz' | 'mini_review' = 'class_quiz') {
+  const apiKey = process.env.GEMINI_API_KEY;
+
+  // Debug log for Vercel (safe mask)
+  if (process.env.NODE_ENV === 'production') {
+    const status = apiKey ? `Present (starts with ${apiKey.substring(0, 4)}...)` : "MISSING";
+    console.log(`[QuizEngine] checking API Key: ${status}`);
+  }
+
+  if (!apiKey) {
+    throw new Error("Configuration Error: GEMINI_API_KEY is missing. Please set it in .env.local or your deployment settings.");
+  }
+
+  const genAI = new GoogleGenerativeAI(apiKey);
+  const model = genAI.getGenerativeModel({
+    model: "gemini-2.0-flash",
+    generationConfig: {
+      responseMimeType: "application/json",
+      responseSchema: {
+        type: SchemaType.OBJECT,
+        properties: {
+          quiz_title: { type: SchemaType.STRING },
+          questions: {
+            type: SchemaType.ARRAY,
+            items: {
+              type: SchemaType.OBJECT,
+              properties: {
+                id: { type: SchemaType.STRING },
+                type: { type: SchemaType.STRING },
+                question_text: { type: SchemaType.STRING },
+                options: { type: SchemaType.ARRAY, items: { type: SchemaType.STRING } },
+                correct_answer: { type: SchemaType.STRING },
+                explanation: { type: SchemaType.STRING },
+                source_reference: { type: SchemaType.STRING }
+              },
+              required: ["id", "type", "question_text", "options", "correct_answer", "explanation", "source_reference"]
+            }
+          }
+        },
+        required: ["quiz_title", "questions"]
+      }
+    }
+  });
+
   try {
     let fileContent = "";
     let systemPromptSuffix = "";
@@ -79,14 +92,17 @@ export async function generateQuiz(classId: string, type: 'class_quiz' | 'mini_r
       const contents = await Promise.all(classesToLoad.map(async (c) => {
         try {
           const p = path.join(process.cwd(), "public", `Class_${c}.txt`);
-          return `--- Class ${c} ---\n` + await fs.readFile(p, "utf-8");
-        } catch {
-          return `--- Class ${c} (Missing) ---\n`;
+          const text = await fs.readFile(p, "utf-8");
+          return `--- Class ${c} Content ---\n${text}\n----------------`;
+        } catch (e) {
+          return ""; // Skip missing classes
         }
       }));
 
       fileContent = contents.join("\n\n");
-      systemPromptSuffix = `TASK: Generate a "mini_review" quiz with 10 questions. Scope: Classes ${startClass} to ${currentClass}. Distribute questions across these classes if possible.`;
+      systemPromptSuffix = `TASK: Generate a "mini_review" with 10 questions.
+      - Distribution: Evenly distributed across Class ${startClass} to Class ${currentClass}.
+      - Focus: Recall and synthesis across these chapters.`;
     }
 
     if (!fileContent.trim()) {

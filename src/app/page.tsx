@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { getAllClassesMetadata } from '@/lib/data';
 import { ArrowRight, BookOpen } from 'lucide-react';
 
@@ -15,9 +16,13 @@ export default async function Home() {
   return (
     <div className="relative flex flex-col items-center justify-center min-h-[80vh] text-center px-4 rounded-3xl overflow-hidden shadow-2xl mt-2">
       {/* Background Image */}
-      <div
-        className="absolute inset-0 z-0 bg-cover bg-center"
-        style={{ backgroundImage: "url('/banner.png')" }}
+      {/* Background Image */}
+      <Image
+        src="/banner.png"
+        alt="Visharad Sahayak Banner"
+        fill
+        className="object-cover object-center z-0"
+        priority
       />
 
       {/* Overlay for readability */}
@@ -44,6 +49,14 @@ export default async function Home() {
           >
             Start Studying
             <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={24} />
+          </Link>
+
+          <Link
+            href="/quiz"
+            className="group inline-flex items-center justify-center px-10 py-4 text-lg font-bold text-red-600 bg-white border-2 border-red-100 rounded-full hover:bg-red-50 transition-all transform hover:scale-105 shadow-lg"
+          >
+            Take a Quiz
+            <BookOpen className="ml-2" size={24} />
           </Link>
         </div>
       </div>

@@ -46,6 +46,9 @@ export default async function ShlokPage({ params }: Props) {
     if (currentIndex < blocks.length - 1) {
         const nextShlokNum = blocks[currentIndex + 1].shlokNumber;
         nextHref = `/class/${classId}/shlok/${nextShlokNum}`;
+    } else {
+        // Last shloka, link to quiz
+        nextHref = `/class/${classId}/quiz`;
     }
 
     return (
@@ -81,7 +84,11 @@ export default async function ShlokPage({ params }: Props) {
             </div>
 
             {/* 5. Navigation */}
-            <NavButtons prevHref={prevHref} nextHref={nextHref} />
+            <NavButtons
+                prevHref={prevHref}
+                nextHref={nextHref}
+                nextLabel={nextHref?.includes('/quiz') ? "Take Quiz →" : undefined}
+            />
         </div>
     );
 }

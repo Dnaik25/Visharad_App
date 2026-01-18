@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 11 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "“Satpuruṣhno je _____ e ja _____ viṣhe draḍh prīti thavānu kāraṇ chhe.”",
+      "options": [
+        "prasang",
+        "Parameshvarne",
+        "manmā",
+        "Sādhune"
+      ],
+      "correct_answer": "prasang,Parameshvarne",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Paschim 44.",
+      "source_reference": "Vach.Ga.Pa.44"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Āvā Sādhune manmā sambhārīe to mannā pāp baḷī jāy ne vātu sāmbhaḷīe to kānnā pāp baḷī jāy ne darshan karīe to ānkhnā pāp baḷī jāy, em mahimā jāṇavo.”",
+      "options": [
+        "Swa.Vato.1/30",
+        "Vach.Ga.Pa.44",
+        "Bhaktachintamani",
+        "Vach.Ga.An.2"
+      ],
+      "correct_answer": "Swa.Vato.1/30",
+      "explanation": "This quote is found in Swamini Vato 1/30.",
+      "source_reference": "Swa.Vato.1/30"
+    },
+    {
+      "id": "3",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Jevī parokṣh devne viṣhe jīvne pratīti chhe tevī jo pratyakṣh gururūp Harine viṣhe āve, to jeṭalā arth prāpt thavānā kahyā chhe teṭalā sarve arth tene prāpt thāy chhe.”",
+      "options": [
+        "Vach.Ga.An.2",
+        "Swa.Vato.1/30",
+        "Vach.Ga.Pa.44",
+        "Shvetashvatar Upanishad"
+      ],
+      "correct_answer": "Vach.Ga.An.2",
+      "explanation": "This quote is from Vachanamrut Gadhada Antya 2.",
+      "source_reference": "Vach.Ga.An.2"
+    },
+    {
+      "id": "4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Yasya deve _____, yathā deve tathā gurau | Tasyaite kathitā hyarthāhā, prakāshante mahātmanaha ||",
+      "options": [
+        "parābhaktir",
+        "pratīti",
+        "prasang",
+        "manmā"
+      ],
+      "correct_answer": "parābhaktir",
+      "explanation": "This is a direct quote from the Shvetashvatar Upanishad.",
+      "source_reference": "Shvetashvatar Upanishad"
+    },
+    {
+      "id": "5",
+      "type": "quotation_reference_mcq",
+      "question_text": "Kāmdughā kalpataru, pāras chintāmaṇi chār; Sant samān e eke nahi, me manmā karyo vichār. 7",
+      "options": [
+        "Bhaktachintamani",
+        "Vach.Ga.Pa.44",
+        "Swa.Vato.1/30",
+        "Vach.Ga.An.2"
+      ],
+      "correct_answer": "Bhaktachintamani",
+      "explanation": "This quote is from Bhaktachintamani.",
+      "source_reference": "Bhaktachintamani"
+    },
+    {
+      "id": "6",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "_____ sukh emā rahyu, maḷī ṭaḷī _____ chhe eh; Sant sevye sukh ūpaje, rahe akhanḍ aṭaḷ eh. 8",
+      "options": [
+        "Alp",
+        "jāy",
+        "Sant",
+        "Parameshvarne"
+      ],
+      "correct_answer": "Alp,jāy",
+      "explanation": "This is a direct quote from Bhaktachintamani.",
+      "source_reference": "Bhaktachintamani"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "“Āvā _____ manmā sambhārīe to mannā pāp baḷī jāy ne vātu sāmbhaḷīe to kānnā pāp baḷī jāy ne darshan karīe to ānkhnā pāp baḷī jāy, em mahimā jāṇavo.”",
+      "options": [
+        "Sādhune",
+        "devne",
+        "Harine",
+        "kalpataru"
+      ],
+      "correct_answer": "Sādhune",
+      "explanation": "This is a direct quote from Swamini Vato 1/30.",
+      "source_reference": "Swa.Vato.1/30"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Satpuruṣhno je prasang e ja Parameshvarne viṣhe draḍh prīti thavānu kāraṇ chhe.”",
+      "options": [
+        "Vach.Ga.Pa.44",
+        "Swa.Vato.1/30",
+        "Bhaktachintamani",
+        "Vach.Ga.An.2"
+      ],
+      "correct_answer": "Vach.Ga.Pa.44",
+      "explanation": "This quote is from Vachanamrut Gadhada Paschim 44.",
+      "source_reference": "Vach.Ga.Pa.44"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sant samān e eke _____, me _____ karyo vichār. 7",
+      "options": [
+        "nahi",
+        "manmā",
+        "jīvne",
+        "prasang"
+      ],
+      "correct_answer": "nahi,manmā",
+      "explanation": "This is a direct quote from Bhaktachintamani.",
+      "source_reference": "Bhaktachintamani"
+    },
+    {
+      "id": "10",
+      "type": "quotation_reference_mcq",
+      "question_text": "Yasya deve parābhaktir, yathā deve tathā gurau | Tasyaite kathitā hyarthāhā, prakāshante mahātmanaha ||",
+      "options": [
+        "Shvetashvatar Upanishad",
+        "Vach.Ga.Pa.44",
+        "Swa.Vato.1/30",
+        "Vach.Ga.An.2"
+      ],
+      "correct_answer": "Shvetashvatar Upanishad",
+      "explanation": "This quote is from the Shvetashvatar Upanishad.",
+      "source_reference": "Shvetashvatar Upanishad"
+    }
+  ]
+}

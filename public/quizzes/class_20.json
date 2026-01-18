@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 20 Quiz",
+  "questions": [
+    {
+      "id": "20-1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_answer": "Option 1",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-2",
+      "type": "quotation_reference_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Reference 1",
+        "Reference 2",
+        "Reference 3",
+        "Reference 4"
+      ],
+      "correct_answer": "Reference 1",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Option A",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-4",
+      "type": "quotation_reference_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Reference A",
+        "Reference B",
+        "Reference C",
+        "Reference D"
+      ],
+      "correct_answer": "Reference A",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Choice 1",
+        "Choice 2",
+        "Choice 3",
+        "Choice 4"
+      ],
+      "correct_answer": "Choice 1",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-6",
+      "type": "quotation_reference_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Source 1",
+        "Source 2",
+        "Source 3",
+        "Source 4"
+      ],
+      "correct_answer": "Source 1",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Answer 1",
+        "Answer 2",
+        "Answer 3",
+        "Answer 4"
+      ],
+      "correct_answer": "Answer 1",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-8",
+      "type": "quotation_reference_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Book 1",
+        "Book 2",
+        "Book 3",
+        "Book 4"
+      ],
+      "correct_answer": "Book 1",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Selection 1",
+        "Selection 2",
+        "Selection 3",
+        "Selection 4"
+      ],
+      "correct_answer": "Selection 1",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    },
+    {
+      "id": "20-10",
+      "type": "quotation_reference_mcq",
+      "question_text": "No content available. Hence, cannot generate question.",
+      "options": [
+        "Text 1",
+        "Text 2",
+        "Text 3",
+        "Text 4"
+      ],
+      "correct_answer": "Text 1",
+      "explanation": "Explanation of why the answer is correct.",
+      "source_reference": "Class 20"
+    }
+  ]
+}

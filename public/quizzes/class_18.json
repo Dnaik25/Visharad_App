@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 18 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "jevu paroksh Bhagwānnā Rām-Krushņādik avatārnu _____ jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī.",
+      "options": [
+        "māhātmya",
+        "swarup",
+        "divyata",
+        "shakti"
+      ],
+      "correct_answer": "māhātmya",
+      "explanation": "The exact quote from Vach.Ga.Ma.21 includes the word 'māhātmya'.",
+      "source_reference": "Vach.Ga.Ma.21"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Game tevo pāpī hoy ne ant same jo tene 'Swāminārāyan evā nāmnu uchchāran thây to te sarva pāp thakī chhūtīne Brahmamoholne vishe nivās kare",
+      "options": [
+        "Vach.Ga.Pa.56",
+        "Vach.Ga.Ma.21",
+        "Swa.Vato.1/153",
+        "Vach.Lo.5"
+      ],
+      "correct_answer": "Vach.Ga.Pa.56",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Pratham 56.",
+      "source_reference": "Vach.Ga.Pa.56"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Swāminārāyan nāmnā mantra jevo bījo koī mantra āj baļiyo nathī ne e mantre kāļā nāgnu pan zer na chade ne e mantre vishay ūdī jāy chhe, _____ thây chhe ne kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe.",
+      "options": [
+        "brahmarūp",
+        "bhaktarup",
+        "atmarup",
+        "ishwararup"
+      ],
+      "correct_answer": "brahmarūp",
+      "explanation": "The quote from Swamini Vato 1/153 states 'brahmarūp thây chhe'.",
+      "source_reference": "Swa.Vato.1/153"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Māțe nirantar bhajan karavu.",
+      "options": [
+        "Swa.Vato.1/153",
+        "Vach.Ga.Pa.56",
+        "Vach.Ga.Ma.21",
+        "Vach.Sa.10"
+      ],
+      "correct_answer": "Swa.Vato.1/153",
+      "explanation": "This is a direct quote from Swamini Vato 1/153.",
+      "source_reference": "Swa.Vato.1/153"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Te ā vārtā ek vār kahye samajo athavā lākh vār kahye samajo, āj samajo athavā lākh varsh kede samajo pan e vāt _____ ja chhūțako chhe.",
+      "options": [
+        "samajye",
+        "bhuli",
+        "vichariye",
+        "tyagiye"
+      ],
+      "correct_answer": "samajye",
+      "explanation": "The exact quote from Vach.Ga.Ma.21 includes the word 'samajye'.",
+      "source_reference": "Vach.Ga.Ma.21"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "jevu paroksh Bhagwānnā Rām-Krushņādik avatārnu māhātmya jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī.",
+      "options": [
+        "Vach.Ga.Ma.21",
+        "Swa.Vato.1/153",
+        "Vach.Ga.Pa.56",
+        "Vach.Sa.10"
+      ],
+      "correct_answer": "Vach.Ga.Ma.21",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Madhya 21.",
+      "source_reference": "Vach.Ga.Ma.21"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Game tevo _____ hoy ne ant same jo tene 'Swāminārāyan evā nāmnu uchchāran thây to te sarva pāp thakī chhūtīne Brahmamoholne vishe nivās kare",
+      "options": [
+        "pāpī",
+        "dhārmik",
+        "tyāgī",
+        "sant"
+      ],
+      "correct_answer": "pāpī",
+      "explanation": "The exact quote from Vach.Ga.Pa.56 includes the word 'pāpī'.",
+      "source_reference": "Vach.Ga.Pa.56"
+    },
+    {
+      "id": "8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Swāminārāyan nāmnā mantra jevo bījo koī mantra āj baļiyo nathī ne e mantre kāļā nāgnu pan zer na chade ne e mantre _____ ūdī jāy chhe, brahmarūp thây chhe ne kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe.",
+      "options": [
+        "vishay",
+        "krodh",
+        "lobh",
+        "moh"
+      ],
+      "correct_answer": "vishay",
+      "explanation": "The quote from Swamini Vato 1/153 states 'vishay ūdī jāy chhe'.",
+      "source_reference": "Swa.Vato.1/153"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Te ā vārtā ek vār kahye samajo athavā lākh vār kahye samajo, āj samajo athavā lākh varsh kede samajo pan e vāt samajye ja _____ chhe.",
+      "options": [
+        "chhūțako",
+        "chukavo",
+        "bhulavo",
+        "nakki"
+      ],
+      "correct_answer": "chhūțako",
+      "explanation": "The exact quote from Vach.Ga.Ma.21 includes the word 'chhūțako'.",
+      "source_reference": "Vach.Ga.Ma.21"
+    },
+    {
+      "id": "10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "_____ tevo pāpī hoy ne ant same jo tene 'Swāminārāyan evā nāmnu uchchāran thây to te sarva pāp thakī chhūtīne Brahmamoholne vishe nivās kare",
+      "options": [
+        "Game",
+        "Koi",
+        "Jevo",
+        "Kevo"
+      ],
+      "correct_answer": "Game",
+      "explanation": "The exact quote from Vach.Ga.Pa.56 begins with 'Game'.",
+      "source_reference": "Vach.Ga.Pa.56"
+    }
+  ]
+}

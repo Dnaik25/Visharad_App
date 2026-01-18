@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 1 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwānnu je ek _____ darshan te upar anant koṭi brahmānḍnā je viṣhaysukh chhe te sarvene vārīferīne nākhī deīe ane Bhagwānnā ek rommā jeṭalu sukh rahyu chhe.",
+      "options": [
+        "nimiṣhmātranu",
+        "janmanu",
+        "varshanu",
+        "kalpananu"
+      ],
+      "correct_answer": "nimiṣhmātranu",
+      "explanation": "This is a direct quote from Vachanamrut Sā.1",
+      "source_reference": "Vach.Sā.1"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Viṣhaynu je sukh chhe te karatā ātmānu sukh bahu adhik chhe ne te karatā Bhagwānnu sukh e to chintāmaṇi chhe.",
+      "options": [
+        "Swā.Vāto: 1/26",
+        "Swā.Vāto: 1/19",
+        "Swā.Vāto: 6/77",
+        "Vach.Sā.1"
+      ],
+      "correct_answer": "Swā.Vāto: 1/26",
+      "explanation": "The quotation is from Swamini Vato 1/26.",
+      "source_reference": "Swā.Vāto: 1/26"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Karoḍ rūpiyā _____ paṇ āvā Sādhu maḷe nahi ne karoḍ rūpiyā detā paṇ ā vātu maḷe nahi ne karoḍ rūpiyā āpatā paṇ manuṣhya-deh maḷe nahi.",
+      "options": [
+        "kharachtā",
+        "vāpartā",
+        "sambhāḷtā",
+        "joḍtā"
+      ],
+      "correct_answer": "kharachtā",
+      "explanation": "This is a direct quote from Swamini Vato 1/19",
+      "source_reference": "Swā.Vāto: 1/19"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Ā dehe Bhagwānne bhajī levā, ne deh to hamaṇā paḍashe, māṭe ā to vījaḷīnā zabakārāmā motī parovī levu, tem thoḍāmā kām kāḍhī levu.",
+      "options": [
+        "Swā.Vāto: 6/77",
+        "Swā.Vāto: 1/26",
+        "Swā.Vāto: 1/19",
+        "Vach.Sā.1"
+      ],
+      "correct_answer": "Swā.Vāto: 6/77",
+      "explanation": "The quotation is from Swamini Vato 6/77.",
+      "source_reference": "Swā.Vāto: 6/77"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ā dehe Bhagwānne bhajī levā, ne deh to hamaṇā paḍashe, māṭe ā to vījaḷīnā zabakārāmā _____ _____ levu, tem thoḍāmā kām kāḍhī levu.",
+      "options": [
+        "motī parovī",
+        "chāndī sambhāḷī",
+        "sonu joḍī",
+        "ratan dekhādī"
+      ],
+      "correct_answer": "motī parovī",
+      "explanation": "This is a direct quote from Swamini Vato 6/77",
+      "source_reference": "Swā.Vāto: 6/77"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Bhagwānnu je ek nimiṣhmātranu darshan te upar anant koṭi brahmānḍnā je viṣhaysukh chhe te sarvene vārīferīne nākhī deīe ane Bhagwānnā ek rommā jeṭalu sukh rahyu chhe teṭalu sukh jo anant koṭi brahmānḍnā viṣhaysukh bheḷā karīe to paṇ tenā koṭimā bhāgnī barobar paṇ thāy nahī.",
+      "options": [
+        "Vach.Sā.1",
+        "Swā.Vāto: 1/26",
+        "Swā.Vāto: 1/19",
+        "Swā.Vāto: 6/77"
+      ],
+      "correct_answer": "Vach.Sā.1",
+      "explanation": "The quotation is from Vachanamrut Sā.1.",
+      "source_reference": "Vach.Sā.1"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Viṣhaynu je sukh chhe te karatā ātmānu sukh bahu adhik chhe ne te karatā Bhagwānnu sukh e to _____ chhe.",
+      "options": [
+        "chintāmaṇi",
+        "kalpavruksha",
+        "parasmani",
+        "amrut"
+      ],
+      "correct_answer": "chintāmaṇi",
+      "explanation": "This is a direct quote from Swamini Vato 1/26",
+      "source_reference": "Swā.Vāto: 1/26"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Karoḍ rūpiyā kharachtā paṇ āvā Sādhu maḷe nahi ne karoḍ rūpiyā detā paṇ ā vātu maḷe nahi ne karoḍ rūpiyā āpatā paṇ manuṣhya-deh maḷe nahi; ne āpaṇe paṇ karoḍ janma dharyā chhe, paṇ koī vakhat āvo jog maḷyo nathī. Nīkar shu karavā deh dharavo paḍe?",
+      "options": [
+        "Swā.Vāto: 1/19",
+        "Vach.Sā.1",
+        "Swā.Vāto: 1/26",
+        "Swā.Vāto: 6/77"
+      ],
+      "correct_answer": "Swā.Vāto: 1/19",
+      "explanation": "The quotation is from Swamini Vato 1/19.",
+      "source_reference": "Swā.Vāto: 1/19"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "_____ shu karavā deh _____ paḍe?",
+      "options": [
+        "Nīkar, dharavo",
+        "Pachhi, sambhāḷvo",
+        "Atyare, bhogvo",
+        "Have, mukvo"
+      ],
+      "correct_answer": "Nīkar, dharavo",
+      "explanation": "This is a direct quote from Swamini Vato 1/19",
+      "source_reference": "Swā.Vāto: 1/19"
+    },
+    {
+      "id": "10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwānnā ek rommā jeṭalu sukh rahyu chhe teṭalu sukh jo anant koṭi brahmānḍnā viṣhaysukh bheḷā karīe to paṇ tenā _____ bhāgnī _____ paṇ thāy nahī.",
+      "options": [
+        "koṭimā, barobar",
+        "lakhomā, sarākha",
+        "hajaromā, talya",
+        "ekmā, juda"
+      ],
+      "correct_answer": "koṭimā, barobar",
+      "explanation": "This is a direct quote from Vachanamrut Sā.1",
+      "source_reference": "Vach.Sā.1"
+    }
+  ]
+}

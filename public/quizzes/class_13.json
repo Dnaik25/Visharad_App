@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 13 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Nirvikalp uttam ati, _____ tav Ghanshyām; Māhātmya-gnān-yukt bhakti tav, _____ sukh ḍhām.",
+      "options": [
+        "nischay",
+        "ekāntik",
+        "dridh",
+        "uttam"
+      ],
+      "correct_answer": "nischay and ekāntik",
+      "explanation": "The kirtan by Premanand Swami states 'Nirvikalp uttam ati, nischay tav Ghanshyām; Māhātmya-gnān-yukt bhakti tav, ekāntik sukh ḍhām.'",
+      "source_reference": "Kirtan, Verse 1"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Mohime tav bhaktapano, tāme koī prakār; Dosh na rahe koī jātko, suniyo Dharmakumār.",
+      "options": [
+        "Kirtan, Verse 2",
+        "Kirtan, Verse 5",
+        "Kirtan, Verse 8",
+        "Kirtan, Verse 11"
+      ],
+      "correct_answer": "Kirtan, Verse 2",
+      "explanation": "This verse is the second verse of the kirtan by Premanand Swami.",
+      "source_reference": "Kirtan, Verse 2"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tumāro tav Hari bhaktako, droh kabu nahi hoy; _____ tav dāsko, dīje samāgam moy.",
+      "options": [
+        "bhaktapano",
+        "dhāmme",
+        "kāntik",
+        "Mohime"
+      ],
+      "correct_answer": "kāntik",
+      "explanation": "The kirtan by Premanand Swami states 'Tumāro tav Hari bhaktako, droh kabu nahi hoy; kāntik tav dāsko, dīje samāgam moy.'",
+      "source_reference": "Kirtan, Verse 3"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Nāth nīrantar darsh tav, tav dāsanko dās; Ehī māgu karī vinay Hari, sadā rākhiyo pās.",
+      "options": [
+        "Kirtan, Verse 4",
+        "Kirtan, Verse 7",
+        "Kirtan, Verse 10",
+        "Kirtan, Verse 1"
+      ],
+      "correct_answer": "Kirtan, Verse 4",
+      "explanation": "This verse is the fourth verse of the kirtan by Premanand Swami.",
+      "source_reference": "Kirtan, Verse 4"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "He Krupālo! He Bhaktapte! _____; Dayāsindho! stavan karī, māgu vastu sāt.",
+      "options": [
+        "Bhaktavatsal! suno bāt",
+        "sadā rākhiyo pās",
+        "niyam ekādash joy",
+        "suniyo Dharmakumār"
+      ],
+      "correct_answer": "Bhaktavatsal! suno bāt",
+      "explanation": "The kirtan by Premanand Swami states 'He Krupālo! He Bhaktapte! Bhaktavatsal! suno bāt; Dayāsindho! stavan karī, māgu vastu sāt.'",
+      "source_reference": "Kirtan, Verse 5"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Sahajānand Mahārājke, sab satsangī sujāṇ; Tāku hoy dradh vartano, Shikshāpatrī pramāṇ.",
+      "options": [
+        "Kirtan, Verse 6",
+        "Kirtan, Verse 9",
+        "Kirtan, Verse 12",
+        "Kirtan, Verse 3"
+      ],
+      "correct_answer": "Kirtan, Verse 6",
+      "explanation": "This verse is the sixth verse of the kirtan by Premanand Swami.",
+      "source_reference": "Kirtan, Verse 6"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "So Patrī me atibaḍe, niyam _____; Tākī vigti kahat hu, suniyo sab chitt proy.",
+      "options": [
+        "ekādash joy",
+        "dosh na rahe",
+        "tav bhaktapano",
+        "vartano hoy"
+      ],
+      "correct_answer": "ekādash joy",
+      "explanation": "The kirtan by Premanand Swami states 'So Patrī me atibaḍe, niyam ekādash joy; Tākī vigti kahat hu, suniyo sab chitt proy.'",
+      "source_reference": "Kirtan, Verse 7"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Hinsā na karnī jantukī, partriyā sangko tyāg; Māns na khāvat madhyaku, pīvat nahi badbhāg.",
+      "options": [
+        "Kirtan, Verse 8",
+        "Kirtan, Verse 11",
+        "Kirtan, Verse 5",
+        "Kirtan, Verse 2"
+      ],
+      "correct_answer": "Kirtan, Verse 8",
+      "explanation": "This verse is the eighth verse of the kirtan by Premanand Swami.",
+      "source_reference": "Kirtan, Verse 8"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Vidhvāku sparshat nahi, karat na _____; Chori na karnī kāhukī, kalank na kouku lagāt.",
+      "options": [
+        "ātmaghat",
+        "badbhāg",
+        "vinay Hari",
+        "ati uttam"
+      ],
+      "correct_answer": "ātmaghat",
+      "explanation": "The kirtan by Premanand Swami states 'Vidhvāku sparshat nahi, karat na ātmaghat; Chori na karnī kāhukī, kalank na kouku lagāt.'",
+      "source_reference": "Kirtan, Verse 9"
+    },
+    {
+      "id": "10",
+      "type": "quotation_reference_mcq",
+      "question_text": "Ehī (vidhi) dharmake niyamme, barto sab haridās; Bhajo Shrī Sahajānandpad, chhoḍi aur sab ās.",
+      "options": [
+        "Kirtan, Verse 11",
+        "Kirtan, Verse 8",
+        "Kirtan, Verse 5",
+        "Kirtan, Verse 2"
+      ],
+      "correct_answer": "Kirtan, Verse 11",
+      "explanation": "This verse is the eleventh verse of the kirtan by Premanand Swami.",
+      "source_reference": "Kirtan, Verse 11"
+    }
+  ]
+}

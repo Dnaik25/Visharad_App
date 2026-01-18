@@ -1,0 +1,139 @@
+{
+  "quiz_title": "Class 5 Quiz",
+  "questions": [
+    {
+      "id": "5_1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"...jem ā līmbaḍānu _____ chhe te ek vār jāṇī līdhu chhe, pachhī koī rīte manmā sankalp thato nathī je, ‘Līmbaḍo hashe ke nahī hoy?’ Evī rīte game teno sang thāy ane game tevā shāstra sāmbhaḷe paṇ koī rīte karīne Bhagwānnā swarūpno je nishchay karyo hoy temāthī man ḍag-mage nahī, evo je nirutthānpaṇe Bhagwānno nishchay ene ame tadātmakpaṇu kahīe chhīe.\"",
+      "options": [
+        "ghar",
+        "vṛukṣh",
+        "pāṇī"
+      ],
+      "correct_answer": "vṛukṣh",
+      "explanation": "The exact quote from Vach.Ga.Ma.14 is being tested here.",
+      "source_reference": "Vach.Ga.Ma.14"
+    },
+    {
+      "id": "5_2",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...jem ā līmbaḍānu vṛukṣh chhe te ek vār jāṇī līdhu chhe, pachhī koī rīte manmā sankalp thato nathī je, ‘Līmbaḍo hashe ke nahī hoy?’ Evī rīte game teno sang thāy ane game tevā shāstra sāmbhaḷe paṇ koī rīte karīne Bhagwānnā swarūpno je nishchay karyo hoy temāthī man ḍag-mage nahī, evo je nirutthānpaṇe Bhagwānno nishchay ene ame tadātmakpaṇu kahīe chhīe.”",
+      "options": [
+        "Vach.Ga.Ma.14",
+        "Vach.Lo.3",
+        "Swā.Vāto: 1/301",
+        "Vach.Ga.Pr.56"
+      ],
+      "correct_answer": "Vach.Ga.Ma.14",
+      "explanation": "This quote is from Vachanamrut Gadhada I-14.",
+      "source_reference": "Vach.Ga.Ma.14"
+    },
+    {
+      "id": "5_3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Jene Bhagwānno ne santno _____ sahit nishchay hoy tethī Bhagwānne arthe ne santne arthe shu na thāy?\"",
+      "options": [
+        "māhātmya-gnāne",
+        "pāp",
+        "dosh"
+      ],
+      "correct_answer": "māhātmya-gnāne",
+      "explanation": "The exact quote from Vach.Lo.3 is being tested here.",
+      "source_reference": "Vach.Lo.3"
+    },
+    {
+      "id": "5_4",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Jene Bhagwānno ne santno māhātmya-gnāne sahit nishchay hoy tethī Bhagwānne arthe ne santne arthe shu na thāy? Ene arthe kuṭumbno tyāg kare, loklājno tyāg kare, rājyano tyāg kare, sukhno tyāg kare, dhanno tyāg kare, strīno tyāg kare ane strī hoy te puruṣhno tyāg kare.”",
+      "options": [
+        "Vach.Lo.3",
+        "Swā.Vāto: 1/301",
+        "Vach.Ga.Ma.14",
+        "Vach.Ga.Pr.56"
+      ],
+      "correct_answer": "Vach.Lo.3",
+      "explanation": "This quote is from Vachanamrut Loya-3.",
+      "source_reference": "Vach.Lo.3"
+    },
+    {
+      "id": "5_5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Āpaṇe to _____ jāvu chhe evo ek sankalp rākhavo.",
+      "options": [
+        "Akṣhardhāmmā",
+        "Vaikunth",
+        "Golok"
+      ],
+      "correct_answer": "Akṣhardhāmmā",
+      "explanation": "The exact quote from Swā.Vāto: 1/301 is being tested here.",
+      "source_reference": "Swā.Vāto: 1/301"
+    },
+    {
+      "id": "5_6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Āpaṇe to Akṣhardhāmmā jāvu chhe evo ek sankalp rākhavo.",
+      "options": [
+        "Swā.Vāto: 1/301",
+        "Vach.Ga.Pr.56",
+        "Vach.Ga.Ma.14",
+        "Vach.Lo.3"
+      ],
+      "correct_answer": "Swā.Vāto: 1/301",
+      "explanation": "This quote is from Swamini Vato 1/301.",
+      "source_reference": "Swā.Vāto: 1/301"
+    },
+    {
+      "id": "5_7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Keṭalāk siddha thāy chhe ne keṭalāk sarvagna thāy chhe ne keṭalāk _____ thāy chhe ityādik anant prakārnī moṭyap pāme chhe tathā param padne pāme chhe e sarve Bhagwānnī upāsanāne baḷe pāme chhe, paṇ upāsanā vinā koī vāt siddha thatī nathī.\"",
+      "options": [
+        "devatā",
+        "mānav",
+        "dānava"
+      ],
+      "correct_answer": "devatā",
+      "explanation": "The exact quote from Vach.Ga.Pr.56 is being tested here.",
+      "source_reference": "Vach.Ga.Pr.56"
+    },
+    {
+      "id": "5_8",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Keṭalāk siddha thāy chhe ne keṭalāk sarvagna thāy chhe ne keṭalāk devatā thāy chhe ityādik anant prakārnī moṭyap pāme chhe tathā param padne pāme chhe e sarve Bhagwānnī upāsanāne baḷe pāme chhe, paṇ upāsanā vinā koī vāt siddha thatī nathī.”",
+      "options": [
+        "Vach.Ga.Pr.56",
+        "Vach.Lo.3",
+        "Swā.Vāto: 1/301",
+        "Vach.Ga.Ma.14"
+      ],
+      "correct_answer": "Vach.Ga.Pr.56",
+      "explanation": "This quote is from Vachanamrut Gadhada Pratham-56.",
+      "source_reference": "Vach.Ga.Pr.56"
+    },
+    {
+      "id": "5_9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Jem so so shunya sārā kare, paṇ ek na kare jo āgaḷe; Te sarvāḷo shāno melshe, je kare chhe _____. Tem ek Harine parhare, biji kare chaturāyi koṭ; Te to māthāfar chāle mārge, jem jem chāle tem khoṭ.",
+      "options": [
+        "kāḷap kāgaḷe",
+        "ratan rupāḷe",
+        "mithyā māṇe"
+      ],
+      "correct_answer": "kāḷap kāgaḷe",
+      "explanation": "The exact quote from Sarsiddhi is being tested here.",
+      "source_reference": "Sārsiddhi"
+    },
+    {
+      "id": "5_10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Tem ek Harine parhare, biji kare _____; Te to māthāfar chāle mārge, jem jem chāle tem khoṭ.",
+      "options": [
+        "chaturāyi koṭ",
+        "bhakti mot",
+        "sevā tot"
+      ],
+      "correct_answer": "chaturāyi koṭ",
+      "explanation": "The exact quote from Sarsiddhi is being tested here.",
+      "source_reference": "Sārsiddhi"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 15 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "je je mārā kahevāyā chho temā māre ek _____ _____ rahevā devī nathī.",
+      "options": [
+        "talmātra kasar",
+        "kasar talmātra",
+        "kasar mamātra",
+        "mamātra kasar"
+      ],
+      "correct_answer": "talmātra kasar",
+      "explanation": "As per Vach.Ga.Ma.45, 'je je mārā kahevāyā chho temā māre ek talmātra kasar rahevā devī nathī.'",
+      "source_reference": "Vach.Ga.Ma.45"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Sukh dukh äve sarve bheļu, temā rākhajyo sthir mati; Jāļavīsh mārā janne, vaļī karīsh jatan ati.",
+      "options": [
+        "BHAKTACHINTAMANI 76/39-41",
+        "Vach.Ga.Ma.45",
+        "Vach.Ga.An.7",
+        "BHAKTACHINTAMANI 70/1-2"
+      ],
+      "correct_answer": "BHAKTACHINTAMANI 76/39-41",
+      "explanation": "This is verse from Bhaktachintamani",
+      "source_reference": "BHAKTACHINTAMANI 76/39-41"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Māțe tame pan sūdhā sāvadhān rahejyo; jo jarāy _____ rākhasho to tamāro pag takashe nahī.",
+      "options": [
+        "gāfalāī",
+        "savdhāni",
+        "kasar",
+        "prem"
+      ],
+      "correct_answer": "gāfalāī",
+      "explanation": "According to Vach.Ga.Ma.45, one should remain vigilant to avoid faltering.",
+      "source_reference": "Vach.Ga.Ma.45"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Nahi to tame nachint rahejyo, karavu tamāre kāī nathī; Je malyā chhe tamane, te pār chhe Aksharthī.",
+      "options": [
+        "BHAKTACHINTAMANI 76/39-41",
+        "Vach.Ga.Ma.45",
+        "Vach.Ga.An.7",
+        "BHAKTACHINTAMANI 70/1-2"
+      ],
+      "correct_answer": "BHAKTACHINTAMANI 76/39-41",
+      "explanation": "This is verse from Bhaktachintamani",
+      "source_reference": "BHAKTACHINTAMANI 76/39-41"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ane māre to je tame Bhagwānnā bhakta chho tenā hrudaymā koī jātnī _____ tathā koī jātno _____ swabhāv te rahevā devo nathī.",
+      "options": [
+        "vāsanā ayogya",
+        "vāsanā yogya",
+        "vāsanā sadgun",
+        "sadgun ayogya"
+      ],
+      "correct_answer": "vāsanā ayogya",
+      "explanation": "Vach.Ga.Ma.45 states that the Lord does not allow any desires or bad habits to remain in the hearts of His devotees.",
+      "source_reference": "Vach.Ga.Ma.45"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Te Bhagwānno jene pratyaksh pramān dradh āsharo hoy tene manmā evī bīk na rākhavī je, 'Hu rakhe marine bhūt-pret thau ke rakhe Indralokne ja pāmu ke rakhe Brahmalokne ja pāmu!'",
+      "options": [
+        "Vach.Ga.An.7",
+        "BHAKTACHINTAMANI 76/39-41",
+        "Vach.Ga.Ma.45",
+        "BHAKTACHINTAMANI 70/1-2"
+      ],
+      "correct_answer": "Vach.Ga.An.7",
+      "explanation": "This is a quote from Vachanamrut Gadhada Antya 7",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Em karatā jo pand padashe, to āgaļ sukh chhe ati ghaņu; Pan vrat tek jo _____ to, bhogavasho sahu sahu taņu.",
+      "options": [
+        "tāļasho",
+        "rakhasho",
+        "karasho",
+        "bhogavasho"
+      ],
+      "correct_answer": "tāļasho",
+      "explanation": "This is a quote from Bhaktachintamani",
+      "source_reference": "BHAKTACHINTAMANI 76/39-41"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Je malyā chhe tamane, te pār chhe Aksharthī.",
+      "options": [
+        "BHAKTACHINTAMANI 76/39-41",
+        "Vach.Ga.Ma.45",
+        "Vach.Ga.An.7",
+        "BHAKTACHINTAMANI 70/1-2"
+      ],
+      "correct_answer": "BHAKTACHINTAMANI 76/39-41",
+      "explanation": "This is verse from Bhaktachintamani",
+      "source_reference": "BHAKTACHINTAMANI 76/39-41"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Je evo Bhagwānno bhakta hoy te to Bhagwānnā dhāmne ja pāme pan vachmā kyāy tene Bhagwān _____ de nahī.",
+      "options": [
+        "rahevā",
+        "rakhe",
+        "vachmā",
+        "raksha"
+      ],
+      "correct_answer": "rahevā",
+      "explanation": "According to Vach.Ga.An.7, a devotee of God attains God's abode and is not left in between.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "10",
+      "type": "quotation_reference_mcq",
+      "question_text": "Sukh dukh äve sarve bheļu, temā rākhajyo sthir mati",
+      "options": [
+        "BHAKTACHINTAMANI 76/39-41",
+        "Vach.Ga.Ma.45",
+        "Vach.Ga.An.7",
+        "BHAKTACHINTAMANI 70/1-2"
+      ],
+      "correct_answer": "BHAKTACHINTAMANI 76/39-41",
+      "explanation": "This is a quote from Bhaktachintamani",
+      "source_reference": "BHAKTACHINTAMANI 76/39-41"
+    }
+  ]
+}

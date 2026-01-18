@@ -1,0 +1,146 @@
+{
+  "quiz_title": "Class 9 Quiz",
+  "questions": [
+    {
+      "id": "9-1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"_____ taravāno upāy e chhe je, jyāre sarva karma ane māyā teno nāsh karanārā ne māyāthī par je sākṣhātkār Shrī Puruṣhottam Bhagwān athavā te Bhagwānnā maḷel sant temanī jīvne prāpti jyāre thāy chhe tyāre temanā āshraythī māyā ullanghāy chhe.\"",
+      "options": [
+        "māyā",
+        "karma",
+        "gnān",
+        "bhakti"
+      ],
+      "correct_answer": "māyā",
+      "explanation": "As per Vach.Je.1, 'māyā taravāno upāy e chhe je...'",
+      "source_reference": "Vach.Je.1"
+    },
+    {
+      "id": "9-2",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Bhagwān ne Bhagwānnā sant e ja _____ chhe.\"",
+      "options": [
+        "kalyāṇkārī",
+        "dukhdāyī",
+        "māyākārī",
+        "bandhankārī"
+      ],
+      "correct_answer": "kalyāṇkārī",
+      "explanation": "As per Vach.Ga.Ma.59, 'Bhagwān ne Bhagwānnā sant e ja kalyāṇkārī chhe.'",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "9-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Jene Bhagwānno ne santno _____ sahit nishchay hoy...\"",
+      "options": [
+        "māhātmya-gnāne",
+        "swabhav-doshe",
+        "deha-bhāve",
+        "sanshay-vrutti"
+      ],
+      "correct_answer": "māhātmya-gnāne",
+      "explanation": "As per Vach.Lo.3, 'Jene Bhagwānno ne santno māhātmya-gnāne sahit nishchay hoy...'",
+      "source_reference": "Vach.Lo.3"
+    },
+    {
+      "id": "9-4",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"Bhagwānnā santnī sevā to bahu moṭā puṇyavāḷāne maḷe.\"",
+      "options": [
+        "Vach.Ga.Ma.59",
+        "Vach.Je.1",
+        "Vach.Lo.3",
+        "Vach.Va.14"
+      ],
+      "correct_answer": "Vach.Ga.Ma.59",
+      "explanation": "This quotation is from Vachanamrut Gadhada Madhya 59.",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "9-5",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"...satpuruṣhno āsharo kare tyāre game tevo pāpī hoy to paṇ ati pavitra thaī jāy chhe...\"",
+      "options": [
+        "Vach.Va.14",
+        "Vach.Ga.Ma.59",
+        "Vach.Je.1",
+        "Vach.Lo.3"
+      ],
+      "correct_answer": "Vach.Va.14",
+      "explanation": "This quotation is from Vachanamrut Vadtal 14.",
+      "source_reference": "Vach.Va.14"
+    },
+    {
+      "id": "9-6",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"Bhagwān ane Moṭā Sādhune āshare karīne to vādaḷ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.\"",
+      "options": [
+        "Swa.Vato.1/114",
+        "Vach.Va.14",
+        "Vach.Ga.Ma.59",
+        "Vach.Je.1"
+      ],
+      "correct_answer": "Swa.Vato.1/114",
+      "explanation": "This quotation is from Swamini Vato 1/114.",
+      "source_reference": "Swa.Vato.1/114"
+    },
+    {
+      "id": "9-7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"...satpuruṣhno _____ kare tyāre game tevo pāpī hoy to paṇ ati pavitra thaī jāy chhe...\"",
+      "options": [
+        "āsharo",
+        "dhyān",
+        "sevā",
+        "sang"
+      ],
+      "correct_answer": "āsharo",
+      "explanation": "As per Vach.Va.14, '...satpuruṣhno āsharo kare tyāre game tevo pāpī hoy to paṇ ati pavitra thaī jāy chhe...'",
+      "source_reference": "Vach.Va.14"
+    },
+    {
+      "id": "9-8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Bhagwān ane Moṭā Sādhune _____ karīne to vādaḷ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.\"",
+      "options": [
+        "āshare",
+        "samīpe",
+        "dur",
+        "agne"
+      ],
+      "correct_answer": "āshare",
+      "explanation": "As per Swa.Vato.1/114, 'Bhagwān ane Moṭā Sādhune āshare karīne to vādaḷ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.'",
+      "source_reference": "Swa.Vato.1/114"
+    },
+    {
+      "id": "9-9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Bhagwānnā _____ sevā to bahu moṭā puṇyavāḷāne maḷe.\"",
+      "options": [
+        "santnī",
+        "bhaktanī",
+        "mandirnī",
+        "muratinī"
+      ],
+      "correct_answer": "santnī",
+      "explanation": "As per Vach.Ga.Ma.59, 'Bhagwānnā santnī sevā to bahu moṭā puṇyavāḷāne maḷe.'",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "9-10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"_____ ane _____ āshare karīne to vādaḷ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.\"",
+      "options": [
+        "Bhagwān",
+        "Moṭā Sādhune",
+        "santo",
+        "Bhaktone",
+        "Swāmine"
+      ],
+      "correct_answer": "Bhagwān ane Moṭā Sādhune",
+      "explanation": "As per Swa.Vato.1/114, 'Bhagwān ane Moṭā Sādhune āshare karīne to vādaḷ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.'",
+      "source_reference": "Swa.Vato.1/114"
+    }
+  ]
+}

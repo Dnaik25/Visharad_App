@@ -1,0 +1,89 @@
+{
+  "quiz_title": "Class 19 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu _____ thây chhe ne e jīvne kașht thāy chhe tevu koī _____ karīne nathī thatu.",
+      "options": [
+        "bhūndu",
+        "pāpe",
+        "rūdu",
+        "sādhan"
+      ],
+      "correct_answer": "bhūndu and pāpe",
+      "explanation": "The Vachanamrut states that harming Bhagwan's devotees leads to suffering, worse than any sin.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na karavo.",
+      "options": [
+        "Vach.Ga.Ma.40",
+        "Vach.Lo.5",
+        "Vach.Sa.10",
+        "Vach.Je.1"
+      ],
+      "correct_answer": "Vach.Ga.Ma.40",
+      "explanation": "This quote emphasizes avoiding disrespect towards Bhagwan's devotees.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je _____ banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne _____ thây chhe tevu bīje koī sādhane karīne nathī thatu...",
+      "options": [
+        "sevā",
+        "kașht",
+        "sukh",
+        "dukh"
+      ],
+      "correct_answer": "sevā and sukh",
+      "explanation": "Serving Bhagwan's devotees brings happiness that no other means can provide.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu; ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu...",
+      "options": [
+        "Vach.Ga.Ma.40",
+        "Vach.Sa.1",
+        "Vach.Lo.9",
+        "Vach.Ma.1"
+      ],
+      "correct_answer": "Vach.Ga.Ma.40",
+      "explanation": "This is the core teaching of Vachanamrut Gadhada I-40 regarding devotees.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Māte jene dehe karīne param _____ thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na _____.",
+      "options": [
+        "sukhiyā",
+        "karavo",
+        "dukhiya",
+        "bhajvo"
+      ],
+      "correct_answer": "sukhiyā and karavo",
+      "explanation": "The Vachanamrut emphasizes that avoiding disrespect towards devotees is key to happiness.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "… Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na karavo.",
+      "options": [
+        "Vach.Ga.Ma.40",
+        "Vach.Ga.I.1",
+        "Vach.Sa.2",
+        "Vach.Lo.6"
+      ],
+      "correct_answer": "Vach.Ga.Ma.40",
+      "explanation": "This quote focuses on not causing pain to God's devotees through thought, word, or deed.",
+      "source_reference": "Vach.Ga.Ma.40"
+    }
+  ]
+}

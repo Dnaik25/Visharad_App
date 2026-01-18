@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 2 Quiz",
+  "questions": [
+    {
+      "id": "2_1",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Karoḍ kām bagāḍīne paṇ ek _____ sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
+      "options": [
+        "mokṣha",
+        "dharma",
+        "artha",
+        "kām"
+      ],
+      "correct_answer": "mokṣha",
+      "explanation": "From Swamini Vato 1/14, one should strive to improve one's moksha even at the cost of losing millions of tasks.",
+      "source_reference": "Swā.Vāto: 1/14"
+    },
+    {
+      "id": "2_2",
+      "type": "quotation_reference_mcq",
+      "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne akhanḍ Bhagwānnī sevāmā hajūr rahevu chhe, paṇ nāshavant ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
+      "options": [
+        "Vach.Ga.Pr.21",
+        "Vach.Ga.An.30",
+        "Swā.Vāto: 2/19",
+        "Swā.Vāto: 4/99"
+      ],
+      "correct_answer": "Vach.Ga.Pr.21",
+      "explanation": "This quotation is from Vachanamrut Gadhada Pratham 21.",
+      "source_reference": "Vach.Ga.Pr.21"
+    },
+    {
+      "id": "2_3",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...marī to sarvene javu chhe paṇ āvī rīte bhakti karavī e ja jīvyāno moṭo lābh chhe...”",
+      "options": [
+        "Vach.Ga.An.30",
+        "Vach.Ga.Pr.21",
+        "Swā.Vāto: 2/19",
+        "Swā.Vāto: 4/99"
+      ],
+      "correct_answer": "Vach.Ga.An.30",
+      "explanation": "This quotation is from Vachanamrut Gadhada Antya 30.",
+      "source_reference": "Vach.Ga.An.30"
+    },
+    {
+      "id": "2_4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ā meḍiyu maḷī chhe ne sāru sāru khāvā maḷe chhe, ke mān maḷe chhe, ityādik _____ dehnu faḷ nathī. Te to vimukhne paṇ maḷe chhe.",
+      "options": [
+        "manuṣhya",
+        "pashu",
+        "pakshī",
+        "dev"
+      ],
+      "correct_answer": "manuṣhya",
+      "explanation": "This quotation is from Swamini Vato 2/19, explaining that good food and respect are not the fruits of a human body.",
+      "source_reference": "Swā.Vāto: 2/19"
+    },
+    {
+      "id": "2_5",
+      "type": "quotation_reference_mcq",
+      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek Akṣharrūp thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭaḷavī.",
+      "options": [
+        "Swā.Vāto: 4/99",
+        "Swā.Vāto: 2/19",
+        "Vach.Ga.An.30",
+        "Vach.Ga.Pr.21"
+      ],
+      "correct_answer": "Swā.Vāto: 4/99",
+      "explanation": "This quotation is from Swamini Vato 4/99, discussing the purpose of our birth.",
+      "source_reference": "Swā.Vāto: 4/99"
+    },
+    {
+      "id": "2_6",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Nāshvant ā deh vadhethi, avinashi fal levu ji, _____ jemi karine, bahaar feki devu ji",
+      "options": [
+        "patrāvaane",
+        "lakḍāne",
+        "dhātu ne",
+        "pāṇīne"
+      ],
+      "correct_answer": "patrāvaane",
+      "explanation": "From the kirtan by Narayandas Swami, nashvant ā deh...",
+      "source_reference": "Narayandas Swami"
+    },
+    {
+      "id": "2_7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek _____ thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭaḷavī.",
+      "options": [
+        "Akṣharrūp",
+        "brahmarūp",
+        "ishvarrūp",
+        "devrūp"
+      ],
+      "correct_answer": "Akṣharrūp",
+      "explanation": "From Swamini Vato 4/99, one purpose of our birth is to become Aksharrup.",
+      "source_reference": "Swā.Vāto: 4/99"
+    },
+    {
+      "id": "2_8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "_____ kām bagāḍīne paṇ ek mokṣha sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
+      "options": [
+        "Karoḍ",
+        "Lākh",
+        "Hajār",
+        "Sau"
+      ],
+      "correct_answer": "Karoḍ",
+      "explanation": "From Swamini Vato 1/14, even losing millions of tasks is worth improving one's moksha.",
+      "source_reference": "Swā.Vāto: 1/14"
+    },
+    {
+      "id": "2_9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ā meḍiyu maḷī chhe ne _____ khāvā maḷe chhe, ke mān maḷe chhe, ityādik manuṣhya dehnu faḷ nathī. Te to vimukhne paṇ maḷe chhe.",
+      "options": [
+        "sāru sāru",
+        "mīṭhu mīṭhu",
+        "sādu sādu",
+        "kharāb kharāb"
+      ],
+      "correct_answer": "sāru sāru",
+      "explanation": "From Swamini Vato 2/19, getting good food and respect is not the purpose of this human life.",
+      "source_reference": "Swā.Vāto: 2/19"
+    },
+    {
+      "id": "2_10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne _____ sevāmā hajūr rahevu chhe, paṇ nāshavant ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
+      "options": [
+        "akhanḍ Bhagwānnī",
+        "sākār Bhagwānnī",
+        "nirākār Bhagwānnī",
+        "alaukik Bhagwānnī"
+      ],
+      "correct_answer": "akhanḍ Bhagwānnī",
+      "explanation": "From Vachanamrut Gadhada Pratham 21, we should remain in the service of Akhand Bhagwan in Akshardham.",
+      "source_reference": "Vach.Ga.Pr.21"
+    }
+  ]
+}

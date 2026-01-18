@@ -22,6 +22,7 @@ type QuizRunnerProps = {
     classId: string;
     type: 'class_quiz' | 'mini_review';
     title: string;
+    nextClassPath?: string;
 };
 
 // Helper to shuffle array
@@ -34,7 +35,7 @@ function shuffleArray<T>(array: T[]): T[] {
     return newArr;
 }
 
-export function QuizRunner({ classId, type, title }: QuizRunnerProps) {
+export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerProps) {
     const [loading, setLoading] = useState(false);
     // quizData holds the ACTIVE set of questions for the current run
     const [quizData, setQuizData] = useState<QuizData | null>(null);
@@ -251,13 +252,22 @@ export function QuizRunner({ classId, type, title }: QuizRunnerProps) {
                         )}
                     </div>
 
-                    <div className="p-6 bg-gray-50 dark:bg-neutral-900 flex justify-center">
+                    <div className="p-6 bg-gray-50 dark:bg-neutral-900 flex justify-center gap-4">
                         <button
                             onClick={handleTakeAgain}
-                            className="flex items-center gap-2 px-6 py-3 bg-red-600 text-white rounded-full font-bold hover:bg-red-700 transition"
+                            className="flex items-center gap-2 px-6 py-3 bg-white border border-gray-200 text-gray-700 rounded-full font-bold hover:bg-gray-50 transition"
                         >
                             <RefreshCw size={20} /> Take Another Quiz
                         </button>
+
+                        {nextClassPath && (
+                            <a
+                                href={nextClassPath}
+                                className="flex items-center gap-2 px-6 py-3 bg-red-600 text-white rounded-full font-bold hover:bg-red-700 transition"
+                            >
+                                Next Class <ArrowRight size={20} />
+                            </a>
+                        )}
                     </div>
                 </div>
             </div>

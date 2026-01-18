@@ -85,10 +85,12 @@ export function ReferenceItem({ item, classId }: { item: RefItem; source?: strin
 
 export function NavButtons({
     prevHref,
-    nextHref
+    nextHref,
+    nextLabel = "Next Shlok →"
 }: {
     prevHref: string | null;
     nextHref: string | null;
+    nextLabel?: string;
 }) {
     return (
         <div className="flex flex-col sm:flex-row justify-between items-center mt-12 pt-6 border-t border-gray-100 sticky bottom-0 bg-white/95 backdrop-blur-sm pb-6 gap-4">
@@ -110,7 +112,7 @@ export function NavButtons({
                     href={nextHref}
                     className="w-full sm:w-auto text-center px-6 py-3 sm:py-2 border border-gray-300 rounded-full text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors text-sm font-medium"
                 >
-                    Next Shlok →
+                    {nextLabel}
                 </Link>
             ) : (
                 <span className="w-full sm:w-auto text-center px-6 py-3 sm:py-2 border border-gray-100 rounded-full text-gray-300 text-sm font-medium cursor-not-allowed">

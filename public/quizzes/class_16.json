@@ -4,142 +4,30 @@
     {
       "id": "1",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsangioe sadā sūrya ūgyā _______ jāgavu. Tyār bād snānādik karī shuddha vastro dhāran karavā. (51)",
+      "question_text": "Bhagwanne bhajavā ethī bījī vāt moţī _____ _____.",
       "options": [
-        "pūrve",
-        "pāchhaḷ",
-        "sāthe",
-        "vāhela"
+        "nathī",
+        "che",
+        "pan",
+        "ke"
       ],
-      "correct_answer": "pūrve",
-      "explanation": "According to Satsang Diksha Shlok 51, Satsangis should awaken before sunrise.",
-      "source_reference": "Satsang Diksha Shlok 51"
+      "correct_answer": "nathī",
+      "explanation": "The Vachanamrut states: 'Bhagwanne bhajavā ethī bījī vāt moţī nathī.'",
+      "source_reference": "Vach.Je.5"
     },
     {
       "id": "2",
       "type": "quotation_reference_mcq",
-      "question_text": "Shuddhih sarvavidhā pālyā bāhyā chā'bhyantarā sadā | Shuddhi-priyah prasīdech-cha shuddhi-mati jane Harihi || 50 ||",
-      "options": [
-        "Satsang Diksha Shlok 50",
-        "Satsang Diksha Shlok 51",
-        "Satsang Diksha Shlok 52",
-        "Vach.Je.5"
-      ],
-      "correct_answer": "Satsang Diksha Shlok 50",
-      "explanation": "This is the first line of Satsang Diksha Shlok 50.",
-      "source_reference": "Satsang Diksha Shlok 50"
-    },
-    {
-      "id": "3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Tyār bād pūrva dishāmā athavā uttar dishāmā mukh rākhī, shuddha _______ upar besī nitya-pūjā karavī. (52)",
-      "options": [
-        "āsan",
-        "pātra",
-        "vastra",
-        "mandir"
-      ],
-      "correct_answer": "āsan",
-      "explanation": "According to Satsang Diksha Shlok 52, one should sit on a clean seat for daily puja.",
-      "source_reference": "Satsang Diksha Shlok 52"
-    },
-    {
-      "id": "4",
-      "type": "quotation_reference_mcq",
-      "question_text": "Bhagwanne bhajavā ethī bījī vāt moţī nathī.",
+      "question_text": "Which Vachanamrut contains the following quote: 'Bhagwanne bhajavā ethī bījī vāt moţī nathī.'?",
       "options": [
         "Vach.Je.5",
-        "Satsang Diksha Shlok 50",
-        "Satsang Diksha Shlok 51",
-        "Satsang Diksha Shlok 52"
+        "Vach.Gadhada.I-1",
+        "Vach.Loya.12",
+        "Vach.Sarngpur.1"
       ],
       "correct_answer": "Vach.Je.5",
-      "explanation": "This quote is from Vachanamrut Jetalpur 5.",
+      "explanation": "The quote 'Bhagwanne bhajavā ethī bījī vāt moţī nathī' is from Vach.Je.5.",
       "source_reference": "Vach.Je.5"
-    },
-    {
-      "id": "5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Swāminārāyan mantrano jāp karatā tathā gurunu smaran karatā karatā _______ vishe Bhagwānnā pūjāthī prasādībhūt thayel chandan vade ūrdhva-pundra tilak karavu ane kumkum vade chāndalo karavo tathā chhātī ane banne bhujão par chandanthī tilak-chāndalo karavo. (53-54)",
-      "options": [
-        "bhālne",
-        "kanthne",
-        "netrane",
-        "haste"
-      ],
-      "correct_answer": "bhālne",
-      "explanation": "According to Satsang Diksha Shlok 53-54, Tilak is applied on the forehead.",
-      "source_reference": "Satsang Diksha Shlok 53-54"
-    },
-    {
-      "id": "6",
-      "type": "quotation_reference_mcq",
-      "question_text": "Satsangibhih praboddhavyam pūrvam sūryodayāt sadā | Tatah snānādikam krutvā dhartavyam shuddha vastrakam || 51 ||",
-      "options": [
-        "Satsang Diksha Shlok 51",
-        "Satsang Diksha Shlok 50",
-        "Satsang Diksha Shlok 53-54",
-        "Vach.Je.5"
-      ],
-      "correct_answer": "Satsang Diksha Shlok 51",
-      "explanation": "This is the first line of Satsang Diksha Shlok 51.",
-      "source_reference": "Satsang Diksha Shlok 51"
-    },
-    {
-      "id": "7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Strīoe Bhagwān tathā gurunu smaran karatā bhālne vishe kevaļ _______ chāndalo karavo. Tilak na karavu. (55)",
-      "options": [
-        "kumkumno",
-        "chandan",
-        "kesar",
-        "gulal"
-      ],
-      "correct_answer": "kumkumno",
-      "explanation": "According to Satsang Diksha Shlok 55, women should apply a kumkum chandlo.",
-      "source_reference": "Satsang Diksha Shlok 55"
-    },
-    {
-      "id": "8",
-      "type": "quotation_reference_mcq",
-      "question_text": "Tyār bād pūrva dishāmā athavā uttar dishāmā mukh rākhī, shuddha āsan upar besī nitya-pūjā karavī. (52)",
-      "options": [
-        "Satsang Diksha Shlok 52",
-        "Satsang Diksha Shlok 50",
-        "Satsang Diksha Shlok 51",
-        "Satsang Diksha Shlok 53-54"
-      ],
-      "correct_answer": "Satsang Diksha Shlok 52",
-      "explanation": "This is the meaning of Satsang Diksha Shlok 52.",
-      "source_reference": "Satsang Diksha Shlok 52"
-    },
-    {
-      "id": "9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bāhya ane antarik em sarva _______ shuddhinu pālan karavu. Shrīharine shuddhi priya chhe ane shuddhivāļā manushyanī upar teo prasanna thay chhe. (50)",
-      "options": [
-        "prakārnī",
-        "ritnī",
-        "bātnī",
-        "dishānī"
-      ],
-      "correct_answer": "prakārnī",
-      "explanation": "According to Satsang Diksha Shlok 50, all types of purity should be observed.",
-      "source_reference": "Satsang Diksha Shlok 50"
-    },
-    {
-      "id": "10",
-      "type": "quotation_reference_mcq",
-      "question_text": "Kevalam chandrakah strībhih kartavyas-tilakam na hi | Kumkuma dravyato bhāle smarantībhir harim gurum || 55 ||",
-      "options": [
-        "Satsang Diksha Shlok 55",
-        "Satsang Diksha Shlok 50",
-        "Satsang Diksha Shlok 51",
-        "Satsang Diksha Shlok 53-54"
-      ],
-      "correct_answer": "Satsang Diksha Shlok 55",
-      "explanation": "This is the first line of Satsang Diksha Shlok 55.",
-      "source_reference": "Satsang Diksha Shlok 55"
     }
   ]
 }

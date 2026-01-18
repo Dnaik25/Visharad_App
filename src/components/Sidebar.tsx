@@ -54,7 +54,7 @@ export function Sidebar({ classes, onLinkClick, onClose }: SidebarProps) {
                     href="/"
                     onClick={onLinkClick}
                     className={`
-                        block px-3 py-2 text-sm font-medium rounded-md transition-all mb-4
+                        block px-3 py-2 text-sm font-medium rounded-md transition-all mb-1
                         ${pathname === '/'
                             ? 'bg-blue-50 text-blue-700 border-l-4 border-blue-500'
                             : 'text-gray-700 hover:bg-gray-100 hover:text-gray-900'
@@ -62,6 +62,20 @@ export function Sidebar({ classes, onLinkClick, onClose }: SidebarProps) {
                     `}
                 >
                     Home
+                </Link>
+
+                <Link
+                    href="/test-yourself"
+                    onClick={onLinkClick}
+                    className={`
+                        block px-3 py-2 text-sm font-medium rounded-md transition-all mb-4
+                        ${pathname.startsWith('/test-yourself')
+                            ? 'bg-orange-50 text-orange-700 border-l-4 border-orange-500'
+                            : 'text-gray-700 hover:bg-gray-100 hover:text-gray-900'
+                        }
+                    `}
+                >
+                    Test Yourself
                 </Link>
 
                 {classes.map((cls) => {
@@ -120,23 +134,6 @@ export function Sidebar({ classes, onLinkClick, onClose }: SidebarProps) {
                                     >
                                         📝 Quiz {classId}
                                     </Link>
-
-                                    {/* Mini-Review Link (Every 5 classes) */}
-                                    {classNumInt % 5 === 0 && (
-                                        <Link
-                                            href={`/class/${classId}/mini-review`}
-                                            onClick={onLinkClick}
-                                            className={`
-                                                block px-3 py-2 text-sm rounded-md transition-all
-                                                ${pathname === `/class/${classId}/mini-review`
-                                                    ? 'bg-orange-50 text-orange-700 font-medium border-l-4 border-orange-500'
-                                                    : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
-                                                }
-                                            `}
-                                        >
-                                            ⭐ Mini-Review
-                                        </Link>
-                                    )}
                                 </div>
                             )}
                         </div>

@@ -2,49 +2,21 @@
   "quiz_title": "Class 2 Quiz",
   "questions": [
     {
-      "id": "2-1",
+      "id": "2_1",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Laukiko vyavahāras-tu __________-nirvāha-hetukah । Naiva sa paramam lakṣhyam asya manuṣhya-janmanaha ॥",
+      "question_text": "Karoḍ kām bagāḍīne paṇ ek _____ sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
       "options": [
-        "deha",
-        "moksha",
-        "swabhava",
-        "brahma"
+        "mokṣha",
+        "dharma",
+        "artha",
+        "kām"
       ],
-      "correct_answer": "deha",
-      "explanation": "The shlok states: Laukiko vyavahāras-tu deha-nirvāha-hetukah. This means worldly interactions are for the purpose of maintaining the body.",
-      "source_reference": "Satsang Diksha Shlok 3"
-    },
-    {
-      "id": "2-2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Karoḍ kām bagāḍīne paṇ ek mokṣha sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
-      "options": [
-        "Swā.Vāto: 1/14",
-        "Vach.Ga.Pr.21",
-        "Swā.Vāto: 2/19",
-        "Vach.Ga.An.30"
-      ],
-      "correct_answer": "Swā.Vāto: 1/14",
-      "explanation": "This quotation is from Swamini Vato 1/14, emphasizing the importance of moksha over worldly tasks.",
+      "correct_answer": "mokṣha",
+      "explanation": "From Swamini Vato 1/14, one should strive to improve one's moksha even at the cost of losing millions of tasks.",
       "source_reference": "Swā.Vāto: 1/14"
     },
     {
-      "id": "2-3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Nāshāya sarva-doṣhāṇām __________-sthiter avāptaye । Kartum Bhagavato bhaktim asya dehasya lambhanam ॥",
-      "options": [
-        "brahma",
-        "deha",
-        "satsang",
-        "bhakti"
-      ],
-      "correct_answer": "brahma",
-      "explanation": "The shlok states: Nāshāya sarva-doṣhāṇām brahma-sthiter avāptaye. This indicates the body is obtained to destroy all faults and attain brahma-sthiti.",
-      "source_reference": "Satsang Diksha Shlok 4"
-    },
-    {
-      "id": "2-4",
+      "id": "2_2",
       "type": "quotation_reference_mcq",
       "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne akhanḍ Bhagwānnī sevāmā hajūr rahevu chhe, paṇ nāshavant ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
       "options": [
@@ -54,92 +26,120 @@
         "Swā.Vāto: 4/99"
       ],
       "correct_answer": "Vach.Ga.Pr.21",
-      "explanation": "This quotation is from Vachanamrut Gadhada Pratham 21, describing the desire to join Akshardham and serve Bhagwan.",
+      "explanation": "This quotation is from Vachanamrut Gadhada Pratham 21.",
       "source_reference": "Vach.Ga.Pr.21"
     },
     {
-      "id": "2-5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"…marī to sarvene javu chhe paṇ āvī rīte bhakti karavī e ja __________ moṭo lābh chhe…\"",
+      "id": "2_3",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...marī to sarvene javu chhe paṇ āvī rīte bhakti karavī e ja jīvyāno moṭo lābh chhe...”",
       "options": [
-        "jīvyāno",
-        "marvāno",
-        "khāvāno",
-        "moksheno"
+        "Vach.Ga.An.30",
+        "Vach.Ga.Pr.21",
+        "Swā.Vāto: 2/19",
+        "Swā.Vāto: 4/99"
       ],
-      "correct_answer": "jīvyāno",
-      "explanation": "The Vachanamrut states: “...marī to sarvene javu chhe paṇ āvī rīte bhakti karavī e ja jīvyāno moṭo lābh chhe...” emphasizing that performing bhakti is the greatest benefit of life.",
+      "correct_answer": "Vach.Ga.An.30",
+      "explanation": "This quotation is from Vachanamrut Gadhada Antya 30.",
       "source_reference": "Vach.Ga.An.30"
     },
     {
-      "id": "2-6",
-      "type": "quotation_reference_mcq",
-      "question_text": "Ā meḍiyu maḷī chhe ne sāru sāru khāvā maḷe chhe, ke mān maḷe chhe, ityādik manuṣhya dehnu faḷ nathī. Te to vimukhne paṇ maḷe chhe. Māṭe manuṣhya dehnu faḷ to sārāno sang ne swabhāv ṭaḷe, eṭalu ja chhe.",
+      "id": "2_4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ā meḍiyu maḷī chhe ne sāru sāru khāvā maḷe chhe, ke mān maḷe chhe, ityādik _____ dehnu faḷ nathī. Te to vimukhne paṇ maḷe chhe.",
       "options": [
-        "Swā.Vāto: 2/19",
-        "Swā.Vāto: 4/99",
-        "Vach.Ga.Pr.21",
-        "Vach.Ga.An.30"
+        "manuṣhya",
+        "pashu",
+        "pakshī",
+        "dev"
       ],
-      "correct_answer": "Swā.Vāto: 2/19",
-      "explanation": "This quotation is from Swamini Vato 2/19, explaining that the purpose of the human body is to associate with the good and eliminate bad habits, not just to enjoy worldly pleasures.",
+      "correct_answer": "manuṣhya",
+      "explanation": "This quotation is from Swamini Vato 2/19, explaining that good food and respect are not the fruits of a human body.",
       "source_reference": "Swā.Vāto: 2/19"
     },
     {
-      "id": "2-7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek __________ thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe.",
+      "id": "2_5",
+      "type": "quotation_reference_mcq",
+      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek Akṣharrūp thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭaḷavī.",
       "options": [
-        "Akṣharrūp",
-        "brahmarūp",
-        "satsangī",
-        "bhaktirūp"
+        "Swā.Vāto: 4/99",
+        "Swā.Vāto: 2/19",
+        "Vach.Ga.An.30",
+        "Vach.Ga.Pr.21"
       ],
-      "correct_answer": "Akṣharrūp",
-      "explanation": "Swamini Vato states: Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek Akṣharrūp thāvu... It describes the two goals of human birth.",
+      "correct_answer": "Swā.Vāto: 4/99",
+      "explanation": "This quotation is from Swamini Vato 4/99, discussing the purpose of our birth.",
       "source_reference": "Swā.Vāto: 4/99"
     },
     {
-      "id": "2-8",
-      "type": "quotation_reference_mcq",
-      "question_text": "Nāshvant ā deh vadhethi, avinashi fal levu ji, patrāvaane jemi karine, bahaar feki devu ji",
+      "id": "2_6",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Nāshvant ā deh vadhethi, avinashi fal levu ji, _____ jemi karine, bahaar feki devu ji",
       "options": [
-        "Narayandas Swami",
-        "Muktanand Swami",
-        "Gopalanand Swami",
-        "Gunatitanand Swami"
+        "patrāvaane",
+        "lakḍāne",
+        "dhātu ne",
+        "pāṇīne"
       ],
-      "correct_answer": "Narayandas Swami",
-      "explanation": "This kirtan is by Narayandas Swami and emphasizes attaining everlasting fruit from this perishable body.",
+      "correct_answer": "patrāvaane",
+      "explanation": "From the kirtan by Narayandas Swami, nashvant ā deh...",
       "source_reference": "Narayandas Swami"
     },
     {
-      "id": "2-9",
+      "id": "2_7",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Laukik vyavahār to __________ nirvāh māṭe chhe. Te ā manuṣhya janmanu param lakṣhya nathī.",
+      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek _____ thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭaḷavī.",
       "options": [
-        "dehnā",
-        "mokshnā",
-        "jīvnā",
-        "atmanā"
+        "Akṣharrūp",
+        "brahmarūp",
+        "ishvarrūp",
+        "devrūp"
       ],
-      "correct_answer": "dehnā",
-      "explanation": "The shlok translates to: Worldly interactions are for the purpose of maintaining the body, not the ultimate goal of human birth.",
-      "source_reference": "Satsang Diksha Shlok 3"
+      "correct_answer": "Akṣharrūp",
+      "explanation": "From Swamini Vato 4/99, one purpose of our birth is to become Aksharrup.",
+      "source_reference": "Swā.Vāto: 4/99"
     },
     {
-      "id": "2-10",
+      "id": "2_8",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sarva doṣhone ṭāḷavā, __________ pāmavā ane Bhagwānnī bhakti karavā ā deh maḷyo chhe.",
+      "question_text": "_____ kām bagāḍīne paṇ ek mokṣha sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
       "options": [
-        "brahma-sthitine",
-        "bhakti-sthitine",
-        "moksha-sthitine",
-        "satsang-sthitine"
+        "Karoḍ",
+        "Lākh",
+        "Hajār",
+        "Sau"
       ],
-      "correct_answer": "brahma-sthitine",
-      "explanation": "The shlok states that this body is obtained to eliminate all faults, attain brahma-sthiti, and perform devotion to Bhagwan.",
-      "source_reference": "Satsang Diksha Shlok 4"
+      "correct_answer": "Karoḍ",
+      "explanation": "From Swamini Vato 1/14, even losing millions of tasks is worth improving one's moksha.",
+      "source_reference": "Swā.Vāto: 1/14"
+    },
+    {
+      "id": "2_9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ā meḍiyu maḷī chhe ne _____ khāvā maḷe chhe, ke mān maḷe chhe, ityādik manuṣhya dehnu faḷ nathī. Te to vimukhne paṇ maḷe chhe.",
+      "options": [
+        "sāru sāru",
+        "mīṭhu mīṭhu",
+        "sādu sādu",
+        "kharāb kharāb"
+      ],
+      "correct_answer": "sāru sāru",
+      "explanation": "From Swamini Vato 2/19, getting good food and respect is not the purpose of this human life.",
+      "source_reference": "Swā.Vāto: 2/19"
+    },
+    {
+      "id": "2_10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne _____ sevāmā hajūr rahevu chhe, paṇ nāshavant ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
+      "options": [
+        "akhanḍ Bhagwānnī",
+        "sākār Bhagwānnī",
+        "nirākār Bhagwānnī",
+        "alaukik Bhagwānnī"
+      ],
+      "correct_answer": "akhanḍ Bhagwānnī",
+      "explanation": "From Vachanamrut Gadhada Pratham 21, we should remain in the service of Akhand Bhagwan in Akshardham.",
+      "source_reference": "Vach.Ga.Pr.21"
     }
   ]
 }

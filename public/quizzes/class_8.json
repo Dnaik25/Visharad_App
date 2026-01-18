@@ -4,26 +4,26 @@
     {
       "id": "8-1",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Akṣharbrahma gurunā yoge Swāminārāyaṇ Bhagwānno āsharo karavāthī hu dhanya chhu, pūrṇakām chhu, niṣhpāp, ________ ane ________ chhu.",
+      "question_text": "Jene potānu kalyāṇ ichchhavu tene to _____ ne _____ ethī uparānt bīju kāī jagatmā sukhdāyī nathī.",
       "options": [
-        "nirdosh",
-        "nirbhay",
-        "ekantik",
-        "sukhī"
+        "Bhagwān",
+        "Bhagwānnā sādhu",
+        "Indralok",
+        "Brahmalok"
       ],
-      "correct_answer": "nirbhay",
-      "explanation": "The shlok states 'niṣhpāp, nirbhay ane sukhī chhu.'",
-      "source_reference": "Satsang Diksha Shlok 19"
+      "correct_answer": "Bhagwān ne Bhagwānnā sādhu",
+      "explanation": "According to Vachanamrut Gadhada Antya 7, for those who wish for their own liberation, there is nothing more beneficial in this world than God and God's holy Sadhu.",
+      "source_reference": "Vach.Ga.An.7"
     },
     {
       "id": "8-2",
       "type": "quotation_reference_mcq",
       "question_text": "“...amāro draḍh vishvās rākhasho ne kahīe tem karasho to tamane mahākaṣhṭ koīk āvī paḍashe tethī athavā sāt dakālī jevu paḍashe te thakī rakṣhā karashu ane koī ūgaryāno āro na hoy evu kaṣhṭ āvī paḍashe toy paṇ rakṣhā karashu.”",
       "options": [
+        "Vach.Ga.Pa.72",
         "Vach.Ga.Pa.58",
         "Vach.Ga.An.7",
-        "Vach.Je.5",
-        "Vach.Ga.Pa.72"
+        "Vach.Je.5"
       ],
       "correct_answer": "Vach.Je.5",
       "explanation": "This quotation is from Vachanamrut Jetalpur 5.",
@@ -32,113 +32,113 @@
     {
       "id": "8-3",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Dhanyo’smi ________ niṣhpāpo nirbhayah sukhī । Akṣhara-guru-yogena Swāminārāyaṇā’shrayāt ॥ 19 ॥",
+      "question_text": "\"Atishay je Moṭā Puruṣh hoy teno je upar _____ thāy tenā game tevā malin sanskār hoy to nāsh pāme ane Moṭā Puruṣhno rājīpo thayo hoy to rānk hoy te rājā thāy.\"",
       "options": [
-        "pūrṇakāmo’smi",
-        "muktanando'smi",
-        "Swāminārāyaṇo'smi",
-        "akshardhamo'smi"
+        "rāji thāy",
+        "rāji rakhe",
+        "rāji aape",
+        "rāji hoy"
       ],
-      "correct_answer": "pūrṇakāmo’smi",
-      "explanation": "The shlok states 'Dhanyo’smi pūrṇakāmo’smi'.",
-      "source_reference": "Satsang Diksha Shlok 19"
+      "correct_answer": "rāji thāy",
+      "explanation": "This quote highlights the power of the pleasure of the great Purush.",
+      "source_reference": "Vach.Ga.Pa.58"
     },
     {
       "id": "8-4",
       "type": "quotation_reference_mcq",
-      "question_text": "“Atishay je Moṭā Puruṣh hoy teno je upar rājīpo thāy tenā game tevā malin sanskār hoy to nāsh pāme ane Moṭā Puruṣhno rājīpo thayo hoy to rānk hoy te rājā thāy ane game tevā bhūnḍā prārabdha hoy to rūḍā thāy ane game tevu tene māthe vighna āvanāru hoy te nāsh thaī jāy.”",
+      "question_text": "“Jene potānu kalyāṇ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī jagatmā sukhdāyī nathī.”",
       "options": [
-        "Vach.Ga.Pa.58",
         "Vach.Ga.Pa.72",
+        "Vach.Ga.Pa.58",
         "Vach.Ga.An.7",
         "Vach.Je.5"
       ],
-      "correct_answer": "Vach.Ga.Pa.58",
-      "explanation": "This quotation is from Vachanamrut Gadhada Pratham 58.",
-      "source_reference": "Vach.Ga.Pa.58"
+      "correct_answer": "Vach.Ga.An.7",
+      "explanation": "This is a quote from Vachanamrut Gadhada Antya 7.",
+      "source_reference": "Vach.Ga.An.7"
     },
     {
       "id": "8-5",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "“...jene māhātmye sahit nishchay hoy tene em samajāy je, ‘Je divase Bhagwānnu darshan thayu te divasthī ja kalyāṇ to thaī rahyu chhe ane je jīv bhāve karīne māru darshan kare tathā māru vachan māne tenu paṇ kalyāṇ thaī jāy to māre ________ shyo sanshay chhe? Hu to kṛutārth chhu ane je kāī sādhan karu chhu te to Bhagwānnī prasannatāne arthe karu chhu,’ em samaje tene Bhagwānno māhātmye sahit nishchay jāṇavo.”",
+      "question_text": "“...jene māhātmye sahit nishchay hoy tene em samajāy je, ‘Je divase Bhagwānnu darshan thayu te divasthī ja _____ to thaī rahyu chhe...’",
       "options": [
-        "jivanne",
-        "kalyāṇno",
-        "mokshne",
-        "dharmane"
+        "kalyāṇ",
+        "kaṣhṭ",
+        "vighna",
+        "bhūt-pret"
       ],
-      "correct_answer": "kalyāṇno",
-      "explanation": "The original quote says, 'māre kalyāṇno shyo sanshay chhe?'",
+      "correct_answer": "kalyāṇ",
+      "explanation": "This quote discusses the certainty of salvation upon having darshan of Bhagwan.",
       "source_reference": "Vach.Ga.Pa.72"
     },
     {
       "id": "8-6",
       "type": "quotation_reference_mcq",
-      "question_text": "“Jene potānu kalyāṇ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī jagatmā sukhdāyī nathī.”",
+      "question_text": "“...jene māhātmye sahit nishchay hoy tene em samajāy je, ‘Je divase Bhagwānnu darshan thayu te divasthī ja kalyāṇ to thaī rahyu chhe ane je jīv bhāve karīne māru darshan kare tathā māru vachan māne tenu paṇ kalyāṇ thaī jāy to māre kalyāṇno shyo sanshay chhe? Hu to kṛutārth chhu ane je kāī sādhan karu chhu te to Bhagwānnī prasannatāne arthe karu chhu,’ em samaje tene Bhagwānno māhātmye sahit nishchay jāṇavo.”",
       "options": [
-        "Vach.Ga.An.7",
-        "Vach.Je.5",
+        "Vach.Ga.Pa.72",
         "Vach.Ga.Pa.58",
-        "Vach.Ga.Pa.72"
+        "Vach.Ga.An.7",
+        "Vach.Je.5"
       ],
-      "correct_answer": "Vach.Ga.An.7",
-      "explanation": "This is a quote from Vachanamrut Gadhada Antya 7.",
-      "source_reference": "Vach.Ga.An.7"
+      "correct_answer": "Vach.Ga.Pa.72",
+      "explanation": "The long quote is from Vachanamrut Gadhada Pratham 72.",
+      "source_reference": "Vach.Ga.Pa.72"
     },
     {
       "id": "8-7",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "jene pratyakṣh pramāṇ draḍh āsharo hoy tene manmā evī ________ na rākhavī je, ‘Hu rakhe marīne bhūt-pret thau ke rakhe Indralokne ja pāmu ke rakhe Brahmalokne ja pāmu!’",
+      "question_text": "\"Atishay je Moṭā Puruṣh hoy teno je upar rājīpo thāy tenā game tevā malin sanskār hoy to nāsh pāme ane Moṭā Puruṣhno rājīpo thayo hoy to rānk hoy te _____ thāy.\"",
       "options": [
-        "ichchhā",
-        "bīk",
-        "āshankā",
-        "vāsanā"
+        "rājā",
+        "bhikhārī",
+        "dās",
+        "chakravarti"
       ],
-      "correct_answer": "bīk",
-      "explanation": "The original quote says, 'manmā evī bīk na rākhavī'.",
-      "source_reference": "Vach.Ga.An.7"
+      "correct_answer": "rājā",
+      "explanation": "This quote talks about how one can become a king through the raji of the great Purush.",
+      "source_reference": "Vach.Ga.Pa.58"
     },
     {
       "id": "8-8",
       "type": "quotation_reference_mcq",
-      "question_text": "Evī āshankā manmā rākhavī nahī; kem je, je evo Bhagwānno bhakta hoy te to Bhagwānnā dhāmne ja pāme paṇ vachmā kyāy tene Bhagwān rahevā de nahī.",
+      "question_text": "“Jene pratyakṣh pramāṇ draḍh āsharo hoy tene manmā evī bīk na rākhavī je, ‘Hu rakhe marīne bhūt-pret thau ke rakhe Indralokne ja pāmu ke rakhe Brahmalokne ja pāmu!’ Evī āshankā manmā rākhavī nahī; kem je, je evo Bhagwānno bhakta hoy te to Bhagwānnā dhāmne ja pāme paṇ vachmā kyāy tene Bhagwān rahevā de nahī.”",
       "options": [
-        "Vach.Ga.An.7",
-        "Vach.Je.5",
+        "Vach.Ga.Pa.72",
         "Vach.Ga.Pa.58",
-        "Vach.Ga.Pa.72"
+        "Vach.Ga.An.7",
+        "Vach.Je.5"
       ],
       "correct_answer": "Vach.Ga.An.7",
-      "explanation": "This quotation is from Vachanamrut Gadhada Antya 7.",
+      "explanation": "This quotation comes from Vachanamrut Gadhada Antya 7.",
       "source_reference": "Vach.Ga.An.7"
     },
     {
       "id": "8-9",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Hu to kṛutārth chhu ane je kāī ________ karu chhu te to Bhagwānnī prasannatāne arthe karu chhu,’ em samaje tene Bhagwānno māhātmye sahit nishchay jāṇavo.”",
+      "question_text": "“...amāro draḍh vishvās rākhasho ne kahīe tem karasho to tamane _____ koīk āvī paḍashe tethī athavā sāt dakālī jevu paḍashe te thakī rakṣhā karashu ane koī ūgaryāno āro na hoy evu kaṣhṭ āvī paḍashe toy paṇ rakṣhā karashu.”",
       "options": [
-        "bhakti",
-        "sādhan",
-        "seva",
-        "dhyan"
+        "mahākaṣhṭ",
+        "sukh",
+        "ānand",
+        "shanti"
       ],
-      "correct_answer": "sādhan",
-      "explanation": "The original quote says 'je kāī sādhan karu chhu'.",
-      "source_reference": "Vach.Ga.Pa.72"
+      "correct_answer": "mahākaṣhṭ",
+      "explanation": "This is a quote where Maharaj says if you keep faith in him, he will protect you even if a great calamity falls upon you.",
+      "source_reference": "Vach.Je.5"
     },
     {
       "id": "8-10",
-      "type": "quotation_reference_mcq",
-      "question_text": "‘Hu rakhe marīne bhūt-pret thau ke rakhe Indralokne ja pāmu ke rakhe Brahmalokne ja pāmu!’",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "“Jene pratyakṣh pramāṇ draḍh āsharo hoy tene manmā evī bīk na rākhavī je, ‘Hu rakhe marīne _____ thau ke rakhe Indralokne ja pāmu ke rakhe Brahmalokne ja pāmu!’",
       "options": [
-        "Vach.Ga.An.7",
-        "Vach.Je.5",
-        "Vach.Ga.Pa.58",
-        "Vach.Ga.Pa.72"
+        "bhūt-pret",
+        "dev",
+        "manushya",
+        "pashu"
       ],
-      "correct_answer": "Vach.Ga.An.7",
-      "explanation": "This is a quote from Vachanamrut Gadhada Antya 7.",
+      "correct_answer": "bhūt-pret",
+      "explanation": "This quote from Vachanamrut Gadhada Antya 7 says one should not fear that one will become a ghost after death.",
       "source_reference": "Vach.Ga.An.7"
     }
   ]

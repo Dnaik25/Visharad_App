@@ -4,142 +4,142 @@
     {
       "id": "1",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sarvam dur-vyasanam tyājyam sarvaih _________ sadā । Aneka-roga-dukhānām kāraṇam vyasanam yataha ॥ 26 ॥",
+      "question_text": "\"jene _____ vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī pāse ja chhīe; ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe.\"",
       "options": [
-        "satsangibhih",
-        "satsangam",
-        "satsangino",
-        "satsange"
+        "niṣhkāmī",
+        "satsangi",
+        "ekāntik",
+        "pavitra"
       ],
-      "correct_answer": "satsangibhih",
-      "explanation": "The shlok states 'Sarvam dur-vyasanam tyājyam sarvaih satsangibhih sadā'.",
-      "source_reference": "Satsang Diksha Shlok 26"
+      "correct_answer": "niṣhkāmī",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada I-33.",
+      "source_reference": "Vach.Ga.Ma.33"
     },
     {
       "id": "2",
       "type": "quotation_reference_mcq",
-      "question_text": "“jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī pāse ja chhīe; ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe. Ane amane niṣhkāmī bhakta hoy tenā ja hāthnī karī sevā game chhe.”",
+      "question_text": "Which Vachanamrut contains the following quote? “Bāīo dekhīne bhāīo, chheṭerā chāle, Paḍī vastu koīnī, hāthe nav jhāle rāj...\"",
       "options": [
+        "Kirtan: Akshar 3",
         "Vach.Ga.Ma.33",
-        "Satsang Diksha Shlok 26",
-        "Satsang Diksha Shlok 33-34",
-        "Akshar 1"
+        "Kirtan: Akshar 1",
+        "Kirtan: Akshar 5"
       ],
-      "correct_answer": "Vach.Ga.Ma.33",
-      "explanation": "This quotation is from Vachanamrut Gadhada Madhya 33.",
-      "source_reference": "Vach.Ga.Ma.33"
+      "correct_answer": "Kirtan: Akshar 3",
+      "explanation": "This quote is from Kirtan Akshar 3.",
+      "source_reference": "Kirtan: Akshar 3"
     },
     {
       "id": "3",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Surā-bhangā-tamālādi yad yad bhaveddhi _________ । Tad bhakṣhayet piben-naiva dhūmra-pānam api tyajet ॥ 27 ॥",
+      "question_text": "\"Aksharnā vāsī vahālo, āvyā avani par, Navkhanḍ dhartīmā Swāmī, chhatrāyā _____ _____...\"",
       "options": [
-        "mādakam",
-        "bhārtam",
-        "pānakam",
-        "ānandakam"
+        "rāje rāj",
+        "chāle rāj",
+        "sathe rahe",
+        "dhāme dhām"
       ],
-      "correct_answer": "mādakam",
-      "explanation": "The shlok states 'Surā-bhangā-tamālādi yad yad bhaveddhi mādakam'.",
-      "source_reference": "Satsang Diksha Shlok 27"
+      "correct_answer": "chāle rāj",
+      "explanation": "This is a line from the kirtan.",
+      "source_reference": "Kirtan: Akshar 1"
     },
     {
       "id": "4",
       "type": "quotation_reference_mcq",
-      "question_text": "Pānche vartmān pāḷe, bāīo ne bhāīo,\nHarijan sangāthe kīdhī, sāchī sagāīo rāj... Akshar 2",
+      "question_text": "Which Vachanamrut contains the following quote? \"Avani par āvī vahāle satsang sthāpyo, Harijanone kol, kalyāṇno āpyo rāj...\"",
       "options": [
-        "Akshar 2",
-        "Akshar 4",
-        "Satsang Diksha Shlok 28",
-        "Vach.Ga.Ma.33"
+        "Kirtan: Akshar 1",
+        "Vach.Ga.Ma.33",
+        "Kirtan: Akshar 2",
+        "Kirtan: Akshar 3"
       ],
-      "correct_answer": "Akshar 2",
-      "explanation": "These lines are from Kirtan Akshar 2.",
-      "source_reference": "Akshar 2"
+      "correct_answer": "Kirtan: Akshar 1",
+      "explanation": "This quote is from Kirtan Akshar 1.",
+      "source_reference": "Kirtan: Akshar 1"
     },
     {
       "id": "5",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Pari-tyājyam sadā dyūtam sarvaih ________ । Tyaktavyo vyabhichārash-cha nārībhih puruṣhais-tathā ॥ 28 ॥",
+      "question_text": "\"Ane amane niṣhkāmī bhakta hoy tenā ja hāthnī _____ _____ game chhe.\"",
       "options": [
-        "sarva-prakārakam",
-        "sarva-dharmikam",
-        "sarva-bhāvikam",
-        "sarva-yogikam"
+        "karī sevā",
+        "pāse rahe",
+        "sathe chale",
+        "dur rahe"
       ],
-      "correct_answer": "sarva-prakārakam",
-      "explanation": "The shlok states 'Pari-tyājyam sadā dyūtam sarvaih sarva-prakārakam'.",
-      "source_reference": "Satsang Diksha Shlok 28"
+      "correct_answer": "karī sevā",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada I-33.",
+      "source_reference": "Vach.Ga.Ma.33"
     },
     {
       "id": "6",
       "type": "quotation_reference_mcq",
-      "question_text": "Kyārey manuṣhya, pashu, pakṣhī, tathā mānkaḍ ādik koī paṇ jīv-jantuonī hinsā na karavī. Ahinsā param dharma chhe, hinsā adharma chhe em Shruti-Smṛutyādi shāstromā spaṣhṭa kahevāmā āvyu chhe. (33-34)",
+      "question_text": "Which Vachanamrut contains the following quote? \"Pānche vartmān pāḷe, bāīo ne bhāīo, Harijan sangāthe kīdhī, sāchī sagāīo rāj...\"",
       "options": [
-        "Satsang Diksha Shlok 33-34",
-        "Satsang Diksha Shlok 31",
+        "Kirtan: Akshar 2",
         "Vach.Ga.Ma.33",
-        "Satsang Diksha Shlok 27"
+        "Kirtan: Akshar 1",
+        "Kirtan: Akshar 3"
       ],
-      "correct_answer": "Satsang Diksha Shlok 33-34",
-      "explanation": "This is the translation of Satsang Diksha Shloks 33 and 34.",
-      "source_reference": "Satsang Diksha Shlok 33-34"
+      "correct_answer": "Kirtan: Akshar 2",
+      "explanation": "This quote is from Kirtan Akshar 2.",
+      "source_reference": "Kirtan: Akshar 2"
     },
     {
       "id": "7",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Mānsam matsyam tathā’nḍāni bhakṣhayeyur na karhichit । Palānḍum lashunam hingu na cha ________ janāhā ॥ 29 ॥",
+      "question_text": "\"Devnā dev vahālo, dhāmnā Dhāmī, Pragaṭ Prabhunu nām, _____ _____ Swāmī rāj...\"",
       "options": [
-        "satsangino",
-        "bhaktajano",
-        "dhārmikā",
-        "sevakā"
+        "Sahajānand",
+        "Shreeji Maharaj",
+        "Gunatitanand",
+        "Bhagatji"
       ],
-      "correct_answer": "satsangino",
-      "explanation": "The shlok states 'Mānsam matsyam tathā’nḍāni bhakṣhayeyur na karhichit । Palānḍum lashunam hingu na cha satsangino janāhā'.",
-      "source_reference": "Satsang Diksha Shlok 29"
+      "correct_answer": "Sahajānand",
+      "explanation": "This is a line from the kirtan.",
+      "source_reference": "Kirtan: Akshar 4"
     },
     {
       "id": "8",
       "type": "quotation_reference_mcq",
-      "question_text": "Avani par āvī vahāle satsang sthāpyo\nHarijanone kol, kalyāṇno āpyo rāj... Akshar 1",
+      "question_text": "Which Vachanamrut contains the following quote? \"Premānandnā Swāmī ānandkārī, Potānā jannī vā’le, lāj vadhārī rāj...\"",
       "options": [
-        "Akshar 1",
-        "Akshar 3",
-        "Satsang Diksha Shlok 30",
-        "Vach.Ga.Ma.33"
+        "Kirtan: Akshar 5",
+        "Vach.Ga.Ma.33",
+        "Kirtan: Akshar 1",
+        "Kirtan: Akshar 2"
       ],
-      "correct_answer": "Akshar 1",
-      "explanation": "These lines are from Kirtan Akshar 1.",
-      "source_reference": "Akshar 1"
+      "correct_answer": "Kirtan: Akshar 5",
+      "explanation": "This quote is from Kirtan Akshar 5.",
+      "source_reference": "Kirtan: Akshar 5"
     },
     {
       "id": "9",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Chauryam na karhichit kāryam satsangam ________ janaihi । Dharmārtham api no kāryam chora-kāryam tu karhichit ॥ 31 ॥",
+      "question_text": "\"jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī _____ ja chhīe\"",
       "options": [
-        "āshritair",
-        "sahitair",
-        "yuktair",
-        "praṇitair"
+        "pāse",
+        "dūr",
+        "sathe",
+        "agam"
       ],
-      "correct_answer": "āshritair",
-      "explanation": "The shlok states 'Chauryam na karhichit kāryam satsangam āshritair janaihi'.",
-      "source_reference": "Satsang Diksha Shlok 31"
+      "correct_answer": "pāse",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada I-33.",
+      "source_reference": "Vach.Ga.Ma.33"
     },
     {
       "id": "10",
       "type": "quotation_reference_mcq",
-      "question_text": "Puṣhp, faḷo jevī vastu paṇ tenā dhaṇīnī paravāngī vagar na levī. Paravāngī vagar levu te sūkṣhma chorī kahevāy chhe. (32)",
+      "question_text": "Which Vachanamrut contains the following quote? \"Ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe.\"",
       "options": [
-        "Satsang Diksha Shlok 32",
-        "Akshar 5",
-        "Satsang Diksha Shlok 29",
-        "Vach.Ga.Ma.33"
+        "Vach.Ga.Ma.33",
+        "Kirtan: Akshar 1",
+        "Kirtan: Akshar 2",
+        "Kirtan: Akshar 3"
       ],
-      "correct_answer": "Satsang Diksha Shlok 32",
-      "explanation": "This is the translation of Satsang Diksha Shlok 32.",
-      "source_reference": "Satsang Diksha Shlok 32"
+      "correct_answer": "Vach.Ga.Ma.33",
+      "explanation": "This quote is from Vachanamrut Gadhada I-33.",
+      "source_reference": "Vach.Ga.Ma.33"
     }
   ]
 }

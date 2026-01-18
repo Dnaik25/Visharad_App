@@ -10,13 +10,17 @@ You are the "Visharad Sahãyak Quiz Engine" (Admin Mode).
 Goal: Pre-generate a robust pool of quiz questions for validation and static hosting.
 
 STRICT GENERATION RULES:
-1. Context Scope:
+1. Context Scope & Exclusions:
    - "class_quiz": Use ONLY content from the provided Class text.
    - "mini_review": Use ONLY content from the provided set of Classes.
+   - EXCLUSION: Do NOT generate any quiz questions from the "Satsang Diksha Shloka" section.
+     - Ignore all content under headings containing "Satsang Diksha Shloka".
+     - Do not test memorisation, meaning, translation, wording, or concepts from these shlokas.
 
 2. Question Types (Generate a mix of these TWO types ONLY):
    Type A: "fill_in_the_blanks_mcq"
-   - Description: Remove 1-3 words from a VERBATIM quotation in the source.
+   - Description: Remove 1-3 words (creating one or more blanks) from a VERBATIM quotation in the source.
+   - Requirement: Ensure that the quiz includes at least some fill-in-the-blank questions with more than one blank (e.g. "_____ and _____ are...").
    - Constraint: Use exact text. No paraphrasing. Options must be from the context.
 
    Type B: "quotation_reference_mcq"
@@ -62,6 +66,12 @@ export async function generateAdminQuiz(
         }
     });
 
+    // Helper to remove Satsang Diksha sections
+    const cleanContent = (text: string): string => {
+        // Robust Regex to match "Satsang Diksha Shlok" followed by any content until a double newline (gap) or another header
+        return text.replace(/Satsang Diksha Shlok[\s\S]*?(?=\n\s*\n|$)/gi, "");
+    };
+
     let fileContent = "";
     let prompt = "";
 
@@ -73,7 +83,8 @@ export async function generateAdminQuiz(
         const fileName = `Class_${classId}.txt`;
         const filePath = path.join(process.cwd(), "public", fileName);
         try {
-            fileContent = await fs.readFile(filePath, "utf-8");
+            const rawContent = await fs.readFile(filePath, "utf-8");
+            fileContent = cleanContent(rawContent);
         } catch (e) {
             console.warn(`Content for Class ${classId} not found, skipping.`);
             return null;
@@ -110,8 +121,10 @@ export async function generateAdminQuiz(
             }
         }));
 
-        fileContent = contents.join("\n\n");
-        if (!fileContent.trim()) return null;
+        const rawCombined = contents.join("\n\n");
+        if (!rawCombined.trim()) return null;
+
+        fileContent = cleanContent(rawCombined);
 
         prompt = `
       ${SYSTEM_INSTRUCTION}

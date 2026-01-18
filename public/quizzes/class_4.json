@@ -2,143 +2,143 @@
   "quiz_title": "Class 4 Quiz",
   "questions": [
     {
-      "id": "4.1",
+      "id": "4-1",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsangah sthāpitas-tasmād divyo’yam ________ । Swāminārāyaṇeneha sākṣhād evā’vatīrya cha ॥ 6 ॥",
+      "question_text": "Aksharnā vāsī vahālo, āvyā _____ par, Navkhaṇḍ dharatīmā Swāmī, chhatrāyā chāle rāj… Akshar ṭek",
       "options": [
-        "parabrahmaṇā",
-        "satsange",
-        "akshardhāma",
-        "sākṣhāta"
+        "avani",
+        "akshar",
+        "dhām",
+        "satsang"
       ],
-      "correct_answer": "parabrahmaṇā",
-      "explanation": "This is from Satsang Diksha Shlok 6. The word 'parabrahmaṇā' is missing.",
-      "source_reference": "Satsang Diksha Shlok 6"
+      "correct_answer": "avani",
+      "explanation": "The kirtan states: Aksharnā vāsī vahālo, āvyā avani par...",
+      "source_reference": "Kirtan"
     },
     {
-      "id": "4.2",
-      "type": "quotation_reference_mcq",
-      "question_text": "‘Satsang-Dīkṣhā’ e nāmnu shāstra rachavāmā āve chhe.",
-      "options": [
-        "Satsang Diksha Shlok 7",
-        "Satsang Diksha Shlok 6",
-        "Vach.Ga.An.39",
-        "Vach.Va.4"
-      ],
-      "correct_answer": "Satsang Diksha Shlok 7",
-      "explanation": "This line is the Gujarati translation from Satsang Diksha Shlok 7.",
-      "source_reference": "Satsang Diksha Shlok 7"
-    },
-    {
-      "id": "4.3",
+      "id": "4-2",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satya evā ātmāno sang karavo, satya evā Paramātmāno sang karavo, satya evā ________ sang karavo ane sachchhāstrano sang karavo e satsangnu sāchu lakṣhaṇ jāṇavu.",
+      "question_text": "Avani par āvī vahāle, _____ sthāpyo, Hari janoṇe kol, kalyāṇno āpyo rāj… Akshar 1",
       "options": [
-        "guruno",
-        "devtāno",
-        "brahmano",
-        "santo"
+        "satsang",
+        "dhām",
+        "vartamān",
+        "prema"
       ],
-      "correct_answer": "guruno",
-      "explanation": "This is a line from the translation of Satsang Diksha Shlok 8-9. The word 'guruno' is missing.",
-      "source_reference": "Satsang Diksha Shlok 8-9"
+      "correct_answer": "satsang",
+      "explanation": "The kirtan states: Avani par āvī vahāle, satsang sthāpyo...",
+      "source_reference": "Kirtan"
     },
     {
-      "id": "4.4",
+      "id": "4-3",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Pānche vartamān pāḷe, bāīo ne bhāīo, Hari jan sangāthe kīdhī _____ sagāīo rāj… Akshar 2",
+      "options": [
+        "sācī",
+        "sāth",
+        "prem",
+        "nitya"
+      ],
+      "correct_answer": "sācī",
+      "explanation": "The kirtan states: Hari jan sangāthe kīdhī sācī sagāīo rāj...",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "4-4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Devnā Dev vahālo, dhāmnā Dhāmī, Pragaṭ Prabhunu nām _____ Swāmī rāj… Akshar 4",
+      "options": [
+        "Sahajānand",
+        "Premanand",
+        "Brahmanand",
+        "Nishkulanand"
+      ],
+      "correct_answer": "Sahajānand",
+      "explanation": "The kirtan states: Pragaṭ Prabhunu nām Sahajānand Swāmī rāj...",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "4-5",
       "type": "quotation_reference_mcq",
       "question_text": "“Ane satsangī paṇ ene ja kahīe; kem je, satyarūp evo je potāno ātmā tathā satyarūp evā je Bhagwān teno jene āvī rīte sang thayo tene satsangī kahīe.”",
       "options": [
         "Vach.Ga.An.39",
         "Vach.Va.4",
-        "Satsang Diksha Shlok 6",
-        "Satsang Diksha Shlok 7"
+        "Akshar 1",
+        "Akshar 5"
       ],
       "correct_answer": "Vach.Ga.An.39",
-      "explanation": "This quotation is from Vachanamrut Gadhada I-39.",
-      "source_reference": "Vach.Ga.An.39"
+      "explanation": "This quote is directly from Vachanamrut Gadhada અંત્ય 39.",
+      "source_reference": "Vachanamrut"
     },
     {
-      "id": "4.5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "“Trīs lakṣhaṇe yukta evā je sant teno je sang te man-karma-vachane rākhe, to jeṭalā ________ arthe sādhan chhe teṭalā sarve tenā sangmā āvī jāy chhe.”",
-      "options": [
-        "kalyāṇne",
-        "mokṣane",
-        "dharmane",
-        "bhaktine"
-      ],
-      "correct_answer": "kalyāṇne",
-      "explanation": "This is a line from Vachanamrut Vartal-4. The word 'kalyāṇne' is missing.",
-      "source_reference": "Vach.Va.4"
-    },
-    {
-      "id": "4.6",
+      "id": "4-6",
       "type": "quotation_reference_mcq",
-      "question_text": "Sācho maḷyo chhe satsang, ange achaḷ karī rākhjo re;",
+      "question_text": "“Trīs lakṣhaṇe yukta evā je sant teno je sang te man-karma-vachane rākhe, to jeṭalā kalyāṇne arthe sādhan chhe teṭalā sarve tenā sangmā āvī jāy chhe.”",
       "options": [
-        "Chosath Padi",
-        "Satsang Diksha Shlok 6",
-        "Vach.Ga.An.39",
-        "Vach.Va.4"
-      ],
-      "correct_answer": "Chosath Padi",
-      "explanation": "This line is from Chosath Padi.",
-      "source_reference": "Chosath Padi"
-    },
-    {
-      "id": "4.7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Tethī Parabrahma Swāminārāyaṇe ā lokmā sākṣhāt avatarīne ā divya ________ sthāpanā karī.",
-      "options": [
-        "satsangnī",
-        "mandirnī",
-        "murti",
-        "dhāmnī"
-      ],
-      "correct_answer": "satsangnī",
-      "explanation": "This is the Gujarati translation of Satsang Diksha Shlok 6. The word 'satsangnī' is missing.",
-      "source_reference": "Satsang Diksha Shlok 6"
-    },
-    {
-      "id": "4.8",
-      "type": "quotation_reference_mcq",
-      "question_text": "Ā satsangnu gnān mumukṣhuone thāya evā shubh āshayathī ‘Satsang-Dīkṣhā’ e nāmnu shāstra rachavāmā āve chhe.",
-      "options": [
-        "Satsang Diksha Shlok 7",
-        "Vach.Ga.An.39",
-        "Satsang Diksha Shlok 6",
-        "Vach.Va.4"
-      ],
-      "correct_answer": "Satsang Diksha Shlok 7",
-      "explanation": "This line is from the Gujarati translation of Satsang Diksha Shlok 7.",
-      "source_reference": "Satsang Diksha Shlok 7"
-    },
-    {
-      "id": "4.9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Āvo divya satsang karanār ________ sukhī thāy chhe.",
-      "options": [
-        "manuṣhya",
-        "dev",
-        "sant",
-        "bhakta"
-      ],
-      "correct_answer": "manuṣhya",
-      "explanation": "This is a line from the translation of Satsang Diksha Shlok 8-9. The word 'manuṣhya' is missing.",
-      "source_reference": "Satsang Diksha Shlok 8-9"
-    },
-    {
-      "id": "4.10",
-      "type": "quotation_reference_mcq",
-      "question_text": "Rakhe chaḍe bījāno rang, evu ḍahāpaṇ dūr nākhjo re… ṭek",
-      "options": [
-        "Chosath Padi",
         "Vach.Va.4",
-        "Satsang Diksha Shlok 6",
-        "Vach.Ga.An.39"
+        "Vach.Ga.An.39",
+        "Ho 1",
+        "Ho 4"
       ],
-      "correct_answer": "Chosath Padi",
-      "explanation": "This line is from Chosath Padi.",
+      "correct_answer": "Vach.Va.4",
+      "explanation": "This quote is directly from Vachanamrut Vartal 4.",
+      "source_reference": "Vachanamrut"
+    },
+    {
+      "id": "4-7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sant samāgam kīje, ho _____. Mān tajī santanke mukhse, prem sudhāras pīje… Ho 1",
+      "options": [
+        "nishdin",
+        "ekdin",
+        "pratidin",
+        "anudin"
+      ],
+      "correct_answer": "nishdin",
+      "explanation": "The kirtan states: Sant samāgam kīje, ho nishdin...",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "4-8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "_____ kapaṭ meṭke apnā, le unku mann dīje… Ho 2",
+      "options": [
+        "Antar",
+        "Bahir",
+        "Tan",
+        "Dhan"
+      ],
+      "correct_answer": "Antar",
+      "explanation": "The kirtan states: Antar kapaṭ meṭke apnā...",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "4-9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhav-dukh ṭaḷe baḷe sab duṣhkṛut, sabvidhi _____ sījē… Ho 3",
+      "options": [
+        "kāraj",
+        "dhāraj",
+        "sāraj",
+        "niraj"
+      ],
+      "correct_answer": "kāraj",
+      "explanation": "The kirtan states: sabvidhi kāraj sījē… Ho 3",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "4-10",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sācho maḷyo chhe satsang, ange achaḷ karī rākhjo re; Rakhe chaḍe bījāno _____, evu ḍahāpaṇ dūr nākhjo re… ṭek",
+      "options": [
+        "rang",
+        "sang",
+        "dang",
+        "dhang"
+      ],
+      "correct_answer": "rang",
+      "explanation": "The Chosath Padi states: Rakhe chaḍe bījāno rang...",
       "source_reference": "Chosath Padi"
     }
   ]

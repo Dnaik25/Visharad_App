@@ -1,271 +1,285 @@
 {
-  "quiz_title": "Satsang Diksha & Vachanamrut Mini-Review (Classes 16-20)",
+  "quiz_title": "Mini-Review Quiz (Classes 16-20)",
   "questions": [
     {
-      "id": "16-1",
+      "id": "1",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsang Diksha Shlok 50 says: Shuddhih sarvavidhā pālyā bāhyā chā'bhyantarā sadā | Shuddhi-priyah prasīdech-cha shuddhi-mati jane ________ ||",
+      "question_text": "Bhagwanne bhajavā ethī _____ vāt moţī _____.",
       "options": [
-        "Harihi",
-        "Krishna",
-        "Swaminarayan",
-        "Nilkanth"
+        "bījī",
+        "nathi",
+        "moţī",
+        "ek"
       ],
-      "correct_answer": "Harihi",
-      "explanation": "The shloka emphasizes the importance of purity, both internal and external, and states that Shri Hari is pleased with those who maintain shuddhi.",
-      "source_reference": "Satsang Diksha Shlok 50"
-    },
-    {
-      "id": "16-2",
-      "type": "conceptual_mcq",
-      "question_text": "According to Vachanamrut Je.5, what is considered the most important thing?",
-      "options": [
-        "Accumulating wealth",
-        "Bhagwanne bhajavu",
-        "Achieving worldly success",
-        "Gaining knowledge"
-      ],
-      "correct_answer": "Bhagwanne bhajavu",
-      "explanation": "Vachanamrut Je.5 states that worshipping Bhagwan is the most important thing.",
+      "correct_answer": "bījī and nathi",
+      "explanation": "This is a direct quote from Vachanamrut Je.5",
       "source_reference": "Vach.Je.5"
     },
     {
-      "id": "16-3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "According to Satsang Diksha Shlok 55, strīoe bhālne vishe kevaļ _________ karavo. Tilak na karavu.",
+      "id": "2",
+      "type": "quotation_reference_mcq",
+      "question_text": "je brahmarūp thayo tene ja Purushottamnī bhaktino adhikār chhe.",
       "options": [
-        "chandan",
-        "kumkumno chāndalo",
-        "kesar",
-        "abhishek"
-      ],
-      "correct_answer": "kumkumno chāndalo",
-      "explanation": "The shloka specifies that women should only apply a kumkum chandlo on their forehead, and not a tilak.",
-      "source_reference": "Satsang Diksha Shlok 55"
-    },
-    {
-      "id": "17-1",
-      "type": "quotation_to_reference_mcq",
-      "question_text": "Which Vachanamrut says 'je brahmarūp thayo tene ja Purushottamnī bhaktino adhikār chhe'?",
-      "options": [
-        "Vach.Ga.Pa.20",
         "Vach.Lo.7",
+        "Vach.Ga.Pa.20",
         "Vach.Ga.Ma.3",
         "Vach.Va.5"
       ],
       "correct_answer": "Vach.Lo.7",
-      "explanation": "Vachanamrut Loya 7 states that only one who has become brahmarup has the right to bhakti of Purushottam.",
+      "explanation": "This quote is from Vachanamrut Loya 7.",
       "source_reference": "Vach.Lo.7"
     },
     {
-      "id": "17-2",
+      "id": "3",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsang Diksha Shlok 57 states: Aksharam-aham ityevam bhaktyā prasanna chetasā, Purushottama _________ mantram etam vadech-chhuchim",
+      "question_text": "potānā jīvātmāne e brahma sangathe ekatā karīne Parabrahmanī _____ upāsanā karavī.",
       "options": [
-        "bhaktosmi",
-        "dāso'smi",
-        "swaruposmi",
-        "anandosmi"
+        "Swāmī-sevakbhāve",
+        "bhaktino",
+        "pratāpne",
+        "ujjval"
       ],
-      "correct_answer": "dāso'smi",
-      "explanation": "This shloka encourages the devotee to chant the mantra 'Aksharam aham Purushottama-dāsosmi' with devotion and a joyful heart.",
-      "source_reference": "Satsang Diksha Shlok 57"
+      "correct_answer": "Swāmī-sevakbhāve",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Madhya 3.",
+      "source_reference": "Vach.Ga.Ma.3"
     },
     {
-      "id": "17-3",
-      "type": "conceptual_mcq",
-      "question_text": "According to Vachanamrut Gadhadha I-68, where does Maharaj reside?",
+      "id": "4",
+      "type": "quotation_reference_mcq",
+      "question_text": "Jem Bhagwānnī mānasī pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne Bhagwan bheļī mānasī pūjā kare...to te kanishth bhakta hoy ne te be janme tathā chār janme tathā das janme ke so janme karīne uttam bhakta jevo thanāro hoy, te āne janme karīne uttam bhakta thây chhe. Evu Bhagwān ne te Bhagwānnā bhakta tenī sarakhī sevā karyānu fal chhe.",
       "options": [
-        "In the Himalayas",
-        "In the hearts of devotees",
-        "In the asht prakārnī pratimā tathā sant",
-        "In the Akshardham"
+        "Vach.Va.5",
+        "Vach.Ga.Pa.68",
+        "Vach.Ga.Ma.59",
+        "Vach.Ga.An.7"
       ],
-      "correct_answer": "In the asht prakārnī pratimā tathā sant",
-      "explanation": "Vachanamrut Gadhadha I-68, states that Maharaj resides in the asht prakārnī pratimā tathā sant.",
-      "source_reference": "Vach.Ga.Pa.68"
+      "correct_answer": "Vach.Va.5",
+      "explanation": "The provided quotation is from Vachanamrut Vadtal 5.",
+      "source_reference": "Vach.Va.5"
     },
     {
-      "id": "17-4",
-      "type": "quotation_to_reference_mcq",
-      "question_text": "Which Purushottam Prakash quote states, 'Sant hu ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re;'?",
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwān ne Bhagwānnā sant e ja _____ chhe... Bhagwān ke Bhagwānnā santnī jyāre prāpti thaï tyāre e jīvne ethī uparānt bīju koī kalyāņ nathī, e ja param kalyān chhe.",
+      "options": [
+        "kalyāņkārī",
+        "pratimā",
+        "akhand",
+        "nivās"
+      ],
+      "correct_answer": "kalyāņkārī",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Madhya 59.",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Sant hu ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re; Sant mānajo māri murati re, Emā fer nathi ek rati re...",
       "options": [
         "PURUSHOTTAM PRAKASH 41/9",
-        "PURUSHOTTAM PRAKASH 22/5",
-        "PURUSHOTTAM PRAKASH 1/2",
-        "PURUSHOTTAM PRAKASH 50/1"
+        "Vach.Ga.Pa.68",
+        "Vach.Ga.Ma.59",
+        "Vach.Ga.An.7"
       ],
       "correct_answer": "PURUSHOTTAM PRAKASH 41/9",
-      "explanation": "This quote is from Purushottam Prakash 41/9.",
+      "explanation": "The provided quotation is from Purushottam Prakash 41/9.",
       "source_reference": "PURUSHOTTAM PRAKASH 41/9"
     },
     {
-      "id": "18-1",
+      "id": "7",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsang Diksha Shlok 61 states: Madhye tu sthāpayet tatra hyakshara-Purushottamau | Swāminam hi _________ Mahārājam cha tat param.",
+      "question_text": "Sant _____ ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re; Sant mānajo māri murati re, Emā fer nathi ek rati re...",
       "options": [
-        "Vāsudevam",
-        "Ghanshyamam",
-        "Guņātītam",
-        "Sahajānandam"
+        "hu",
+        "fer",
+        "mānajo",
+        "murati"
       ],
-      "correct_answer": "Guņātītam",
-      "explanation": "This shloka instructs to place the murti of Akshar (Gunatitanand Swami) and Purushottam Maharaj in the center.",
-      "source_reference": "Satsang Diksha Shlok 61"
+      "correct_answer": "hu",
+      "explanation": "This is a direct quote from Purushottam Prakash 41/9.",
+      "source_reference": "PURUSHOTTAM PRAKASH 41/9"
     },
     {
-      "id": "18-2",
-      "type": "conceptual_mcq",
-      "question_text": "According to Vachanamrut Gadhadha Madhya 21, what understanding removes all doubts from the path to liberation?",
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "jevu paroksh Bhagwānnā Rām-Krushņādik avatārnu māhātmya jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī. Te ā vārtā ek vār kahye samajo athavā lākh vār kahye samajo, āj samajo athavā lākh varsh kede samajo pan e vāt samajye ja chhūțako chhe.",
       "options": [
-        "Understanding the scriptures",
-        "Understanding the greatness of both past incarnations of God and present manifest form of God and His Bhakta.",
-        "Performing rituals",
-        "Renouncing the world"
+        "Vach.Ga.Ma.21",
+        "Vach.Ga.Pa.56",
+        "Swa.Vato.1/153",
+        "Vach.Ga.Ma.40"
       ],
-      "correct_answer": "Understanding the greatness of both past incarnations of God and present manifest form of God and His Bhakta.",
-      "explanation": "Understanding the greatness of both past incarnations of God and present manifest form of God and His Bhakta removes all doubts from the path to liberation.",
+      "correct_answer": "Vach.Ga.Ma.21",
+      "explanation": "This quote is from Vachanamrut Gadhada Madhya 21.",
       "source_reference": "Vach.Ga.Ma.21"
     },
     {
-      "id": "18-3",
+      "id": "9",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Swa.Vato.1/153 states: Swāminārāyan nāmnā mantra jevo bījo koī mantra āj _________ nathī.",
+      "question_text": "Game tevo pāpī hoy ne ant same jo tene 'Swāminārāyan evā nāmnu uchchāran thây to te sarva pāp thakī chhūtīne _____ vishe nivās kare",
       "options": [
-        "saral",
-        "baļiyo",
-        "sācho",
-        "mithyo"
+        "Brahmamoholne",
+        "paroksh",
+        "pratyaksh",
+        "Rām-Krushņādik"
       ],
-      "correct_answer": "baļiyo",
-      "explanation": "Swamini Vato 1/153 states that no other mantra is as powerful as the Swaminarayan mantra.",
+      "correct_answer": "Brahmamoholne",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Panchala 56",
+      "source_reference": "Vach.Ga.Pa.56"
+    },
+    {
+      "id": "10",
+      "type": "quotation_reference_mcq",
+      "question_text": "Swāminārāyan nāmnā mantra jevo bījo koī mantra āj baļiyo nathī ne e mantre kāļā nāgnu pan zer na chade ne e mantre vishay ūdī jāy chhe, brahmarūp thây chhe ne kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe. Māțe nirantar bhajan karavu.",
+      "options": [
+        "Swa.Vato.1/153",
+        "Vach.Ga.Ma.40",
+        "Vach.Ga.Ma.21",
+        "Vach.Ga.Pa.56"
+      ],
+      "correct_answer": "Swa.Vato.1/153",
+      "explanation": "This quote is from Swamini Vato 1/153.",
       "source_reference": "Swa.Vato.1/153"
     },
     {
-      "id": "19-1",
-      "type": "conceptual_mcq",
-      "question_text": "According to Satsang Diksha Shlok 68, Whose remembrance should accompany pradakshina of the murtis?",
-      "options": [
-        "Radha-Krishna",
-        "Shiva-Parvati",
-        "Akshar-Purushottam",
-        "Lakshmi-Narayan"
-      ],
-      "correct_answer": "Akshar-Purushottam",
-      "explanation": "The shloka specifies that Akshar-Purushottam Maharaj should be remembered during the pradakshina.",
-      "source_reference": "Satsang Diksha Shlok 68"
-    },
-    {
-      "id": "19-2",
+      "id": "11",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsang Diksha Shlok 69 states: Sāşhţāngā dandavat kāryāh praņāmāh purushais-tataha | Nārībhis-tūpavishyaiva _________ dāsa-bhāvataha.",
+      "question_text": "Swāminārāyan nāmnā _____ jevo bījo koī mantra āj baļiyo nathī ne e mantre kāļā nāgnu pan zer na chade ne e mantre vishay ūdī jāy chhe, brahmarūp thây chhe ne kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe. Māțe nirantar bhajan karavu.",
       "options": [
-        "ashtāngā",
-        "dashaang",
-        "ekāngā",
-        "panchāngā"
+        "mantra",
+        "bhajan",
+        "samajo",
+        "baliyo"
       ],
-      "correct_answer": "panchāngā",
-      "explanation": "This shloka details that men should do sashtang dandvat pranam, while women should do panchanga pranam with a servant's heart.",
-      "source_reference": "Satsang Diksha Shlok 69"
+      "correct_answer": "mantra",
+      "explanation": "This is a direct quote from Swamini Vato 1/153.",
+      "source_reference": "Swa.Vato.1/153"
     },
     {
-      "id": "19-3",
-      "type": "conceptual_mcq",
-      "question_text": "According to Vachanamrut Gadhadha Madhya 40, what is the result of showing hatred towards the bhaktas of God?",
+      "id": "12",
+      "type": "quotation_reference_mcq",
+      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu; ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu... Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na karavo.",
       "options": [
-        "It is equivalent to hating God himself",
-        "The jiva experiences immense suffering",
-        "It leads to worldly success",
-        "It has no effect"
+        "Vach.Ga.Ma.40",
+        "Swa.Vato.1/153",
+        "Vach.Ga.Ma.21",
+        "Vach.Ga.Pa.56"
       ],
-      "correct_answer": "The jiva experiences immense suffering",
-      "explanation": "Vachanamrut Gadhadha Madhya 40 states that immense suffering comes to the jiva as a result of showing hatred towards the bhaktas of God.",
+      "correct_answer": "Vach.Ga.Ma.40",
+      "explanation": "This quote is from Vachanamrut Gadhada Madhya 40.",
       "source_reference": "Vach.Ga.Ma.40"
     },
     {
-      "id": "20-1",
+      "id": "13",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsang Diksha Shlok 72 states: Bhaktitah pūjayitvaivam Akshara-Purushottamam, Punar-āgama-mantreņa _________ nijātmani.",
+      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu; ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu... Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne _____ na karavo.",
       "options": [
-        "sthapayet",
-        "prasthāpayen",
-        "āhvayet",
-        "bhajet"
+        "droh",
+        "bhūndu",
+        "rūdu",
+        "sādhan"
       ],
-      "correct_answer": "prasthāpayen",
-      "explanation": "This shloka describes that after performing puja with devotion, Akshar-Purushottam Maharaj should be invited to reside within one's self using the punaragaman mantra.",
-      "source_reference": "Satsang Diksha Shlok 72"
+      "correct_answer": "droh",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Madhya 40.",
+      "source_reference": "Vach.Ga.Ma.40"
     },
     {
-      "id": "20-2",
-      "type": "conceptual_mcq",
-      "question_text": "According to Satsang Diksha Shlok 74, What kind of scriptures should be read daily for strengthening one's Satsang?",
-      "options": [
-        "Stories of kings and queens",
-        "Scriptures with the updesho and ādesho of Shri Hari and the Guru",
-        "Ancient poems",
-        "Books on worldly knowledge"
-      ],
-      "correct_answer": "Scriptures with the updesho and ādesho of Shri Hari and the Guru",
-      "explanation": "This shloka advises reading scriptures that contain the teachings and commands of Shri Hari and the Guru for strengthening one's Satsang.",
-      "source_reference": "Satsang Diksha Shlok 74"
-    },
-    {
-      "id": "20-3",
+      "id": "14",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsang Diksha Shlok 76 states: Bhojyam naiva na peyam vā vinā _________ jalādikam.",
+      "question_text": "je _____ thayo tene ja Purushottamnī bhaktino adhikār chhe.",
       "options": [
-        "japam",
-        "dhyanam",
-        "pūjām",
-        "bhajanam"
+        "brahmarūp",
+        "sant",
+        "bhakta",
+        "jagatma"
       ],
-      "correct_answer": "pūjām",
-      "explanation": "This shloka instructs one not to eat or drink anything, including water, before performing puja.",
-      "source_reference": "Satsang Diksha Shlok 76"
+      "correct_answer": "brahmarūp",
+      "explanation": "This is a direct quote from Vachanamrut Loya 7.",
+      "source_reference": "Vach.Lo.7"
     },
     {
-      "id": "20-4",
-      "type": "conceptual_mcq",
-      "question_text": "According to Satsang Diksha Shlok 78, From what age should one's children begin having their own puja?",
+      "id": "15",
+      "type": "quotation_reference_mcq",
+      "question_text": "jene potānu kalyāņ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī jagatmā sukhdāyī nathī.",
       "options": [
-        "When they turn 5 years old",
-        "When they are old enough to understand",
-        "From the day of their birth",
-        "When they start going to school"
+        "Vach.Ga.An.7",
+        "Vach.Va.5",
+        "Vach.Ga.Pa.68",
+        "Vach.Ga.Ma.59"
       ],
-      "correct_answer": "From the day of their birth",
-      "explanation": "The shloka emphasizes that children should begin having their own puja from the day of their birth.",
-      "source_reference": "Satsang Diksha Shlok 78"
+      "correct_answer": "Vach.Ga.An.7",
+      "explanation": "The provided quotation is from Vachanamrut Gadhada antya 7.",
+      "source_reference": "Vach.Ga.An.7"
     },
     {
-      "id": "20-5",
-      "type": "quotation_to_reference_mcq",
-      "question_text": "Satsang Diksha Shlok 64 contains the line 'Uttishtha Sahajānanda Shri-Hare Purushottama'. What is the next line of this shloka?",
+      "id": "16",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sant _____ māri murati re, Emā fer nathi ek rati re...",
       "options": [
-        "Āgamyatām hi pūjārtham āgamyatām mad-ātmataha",
-        "Guņātītāʼkshara Brahmann-uttishtha krupayā guro",
-        "Madhye tu sthāpayet tatra hyakshara-Purushottamau",
-        "Swāminārāyaņam mantram japan kuryād gurum smaran"
+        "mānajo",
+        "hu",
+        "bhakta",
+        "brahmarūp"
       ],
-      "correct_answer": "Guņātītāʼkshara Brahmann-uttishtha krupayā guro",
-      "explanation": "The second line of Satsang Diksha Shlok 64 is 'Guņātītāʼkshara Brahmann-uttishtha krupayā guro'",
-      "source_reference": "Satsang Diksha Shlok 64"
+      "correct_answer": "mānajo",
+      "explanation": "This is a direct quote from Purushottam Prakash 41/9.",
+      "source_reference": "PURUSHOTTAM PRAKASH 41/9"
     },
     {
-      "id": "20-6",
-      "type": "conceptual_mcq",
-      "question_text": "According to Satsang Diksha Shlok 77, What should one do if they are unable to perform puja due to old age or illness?",
+      "id": "17",
+      "type": "quotation_reference_mcq",
+      "question_text": "Mārī asht prakārnī je pratimā tathā je sant tene vishe hu akhand nivās karīne rahu chhu.",
       "options": [
-        "Completely stop performing puja",
-        "Have someone else perform the puja on their behalf",
-        "Perform a shorter version of the puja",
-        "Visualize the puja in their mind"
+        "Vach.Ga.Pa.68",
+        "Vach.Ga.An.7",
+        "Vach.Va.5",
+        "Vach.Ga.Ma.59"
       ],
-      "correct_answer": "Have someone else perform the puja on their behalf",
-      "explanation": "The shloka advises that if one is unable to perform puja due to old age or illness, they should have someone else perform it on their behalf.",
-      "source_reference": "Satsang Diksha Shlok 77"
+      "correct_answer": "Vach.Ga.Pa.68",
+      "explanation": "The provided quotation is from Vachanamrut Gadhada Pratham 68.",
+      "source_reference": "Vach.Ga.Pa.68"
+    },
+    {
+      "id": "18",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "jene potānu kalyāņ ichchhavu tene to Bhagwān ne Bhagwānnā _____ ethī uparānt bīju kāī jagatmā sukhdāyī nathī.",
+      "options": [
+        "sādhu",
+        "bhakta",
+        "pratimā",
+        "sant"
+      ],
+      "correct_answer": "sādhu",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada antya 7.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "19",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Mārī asht prakārnī je _____ tathā je sant tene vishe hu akhand nivās karīne rahu chhu.",
+      "options": [
+        "pratimā",
+        "sādhu",
+        "bhakta",
+        "sant"
+      ],
+      "correct_answer": "pratimā",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Pratham 68.",
+      "source_reference": "Vach.Ga.Pa.68"
+    },
+    {
+      "id": "20",
+      "type": "quotation_reference_mcq",
+      "question_text": "Bhagwanne bhajavā ethī bījī vāt moţī nathī.",
+      "options": [
+        "Vach.Je.5",
+        "Vach.Lo.7",
+        "Vach.Ga.Pa.20",
+        "Vach.Ga.Ma.3"
+      ],
+      "correct_answer": "Vach.Je.5",
+      "explanation": "This quote is from Vachanamrut Jetalpur 5.",
+      "source_reference": "Vach.Je.5"
     }
   ]
 }

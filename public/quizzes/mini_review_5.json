@@ -4,262 +4,282 @@
     {
       "id": "1",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Swāminārāyaṇah sākshād ______________; Sarvebhyah paramām shāntim ānandam sukham arpayet. ॥ 1 ॥",
+      "question_text": "Bhagwānnu je ek _____ darshan te upar anant koṭi brahmānḍnā je viṣhaysukh chhe te sarvene vārīferīne nākhī deīe ane Bhagwānnā ek rommā jeṭalu sukh rahyu chhe teṭalu sukh jo anant koṭi brahmānḍnā viṣhaysukh bheḷā karīe to paṇ tenā koṭimā bhāgnī barobar paṇ thāy nahī.",
       "options": [
-        "Akshara-Purushottmaha",
-        "Purushottama",
-        "Akshara"
+        "ghannu",
+        "nimiṣhmātranu",
+        "sādhuvānu",
+        "dhanno"
       ],
-      "correct_answer": "Akshara-Purushottmaha",
-      "explanation": "This is from Satsang Diksha Shlok 1.",
-      "source_reference": "Satsang Diksha Shlok 1"
+      "correct_answer": "nimiṣhmātranu",
+      "explanation": "This is a direct quote from Vachanamrut Sārangpur 1.",
+      "source_reference": "Vach.Sā.1"
     },
     {
       "id": "2",
       "type": "quotation_reference_mcq",
       "question_text": "Viṣhaynu je sukh chhe te karatā ātmānu sukh bahu adhik chhe ne te karatā Bhagwānnu sukh e to chintāmaṇi chhe.",
       "options": [
-        "Swā.Vāto: 1/26",
         "Swā.Vāto: 1/19",
+        "Swā.Vāto: 1/26",
+        "Vach.Sā.1",
         "Swā.Vāto: 6/77"
       ],
       "correct_answer": "Swā.Vāto: 1/26",
-      "explanation": "This is from Swamini Vato 1/26.",
+      "explanation": "This is a direct quote from Swamini Vato 1/26.",
       "source_reference": "Swā.Vāto: 1/26"
     },
     {
       "id": "3",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Durlabho nashvarash-chā'yam ______________ maḷato nathī. ॥ 2 ॥",
+      "question_text": "_____ rūpiyā kharachtā paṇ āvā Sādhu maḷe nahi ne _____ rūpiyā detā paṇ ā vātu maḷe nahi ne karoḍ rūpiyā āpatā paṇ manuṣhya-deh maḷe nahi; ne āpaṇe paṇ karoḍ janma dharyā chhe, paṇ koī vakhat āvo jog maḷyo nathī. Nīkar shu karavā deh dharavo paḍe?",
       "options": [
-        "vāram-vāram",
-        "satatam",
-        "ek-vāram"
+        "Hajar, das",
+        "karoḍ, karoḍ",
+        "Lakh, Das",
+        "Das, Hajar"
       ],
-      "correct_answer": "vāram-vāram",
-      "explanation": "This is from Satsang Diksha Shlok 2",
-      "source_reference": "Satsang Diksha Shlok 2"
+      "correct_answer": "karoḍ, karoḍ",
+      "explanation": "This is a direct quote from Swamini Vato 1/19.",
+      "source_reference": "Swā.Vāto: 1/19"
     },
     {
       "id": "4",
       "type": "quotation_reference_mcq",
-      "question_text": "Karoḍ rūpiyā kharachtā paṇ āvā Sādhu maḷe nahi ne karoḍ rūpiyā detā paṇ ā vātu maḷe nahi ne karoḍ rūpiyā āpatā paṇ manuṣhya-deh maḷe nahi; ne āpaṇe paṇ karoḍ janma dharyā chhe, paṇ koī vakhat āvo jog maḷyo nathī. Nīkar shu karavā deh dharavo paḍe?",
+      "question_text": "Ā dehe Bhagwānne bhajī levā, ne deh to hamaṇā paḍashe, māṭe ā to vījaḷīnā zabakārāmā motī parovī levu, tem thoḍāmā kām kāḍhī levu.",
       "options": [
         "Swā.Vāto: 1/19",
         "Swā.Vāto: 6/77",
-        "Swā.Vāto: 2/19"
+        "Swā.Vāto: 1/26",
+        "Vach.Sā.1"
       ],
-      "correct_answer": "Swā.Vāto: 1/19",
-      "explanation": "This is from Swamini Vato 1/19.",
-      "source_reference": "Swā.Vāto: 1/19"
+      "correct_answer": "Swā.Vāto: 6/77",
+      "explanation": "This is a direct quote from Swamini Vato 6/77.",
+      "source_reference": "Swā.Vāto: 6/77"
     },
     {
       "id": "5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Laukik vyavahār to ______________ māṭe chhe. Te ā manuṣhya janmanu param lakṣhya nathī.",
-      "options": [
-        "dehnā nirvāh",
-        "ātmānā nirvāh",
-        "indriyono nirvāh"
-      ],
-      "correct_answer": "dehnā nirvāh",
-      "explanation": "This is from Satsang Diksha Shlok 3.",
-      "source_reference": "Satsang Diksha Shlok 3"
-    },
-    {
-      "id": "6",
       "type": "quotation_reference_mcq",
       "question_text": "Karoḍ kām bagāḍīne paṇ ek mokṣha sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
       "options": [
         "Swā.Vāto: 1/14",
-        "Swā.Vāto: 2/19",
-        "Swā.Vāto: 4/99"
+        "Vach.Ga.Pr.21",
+        "Vach.Ga.An.30",
+        "Swā.Vāto: 2/19"
       ],
       "correct_answer": "Swā.Vāto: 1/14",
-      "explanation": "This is from Swamini Vato 1/14.",
+      "explanation": "This is a direct quote from Swamini Vato 1/14.",
       "source_reference": "Swā.Vāto: 1/14"
     },
     {
-      "id": "7",
+      "id": "6",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sarva doṣhone ṭāḷavā, brahma-sthitine pāmavā ane ______________ karavā ā deh maḷyo chhe.",
+      "question_text": "Āpaṇe paṇ e _____ je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne akhanḍ Bhagwānnī sevāmā hajūr rahevu chhe, paṇ nāshavant ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
       "options": [
-        "Bhagwānnī bhakti",
-        "sādhunī bhakti",
-        "gurunī bhakti"
+        "Akṣharrūp",
+        "Sādhurūp",
+        "Bhaktarūp",
+        "Devrūp"
       ],
-      "correct_answer": "Bhagwānnī bhakti",
-      "explanation": "This is from Satsang Diksha Shlok 4.",
-      "source_reference": "Satsang Diksha Shlok 4"
-    },
-    {
-      "id": "8",
-      "type": "quotation_reference_mcq",
-      "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne akhanḍ Bhagwānnī sevāmā hajūr rahevu chhe, paṇ nāshavant ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
-      "options": [
-        "Vach.Ga.Pr.21",
-        "Vach.Ga.An.30",
-        "Vach.Va.4"
-      ],
-      "correct_answer": "Vach.Ga.Pr.21",
-      "explanation": "This is from Vachanamrut Gadhada Pratham 21.",
+      "correct_answer": "Akṣharrūp",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Pratham 21.",
       "source_reference": "Vach.Ga.Pr.21"
     },
     {
-      "id": "9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Ā badhu ______________ avashya prāpta thāya chhe. Āthī mumukṣhuoe sadāya satsang karavo.",
+      "id": "7",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...marī to sarvene javu chhe paṇ āvī rīte bhakti karavī e ja jīvyāno moṭo lābh chhe...”",
       "options": [
-        "satsang karavāthī",
-        "bhakti karavāthī",
-        "tap karavāthī"
+        "Vach.Ga.Pr.21",
+        "Vach.Ga.An.30",
+        "Swā.Vāto: 2/19",
+        "Swā.Vāto: 4/99"
       ],
-      "correct_answer": "satsang karavāthī",
-      "explanation": "This is from Satsang Diksha Shlok 5.",
-      "source_reference": "Satsang Diksha Shlok 5"
+      "correct_answer": "Vach.Ga.An.30",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Antya 30.",
+      "source_reference": "Vach.Ga.An.30"
+    },
+    {
+      "id": "8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Ā meḍiyu maḷī chhe ne sāru sāru khāvā maḷe chhe, ke mān maḷe chhe, ityādik manuṣhya dehnu faḷ nathī. Te to vimukhne paṇ maḷe chhe. Māṭe manuṣhya dehnu faḷ to sārāno sang ne _____ ṭaḷe, eṭalu ja chhe.",
+      "options": [
+        "lobh",
+        "moh",
+        "swabhāv",
+        "kām"
+      ],
+      "correct_answer": "swabhāv",
+      "explanation": "This is a direct quote from Swamini Vato 2/19.",
+      "source_reference": "Swā.Vāto: 2/19"
+    },
+    {
+      "id": "9",
+      "type": "quotation_reference_mcq",
+      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek Akṣharrūp thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭaḷavī.",
+      "options": [
+        "Swā.Vāto: 4/99",
+        "Swā.Vāto: 2/19",
+        "Vach.Ga.An.30",
+        "Swā.Vāto: 1/14"
+      ],
+      "correct_answer": "Swā.Vāto: 4/99",
+      "explanation": "This is a direct quote from Swamini Vato 4/99.",
+      "source_reference": "Swā.Vāto: 4/99"
     },
     {
       "id": "10",
       "type": "quotation_reference_mcq",
-      "question_text": "jyāre āvo sant-samāgam prāpt thayo tyāre deh mūkīne jene pāmavā hatā te to deh chhatā ja maḷyā chhe; māṭe jene parampad kahīe, mokṣh kahīe tene chhate dehe ja pāmyo chhe.",
+      "question_text": "Nāshvant ā deh vadhethi, avinashi fal levu ji, patrāvaane jemi karine, bahaar feki devu ji",
       "options": [
-        "Vach.Ga.An.2",
-        "Vach.Sā.9",
-        "Swā.Vāto: 1/17"
-      ],
-      "correct_answer": "Vach.Ga.An.2",
-      "explanation": "This is from Vachanamrut Gadhada অন্ত্য 2.",
-      "source_reference": "Vach.Ga.An.2"
-    },
-    {
-      "id": "11",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bhagwāne kahyu chhe je, “Jevo hu ______________ vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto.”",
-      "options": [
-        "satsange karīne",
-        "bhakti karīne",
-        "tap karīne"
-      ],
-      "correct_answer": "satsange karīne",
-      "explanation": "This is from Swamini Vato 1/17.",
-      "source_reference": "Swā.Vāto: 1/17"
-    },
-    {
-      "id": "12",
-      "type": "quotation_reference_mcq",
-      "question_text": "Jan pratye jīvan kahe, jene jeṭalo satsang; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
-      "options": [
-        "Bhaktachintamani: 84",
-        "Bhaktachintamani: 80",
-        "Bhaktachintamani: 86"
-      ],
-      "correct_answer": "Bhaktachintamani: 84",
-      "explanation": "This is from Bhaktachintamani 84.",
-      "source_reference": "Bhaktachintamani: 84"
-    },
-    {
-      "id": "13",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Tethī Parabrahma Swāminārāyaṇe ā lokmā sākṣhāt avatarīne ā ______________ sthāpanā karī.",
-      "options": [
-        "divya satsangnī",
-        "divya bhaktinī",
-        "divya tapnī"
-      ],
-      "correct_answer": "divya satsangnī",
-      "explanation": "This is from Satsang Diksha Shlok 6.",
-      "source_reference": "Satsang Diksha Shlok 6"
-    },
-    {
-      "id": "14",
-      "type": "quotation_reference_mcq",
-      "question_text": "Aksharnā vāsī vahālo, āvyā avani par, Navkhaṇḍ dharatīmā Swāmī, chhatrāyā chāle rāj… Akshar ṭek Avani par āvī vahāle, satsang sthāpyo, Hari janoṇe kol, kalyāṇno āpyo rāj… Akshar 1",
-      "options": [
+        "Narayandas Swami",
         "Sadguru Premanand Swami",
         "Sadguru Brahmanand Swami",
         "Sadguru Nishkulanand Swami"
       ],
-      "correct_answer": "Sadguru Premanand Swami",
-      "explanation": "This is a kirtan by Sadguru Premanand Swami.",
-      "source_reference": "Sadguru Premanand Swami"
+      "correct_answer": "Narayandas Swami",
+      "explanation": "This is a direct quote from a Kirtan by Narayandas Swami.",
+      "source_reference": "Narayandas Swami"
+    },
+    {
+      "id": "11",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "“...ati sāche bhāve karīne satsang kare to tene koī jātno doṣh haiyāmā rahe nahī ane deh chhatā ja _____ thaī jāy.”",
+      "options": [
+        "akshardham",
+        "brahmarūp",
+        "siddharūp",
+        "devrup"
+      ],
+      "correct_answer": "brahmarūp",
+      "explanation": "This is a direct quote from Vachanamrut Sarangpur 9.",
+      "source_reference": "Vach.Sā.9"
+    },
+    {
+      "id": "12",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...jyāre āvo sant-samāgam prāpt thayo tyāre deh mūkīne jene pāmavā hatā te to deh chhatā ja maḷyā chhe; māṭe jene parampad kahīe, mokṣh kahīe tene chhate dehe ja pāmyo chhe.”",
+      "options": [
+        "Vach.Ga.An.2",
+        "Swā.Vāto: 1/17",
+        "Bhaktachintamani: 84",
+        "Vach.Sā.9"
+      ],
+      "correct_answer": "Vach.Ga.An.2",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Antya 2.",
+      "source_reference": "Vach.Ga.An.2"
+    },
+    {
+      "id": "13",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Bhagwāne kahyu chhe je, “Jevo hu _____ karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto.” Te satsang shu je, ‘Moṭā Ekāntikne hāth joḍavā ne te kahe tem karavu e ja chhe.’",
+      "options": [
+        "satsange",
+        "dhyāne",
+        "tapascharyā",
+        "dāne"
+      ],
+      "correct_answer": "satsange",
+      "explanation": "This is a direct quote from Swamini Vato 1/17.",
+      "source_reference": "Swā.Vāto: 1/17"
+    },
+    {
+      "id": "14",
+      "type": "quotation_reference_mcq",
+      "question_text": "Jan pratye jīvan kahe, jene jeṭalo satsang; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
+      "options": [
+        "Bhaktachintamani: 84",
+        "Vach.Ga.An.2",
+        "Swā.Vāto: 1/17",
+        "Vach.Sā.9"
+      ],
+      "correct_answer": "Bhaktachintamani: 84",
+      "explanation": "This is a direct quote from Bhaktachintamani 84.",
+      "source_reference": "Bhaktachintamani: 84"
     },
     {
       "id": "15",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Ā satsangnu gnān mumukṣhuone thāya evā shubh āshayathī ‘______________’ e nāmnu shāstra rachavāmā āve chhe.",
+      "type": "quotation_reference_mcq",
+      "question_text": "Aksharnā vāsī vahālo, āvyā avani par,\nNavkhaṇḍ dharatīmā Swāmī, chhatrāyā chāle rāj… Akshar ṭek\nAvani par āvī vahāle, satsang sthāpyo,\nHari janoṇe kol, kalyāṇno āpyo rāj… Akshar 1\nPānche vartamān pāḷe, bāīo ne bhāīo,\nHari jan sangāthe kīdhī sācī sagāīo rāj… Akshar 2\nBāīo dekhīne bhāīo, chheṭerā chāle,\nPaḍī vastu koīnī, hāthe nav zhāle rāj… Akshar 3\nDevnā Dev vahālo, dhāmnā Dhāmī,\nPragaṭ Prabhunu nām Sahajānand Swāmī rāj… Akshar 4\nPremānandnā Swāmī ānandkārī,\nPotānā jannī vāle lāaj vadhārī rāj… Akshar 5",
       "options": [
-        "Satsang-Dīkṣhā",
-        "Bhakti-Dīkṣhā",
-        "Gnan-Dīkṣhā"
+        "Sadguru Premanand Swami",
+        "Sadguru Brahmanand Swami",
+        "Sadguru Nishkulanand Swami",
+        "Narayandas Swami"
       ],
-      "correct_answer": "Satsang-Dīkṣhā",
-      "explanation": "This is from Satsang Diksha Shlok 7.",
-      "source_reference": "Satsang Diksha Shlok 7"
+      "correct_answer": "Sadguru Premanand Swami",
+      "explanation": "This is a direct quote from a Kirtan by Sadguru Premanand Swami.",
+      "source_reference": "Sadguru Premanand Swami"
     },
     {
       "id": "16",
-      "type": "quotation_reference_mcq",
-      "question_text": "Ane satsangī paṇ ene ja kahīe; kem je, satyarūp evo je potāno ātmā tathā satyarūp evā je Bhagwān teno jene āvī rīte sang thayo tene satsangī kahīe.",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "“Ane satsangī paṇ ene ja kahīe; kem je, satyarūp evo je potāno ātmā tathā satyarūp evā je Bhagwān teno jene āvī rīte _____ thayo tene satsangī kahīe.”",
       "options": [
-        "Vach.Ga.An.39",
-        "Vach.Va.4",
-        "Vach.Ga.Pr.56"
+        "sang",
+        "virah",
+        "tyag",
+        "moha"
       ],
-      "correct_answer": "Vach.Ga.An.39",
-      "explanation": "This is from Vachanamrut Gadhada અંત્ય 39.",
+      "correct_answer": "sang",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Antya 39.",
       "source_reference": "Vach.Ga.An.39"
     },
     {
       "id": "17",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Dīkṣhā eṭale ______________, shraddhāe sahit evo achaḷ nishchay, samyak samarpaṇ, prīti-pūrvak niṣhṭhā, vrat ane dṛuḍh āsharo.",
+      "type": "quotation_reference_mcq",
+      "question_text": "“Trīs lakṣhaṇe yukta evā je sant teno je sang te man-karma-vachane rākhe, to jeṭalā kalyāṇne arthe sādhan chhe teṭalā sarve tenā sangmā āvī jāy chhe.”",
       "options": [
-        "dṛuḍh sankalp",
-        "achaḷ sankalp",
-        "samyak sankalp"
+        "Vach.Va.4",
+        "Vach.Ga.An.39",
+        "Sadguru Brahmanand Swami",
+        "Chosath Padi"
       ],
-      "correct_answer": "dṛuḍh sankalp",
-      "explanation": "This is from Satsang Diksha Shlok 10.",
-      "source_reference": "Satsang Diksha Shlok 10"
+      "correct_answer": "Vach.Va.4",
+      "explanation": "This is a direct quote from Vachanamrut Vartal 4.",
+      "source_reference": "Vach.Va.4"
     },
     {
       "id": "18",
       "type": "quotation_reference_mcq",
-      "question_text": "jem ā līmbaḍānu vṛukṣh chhe te ek vār jāṇī līdhu chhe, pachhī koī rīte manmā sankalp thato nathī je, ‘Līmbaḍo hashe ke nahī hoy?’ Evī rīte game teno sang thāy ane game tevā shāstra sāmbhaḷe paṇ koī rīte karīne Bhagwānnā swarūpno je nishchay karyo hoy temāthī man ḍag-mage nahī, evo je nirutthānpaṇe Bhagwānno nishchay ene ame tadātmakpaṇu kahīe chhīe.",
+      "question_text": "Sant samāgam kīje, ho nishdin… ṭek\nMān tajī santanke mukhse, prem sudhāras pīje… Ho 1\nAntar kapaṭ meṭke apnā, le unku mann dīje… Ho 2\nBhav-dukh ṭaḷe baḷe sab duṣhkṛut, sabvidhi kāraj sījē… Ho 3\nKahe Brahmānand santkī sobat, janma suphal kar līje… Ho 4",
       "options": [
-        "Vach.Ga.Ma.14",
-        "Vach.Lo.3",
-        "Vach.Ga.Pr.56"
+        "Sadguru Brahmanand Swami",
+        "Sadguru Premanand Swami",
+        "Sadguru Nishkulanand Swami",
+        "Narayandas Swami"
       ],
-      "correct_answer": "Vach.Ga.Ma.14",
-      "explanation": "This is from Vachanamrut Gadhada Madhya 14.",
-      "source_reference": "Vach.Ga.Ma.14"
+      "correct_answer": "Sadguru Brahmanand Swami",
+      "explanation": "This is a direct quote from a Kirtan by Sadguru Brahmanand Swami.",
+      "source_reference": "Sadguru Brahmanand Swami"
     },
     {
       "id": "19",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Ā shāstramā Parabrahma Sahajānand Paramātmāe darshāvel āgnā tathā ______________ paddhatine spaṣhṭa rīte jaṇāvī chhe.",
+      "question_text": "Sācho maḷyo chhe _____, ange achaḷ karī rākhjo re;\nRakhe chaḍe bījāno rang, evu ḍahāpaṇ dūr nākhjo re… ṭek",
       "options": [
-        "upāsanānī",
-        "bhaktinī",
-        "gnānnī"
+        "satsang",
+        "kusang",
+        "satsangi",
+        "kusangi"
       ],
-      "correct_answer": "upāsanānī",
-      "explanation": "This is from Satsang Diksha Shlok 11.",
-      "source_reference": "Satsang Diksha Shlok 11"
+      "correct_answer": "satsang",
+      "explanation": "This is a direct quote from Chosath Padi.",
+      "source_reference": "Chosath Padi"
     },
     {
       "id": "20",
-      "type": "quotation_reference_mcq",
-      "question_text": "Keṭalāk siddha thāy chhe ne keṭalāk sarvagna thāy chhe ne keṭalāk devatā thāy chhe ityādik anant prakārnī moṭyap pāme chhe tathā param padne pāme chhe e sarve Bhagwānnī upāsanāne baḷe pāme chhe, paṇ upāsanā vinā koī vāt siddha thatī nathī.",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "“...jem ā līmbaḍānu vṛukṣh chhe te ek vār _____ chhe, pachhī koī rīte manmā sankalp thato nathī je, ‘Līmbaḍo hashe ke nahī hoy?’ Evī rīte game teno sang thāy ane game tevā shāstra sāmbhaḷe paṇ koī rīte karīne Bhagwānnā swarūpno je nishchay karyo hoy temāthī man ḍag-mage nahī, evo je nirutthānpaṇe Bhagwānno nishchay ene ame tadātmakpaṇu kahīe chhīe.”",
       "options": [
-        "Vach.Ga.Pr.56",
-        "Vach.Ga.Ma.14",
-        "Vach.Lo.3"
+        "joī līdhu",
+        "jāṇī līdhu",
+        "samaji līdhu",
+        "parakhi līdhu"
       ],
-      "correct_answer": "Vach.Ga.Pr.56",
-      "explanation": "This is from Vachanamrut Gadhada Pratham 56.",
-      "source_reference": "Vach.Ga.Pr.56"
+      "correct_answer": "jāṇī līdhu",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada Madhya 14.",
+      "source_reference": "Vach.Ga.Ma.14"
     }
   ]
 }

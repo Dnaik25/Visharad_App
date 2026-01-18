@@ -2,283 +2,283 @@
   "quiz_title": "Mini-Review Quiz (Classes 6-10)",
   "questions": [
     {
-      "id": "6-1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsangmā ling-bhedthī ____________ na ja samajavu.",
-      "options": [
-        "nyūnādhikpaṇu",
-        "bhakti",
-        "moksha",
-        "sukh"
-      ],
-      "correct_answer": "nyūnādhikpaṇu",
-      "explanation": "The exact quote from Satsang Diksha Shlok 13 is: 'Satsangmā ling-bhedthī nyūnādhikpaṇu na ja samajavu.'",
-      "source_reference": "Satsang Diksha Shlok 13"
-    },
-    {
-      "id": "6-2",
+      "id": "7_1",
       "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: 'Sarva varṇanā sarva strīo tathā sarva puruṣho sadāy satsang, brahma-vidyā ane mokṣhanā adhikārī chhe.'?",
-      "options": [
-        "Satsang Diksha Shlok 14-16",
-        "Satsang Diksha Shlok 12",
-        "Satsang Diksha Shlok 13",
-        "Satsang Diksha Shlok 17"
-      ],
-      "correct_answer": "Satsang Diksha Shlok 14-16",
-      "explanation": "This quote is the translation of Satsang Diksha Shlok 14-16.",
-      "source_reference": "Satsang Diksha Shlok 14-16"
-    },
-    {
-      "id": "7-1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Gṛuhasth tathā tyāgī sarve ____________ adhikārī chhe.",
-      "options": [
-        "mokṣhanā",
-        "bhakti",
-        "satsang",
-        "jnana"
-      ],
-      "correct_answer": "mokṣhanā",
-      "explanation": "The exact quote from Satsang Diksha Shlok 17 is: 'Gṛuhasth tathā tyāgī sarve mokṣhanā adhikārī chhe.'",
-      "source_reference": "Satsang Diksha Shlok 17"
-    },
-    {
-      "id": "7-2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: “...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”?",
+      "question_text": "“...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
       "options": [
         "Vach.Ga.Ma.8",
-        "Satsang Diksha Shlok 17",
         "Vach.Va.20",
-        "Satsang Diksha Shlok 18"
+        "Vach.Ga.Pa.72",
+        "Vach.Ga.Pa.58"
       ],
       "correct_answer": "Vach.Ga.Ma.8",
-      "explanation": "This quote is from Vachanamrut Gadhada Madhya 8.",
+      "explanation": "This quote is directly from Vachanamrut Gadhada Madhya 8.",
       "source_reference": "Vach.Ga.Ma.8"
     },
     {
-      "id": "8-1",
+      "id": "7_2",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Akṣharbrahma gurunā yoge Swāminārāyaṇ Bhagwānno āsharo karavāthī hu dhanya chhu, pūrṇakām chhu, ____________, nirbhay ane sukhī chhu.",
+      "question_text": "\"...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo _____ _____.\"",
       "options": [
-        "niṣhpāp",
-        "sukhī",
-        "dhanya",
-        "pūrṇakām"
+        "haribhakta jāṇavo",
+        "bhaktane āḷakhe",
+        "mahant jane",
+        "sādhune lekhe"
       ],
-      "correct_answer": "niṣhpāp",
-      "explanation": "The exact quote from Satsang Diksha Shlok 19 is: 'Akṣharbrahma gurunā yoge Swāminārāyaṇ Bhagwānno āsharo karavāthī hu dhanya chhu, pūrṇakām chhu, niṣhpāp, nirbhay ane sukhī chhu.'",
-      "source_reference": "Satsang Diksha Shlok 19"
-    },
-    {
-      "id": "8-2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: “...amāro draḍh vishvās rākhasho ne kahīe tem karasho to tamane mahākaṣhṭ koīk āvī paḍashe tethī athavā sāt dakālī jevu paḍashe te thakī rakṣhā karashu ane koī ūgaryāno āro na hoy evu kaṣhṭ āvī paḍashe toy paṇ rakṣhā karashu.”?",
-      "options": [
-        "Vach.Je.5",
-        "Vach.Ga.Pa.72",
-        "Vach.Ga.Pa.58",
-        "Vach.Ga.An.7"
-      ],
-      "correct_answer": "Vach.Je.5",
-      "explanation": "This quote is from Vachanamrut Jetalpur 5.",
-      "source_reference": "Vach.Je.5"
-    },
-    {
-      "id": "9-1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Mumukṣhu potānā ātmānī mukti māṭe Sahajānand Shrīhari tathā ____________ swarūp guṇātīt guruno prītie karīne āsharo kare.",
-      "options": [
-        "Akṣharbrahma",
-        "Sahajānand",
-        "guṇātīt",
-        "mukti"
-      ],
-      "correct_answer": "Akṣharbrahma",
-      "explanation": "The exact quote from Satsang Diksha Shlok 20 is: 'Mumukṣhu potānā ātmānī mukti māṭe Sahajānand Shrīhari tathā Akṣharbrahma swarūp guṇātīt guruno prītie karīne āsharo kare.'",
-      "source_reference": "Satsang Diksha Shlok 20"
-    },
-    {
-      "id": "9-2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: “māyā taravāno upāy e chhe je, jyāre sarva karma ane māyā teno nāsh karanārā ne māyāthī par je sākṣhātkār Shrī Puruṣhottam Bhagwān athavā te Bhagwānnā maḷel sant temanī jīvne prāpti jyāre thāy chhe tyāre temanā āshraythī māyā ullanghāy chhe.”?",
-      "options": [
-        "Vach.Je.1",
-        "Vach.Ga.Ma.59",
-        "Vach.Lo.3",
-        "Vach.Va.14"
-      ],
-      "correct_answer": "Vach.Je.1",
-      "explanation": "This quote is from Vachanamrut Jetalpur 1.",
-      "source_reference": "Vach.Je.1"
-    },
-    {
-      "id": "10-1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Satsangano āsharo karī sadāy kanthane vishe ____________ mālā dhāran karvī tathā satsanganā niyamo dhāran karvā.",
-      "options": [
-        "kāshthnī bevdī",
-        "rudrākṣh",
-        "tulsi",
-        "gold"
-      ],
-      "correct_answer": "kāshthnī bevdī",
-      "explanation": "The exact quote from Satsang Diksha Shlok 21 is: 'Satsangano āsharo karī sadāy kanthane vishe kāshthnī bevdī mālā dhāran karvī tathā satsanganā niyamo dhāran karvā.'",
-      "source_reference": "Satsang Diksha Shlok 21"
-    },
-    {
-      "id": "10-2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: “Āvī Bhagwatswarūp sambandhī je vārtā te to shāstramāthī paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā mukh thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.”?",
-      "options": [
-        "Vach.Ga.Ma.13",
-        "Vach.Va.11",
-        "Satsang Diksha Shlok 22",
-        "Satsang Diksha Shlok 23"
-      ],
-      "correct_answer": "Vach.Ga.Ma.13",
-      "explanation": "This quote is from Vachanamrut Gadhada Madhya 13.",
-      "source_reference": "Vach.Ga.Ma.13"
-    },
-    {
-      "id": "6-3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sarve’rhā brahmavidyāyām nāryash-____________ narās-tathā ॥ 12 ॥",
-      "options": [
-        "chaiva",
-        "sarve",
-        "api",
-        "eva"
-      ],
-      "correct_answer": "chaiva",
-      "explanation": "The exact quote from Satsang Diksha Shlok 12 is: 'Sarve’rhā brahmavidyāyām nāryash-chaiva narās-tathā ॥ 12 ॥'",
-      "source_reference": "Satsang Diksha Shlok 12"
-    },
-    {
-      "id": "7-3",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: “...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
-      "options": [
-        "Vach.Va.20",
-        "Vach.Ga.Ma.8",
-        "Satsang Diksha Shlok 17",
-        "Satsang Diksha Shlok 18"
-      ],
-      "correct_answer": "Vach.Va.20",
-      "explanation": "This quote is from Vachanamrut Vartal 20.",
+      "correct_answer": "haribhakta jāṇavo",
+      "explanation": "The complete sentence is: “...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
       "source_reference": "Vach.Va.20"
     },
     {
-      "id": "8-3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Atishay je Moṭā Puruṣh hoy teno je upar rājīpo thāy tenā game tevā ____________ hoy to nāsh pāme.",
+      "id": "8_1",
+      "type": "quotation_reference_mcq",
+      "question_text": "“...jene māhātmye sahit nishchay hoy tene em samajāy je, ‘Je divase Bhagwānnu darshan thayu te divasthī ja kalyāṇ to thaī rahyu chhe ane je jīv bhāve karīne māru darshan kare tathā māru vachan māne tenu paṇ kalyāṇ thaī jāy to māre kalyāṇno shyo sanshay chhe? Hu to kṛutārth chhu ane je kāī sādhan karu chhu te to Bhagwānnī prasannatāne arthe karu chhu,’ em samaje tene Bhagwānno māhātmye sahit nishchay jāṇavo.”",
       "options": [
-        "malin sanskār",
-        "karma",
-        "vighna",
-        "prārabdha"
+        "Vach.Ga.Pa.72",
+        "Vach.Ga.Pa.58",
+        "Vach.Ga.An.7",
+        "Vach.Je.5"
       ],
-      "correct_answer": "malin sanskār",
-      "explanation": "The exact quote from Vachanamrut Gadhada Pratham 58 is: 'Atishay je Moṭā Puruṣh hoy teno je upar rājīpo thāy tenā game tevā malin sanskār hoy to nāsh pāme'.",
+      "correct_answer": "Vach.Ga.Pa.72",
+      "explanation": "This quote is from Vachanamrut Gadhada Pratham 72.",
+      "source_reference": "Vach.Ga.Pa.72"
+    },
+    {
+      "id": "8_2",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Atishay je _____ Puruṣh hoy teno je upar rājīpo thāy tenā game tevā malin sanskār hoy to nāsh pāme ane Moṭā Puruṣhno rājīpo thayo hoy to rānk hoy te rājā thāy ane game tevā bhūnḍā prārabdha hoy to rūḍā thāy ane game tevu tene māthe vighna āvanāru hoy te nāsh thaī jāy.\"",
+      "options": [
+        "Moṭā",
+        "Nānā",
+        "Sādhū",
+        "Jetha"
+      ],
+      "correct_answer": "Moṭā",
+      "explanation": "The complete sentence is: \"Atishay je Moṭā Puruṣh hoy teno je upar rājīpo thāy tenā game tevā malin sanskār hoy to nāsh pāme ane Moṭā Puruṣhno rājīpo thayo hoy to rānk hoy te rājā thāy ane game tevā bhūnḍā prārabdha hoy to rūḍā thāy ane game tevu tene māthe vighna āvanāru hoy te nāsh thaī jāy.\"",
       "source_reference": "Vach.Ga.Pa.58"
     },
     {
-      "id": "9-3",
+      "id": "8_3",
       "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: “Bhagwān ane Moṭā Sādhune āshare karīne to vādaḷ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.”",
+      "question_text": "\"Jene potānu kalyāṇ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī jagatmā sukhdāyī nathī.\"",
+      "options": [
+        "Vach.Ga.An.7",
+        "Vach.Je.5",
+        "Vach.Ga.Pa.58",
+        "Vach.Ga.Pa.72"
+      ],
+      "correct_answer": "Vach.Ga.An.7",
+      "explanation": "This is a direct quote from Vachanamrut Gadhada অন্ত্য 7.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "8_4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"...amāro draḍh vishvās rākhasho ne kahīe tem karasho to tamane mahākaṣhṭ koīk āvī paḍashe tethī athavā sāt dakālī jevu paḍashe te thakī _____ karashu ane koī ūgaryāno āro na hoy evu kaṣhṭ āvī paḍashe toy paṇ rakṣhā karashu.\"",
+      "options": [
+        "rakṣhā",
+        "dharsho",
+        "bhagasho",
+        "marasho"
+      ],
+      "correct_answer": "rakṣhā",
+      "explanation": "The quote is from Vachanamrut Jetalpur 5.",
+      "source_reference": "Vach.Je.5"
+    },
+    {
+      "id": "9_1",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"Bhagwān ne Bhagwānnā sant e ja kalyāṇkārī chhe.\"",
+      "options": [
+        "Vach.Ga.Ma.59",
+        "Vach.Je.1",
+        "Vach.Lo.3",
+        "Swa.Vato.1/114"
+      ],
+      "correct_answer": "Vach.Ga.Ma.59",
+      "explanation": "This quote is from Vachanamrut Gadhada Madhya 59.",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "9_2",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Jene _____ ne santno māhātmya-gnāne sahit nishchay hoy...\"",
+      "options": [
+        "Bhagwānno",
+        "Sadguru",
+        "Guru",
+        "Bhakto"
+      ],
+      "correct_answer": "Bhagwānno",
+      "explanation": "The complete sentence is: \"Jene Bhagwānno ne santno māhātmya-gnāne sahit nishchay hoy...\"",
+      "source_reference": "Vach.Lo.3"
+    },
+    {
+      "id": "9_3",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"Bhagwānnā santnī sevā to bahu moṭā puṇyavāḷāne maḷe.\"",
+      "options": [
+        "Vach.Ga.Ma.59",
+        "Vach.Je.1",
+        "Vach.Va.14",
+        "Swa.Vato.1/114"
+      ],
+      "correct_answer": "Vach.Ga.Ma.59",
+      "explanation": "This quote is from Vachanamrut Gadhada Madhya 59.",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "9_4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"...satpuruṣhno āsharo kare tyāre game tevo pāpī hoy to paṇ ati _____ thaī jāy chhe...\"",
+      "options": [
+        "pavitra",
+        "apavitra",
+        "dukhi",
+        "khushi"
+      ],
+      "correct_answer": "pavitra",
+      "explanation": "The complete sentence is: \"...satpuruṣhno āsharo kare tyāre game tevo pāpī hoy to paṇ ati pavitra thaī jāy chhe...\"",
+      "source_reference": "Vach.Va.14"
+    },
+    {
+      "id": "9_5",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"Bhagwān ane Moṭā Sādhune āshare karīne to vādaḷ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.\"",
       "options": [
         "Swa.Vato.1/114",
-        "Vach.Je.1",
+        "Vach.Va.14",
         "Vach.Ga.Ma.59",
-        "Vach.Lo.3"
+        "Vach.Je.1"
       ],
       "correct_answer": "Swa.Vato.1/114",
       "explanation": "This quote is from Swamini Vato 1/114.",
       "source_reference": "Swa.Vato.1/114"
     },
     {
-      "id": "10-3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Ā sansārmā brahmasvarūp guru vinā jīvanmā ____________ tattve karīne sākshātkār na thaī shake.",
-      "options": [
-        "brahmavidyāno",
-        "moksha",
-        "jnana",
-        "bhakti"
-      ],
-      "correct_answer": "brahmavidyāno",
-      "explanation": "The exact quote from Satsang Diksha Shlok 22 is: 'Ā sansārmā brahmasvarūp guru vinā jīvanmā brahmavidyāno tattve karīne sākshātkār na thaī shake.'",
-      "source_reference": "Satsang Diksha Shlok 22"
-    },
-    {
-      "id": "6-4",
+      "id": "10_1",
       "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: 'Na nyūnā’dhikatā kāryā varṇā’dhāreṇa karhichit.'?",
+      "question_text": "\"Satpuruṣhne viṣhe draḍh prīti e ja ātmadarshannu sāadhan chhe ane satpuruṣhno mahimā jāṇyānu paṇ e ja sāadhan chhe ane Parameshvarnu sākṣhāt darshan thāvānu paṇ e ja sāadhan chhe.\"",
       "options": [
-        "Satsang Diksha Shlok 15",
-        "Satsang Diksha Shlok 12",
-        "Satsang Diksha Shlok 13",
-        "Satsang Diksha Shlok 14"
-      ],
-      "correct_answer": "Satsang Diksha Shlok 15",
-      "explanation": "This quote is the first line of Satsang Diksha Shlok 15.",
-      "source_reference": "Satsang Diksha Shlok 15"
-    },
-    {
-      "id": "7-4",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Swāminārāyaṇe’nanya-dṛuḍha-parama-bhaktaye । Gṛuhītvā’shraya-dīkṣhāyā ____________ satsangam āpnuyāt ॥ 18 ॥",
-      "options": [
-        "mantram",
-        "bhakti",
-        "jnanam",
-        "moksham"
-      ],
-      "correct_answer": "mantram",
-      "explanation": "The exact quote from Satsang Diksha Shlok 18 is: 'Swāminārāyaṇe’nanya-dṛuḍha-parama-bhaktaye । Gṛuhītvā’shraya-dīkṣhāyā mantram satsangam āpnuyāt ॥ 18 ॥'",
-      "source_reference": "Satsang Diksha Shlok 18"
-    },
-    {
-      "id": "8-4",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: “jene pratyakṣh pramāṇ draḍh āsharo hoy tene manmā evī bīk na rākhavī je, ‘Hu rakhe marīne bhūt-pret thau ke rakhe Indralokne ja pāmu ke rakhe Brahmalokne ja pāmu!’ Evī āshankā manmā rākhavī nahī; kem je, je evo Bhagwānno bhakta hoy te to Bhagwānnā dhāmne ja pāme paṇ vachmā kyāy tene Bhagwān rahevā de nahī.”",
-      "options": [
-        "Vach.Ga.An.7",
-        "Vach.Je.5",
-        "Vach.Ga.Pa.72",
-        "Vach.Ga.Pa.58"
-      ],
-      "correct_answer": "Vach.Ga.An.7",
-      "explanation": "This quote is from Vachanamrut Gadhada Antya 7.",
-      "source_reference": "Vach.Ga.An.7"
-    },
-    {
-      "id": "9-4",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bhagwān ne Bhagwānnā sant e ja ____________ chhe.",
-      "options": [
-        "kalyāṇkārī",
-        "dukha",
-        "karma",
-        "bandhan"
-      ],
-      "correct_answer": "kalyāṇkārī",
-      "explanation": "The exact quote from Vachanamrut Gadhada Madhya 59 is: 'Bhagwān ne Bhagwānnā sant e ja kalyāṇkārī chhe.'",
-      "source_reference": "Vach.Ga.Ma.59"
-    },
-    {
-      "id": "10-4",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which scripture contains the following quote: 'Sant kṛupāe sadmati jāge, sant kṛupāthī sadguṇ;'?",
-      "options": [
-        "Bhaktachintamani",
-        "Vach.Ga.Ma.13",
         "Vach.Va.11",
-        "Satsang Diksha Shlok 23"
+        "Vach.Ga.Ma.13",
+        "Vach.Ga.Pa.60",
+        "Vach.Ga.Pa.54"
       ],
-      "correct_answer": "Bhaktachintamani",
-      "explanation": "This quote is from Bhaktachintamani.",
+      "correct_answer": "Vach.Va.11",
+      "explanation": "The correct answer is Vachanamrut Vadtal 11.",
+      "source_reference": "Vach.Va.11"
+    },
+    {
+      "id": "10_2",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Āvī Bhagwatswarūp sambandhī je vārtā te to shāstramāthī paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā _____ thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.\"",
+      "options": [
+        "mukh",
+        "kan",
+        "haat",
+        "pāya"
+      ],
+      "correct_answer": "mukh",
+      "explanation": "The correct sentence is: Āvī Bhagwatswarūp sambandhī je vārtā te to shāstramāthī paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā mukh thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.",
+      "source_reference": "Vach.Ga.Ma.13"
+    },
+    {
+      "id": "10_3",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"Swadharma, gnān, vairāgya ane māhātmyagnān teṇe sahit je Bhagwānnī bhakti teṇe yukta evā je Bhagwānnā Ekāntik Sādhu tenā prasang thakī Bhāgwat Dharmanu poṣhaṇ thāy chhe ane vaḷī jīvne mokṣhanu je dvār te paṇ evā Sādhunā prasang thakī ughāḍu thāy chhe.\"",
+      "options": [
+        "Vach.Ga.Pa.54",
+        "Vach.Ga.Pa.60",
+        "Vach.An.27",
+        "Vach.Lo.12"
+      ],
+      "correct_answer": "Vach.Ga.Pa.54",
+      "explanation": "This quote comes directly from Vachanamrut Gadhada Pratham 54.",
+      "source_reference": "Vach.Ga.Pa.54"
+    },
+    {
+      "id": "10_4",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"jene _____ dharmamā sthiti thaī hoy te thakī ja ekāntikno dharma pamāy chhe.\"",
+      "options": [
+        "ekāntiknā",
+        "bhakti",
+        "dāsko",
+        "aashro"
+      ],
+      "correct_answer": "ekāntiknā",
+      "explanation": "The correct sentence is: \"jene ekāntiknā dharmamā sthiti thaī hoy te thakī ja ekāntikno dharma pamāy chhe.\"",
+      "source_reference": "Vach.Ga.Pa.60"
+    },
+    {
+      "id": "10_5",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"je brahmarūp thayo tene ja Puruṣhottamnī bhaktino adhikār chhe.\"",
+      "options": [
+        "Vach.Lo.7",
+        "Vach.Lo.12",
+        "Vach.An.27",
+        "Vach.Ga.Pa.60"
+      ],
+      "correct_answer": "Vach.Lo.7",
+      "explanation": "This quote comes directly from Vachanamrut Loya 7.",
+      "source_reference": "Vach.Lo.7"
+    },
+    {
+      "id": "10_6",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu dhāmrūp Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam _____ _____ kahīe.\"",
+      "options": [
+        "nirvikalp nishchayvāḷo",
+        "bhakti maḷi",
+        "ekantik dhari",
+        "nirmal thai"
+      ],
+      "correct_answer": "nirvikalp nishchayvāḷo",
+      "explanation": "The correct sentence is: aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu dhāmrūp Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam nirvikalp nishchayvāḷo kahīe.",
+      "source_reference": "Vach.Lo.12"
+    },
+    {
+      "id": "10_7",
+      "type": "quotation_reference_mcq",
+      "question_text": "\"Koṭi janme kasar ṭaḷavānī hoy te āj ṭaḷī jāy ne brahmarūp karī mūke, jo kharekharā sādhu maḷe ne te kahe tem kare to.\"",
+      "options": [
+        "Swa.Vato.1/119",
+        "Vach.Lo.7",
+        "Vach.Lo.12",
+        "Vach.Va.11"
+      ],
+      "correct_answer": "Swa.Vato.1/119",
+      "explanation": "The quote is from Swamini Vato 1/119.",
+      "source_reference": "Swa.Vato.1/119"
+    },
+    {
+      "id": "10_8",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Sant kṛupāe _____ ūpaje, sant kṛupāthī sare kām; Sant kṛupāthī pāmīe, Pūraṇ Puruṣhottam Dhām.\"",
+      "options": [
+        "sukh",
+        "dukh",
+        "rog",
+        "shok"
+      ],
+      "correct_answer": "sukh",
+      "explanation": "The verse is: Sant kṛupāe sukh ūpaje, sant kṛupāthī sare kām; Sant kṛupāthī pāmīe, Pūraṇ Puruṣhottam Dhām.",
+      "source_reference": "Bhaktachintamani"
+    },
+    {
+      "id": "10_9",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "\"Sant kṛupāe sadmati jāge, sant kṛupāthī sadguṇ; Sant kṛupā vinā _____, kahone pāmyā kuṇ.\"",
+      "options": [
+        "sādhutā",
+        "bhakti",
+        "prem",
+        "nishtha"
+      ],
+      "correct_answer": "sādhutā",
+      "explanation": "The verse is: Sant kṛupāe sadmati jāge, sant kṛupāthī sadguṇ; Sant kṛupā vinā sādhutā, kahone pāmyā kuṇ.",
       "source_reference": "Bhaktachintamani"
     }
   ]

@@ -4,142 +4,142 @@
     {
       "id": "1",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Aksharam-aham ityevam bhaktyā prasanna chetasā | Purushottama dāso'smi mantram etam ___________ || 57 ||",
+      "question_text": "je brahmarūp thayo tene ja _____ bhaktino _____ chhe. (Vach.Lo.7)",
       "options": [
-        "vadech-chhuchim",
-        "āshritaha",
-        "vichāram",
-        "kartavyam"
+        "Purushottamnī",
+        "ekāntik",
+        "adhikār",
+        "sādhak"
       ],
-      "correct_answer": "vadech-chhuchim",
-      "explanation": "The shlok states: Aksharam-aham ityevam bhaktyā prasanna chetasā | Purushottama dāso'smi mantram etam vadech-chhuchim || 57 ||",
-      "source_reference": "Satsang Diksha Shlok 57"
+      "correct_answer": "Purushottamnī",
+      "explanation": "As per Vachanamrut Loya 7, only one who is brahmarup can truly offer bhakti to Purushottam.",
+      "source_reference": "Vach.Lo.7"
     },
     {
       "id": "2",
       "type": "quotation_reference_mcq",
-      "question_text": "je brahmarūp thayo tene ja Purushottamnī bhaktino adhikār chhe.",
+      "question_text": "je Bhagwānnā pratāpne vichārīne antardrashți kare chhe, te to potānā swarūpne atishay ujjval prakāshmān jue chhe ane te prakāshne madhye pratyaksh evā je Purushottam Bhagwān tenī mūrtine jue chhe",
       "options": [
-        "Vach.Lo.7",
         "Vach.Ga.Pa.20",
         "Vach.Ga.Ma.3",
-        "Vach.Va.5"
+        "Vach.Va.5",
+        "Vach.Ga.An.7"
       ],
-      "correct_answer": "Vach.Lo.7",
-      "explanation": "This quote is directly from Vachanamrut Loya 7.",
-      "source_reference": "Vach.Lo.7"
+      "correct_answer": "Vach.Ga.Pa.20",
+      "explanation": "This quotation describes the experience of seeing Purushottam Bhagwan's murti within a radiant light, as detailed in Vachanamrut Gadhada Pratham 20.",
+      "source_reference": "Vach.Ga.Pa.20"
     },
     {
       "id": "3",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Harir Brahma-gurush-chaiva bhavato ____________ | Tayor eva hi kartavyam dhyānam mānasa-pūjanam || 59 ||",
+      "question_text": "potānā jīvātmāne e brahma sangathe ekatā karīne Parabrahmanī Swāmī-sevakbhāve _____ karavī. (Vach.Ga.Ma.3)",
       "options": [
-        "moksha-dāyakau",
-        "āshritaha",
-        "vichāram",
-        "kartavyam"
+        "bhakti",
+        "upāsanā",
+        "prarthanā",
+        "āratī"
       ],
-      "correct_answer": "moksha-dāyakau",
-      "explanation": "The shlok states: Harir Brahma-gurush-chaiva bhavato moksha-dāyakau | Tayor eva hi kartavyam dhyānam mānasa-pūjanam || 59 ||",
-      "source_reference": "Satsang Diksha Shlok 59"
+      "correct_answer": "upāsanā",
+      "explanation": "Vachanamrut Gadhada Madhya 3 instructs devotees to unite their jiva with Brahman and worship Parabrahman with a servant-master relationship.",
+      "source_reference": "Vach.Ga.Ma.3"
     },
     {
       "id": "4",
-      "type": "quotation_reference_mcq",
-      "question_text": "Bhagwān ne Bhagwānnā sant e ja kalyāņkārī chhe... Bhagwān ke Bhagwānnā santnī jyāre prāpti thaï tyāre e jīvne ethī uparānt bīju koī kalyāņ nathī, e ja param kalyān chhe.",
-      "options": [
-        "Vach.Ga.Ma.59",
-        "Vach.Ga.Pa.68",
-        "Vach.An.7",
-        "Vach.Va.5"
-      ],
-      "correct_answer": "Vach.Ga.Ma.59",
-      "explanation": "This quote is directly from Vachanamrut Gadhada Madhya 59.",
-      "source_reference": "Vach.Ga.Ma.59"
-    },
-    {
-      "id": "5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Kuryāch-cha mānasīm pūjām shānta ____________ chetasā || 58 ||",
-      "options": [
-        "ekāgra",
-        "bhaktyā",
-        "prasanna",
-        "ātma"
-      ],
-      "correct_answer": "ekāgra",
-      "explanation": "The shlok states: Kuryāch-cha mānasīm pūjām shānta ekāgra chetasā || 58 ||",
-      "source_reference": "Satsang Diksha Shlok 58"
-    },
-    {
-      "id": "6",
-      "type": "quotation_reference_mcq",
-      "question_text": "Sant hu ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re; Sant mānajo māri murati re, Emā fer nathi ek rati re...",
-      "options": [
-        "PURUSHOTTAM PRAKASH 41/9",
-        "Vach.Ga.Pa.68",
-        "Vach.Ga.Ma.59",
-        "Vach.An.7"
-      ],
-      "correct_answer": "PURUSHOTTAM PRAKASH 41/9",
-      "explanation": "This quote is directly from Purushottam Prakash 41/9.",
-      "source_reference": "PURUSHOTTAM PRAKASH 41/9"
-    },
-    {
-      "id": "7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "je Bhagwānnā pratāpne vichārīne ____________ kare chhe, te to potānā swarūpne atishay ujjval prakāshmān jue chhe ane te prakāshne madhye pratyaksh evā je Purushottam Bhagwān tenī mūrtine jue chhe",
-      "options": [
-        "antardrashți",
-        "sangathe",
-        "mantram",
-        "ātmāne"
-      ],
-      "correct_answer": "antardrashți",
-      "explanation": "The Vachanamrut states: je Bhagwānnā pratāpne vichārīne antardrashți kare chhe, te to potānā swarūpne atishay ujjval prakāshmān jue chhe ane te prakāshne madhye pratyaksh evā je Purushottam Bhagwān tenī mūrtine jue chhe",
-      "source_reference": "Vach.Ga.Pa.20"
-    },
-    {
-      "id": "8",
       "type": "quotation_reference_mcq",
       "question_text": "Jem Bhagwānnī mānasī pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne Bhagwan bheļī mānasī pūjā kare...to te kanishth bhakta hoy ne te be janme tathā chār janme tathā das janme ke so janme karīne uttam bhakta jevo thanāro hoy, te āne janme karīne uttam bhakta thây chhe. Evu Bhagwān ne te Bhagwānnā bhakta tenī sarakhī sevā karyānu fal chhe.",
       "options": [
         "Vach.Va.5",
         "Vach.Ga.Pa.68",
         "Vach.Ga.Ma.59",
-        "Vach.An.7"
+        "PURUSHOTTAM PRAKASH 41/9"
       ],
       "correct_answer": "Vach.Va.5",
-      "explanation": "This quote is directly from Vachanamrut Vartal 5.",
+      "explanation": "This quotation emphasizes the merit of serving Bhagwan and His devotees equally, leading to spiritual progress as described in Vachanamrut Vartal 5.",
       "source_reference": "Vach.Va.5"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Mārī asht prakārnī je pratimā tathā je sant tene vishe hu akhand _____ karīne rahu chhu. (Vach.Ga.Pa.68)",
+      "options": [
+        "bhajan",
+        "nivās",
+        "bhojan",
+        "vishrām"
+      ],
+      "correct_answer": "nivās",
+      "explanation": "Bhagwan states that He eternally resides within His eight types of murtis and the Sant, as mentioned in Vachanamrut Gadhada Pratham 68.",
+      "source_reference": "Vach.Ga.Pa.68"
+    },
+    {
+      "id": "6",
+      "type": "quotation_reference_mcq",
+      "question_text": "Bhagwān ne Bhagwānnā sant e ja kalyāņkārī chhe... Bhagwān ke Bhagwānnā santnī jyāre prāpti thaï tyāre e jīvne ethī uparānt bīju koī kalyāņ nathī, e ja param kalyān chhe.",
+      "options": [
+        "Vach.Ga.Ma.59",
+        "Vach.Ga.An.7",
+        "Vach.Lo.7",
+        "Vach.Ga.Pa.20"
+      ],
+      "correct_answer": "Vach.Ga.Ma.59",
+      "explanation": "This quotation asserts that Bhagwan and His Sant are the ultimate means of salvation, as detailed in Vachanamrut Gadhada Madhya 59.",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "jene potānu kalyāņ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī _____ sukhdāyī nathī. (Vach.Ga.An.7)",
+      "options": [
+        "lokmā",
+        "jagatmā",
+        "deshmā",
+        "mandirmā"
+      ],
+      "correct_answer": "jagatmā",
+      "explanation": "According to Vachanamrut Gadhada Antya 7, nothing in this world is as beneficial as Bhagwan and His Sadhu for one who desires liberation.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "8",
+      "type": "quotation_reference_mcq",
+      "question_text": "Sant hu ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re; Sant mānajo māri murati re, Emā fer nathi ek rati re...",
+      "options": [
+        "PURUSHOTTAM PRAKASH 41/9",
+        "Vach.Va.5",
+        "Vach.Ga.Ma.59",
+        "Vach.Ga.An.7"
+      ],
+      "correct_answer": "PURUSHOTTAM PRAKASH 41/9",
+      "explanation": "This verse from Purushottam Prakash emphasizes the unity between the Sant and Bhagwan, stating that the Sant should be regarded as a murti of Bhagwan.",
+      "source_reference": "PURUSHOTTAM PRAKASH 41/9"
     },
     {
       "id": "9",
       "type": "fill_in_the_blanks_mcq",
-      "question_text": "Tatah pūjādhikārāya bhaktah satsangam āshritaha | Kuryād ātma-vichāram cha pratāpam ____________ || 56 ||",
+      "question_text": "Bhagwān ne Bhagwānnā sant e ja _____ chhe... (Vach.Ga.Ma.59)",
       "options": [
-        "chintayan harehe",
-        "vadech-chhuchim",
-        "āshritaha",
-        "vichāram"
+        "shāntidāyak",
+        "kalyāņkārī",
+        "bhaktidāyak",
+        "shaktidāyak"
       ],
-      "correct_answer": "chintayan harehe",
-      "explanation": "The shlok states: Tatah pūjādhikārāya bhaktah satsangam āshritaha | Kuryād ātma-vichāram cha pratāpam chintayan harehe || 56 ||",
-      "source_reference": "Satsang Diksha Shlok 56"
+      "correct_answer": "kalyāņkārī",
+      "explanation": "Vachanamrut Gadhada Madhya 59 states that Bhagwan and His Sant are the bestowers of ultimate liberation.",
+      "source_reference": "Vach.Ga.Ma.59"
     },
     {
       "id": "10",
-      "type": "quotation_reference_mcq",
-      "question_text": "potānā jīvātmāne e brahma sangathe ekatā karīne Parabrahmanī Swāmī-sevakbhāve upāsanā karavī.",
+      "type": "fill_in_the_blanks_mcq",
+      "question_text": "Sant _____ māri murati re, Emā fer nathi ek rati re... (PURUSHOTTAM PRAKASH 41/9)",
       "options": [
-        "Vach.Ga.Ma.3",
-        "Vach.Ga.Pa.20",
-        "Vach.Lo.7",
-        "Vach.Va.5"
+        "janajo",
+        "mānajo",
+        "samjajo",
+        "gaṇajo"
       ],
-      "correct_answer": "Vach.Ga.Ma.3",
-      "explanation": "This quote is directly from Vachanamrut Gadhada Madhya 3.",
-      "source_reference": "Vach.Ga.Ma.3"
+      "correct_answer": "mānajo",
+      "explanation": "As per Purushottam Prakash 41/9, Bhagwan says, 'Consider the Sant to be my murti, there is not an iota of difference between us'.",
+      "source_reference": "PURUSHOTTAM PRAKASH 41/9"
     }
   ]
 }

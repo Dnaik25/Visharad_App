@@ -13,6 +13,9 @@ export function parseClassTxt(text: string): ShlokBlock[] {
     // Buffer for current reference being built
     let currentRef: RefItem | null = null;
 
+    // Topic/Title tracking
+    let currentTitle: string | null = null;
+
     // Helper to commit current ref to the current section
     const commitRef = () => {
         if (!currentRef || !currentBlock || !currentSection) return;
@@ -47,6 +50,13 @@ export function parseClassTxt(text: string): ShlokBlock[] {
             };
             blocks.push(currentBlock);
             currentSection = 'SHLOK';
+            currentTitle = null; // Reset title for new shlok
+            continue;
+        }
+
+        // 1.5 Detect Title (Reference Topic)
+        if (trimmed.startsWith('Title:')) {
+            currentTitle = trimmed.substring(6).trim();
             continue;
         }
 
@@ -124,7 +134,8 @@ export function parseClassTxt(text: string): ShlokBlock[] {
                     currentRef = {
                         ref: storedRef,
                         displayRef: baseRef,
-                        text: ''
+                        text: '',
+                        title: currentTitle || undefined
                     };
                 } else {
                     // Continuation of current ref text

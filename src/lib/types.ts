@@ -2,6 +2,7 @@ export type RefItem = {
     ref: string;
     displayRef?: string;
     text: string;
+    title?: string;
 };
 
 export type ShlokBlock = {

@@ -18,7 +18,7 @@ export default async function Home() {
       {/* Background Image */}
       {/* Background Image */}
       <Image
-        src="/banner.png"
+        src="/new_banner.jpg"
         alt="Visharad Sahayak Banner"
         fill
         className="object-cover object-center z-0"
@@ -30,7 +30,7 @@ export default async function Home() {
 
       {/* Content */}
       <div className="relative z-20 flex flex-col items-center max-w-2xl mx-auto">
-        <div className="p-5 rounded-full mb-8 bg-white/10 backdrop-blur-md border border-white/20 shadow-lg">
+        <div className="p-5 rounded-full mb-16 bg-white/10 backdrop-blur-md border border-white/20 shadow-lg mr-12">
           <BookOpen size={56} className="text-orange-400" />
         </div>
 
@@ -38,7 +38,7 @@ export default async function Home() {
           Visharad Sahayak
         </h1>
 
-        <p className="text-xl md:text-2xl text-orange-50 max-w-lg mb-12 leading-relaxed drop-shadow-md font-medium">
+        <p className="text-xl md:text-2xl text-orange-50 max-w-lg mb-20 leading-relaxed drop-shadow-md font-medium">
           Study support for Vidvāns
         </p>
 

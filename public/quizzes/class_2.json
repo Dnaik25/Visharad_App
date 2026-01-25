@@ -2,143 +2,143 @@
   "quiz_title": "Class 2 Quiz",
   "questions": [
     {
-      "id": "2_1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Karoḍ kām bagāḍīne paṇ ek _____ sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Karoḍ kām bagāḍīne paṇ shu sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
       "options": [
-        "mokṣha",
-        "dharma",
-        "artha",
-        "kām"
+        "ek mokṣha",
+        "laukik vyavahār",
+        "sansārik sukh",
+        "ātmā"
       ],
-      "correct_answer": "mokṣha",
-      "explanation": "From Swamini Vato 1/14, one should strive to improve one's moksha even at the cost of losing millions of tasks.",
+      "correct_answer": "ek mokṣha",
+      "explanation": "According to Swamini Vato 1/14, one should focus on improving their moksha even if it means spoiling other tasks.",
       "source_reference": "Swā.Vāto: 1/14"
     },
     {
-      "id": "2_2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne akhanḍ Bhagwānnī sevāmā hajūr rahevu chhe, paṇ nāshavant ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Ā meḍiyu maḷī chhe ne sāru sāru khāvā maḷe chhe, ke mān maḷe chhe, ityādik manuṣhya dehnu shu nathī. Te to vimukhne paṇ maḷe chhe.",
       "options": [
-        "Vach.Ga.Pr.21",
-        "Vach.Ga.An.30",
-        "Swā.Vāto: 2/19",
-        "Swā.Vāto: 4/99"
+        "faḷ",
+        "kārya",
+        "bhāgya",
+        "karma"
       ],
-      "correct_answer": "Vach.Ga.Pr.21",
-      "explanation": "This quotation is from Vachanamrut Gadhada Pratham 21.",
+      "correct_answer": "faḷ",
+      "explanation": "Swamini Vato 2/19 states that merely getting good food or respect is not the purpose of human life.",
+      "source_reference": "Swā.Vāto: 2/19"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Māṭe manuṣhya dehnu faḷ to shu ne swabhāv ṭaḷe, eṭalu ja chhe.",
+      "options": [
+        "sārāno sang",
+        "mandirnā darshan",
+        "dhanno labh",
+        "sattānī prāpti"
+      ],
+      "correct_answer": "sārāno sang",
+      "explanation": "According to Swamini Vato 2/19, the true fruit of human life is associating with good people and overcoming one's nature.",
+      "source_reference": "Swā.Vāto: 2/19"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā shu chhe ane Akṣhardhāmmā jaīne akhanḍ Bhagwānnī sevāmā hajūr rahevu chhe...",
+      "options": [
+        "bhaḷavu",
+        "rahī javu",
+        "vasavu",
+        "gamavu"
+      ],
+      "correct_answer": "bhaḷavu",
+      "explanation": "Vachanamrut Gadhada Pratham 21 explains the goal to merge into the Aksharrup and remain in the service of Bhagwan.",
       "source_reference": "Vach.Ga.Pr.21"
     },
     {
-      "id": "2_3",
-      "type": "quotation_reference_mcq",
-      "question_text": "“...marī to sarvene javu chhe paṇ āvī rīte bhakti karavī e ja jīvyāno moṭo lābh chhe...”",
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek Akṣharrūp thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā shu antarāyrūp chhe.",
       "options": [
-        "Vach.Ga.An.30",
-        "Vach.Ga.Pr.21",
-        "Swā.Vāto: 2/19",
-        "Swā.Vāto: 4/99"
+        "sang anek prakārnā",
+        "karma bandhan",
+        "māyik sukh",
+        "laukik vyavahār"
       ],
-      "correct_answer": "Vach.Ga.An.30",
-      "explanation": "This quotation is from Vachanamrut Gadhada Antya 30.",
+      "correct_answer": "sang anek prakārnā",
+      "explanation": "Swamini Vato 4/99 states that our birth is to achieve two things: to become Aksharrup, in which the body is an obstacle, and to unite with Bhagwan, in which association is an obstacle.",
+      "source_reference": "Swā.Vāto: 4/99"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek Akṣharrūp thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be shu ṭaḷavī.",
+      "options": [
+        "khoṭ",
+        "khāmī",
+        "chuk",
+        "bhūl"
+      ],
+      "correct_answer": "khoṭ",
+      "explanation": "Swamini Vato 4/99 emphasizes the need to eliminate these two shortcomings (be khot): the body as an obstacle to becoming Aksharrup and association as an obstacle to uniting with Bhagwan.",
+      "source_reference": "Swā.Vāto: 4/99"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "“...marī to sarvene javu chhe paṇ āvī rīte bhakti karavī e ja shu chhe...”",
+      "options": [
+        "jīvyāno moṭo lābh",
+        "mokshano marg",
+        "bhagwānī krupa",
+        "swargano rasto"
+      ],
+      "correct_answer": "jīvyāno moṭo lābh",
+      "explanation": "Vachanamrut Gadhada Antya 30 states that to die is inevitable for everyone but to practice bhakti in this way is the great gain of life",
       "source_reference": "Vach.Ga.An.30"
     },
     {
-      "id": "2_4",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Ā meḍiyu maḷī chhe ne sāru sāru khāvā maḷe chhe, ke mān maḷe chhe, ityādik _____ dehnu faḷ nathī. Te to vimukhne paṇ maḷe chhe.",
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Nāshvant ā deh vadhethi, avinashi shu levu ji, patrāvaane jemi karine, bahaar feki devu ji",
       "options": [
-        "manuṣhya",
-        "pashu",
-        "pakshī",
-        "dev"
+        "fal",
+        "sukha",
+        "dhan",
+        "vaibhav"
       ],
-      "correct_answer": "manuṣhya",
-      "explanation": "This quotation is from Swamini Vato 2/19, explaining that good food and respect are not the fruits of a human body.",
-      "source_reference": "Swā.Vāto: 2/19"
-    },
-    {
-      "id": "2_5",
-      "type": "quotation_reference_mcq",
-      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek Akṣharrūp thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭaḷavī.",
-      "options": [
-        "Swā.Vāto: 4/99",
-        "Swā.Vāto: 2/19",
-        "Vach.Ga.An.30",
-        "Vach.Ga.Pr.21"
-      ],
-      "correct_answer": "Swā.Vāto: 4/99",
-      "explanation": "This quotation is from Swamini Vato 4/99, discussing the purpose of our birth.",
-      "source_reference": "Swā.Vāto: 4/99"
-    },
-    {
-      "id": "2_6",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Nāshvant ā deh vadhethi, avinashi fal levu ji, _____ jemi karine, bahaar feki devu ji",
-      "options": [
-        "patrāvaane",
-        "lakḍāne",
-        "dhātu ne",
-        "pāṇīne"
-      ],
-      "correct_answer": "patrāvaane",
-      "explanation": "From the kirtan by Narayandas Swami, nashvant ā deh...",
+      "correct_answer": "fal",
+      "explanation": "Narayandas Swami's kirtan speaks of obtaining the eternal fruit (avinashi fal) from this perishable body.",
       "source_reference": "Narayandas Swami"
     },
     {
-      "id": "2_7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Āpaṇo janma be vāt sādhavā sāru thayo chhe, temā ek _____ thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭaḷavī.",
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Karoḍ kām bagāḍīne paṇ ek mokṣha sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek shu bagāḍyo to temā shu karyu?",
       "options": [
-        "Akṣharrūp",
-        "brahmarūp",
-        "ishvarrūp",
-        "devrūp"
+        "mokṣha",
+        "dharma",
+        "seva",
+        "tyāg"
       ],
-      "correct_answer": "Akṣharrūp",
-      "explanation": "From Swamini Vato 4/99, one purpose of our birth is to become Aksharrup.",
-      "source_reference": "Swā.Vāto: 4/99"
-    },
-    {
-      "id": "2_8",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "_____ kām bagāḍīne paṇ ek mokṣha sudhārvo ne kadāpi karoḍ kām sudhāryā ne ek mokṣha bagāḍyo to temā shu karyu?",
-      "options": [
-        "Karoḍ",
-        "Lākh",
-        "Hajār",
-        "Sau"
-      ],
-      "correct_answer": "Karoḍ",
-      "explanation": "From Swamini Vato 1/14, even losing millions of tasks is worth improving one's moksha.",
+      "correct_answer": "mokṣha",
+      "explanation": "Swamini Vato 1/14 emphasizes the importance of moksha, stating that even spoiling numerous tasks to improve one's moksha is worthwhile, but spoiling moksha after improving numerous tasks is futile.",
       "source_reference": "Swā.Vāto: 1/14"
     },
     {
-      "id": "2_9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Ā meḍiyu maḷī chhe ne _____ khāvā maḷe chhe, ke mān maḷe chhe, ityādik manuṣhya dehnu faḷ nathī. Te to vimukhne paṇ maḷe chhe.",
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne akhanḍ Bhagwānnī sevāmā hajūr rahevu chhe, paṇ shu ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
       "options": [
-        "sāru sāru",
-        "mīṭhu mīṭhu",
-        "sādu sādu",
-        "kharāb kharāb"
+        "nāshavant",
+        "asthir",
+        "mithyā",
+        "kshaṇbhangur"
       ],
-      "correct_answer": "sāru sāru",
-      "explanation": "From Swamini Vato 2/19, getting good food and respect is not the purpose of this human life.",
-      "source_reference": "Swā.Vāto: 2/19"
-    },
-    {
-      "id": "2_10",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Āpaṇe paṇ e Akṣharrūp je mukta temanī panktimā bhaḷavu chhe ane Akṣhardhāmmā jaīne _____ sevāmā hajūr rahevu chhe, paṇ nāshavant ne tuchchh evu je māyik sukh tene ichchhavu nathī ne emā koī ṭhekāṇe lobhāvu nathī.",
-      "options": [
-        "akhanḍ Bhagwānnī",
-        "sākār Bhagwānnī",
-        "nirākār Bhagwānnī",
-        "alaukik Bhagwānnī"
-      ],
-      "correct_answer": "akhanḍ Bhagwānnī",
-      "explanation": "From Vachanamrut Gadhada Pratham 21, we should remain in the service of Akhand Bhagwan in Akshardham.",
+      "correct_answer": "nāshavant",
+      "explanation": "Vachanamrut Gadhada Pratham 21 describes how one should not desire perishable (nashvant) and trivial (tuchchh) mayik pleasures.",
       "source_reference": "Vach.Ga.Pr.21"
     }
   ]

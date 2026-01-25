@@ -3,30 +3,16 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bhagwanne bhajavā ethī bījī vāt moţī _____ _____.",
+      "type": "MCQ",
+      "question_text": "Bhagwanne bhajavā ethī ___ ___ nathī.",
       "options": [
-        "nathī",
-        "che",
-        "pan",
-        "ke"
+        "vārtā sārī",
+        "vāt moţī",
+        "chetāvnī sārī",
+        "samajણ moţī"
       ],
-      "correct_answer": "nathī",
-      "explanation": "The Vachanamrut states: 'Bhagwanne bhajavā ethī bījī vāt moţī nathī.'",
-      "source_reference": "Vach.Je.5"
-    },
-    {
-      "id": "2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which Vachanamrut contains the following quote: 'Bhagwanne bhajavā ethī bījī vāt moţī nathī.'?",
-      "options": [
-        "Vach.Je.5",
-        "Vach.Gadhada.I-1",
-        "Vach.Loya.12",
-        "Vach.Sarngpur.1"
-      ],
-      "correct_answer": "Vach.Je.5",
-      "explanation": "The quote 'Bhagwanne bhajavā ethī bījī vāt moţī nathī' is from Vach.Je.5.",
+      "correct_answer": "vāt moţī",
+      "explanation": "From Vach.Je.5, the correct answer is 'vāt moţī'.",
       "source_reference": "Vach.Je.5"
     }
   ]

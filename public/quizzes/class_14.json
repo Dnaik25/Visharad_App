@@ -3,145 +3,133 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Ane e Bhagwān āpaṇne _____ besāḍe to hāthīe besīne rājī rahevu ane _____ besāḍe to gadheḍe besīne rājī rahevu.",
+      "type": "MCQ",
+      "question_text": "Ane e Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane gadheḍe besāḍe to ______ besīne rājī rahevu.",
       "options": [
-        "hāthīe",
         "gadheḍe",
-        "pālkhī",
-        "rath"
+        "pālkīmā",
+        "ghoḍāmā"
       ],
-      "correct_answer": "hāthīe and gadheḍe",
-      "explanation": "This is a direct quote from Vach.Ga.Pa.74 about accepting whatever Bhagwan gives us.",
+      "correct_answer": "gadheḍe",
+      "explanation": "According to Vach.Ga.Pa.74, one should be content whether Bhagwān seats us on an elephant or a donkey.",
       "source_reference": "Vach.Ga.Pa.74"
     },
     {
       "id": "2",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Jo mār mār karato koī āvato hoy to em samajavu je, ‘Mārā Swāmīnu ja karyu sarve thāy chhe, paṇ te vinā koīnu halāvyu pānaḍu paṇ halatu nathī.’”",
+      "type": "MCQ",
+      "question_text": "Jo mār mār karato koī āvato hoy to em samajavu je, ‘______ ja karyu sarve thāy chhe, paṇ te vinā koīnu halāvyu pānaḍu paṇ halatu nathī.’",
       "options": [
-        "Swa.Vato.1/88",
-        "Vach.Ga.Pa.74",
-        "Swa.Vato.1/22",
-        "Vach.Ga.An.13"
+        "Mārā Swāmīnu",
+        "Mārā pitānu",
+        "Mārā bandhanu"
       ],
-      "correct_answer": "Swa.Vato.1/88",
-      "explanation": "This quote emphasizes that everything happens according to Swami's will, even seemingly random events.",
+      "correct_answer": "Mārā Swāmīnu",
+      "explanation": "According to Swa.Vato.1/88, one should understand that everything is the work of our Swami.",
       "source_reference": "Swa.Vato.1/88"
     },
     {
       "id": "3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bhagwān to potānā bhaktanī _____ karavāmā ja beṭhā chhe. Kenī peṭhe? To jem pāpaṇ ānkhanī _____ kare chhe ne hāth kanṭhanī rakṣhā kare chhe ne māvatar chhokarānī rakṣhā kare chhe ne rājā prajānī rakṣhāmā chhe, tem ja Bhagwān āpaṇī rakṣhāmā chhe.",
+      "type": "MCQ",
+      "question_text": "Bhagwān to potānā bhaktanī ______ karavāmā ja beṭhā chhe.",
       "options": [
         "rakṣhā",
-        "seva",
-        "rakṣhā",
-        "rakṣhā",
-        "bhakti",
-        "rakṣhā"
+        "sevā",
+        "pūjā"
       ],
-      "correct_answer": "rakṣhā and rakṣhā",
-      "explanation": "This quote from Swamini Vato uses analogies to illustrate how Bhagwan protects his devotees.",
+      "correct_answer": "rakṣhā",
+      "explanation": "According to Swa.Vato.1/22, Bhagwān is always protecting his devotees.",
       "source_reference": "Swa.Vato.1/22"
     },
     {
       "id": "4",
-      "type": "quotation_reference_mcq",
-      "question_text": "“āpaṇe jyāre tan-man-dhan Bhagwānne arpaṇ karyu tyāre have Bhagwānnī ichchhā te ja āpaṇu prārabdha chhe, te vinā bīju koī prārabdha nathī. Māṭe Bhagwānnī ichchhāe karīne game tevu sukh-dukh āve, temā koī rīte akaḷāī javu nahī”",
+      "type": "MCQ",
+      "question_text": "Kenī peṭhe? To jem pāpaṇ ānkhanī rakṣhā kare chhe ne hāth ______ rakṣhā kare chhe ne māvatar chhokarānī rakṣhā kare chhe ne rājā prajānī rakṣhāmā chhe, tem ja Bhagwān āpaṇī rakṣhāmā chhe.",
       "options": [
-        "Vach.Ga.An.13",
-        "Swa.Vato.1/148",
-        "Vach.Ga.Pa.74",
-        "Swa.Vato.1/22"
+        "kanṭhanī",
+        "pāṇī",
+        "dhannī"
       ],
-      "correct_answer": "Vach.Ga.An.13",
-      "explanation": "This Vachanamrut emphasizes accepting whatever happens as Bhagwan's will after surrendering everything to him.",
-      "source_reference": "Vach.Ga.An.13"
+      "correct_answer": "kanṭhanī",
+      "explanation": "According to Swa.Vato.1/22, just as the eyelid protects the eye and the hand protects the throat, Bhagwān protects us.",
+      "source_reference": "Swa.Vato.1/22"
     },
     {
       "id": "5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy chhe: ek to Bhagwānnu _____ karavu ne bīju Bhagwānne sarva-kartā samajavā ne temā sukh āve to sukh bhogavī levu ne dukh āve to dukh bhogavī levu.",
+      "type": "MCQ",
+      "question_text": "āpaṇe jyāre tan-man-dhan Bhagwānne arpaṇ karyu tyāre have Bhagwānnī ______ te ja āpaṇu prārabdha chhe, te vinā bīju koī prārabdha nathī.",
       "options": [
-        "bhajan",
-        "dhyān",
-        "pūjā",
-        "darshan"
+        "ichchhā",
+        "ājñā",
+        "marajī"
       ],
-      "correct_answer": "bhajan",
-      "explanation": "This Swamini Vato explains two ways to remain calm: bhajan and understanding Bhagwan as the doer.",
-      "source_reference": "Swa.Vato.1/148"
+      "correct_answer": "ichchhā",
+      "explanation": "According to Vach.Ga.An.13, when we offer our body, mind, and wealth to Bhagwān, then Bhagwān's will is our destiny.",
+      "source_reference": "Vach.Ga.An.13"
     },
     {
       "id": "6",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Ane e Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane gadheḍe besāḍe to gadheḍe besīne rājī rahevu. Ane e Bhagwānnā charaṇārvind vinā bīje kyāy prīti rākhavī nahī...e Bhagwānnu karyu sarve thāy chhe. Māṭe sūku pānaḍu jem vāyune ādhāre fare tem e Bhagwānne ādhīn rahīne ānandmā e Parameshvarnu bhajan karavu ane koī jātno manmā udveg āvavā devo nahī.”",
+      "type": "MCQ",
+      "question_text": "Māṭe Bhagwānnī ichchhāe karīne game tevu ______ āve, temā koī rīte akaḷāī javu nahī",
       "options": [
-        "Vach.Ga.Pa.74",
-        "Swa.Vato.1/88",
-        "Swa.Vato.1/22",
-        "Vach.Ga.An.13"
+        "sukh-dukh",
+        "lābha-gērlābha",
+        "jay-parājay"
       ],
-      "correct_answer": "Vach.Ga.Pa.74",
-      "explanation": "This quotation is from Vachanamrut Gadhada I-74.",
-      "source_reference": "Vach.Ga.Pa.74"
+      "correct_answer": "sukh-dukh",
+      "explanation": "According to Vach.Ga.An.13, we should not be discouraged by whatever happiness or sorrow comes according to Bhagwān's will.",
+      "source_reference": "Vach.Ga.An.13"
     },
     {
       "id": "7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Te kahyu chhe je, _____ dushman Hari ke’dī hoy nahi, jem karashe tem sukh ja thāshe.",
+      "type": "MCQ",
+      "question_text": "Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy chhe: ek to ______ karavu ne bīju Bhagwānne sarva-kartā samajavā ne temā sukh āve to sukh bhogavī levu ne dukh āve to dukh bhogavī levu.",
       "options": [
-        "Dāsnā",
-        "Bhaktā",
-        "Santnā",
-        "Sevaknā"
+        "Bhagwānnu bhajan",
+        "dān-dharm",
+        "jap-tap"
       ],
-      "correct_answer": "Dāsnā",
-      "explanation": "This is part of a quote emphasizing that whatever Hari does is ultimately beneficial for his devotees.",
+      "correct_answer": "Bhagwānnu bhajan",
+      "explanation": "According to Swa.Vato.1/148, one way to remain cool and not be burned is to do bhajan of Bhagwān.",
       "source_reference": "Swa.Vato.1/148"
     },
     {
       "id": "8",
-      "type": "quotation_reference_mcq",
-      "question_text": "Je dukhe thāy sukh janne, te de chhe dukh dayā kari | jeha sukhe dukh upaje, te āpe nahi kedi hari ||",
+      "type": "MCQ",
+      "question_text": "Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy chhe: ek to Bhagwānnu bhajan karavu ne bīju ______ samajavā ne temā sukh āve to sukh bhogavī levu ne dukh āve to dukh bhogavī levu.",
       "options": [
-        "Dhiraj Akhyan",
-        "Swa.Vato.1/148",
-        "Vach.Ga.Pa.74",
-        "Vach.Ga.An.13"
+        "Bhagwānne sarva-kartā",
+        "Bhagwānne dayāḷu",
+        "Bhagwānne shaṇgār"
       ],
-      "correct_answer": "Dhiraj Akhyan",
-      "explanation": "This is a quote from the Dhiraj Akhyan kirtan.",
-      "source_reference": "Dhiraj Akhyan"
+      "correct_answer": "Bhagwānne sarva-kartā",
+      "explanation": "According to Swa.Vato.1/148, one way to remain cool and not be burned is to understand Bhagwān as the all-doer.",
+      "source_reference": "Swa.Vato.1/148"
     },
     {
       "id": "9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Māṭe sūku _____ jem vāyune ādhāre fare tem e Bhagwānne ādhīn rahīne ānandmā e Parameshvarnu bhajan karavu ane koī jātno manmā udveg āvavā devo nahī.",
+      "type": "MCQ",
+      "question_text": "Dhiraj Akhyan: Je dukhe thāy sukh janne, te de chhe dukh ______ |",
       "options": [
-        "pānaḍu",
-        "phūl",
-        "pakshī",
-        "jīv"
+        "dayā kari",
+        "ghañu kari",
+        "bhakti kari"
       ],
-      "correct_answer": "pānaḍu",
-      "explanation": "This quote emphasizes surrendering to Bhagwan like a dry leaf to the wind, from Vachanamrut Gadhada I-74.",
-      "source_reference": "Vach.Ga.Pa.74"
+      "correct_answer": "dayā kari",
+      "explanation": "From Dhiraj Akhyan: 'Je dukhe thāy sukh janne, te de chhe dukh dayā kari'.",
+      "source_reference": "Dhiraj Akhyan"
     },
     {
       "id": "10",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "āpaṇe jyāre _____-man-dhan Bhagwānne arpaṇ karyu tyāre have Bhagwānnī ichchhā te ja āpaṇu prārabdha chhe, te vinā bīju koī prārabdha nathī.",
+      "type": "MCQ",
+      "question_text": "Dhiraj Akhyan: jeha sukhe dukh upaje, te āpe nahi ______ hari ||",
       "options": [
-        "tan",
-        "dhan",
-        "jan",
-        "man"
+        "kedi",
+        "kadī",
+        "kyāre"
       ],
-      "correct_answer": "tan",
-      "explanation": "This Vachanamrut explains that after surrendering 'tan-man-dhan' (body, mind, wealth), only Bhagwan's will matters.",
-      "source_reference": "Vach.Ga.An.13"
+      "correct_answer": "kedi",
+      "explanation": "From Dhiraj Akhyan: 'jeha sukhe dukh upaje, te āpe nahi kedi hari'.",
+      "source_reference": "Dhiraj Akhyan"
     }
   ]
 }

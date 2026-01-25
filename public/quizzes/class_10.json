@@ -3,143 +3,143 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "_____ param hitkārī, jagat māhī… ṭek. Prabhupadu pragaṭ karāvat _____ , bhāram miṭāvat bhārī… 1",
+      "type": "multiple_choice",
+      "question_text": "Āvī Bhagwatswarūp sambandhī je vārtā te to _________ paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā mukh thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.",
       "options": [
-        "Sant",
-        "dharma",
-        "Prabhupadu",
-        "prīti"
+        "shāstramāthī",
+        "vedomāthī",
+        "upanishadomāthī",
+        "purnomāthī"
       ],
-      "correct_answer": "Sant; prīti",
-      "explanation": "This is a fill in the blank question from the kirtan by Brahmanand Swami.",
-      "source_reference": "Kirtan by Sadguru Brahmanand Swami"
+      "correct_answer": "shāstramāthī",
+      "explanation": "The Vachanamrut Ga.Ma.13 states that 'Āvī Bhagwatswarūp sambandhī je vārtā te to shāstramāthī paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā mukh thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.'",
+      "source_reference": "Vach.Ga.Ma.13"
     },
     {
       "id": "2",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Satpuruṣhne viṣhe draḍh prīti e ja ātmadarshannu sāadhan chhe ane satpuruṣhno mahimā jāṇyānu paṇ e ja sāadhan chhe ane Parameshvarnu sākṣhāt darshan thāvānu paṇ e ja sāadhan chhe.”",
+      "type": "multiple_choice",
+      "question_text": "Satpuruṣhne viṣhe draḍh prīti e ja _________ chhe ane satpuruṣhno mahimā jāṇyānu paṇ e ja sāadhan chhe ane Parameshvarnu sākṣhāt darshan thāvānu paṇ e ja sāadhan chhe.",
       "options": [
-        "Vach.Ga.Ma.13",
-        "Vach.Va.11",
-        "Vach.Ga.Pa.60",
-        "Vach.Lo.12"
+        "ātmadarshannu sāadhan",
+        "brahmadarshannu sāadhan",
+        "ishwardarshannu sāadhan",
+        "devtadarshannu sāadhan"
       ],
-      "correct_answer": "Vach.Va.11",
-      "explanation": "This quote describes the importance of firm love for the Satpurush.",
+      "correct_answer": "ātmadarshannu sāadhan",
+      "explanation": "According to Vach.Va.11, 'Satpuruṣhne viṣhe draḍh prīti e ja ātmadarshannu sāadhan chhe ane satpuruṣhno mahimā jāṇyānu paṇ e ja sāadhan chhe ane Parameshvarnu sākṣhāt darshan thāvānu paṇ e ja sāadhan chhe.'",
       "source_reference": "Vach.Va.11"
     },
     {
       "id": "3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "jene ekāntiknā _____ sthiti thaī hoy te thakī ja _____ dharma pamāy chhe.",
+      "type": "multiple_choice",
+      "question_text": "Sant param hitkārī, jagat māhī… ṭek Prabhupadu pragaṭ karāvat _________, bharam miṭāvat bhārī… 1",
       "options": [
-        "dharmamā",
-        "ekāntikno",
-        "sthiti",
-        "mokṣha"
+        "prīti",
+        "bhakti",
+        "shraddhā",
+        "sevā"
       ],
-      "correct_answer": "dharmamā; ekāntikno",
-      "explanation": "This quote explains how one can attain the dharma of the Ekantik.",
-      "source_reference": "Vach.Ga.Pa.60"
+      "correct_answer": "prīti",
+      "explanation": "As per the kirtan by Sadguru Brahmanand Swami, 'Sant param hitkārī, jagat māhī… ṭek Prabhupadu pragaṭ karāvat prīti, bharam miṭāvat bhārī… 1'",
+      "source_reference": "Sant param hitkārī, jagat māhī…"
     },
     {
       "id": "4",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Swadharma, gnān, vairāgya ane māhātmyagnān teṇe sahit je Bhagwānnī bhakti teṇe yukta evā je Bhagwānnā Ekāntik Sādhu tenā prasang thakī Bhāgwat Dharmanu poṣhaṇ thāy chhe ane vaḷī jīvne mokṣhanu je dvār te paṇ evā Sādhunā prasang thakī ughāḍu thāy chhe.”",
+      "type": "multiple_choice",
+      "question_text": "shāstre kahyā je niṣhkām, nirlobh, nirmān, nihsvād, nihsneh ityādik santnā lakṣhaṇ tene sāmbhaḷīne evā lakṣhaṇ jyā dekhāy evā je sant tene ne _________ sākṣhāt sambandh hoy; māṭe evā santnā vachane karīne Bhagwānno nishchay karavo ne tenā vachanmā draḍh vishvās karavo tene nishchay kahīe.",
       "options": [
-        "Vach.Ga.Pa.60",
-        "Vach.Ga.Pa.54",
-        "Vach.Ga.An.27",
-        "Vach.Lo.12"
+        "Bhagwānne",
+        "devtāo ne",
+        "ishwarne",
+        "brahmne"
       ],
-      "correct_answer": "Vach.Ga.Pa.54",
-      "explanation": "This quote discusses the benefits of associating with an Ekantik Sadhu.",
-      "source_reference": "Vach.Ga.Pa.54"
-    },
-    {
-      "id": "5",
-      "type": "quotation_reference_mcq",
-      "question_text": "“shāstre kahyā je niṣhkām, nirlobh, nirmān, nihsvād, nihsneh ityādik santnā lakṣhaṇ tene sāmbhaḷīne evā lakṣhaṇ jyā dekhāy evā je sant tene ne Bhagwānne sākṣhāt sambandh hoy; māṭe evā santnā vachane karīne Bhagwānno nishchay karavo ne tenā vachanmā draḍh vishvās karavo tene nishchay kahīe.”",
-      "options": [
-        "Vach.Ga.Pa.60",
-        "Vach.Ga.Pa.54",
-        "Vach.Ga.An.27",
-        "Vach.Lo.12"
-      ],
-      "correct_answer": "Vach.Ga.An.27",
-      "explanation": "This quote describes the characteristics of a Sant and the importance of believing in their words.",
+      "correct_answer": "Bhagwānne",
+      "explanation": "Vach.Ga.An.27 states, 'shāstre kahyā je niṣhkām, nirlobh, nirmān, nihsvād, nihsneh ityādik santnā lakṣhaṇ tene sāmbhaḷīne evā lakṣhaṇ jyā dekhāy evā je sant tene ne Bhagwānne sākṣhāt sambandh hoy; māṭe evā santnā vachane karīne Bhagwānno nishchay karavo ne tenā vachanmā draḍh vishvās karavo tene nishchay kahīe.'",
       "source_reference": "Vach.Ga.An.27"
     },
     {
-      "id": "6",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu ____ rūp Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam nirvikalp nishchayvāḷo kahīe.",
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu _________ Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam nirvikalp nishchayvāḷo kahīe.",
       "options": [
         "dhāmrūp",
-        "Akṣhar",
-        "brahmarūp",
-        "Puruṣhottam"
+        "swarūp",
+        "jyotirp",
+        "akshardham"
       ],
       "correct_answer": "dhāmrūp",
-      "explanation": "This quote describes the person with ultimate faith.",
+      "explanation": "According to Vach.Lo.12, 'aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu dhāmrūp Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam nirvikalp nishchayvāḷo kahīe.'",
       "source_reference": "Vach.Lo.12"
     },
     {
-      "id": "7",
-      "type": "quotation_reference_mcq",
-      "question_text": "“je brahmarūp thayo tene ja Puruṣhottamnī bhaktino adhikār chhe.”",
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Nirvikalp uttam ati, _________ Ghanshyām;",
       "options": [
-        "Vach.Lo.12",
-        "Vach.Lo.7",
-        "Swa.Vato.1/119",
-        "Vach.Ga.Pa.54"
+        "nischay tav",
+        "bhakti bhav",
+        "prem ras",
+        "dhyan dhara"
       ],
-      "correct_answer": "Vach.Lo.7",
-      "explanation": "This is a straightforward quote about who is capable of bhakti.",
+      "correct_answer": "nischay tav",
+      "explanation": "According to the kirtan by Sadguru Premanand Swami, 'Nirvikalp uttam ati, nischay tav Ghanshyām;'",
+      "source_reference": "Nirvikalp uttam ati, nischay tav Ghanshyām;"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "je brahmarūp thayo tene ja _________ adhikār chhe.",
+      "options": [
+        "Puruṣhottamnī bhaktino",
+        "Aksharbrahmanī bhaktino",
+        "Paramatmanī bhaktino",
+        "Sadgurunī bhaktino"
+      ],
+      "correct_answer": "Puruṣhottamnī bhaktino",
+      "explanation": "Vach.Lo.7 states that 'je brahmarūp thayo tene ja Puruṣhottamnī bhaktino adhikār chhe.'",
       "source_reference": "Vach.Lo.7"
     },
     {
       "id": "8",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "_____ uttam ati, nischay tav _____",
+      "type": "multiple_choice",
+      "question_text": "jene _________ sthiti thaī hoy te thakī ja ekāntikno dharma pamāy chhe.",
       "options": [
-        "Sahajanand",
-        "Ghanshyām",
-        "Nirvikalp",
-        "uttam"
+        "ekāntiknā dharmamā",
+        "bhaktinā dharmamā",
+        "gnānnā dharmamā",
+        "sevānā dharmamā"
       ],
-      "correct_answer": "Nirvikalp; Ghanshyām",
-      "explanation": "This quote is from a kirtan by Premanand Swami.",
-      "source_reference": "Kirtan by Sadguru Premanand Swami"
+      "correct_answer": "ekāntiknā dharmamā",
+      "explanation": "Vach.Ga.Pa.60 states that 'jene ekāntiknā dharmamā sthiti thaī hoy te thakī ja ekāntikno dharma pamāy chhe.'",
+      "source_reference": "Vach.Ga.Pa.60"
     },
     {
       "id": "9",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Koṭi janme kasar ṭaḷavānī hoy te āj ṭaḷī jāy ne brahmarūp karī mūke, jo kharekharā sādhu maḷe ne te kahe tem kare to.”",
+      "type": "multiple_choice",
+      "question_text": "Swadharma, gnān, vairāgya ane _________ teṇe sahit je Bhagwānnī bhakti teṇe yukta evā je Bhagwānnā Ekāntik Sādhu tenā prasang thakī Bhāgwat Dharmanu poṣhaṇ thāy chhe ane vaḷī jīvne mokṣhanu je dvār te paṇ evā Sādhunā prasang thakī ughāḍu thāy chhe.",
       "options": [
-        "Vach.Lo.7",
-        "Swa.Vato.1/119",
-        "Vach.Ga.Pa.54",
-        "Vach.Va.11"
+        "māhātmyagnān",
+        "ātmajnān",
+        "brahmajnān",
+        "dharmagnān"
       ],
-      "correct_answer": "Swa.Vato.1/119",
-      "explanation": "This quote from Swamini Vato highlights the power of a true Sadhu.",
-      "source_reference": "Swa.Vato.1/119"
+      "correct_answer": "māhātmyagnān",
+      "explanation": "Vach.Ga.Pa.54 states, 'Swadharma, gnān, vairāgya ane māhātmyagnān teṇe sahit je Bhagwānnī bhakti teṇe yukta evā je Bhagwānnā Ekāntik Sādhu tenā prasang thakī Bhāgwat Dharmanu poṣhaṇ thāy chhe ane vaḷī jīvne mokṣhanu je dvār te paṇ evā Sādhunā prasang thakī ughāḍu thāy chhe.'",
+      "source_reference": "Vach.Ga.Pa.54"
     },
     {
       "id": "10",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sant kṛupāe _____ ūpaje, sant kṛupāthī sare kām; Sant kṛupāthī pāmīe, Pūraṇ Puruṣhottam Dhām.",
+      "type": "multiple_choice",
+      "question_text": "Koṭi janme kasar ṭaḷavānī hoy te āj ṭaḷī jāy ne brahmarūp karī mūke, jo _________ maḷe ne te kahe tem kare to.",
       "options": [
-        "kṛupā",
-        "Pūraṇ",
-        "sukh",
-        "sadmati"
+        "kharekharā sādhu",
+        "uttam sādhu",
+        "divya sādhu",
+        "mahān sādhu"
       ],
-      "correct_answer": "sukh",
-      "explanation": "This bhaktachintamani quote talks about the grace of a sant.",
-      "source_reference": "Bhaktachintamani"
+      "correct_answer": "kharekharā sādhu",
+      "explanation": "Swa.Vato.1/119 states, 'Koṭi janme kasar ṭaḷavānī hoy te āj ṭaḷī jāy ne brahmarūp karī mūke, jo kharekharā sādhu maḷe ne te kahe tem kare to.'",
+      "source_reference": "Swa.Vato.1/119"
     }
   ]
 }

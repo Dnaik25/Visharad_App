@@ -1,4 +1,47 @@
 {
   "quiz_title": "Class 6 Quiz",
-  "questions": []
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "No mukhpath references",
+      "options": [
+        "No mukhpath references",
+        "mukhpath references",
+        "references",
+        "No"
+      ],
+      "correct_answer": "No mukhpath references",
+      "explanation": "The text states 'No mukhpath references'.",
+      "source_reference": "Class 6"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": " No mukhpath references",
+      "options": [
+        " No mukhpath references",
+        "mukhpath references",
+        "references",
+        "No"
+      ],
+      "correct_answer": " No mukhpath references",
+      "explanation": "The text states ' No mukhpath references'.",
+      "source_reference": "Class 6"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "No mukhpath references",
+      "options": [
+        "No mukhpath references",
+        "mukhpath references",
+        "references",
+        "No"
+      ],
+      "correct_answer": "No mukhpath references",
+      "explanation": "The text states 'No mukhpath references'.",
+      "source_reference": "Class 6"
+    }
+  ]
 }

@@ -1,285 +1,271 @@
 {
-  "quiz_title": "Mini-Review Quiz (Classes 6-10)",
+  "quiz_title": "Mini-Review Questions (Classes 6-10)",
   "questions": [
     {
-      "id": "7_1",
-      "type": "quotation_reference_mcq",
-      "question_text": "“...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
+      "id": "7-1",
+      "type": "MCQ",
+      "question_text": "“...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te ________ kahevāy ane tyāgī hoy te paṇ ________ kahevāy.”",
       "options": [
-        "Vach.Ga.Ma.8",
-        "Vach.Va.20",
-        "Vach.Ga.Pa.72",
-        "Vach.Ga.Pa.58"
+        "ekantik, pavitra",
+        "nirguṇ, nirguṇ",
+        "divya, alaukik",
+        "shresth, uttam"
       ],
-      "correct_answer": "Vach.Ga.Ma.8",
-      "explanation": "This quote is directly from Vachanamrut Gadhada Madhya 8.",
+      "correct_answer": "nirguṇ, nirguṇ",
+      "explanation": "According to Vach.Ga.Ma.8, both a householder and a renunciant who have attained Bhagwān are called nirgun.",
       "source_reference": "Vach.Ga.Ma.8"
     },
     {
-      "id": "7_2",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo _____ _____.\"",
+      "id": "7-2",
+      "type": "MCQ",
+      "question_text": "“...gṛuhī-tyāgīno kāī meḷ nathī, jenī ________ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
       "options": [
-        "haribhakta jāṇavo",
-        "bhaktane āḷakhe",
-        "mahant jane",
-        "sādhune lekhe"
+        "samajaṇ",
+        "bhakti",
+        "shakti",
+        "yukti"
       ],
-      "correct_answer": "haribhakta jāṇavo",
-      "explanation": "The complete sentence is: “...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
+      "correct_answer": "samajaṇ",
+      "explanation": "Vach.Va.20 states that the one with the greatest understanding is the greatest devotee, regardless of being a householder or renunciant.",
       "source_reference": "Vach.Va.20"
     },
     {
-      "id": "8_1",
-      "type": "quotation_reference_mcq",
-      "question_text": "“...jene māhātmye sahit nishchay hoy tene em samajāy je, ‘Je divase Bhagwānnu darshan thayu te divasthī ja kalyāṇ to thaī rahyu chhe ane je jīv bhāve karīne māru darshan kare tathā māru vachan māne tenu paṇ kalyāṇ thaī jāy to māre kalyāṇno shyo sanshay chhe? Hu to kṛutārth chhu ane je kāī sādhan karu chhu te to Bhagwānnī prasannatāne arthe karu chhu,’ em samaje tene Bhagwānno māhātmye sahit nishchay jāṇavo.”",
+      "id": "8-1",
+      "type": "MCQ",
+      "question_text": "“...jene māhātmye sahit nishchay hoy tene em samajāy je, ‘Je divase Bhagwānnu darshan thayu te divasthī ja ________ to thaī rahyu chhe ane je jīv bhāve karīne māru darshan kare tathā māru vachan māne tenu paṇ ________ thaī jāy to māre kalyāṇno shyo sanshay chhe? Hu to kṛutārth chhu ane je kāī sādhan karu chhu te to Bhagwānnī prasannatāne arthe karu chhu,’ em samaje tene Bhagwānno māhātmye sahit nishchay jāṇavo.”",
       "options": [
-        "Vach.Ga.Pa.72",
-        "Vach.Ga.Pa.58",
-        "Vach.Ga.An.7",
-        "Vach.Je.5"
+        "jivan, safal",
+        "kalyāṇ, kalyāṇ",
+        "anand, prasann",
+        "shanti, sukhi"
       ],
-      "correct_answer": "Vach.Ga.Pa.72",
-      "explanation": "This quote is from Vachanamrut Gadhada Pratham 72.",
+      "correct_answer": "kalyāṇ, kalyāṇ",
+      "explanation": "Vach.Ga.Pa.72 explains that one with firm conviction understands that kalyan (welfare) has already begun since the day they saw Bhagwan, and that those who see Bhagwan with love and follow his words also attain kalyan.",
       "source_reference": "Vach.Ga.Pa.72"
     },
     {
-      "id": "8_2",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Atishay je _____ Puruṣh hoy teno je upar rājīpo thāy tenā game tevā malin sanskār hoy to nāsh pāme ane Moṭā Puruṣhno rājīpo thayo hoy to rānk hoy te rājā thāy ane game tevā bhūnḍā prārabdha hoy to rūḍā thāy ane game tevu tene māthe vighna āvanāru hoy te nāsh thaī jāy.\"",
+      "id": "8-2",
+      "type": "MCQ",
+      "question_text": "“Atishay je Moṭā Puruṣh hoy teno je upar ________ thāy tenā game tevā malin sanskār hoy to nāsh pāme ane Moṭā Puruṣhno ________ thayo hoy to rānk hoy te rājā thāy ane game tevā bhūnḍā prārabdha hoy to rūḍā thāy ane game tevu tene māthe vighna āvanāru hoy te nāsh thaī jāy.”",
       "options": [
-        "Moṭā",
-        "Nānā",
-        "Sādhū",
-        "Jetha"
+        "prem, prem",
+        "rāg, rāg",
+        "rāg, prem",
+        "rājīpo, rājīpo"
       ],
-      "correct_answer": "Moṭā",
-      "explanation": "The complete sentence is: \"Atishay je Moṭā Puruṣh hoy teno je upar rājīpo thāy tenā game tevā malin sanskār hoy to nāsh pāme ane Moṭā Puruṣhno rājīpo thayo hoy to rānk hoy te rājā thāy ane game tevā bhūnḍā prārabdha hoy to rūḍā thāy ane game tevu tene māthe vighna āvanāru hoy te nāsh thaī jāy.\"",
+      "correct_answer": "rājīpo, rājīpo",
+      "explanation": "Vach.Ga.Pa.58 states that if the great Purush is pleased with someone, their impure tendencies are destroyed, and even a poor person can become a king. Bad fate turns good, and impending obstacles are removed.",
       "source_reference": "Vach.Ga.Pa.58"
     },
     {
-      "id": "8_3",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"Jene potānu kalyāṇ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī jagatmā sukhdāyī nathī.\"",
+      "id": "8-3",
+      "type": "MCQ",
+      "question_text": "“Jene potānu ________ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī jagatmā sukhdāyī nathī.”",
       "options": [
-        "Vach.Ga.An.7",
-        "Vach.Je.5",
-        "Vach.Ga.Pa.58",
-        "Vach.Ga.Pa.72"
+        "jivan",
+        "kalyāṇ",
+        "bhav",
+        "ātmā"
       ],
-      "correct_answer": "Vach.Ga.An.7",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada অন্ত্য 7.",
+      "correct_answer": "kalyāṇ",
+      "explanation": "Vach.Ga.An.7 states that for one who desires their own kalyan (welfare), there is nothing more सुखदायी ( সুখদায়ী) than Bhagwan and Bhagwan's sadhu.",
       "source_reference": "Vach.Ga.An.7"
     },
     {
-      "id": "8_4",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"...amāro draḍh vishvās rākhasho ne kahīe tem karasho to tamane mahākaṣhṭ koīk āvī paḍashe tethī athavā sāt dakālī jevu paḍashe te thakī _____ karashu ane koī ūgaryāno āro na hoy evu kaṣhṭ āvī paḍashe toy paṇ rakṣhā karashu.\"",
+      "id": "8-4",
+      "type": "MCQ",
+      "question_text": "“...amāro draḍh ________ rākhasho ne kahīe tem karasho to tamane mahākaṣhṭ koīk āvī paḍashe tethī athavā sāt dakālī jevu paḍashe te thakī ________ karashu ane koī ūgaryāno āro na hoy evu kaṣhṭ āvī paḍashe toy paṇ ________ karashu.”",
       "options": [
-        "rakṣhā",
-        "dharsho",
-        "bhagasho",
-        "marasho"
+        "vishvās, rakṣhā, rakṣhā",
+        "prem, dayā, prem",
+        "bhāv, kṛupā, dayā",
+        "vishvās, dayā, rakṣhā"
       ],
-      "correct_answer": "rakṣhā",
-      "explanation": "The quote is from Vachanamrut Jetalpur 5.",
+      "correct_answer": "vishvās, rakṣhā, rakṣhā",
+      "explanation": "Vach.Je.5 states that if you keep firm vishvas (faith) in us and act accordingly, we will protect you from great hardships or famines, even if there seems to be no way out.",
       "source_reference": "Vach.Je.5"
     },
     {
-      "id": "9_1",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"Bhagwān ne Bhagwānnā sant e ja kalyāṇkārī chhe.\"",
+      "id": "9-1",
+      "type": "MCQ",
+      "question_text": "“māyā taravāno upāy e chhe je, jyāre sarva karma ane māyā teno nāsh karanārā ne māyāthī par je sākṣhātkār Shrī Puruṣhottam Bhagwān athavā te Bhagwānnā maḷel sant temanī jīvne ________ jyāre thāy chhe tyāre temanā āshraythī māyā ________ chhe.”",
       "options": [
-        "Vach.Ga.Ma.59",
-        "Vach.Je.1",
-        "Vach.Lo.3",
-        "Swa.Vato.1/114"
+        "prāpti, ullanghāy",
+        "darshan, tarī jāy",
+        "samīp, dūr thāy",
+        "ānand, bhagī jāy"
       ],
-      "correct_answer": "Vach.Ga.Ma.59",
-      "explanation": "This quote is from Vachanamrut Gadhada Madhya 59.",
+      "correct_answer": "prāpti, ullanghāy",
+      "explanation": "Vach.Je.1 says that the way to overcome maya is when the jiva attains Shri Purushottam Bhagwan or his realised Sant, through whose refuge maya is transcended.",
+      "source_reference": "Vach.Je.1"
+    },
+    {
+      "id": "9-2",
+      "type": "MCQ",
+      "question_text": "“Bhagwān ne Bhagwānnā sant e ja ________ chhe.”",
+      "options": [
+        "kalyāṇkārī",
+        "shāntidāyī",
+        "sukhkārī",
+        "ānanddāyī"
+      ],
+      "correct_answer": "kalyāṇkārī",
+      "explanation": "Vach.Ga.Ma.59 states that Bhagwan and Bhagwan's Sant are the only kalyankari (beneficial for liberation).",
       "source_reference": "Vach.Ga.Ma.59"
     },
     {
-      "id": "9_2",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Jene _____ ne santno māhātmya-gnāne sahit nishchay hoy...\"",
+      "id": "9-3",
+      "type": "MCQ",
+      "question_text": "“Jene Bhagwānno ne santno ________ sahit nishchay hoy...”",
       "options": [
-        "Bhagwānno",
-        "Sadguru",
-        "Guru",
-        "Bhakto"
+        "māhātmya-gnāne",
+        "prem-bhāve",
+        "seva-bhakti",
+        "shradhā-vishvāse"
       ],
-      "correct_answer": "Bhagwānno",
-      "explanation": "The complete sentence is: \"Jene Bhagwānno ne santno māhātmya-gnāne sahit nishchay hoy...\"",
+      "correct_answer": "māhātmya-gnāne",
+      "explanation": "Vach.Lo.3 mentions 'jene Bhagwānno ne santno māhātmya-gnāne sahit nishchay hoy...', referring to having conviction along with the knowledge of greatness of Bhagwan and the Sant.",
       "source_reference": "Vach.Lo.3"
     },
     {
-      "id": "9_3",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"Bhagwānnā santnī sevā to bahu moṭā puṇyavāḷāne maḷe.\"",
+      "id": "9-4",
+      "type": "MCQ",
+      "question_text": "“Bhagwānnā santnī ________ to bahu moṭā puṇyavāḷāne maḷe.”",
       "options": [
-        "Vach.Ga.Ma.59",
-        "Vach.Je.1",
-        "Vach.Va.14",
-        "Swa.Vato.1/114"
+        "sevā",
+        "bhakti",
+        "sangath",
+        "vārtā"
       ],
-      "correct_answer": "Vach.Ga.Ma.59",
-      "explanation": "This quote is from Vachanamrut Gadhada Madhya 59.",
+      "correct_answer": "sevā",
+      "explanation": "Vach.Ga.Ma.59 says that the seva of Bhagwan's Sant is attained only by those with great merit.",
       "source_reference": "Vach.Ga.Ma.59"
     },
     {
-      "id": "9_4",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"...satpuruṣhno āsharo kare tyāre game tevo pāpī hoy to paṇ ati _____ thaī jāy chhe...\"",
+      "id": "9-5",
+      "type": "MCQ",
+      "question_text": "“...satpuruṣhno āsharo kare tyāre game tevo pāpī hoy to paṇ ati ________ thaī jāy chhe...”",
       "options": [
         "pavitra",
-        "apavitra",
-        "dukhi",
-        "khushi"
+        "dayāḷu",
+        "shānt",
+        "nirmāṇ"
       ],
       "correct_answer": "pavitra",
-      "explanation": "The complete sentence is: \"...satpuruṣhno āsharo kare tyāre game tevo pāpī hoy to paṇ ati pavitra thaī jāy chhe...\"",
+      "explanation": "Vach.Va.14 states that even a sinner becomes very pure by taking refuge in a true saint.",
       "source_reference": "Vach.Va.14"
     },
     {
-      "id": "9_5",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"Bhagwān ane Moṭā Sādhune āshare karīne to vādaḷ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.\"",
+      "id": "9-6",
+      "type": "MCQ",
+      "question_text": "“Bhagwān ane Moṭā Sādhune āshare karīne to ________ jevā dukh āvavānā hoy te paṇ ṭaḷī jāy ne sādhan karīne to kūṭī kūṭīne marī jāy to paṇ na ṭaḷe.”",
       "options": [
-        "Swa.Vato.1/114",
-        "Vach.Va.14",
-        "Vach.Ga.Ma.59",
-        "Vach.Je.1"
+        "vādaḷ",
+        "pāṇī",
+        "agnī",
+        "dhūḷ"
       ],
-      "correct_answer": "Swa.Vato.1/114",
-      "explanation": "This quote is from Swamini Vato 1/114.",
+      "correct_answer": "vādaḷ",
+      "explanation": "Swa.Vato.1/114 says that by taking refuge in Bhagwan and the Great Sadhu, even cloud-like miseries disappear, but they won't disappear even if one dies trying through other means.",
       "source_reference": "Swa.Vato.1/114"
     },
     {
-      "id": "10_1",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"Satpuruṣhne viṣhe draḍh prīti e ja ātmadarshannu sāadhan chhe ane satpuruṣhno mahimā jāṇyānu paṇ e ja sāadhan chhe ane Parameshvarnu sākṣhāt darshan thāvānu paṇ e ja sāadhan chhe.\"",
+      "id": "10-1",
+      "type": "MCQ",
+      "question_text": "“Āvī Bhagwatswarūp sambandhī je vārtā te to shāstramāthī paṇ potānī meḷe ________ nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā mukh thakī ja vāt ________ āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.”",
       "options": [
-        "Vach.Va.11",
-        "Vach.Ga.Ma.13",
-        "Vach.Ga.Pa.60",
-        "Vach.Ga.Pa.54"
+        "samajāy, samajāymā",
+        "javāy, kahī",
+        "likhāy, vāchavāmā",
+        "dekhaાય, dekhāvmā"
       ],
-      "correct_answer": "Vach.Va.11",
-      "explanation": "The correct answer is Vachanamrut Vadtal 11.",
-      "source_reference": "Vach.Va.11"
-    },
-    {
-      "id": "10_2",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Āvī Bhagwatswarūp sambandhī je vārtā te to shāstramāthī paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā _____ thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.\"",
-      "options": [
-        "mukh",
-        "kan",
-        "haat",
-        "pāya"
-      ],
-      "correct_answer": "mukh",
-      "explanation": "The correct sentence is: Āvī Bhagwatswarūp sambandhī je vārtā te to shāstramāthī paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā mukh thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.",
+      "correct_answer": "samajāy, samajāymā",
+      "explanation": "Vach.Ga.Ma.13 states that such talks about the nature of Bhagwat are not understood on one's own from the scriptures. They are understood through the Satpurush when he manifests.",
       "source_reference": "Vach.Ga.Ma.13"
     },
     {
-      "id": "10_3",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"Swadharma, gnān, vairāgya ane māhātmyagnān teṇe sahit je Bhagwānnī bhakti teṇe yukta evā je Bhagwānnā Ekāntik Sādhu tenā prasang thakī Bhāgwat Dharmanu poṣhaṇ thāy chhe ane vaḷī jīvne mokṣhanu je dvār te paṇ evā Sādhunā prasang thakī ughāḍu thāy chhe.\"",
+      "id": "10-2",
+      "type": "MCQ",
+      "question_text": "“Satpuruṣhne viṣhe draḍh ________ e ja ātmadarshannu sāadhan chhe ane satpuruṣhno mahimā jāṇyānu paṇ e ja sāadhan chhe ane Parameshvarnu sākṣhāt darshan thāvānu paṇ e ja sāadhan chhe.”",
       "options": [
-        "Vach.Ga.Pa.54",
-        "Vach.Ga.Pa.60",
-        "Vach.An.27",
-        "Vach.Lo.12"
-      ],
-      "correct_answer": "Vach.Ga.Pa.54",
-      "explanation": "This quote comes directly from Vachanamrut Gadhada Pratham 54.",
-      "source_reference": "Vach.Ga.Pa.54"
-    },
-    {
-      "id": "10_4",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"jene _____ dharmamā sthiti thaī hoy te thakī ja ekāntikno dharma pamāy chhe.\"",
-      "options": [
-        "ekāntiknā",
+        "prīti",
         "bhakti",
-        "dāsko",
-        "aashro"
+        "shradhā",
+        "vishvās"
       ],
-      "correct_answer": "ekāntiknā",
-      "explanation": "The correct sentence is: \"jene ekāntiknā dharmamā sthiti thaī hoy te thakī ja ekāntikno dharma pamāy chhe.\"",
-      "source_reference": "Vach.Ga.Pa.60"
+      "correct_answer": "prīti",
+      "explanation": "Vach.Va.11 says that firm preeti (love) for the Satpurush is the means for self-realization, understanding his greatness, and having direct darshan of Parmeshwar.",
+      "source_reference": "Vach.Va.11"
     },
     {
-      "id": "10_5",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"je brahmarūp thayo tene ja Puruṣhottamnī bhaktino adhikār chhe.\"",
+      "id": "10-3",
+      "type": "MCQ",
+      "question_text": "“shāstre kahyā je niṣhkām, nirlobh, nirmān, nihsvād, nihsneh ityādik santnā ________ tene sāmbhaḷīne evā ________ jyā dekhāy evā je sant tene ne Bhagwānne sākṣhāt sambandh hoy; māṭe evā santnā vachane karīne Bhagwānno nishchay karavo ne tenā vachanmā draḍh ________ karavo tene nishchay kahīe.”",
       "options": [
-        "Vach.Lo.7",
-        "Vach.Lo.12",
-        "Vach.An.27",
-        "Vach.Ga.Pa.60"
+        "lakṣhaṇ, lakṣhaṇ, vishvās",
+        "guṇ, guṇ, prem",
+        "dharm, dharm, ādar",
+        "niyam, niyam, shraddhā"
       ],
-      "correct_answer": "Vach.Lo.7",
-      "explanation": "This quote comes directly from Vachanamrut Loya 7.",
-      "source_reference": "Vach.Lo.7"
+      "correct_answer": "lakṣhaṇ, lakṣhaṇ, vishvās",
+      "explanation": "Vach.Ga.An.27 says that upon hearing the characteristics of a Sant such as Nishkam, Nirlobh, etc., one should recognize these characteristics in a Sant who has direct connection with Bhagwan. Believing in the words of such a Sant is true conviction.",
+      "source_reference": "Vach.Ga.An.27"
     },
     {
-      "id": "10_6",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu dhāmrūp Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam _____ _____ kahīe.\"",
+      "id": "10-4",
+      "type": "MCQ",
+      "question_text": "“aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je ________ viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu dhāmrūp ________ te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam nirvikalp nishchayvāḷo kahīe.”",
       "options": [
-        "nirvikalp nishchayvāḷo",
-        "bhakti maḷi",
-        "ekantik dhari",
-        "nirmal thai"
+        "Akṣharne, Akṣhar",
+        "Brahmne, Brahm",
+        "Ātmāne, Ātmā",
+        "Prakruti, Prakruti"
       ],
-      "correct_answer": "nirvikalp nishchayvāḷo",
-      "explanation": "The correct sentence is: aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu dhāmrūp Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam nirvikalp nishchayvāḷo kahīe.",
+      "correct_answer": "Akṣharne, Akṣhar",
+      "explanation": "Vach.Lo.12 explains that one with the highest nirvikalp nishchay worships Purushottam, residing in the form of Akshar, in whom crores of universes appear like atoms.",
       "source_reference": "Vach.Lo.12"
     },
     {
-      "id": "10_7",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"Koṭi janme kasar ṭaḷavānī hoy te āj ṭaḷī jāy ne brahmarūp karī mūke, jo kharekharā sādhu maḷe ne te kahe tem kare to.\"",
+      "id": "10-5",
+      "type": "MCQ",
+      "question_text": "“jene ________ dharmamā sthiti thaī hoy te thakī ja ________ dharma pamāy chhe.”",
       "options": [
-        "Swa.Vato.1/119",
-        "Vach.Lo.7",
-        "Vach.Lo.12",
-        "Vach.Va.11"
+        "ekāntiknā, ekāntikno",
+        "bhaktinā, bhaktino",
+        "gnānnā, gnānno",
+        "vairāgyanā, vairāgyano"
       ],
-      "correct_answer": "Swa.Vato.1/119",
-      "explanation": "The quote is from Swamini Vato 1/119.",
+      "correct_answer": "ekāntiknā, ekāntikno",
+      "explanation": "Vach.Ga.Pa.60 states that only through one who has attained the state of Ekantik can the dharma of Ekantik be attained.",
+      "source_reference": "Vach.Ga.Pa.60"
+    },
+    {
+      "id": "10-6",
+      "type": "MCQ",
+      "question_text": "“Swadharma, gnān, vairāgya ane māhātmyagnān teṇe sahit je Bhagwānnī bhakti teṇe yukta evā je Bhagwānnā ________ tenā prasang thakī Bhāgwat Dharmanu poṣhaṇ thāy chhe ane vaḷī jīvne mokṣhanu je dvār te paṇ evā ________ prasang thakī ughāḍu thāy chhe.”",
+      "options": [
+        "Ekāntik Sādhu, Sādhunā",
+        "uttam bhakta, bhaktana",
+        "shreṣhth sant, santna",
+        "ādarsh sevak, sevaknā"
+      ],
+      "correct_answer": "Ekāntik Sādhu, Sādhunā",
+      "explanation": "Vach.Ga.Pa.54 states that the Bhāgwat Dharma is nourished through association with Bhagwan's Ekantik Sadhu, who is endowed with Swadharma, Gnan, Vairagya, and Mahatmyagnan. Also, the door to liberation for the jiva opens through association with such a Sadhu.",
+      "source_reference": "Vach.Ga.Pa.54"
+    },
+    {
+      "id": "10-7",
+      "type": "MCQ",
+      "question_text": "“Koṭi janme kasar ṭaḷavānī hoy te āj ṭaḷī jāy ne ________ karī mūke, jo kharekharā ________ maḷe ne te kahe tem kare to.”",
+      "options": [
+        "brahmarūp, sādhu",
+        "bhaktarūp, bhakta",
+        "devrūp, dev",
+        "shaktirūp, yogī"
+      ],
+      "correct_answer": "brahmarūp, sādhu",
+      "explanation": "Swa.Vato.1/119 states that if one meets a true Sadhu and acts according to his words, the impurities of crores of births can be removed today and one can be made brahmarup.",
       "source_reference": "Swa.Vato.1/119"
-    },
-    {
-      "id": "10_8",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Sant kṛupāe _____ ūpaje, sant kṛupāthī sare kām; Sant kṛupāthī pāmīe, Pūraṇ Puruṣhottam Dhām.\"",
-      "options": [
-        "sukh",
-        "dukh",
-        "rog",
-        "shok"
-      ],
-      "correct_answer": "sukh",
-      "explanation": "The verse is: Sant kṛupāe sukh ūpaje, sant kṛupāthī sare kām; Sant kṛupāthī pāmīe, Pūraṇ Puruṣhottam Dhām.",
-      "source_reference": "Bhaktachintamani"
-    },
-    {
-      "id": "10_9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Sant kṛupāe sadmati jāge, sant kṛupāthī sadguṇ; Sant kṛupā vinā _____, kahone pāmyā kuṇ.\"",
-      "options": [
-        "sādhutā",
-        "bhakti",
-        "prem",
-        "nishtha"
-      ],
-      "correct_answer": "sādhutā",
-      "explanation": "The verse is: Sant kṛupāe sadmati jāge, sant kṛupāthī sadguṇ; Sant kṛupā vinā sādhutā, kahone pāmyā kuṇ.",
-      "source_reference": "Bhaktachintamani"
     }
   ]
 }

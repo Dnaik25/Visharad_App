@@ -2,138 +2,116 @@
   "quiz_title": "Class 5 Quiz",
   "questions": [
     {
-      "id": "5_1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"...jem ā līmbaḍānu _____ chhe te ek vār jāṇī līdhu chhe, pachhī koī rīte manmā sankalp thato nathī je, ‘Līmbaḍo hashe ke nahī hoy?’ Evī rīte game teno sang thāy ane game tevā shāstra sāmbhaḷe paṇ koī rīte karīne Bhagwānnā swarūpno je nishchay karyo hoy temāthī man ḍag-mage nahī, evo je nirutthānpaṇe Bhagwānno nishchay ene ame tadātmakpaṇu kahīe chhīe.\"",
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "‘…jem ā līmbaḍānu vṛukṣh chhe te ek vār jāṇī līdhu chhe, pachhī koī rīte manmā sankalp thato nathī je, ‘Līmbaḍo hashe ke nahī hoy?’ Evī rīte game teno sang thāy ane game tevā shāstra sāmbhaḷe paṇ koī rīte karīne Bhagwānnā swarūpno je nishchay karyo hoy temāthī man ḍag-mage nahī, evo je nirutthānpaṇe Bhagwānno nishchay ene ame ________ kahīe chhīe.”",
       "options": [
-        "ghar",
-        "vṛukṣh",
-        "pāṇī"
+        "tadātmakpaṇu",
+        "bhakti",
+        "prem",
+        "vishwas"
       ],
-      "correct_answer": "vṛukṣh",
-      "explanation": "The exact quote from Vach.Ga.Ma.14 is being tested here.",
+      "correct_answer": "tadātmakpaṇu",
+      "explanation": "In Vach.Ga.Ma.14, Shriji Maharaj describes the quality of unwavering faith as 'tadātmakpanu'.",
       "source_reference": "Vach.Ga.Ma.14"
     },
     {
-      "id": "5_2",
-      "type": "quotation_reference_mcq",
-      "question_text": "“...jem ā līmbaḍānu vṛukṣh chhe te ek vār jāṇī līdhu chhe, pachhī koī rīte manmā sankalp thato nathī je, ‘Līmbaḍo hashe ke nahī hoy?’ Evī rīte game teno sang thāy ane game tevā shāstra sāmbhaḷe paṇ koī rīte karīne Bhagwānnā swarūpno je nishchay karyo hoy temāthī man ḍag-mage nahī, evo je nirutthānpaṇe Bhagwānno nishchay ene ame tadātmakpaṇu kahīe chhīe.”",
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Jene Bhagwānno ne santno _________-gnāne sahit nishchay hoy tethī Bhagwānne arthe ne santne arthe shu na thāy?",
       "options": [
-        "Vach.Ga.Ma.14",
-        "Vach.Lo.3",
-        "Swā.Vāto: 1/301",
-        "Vach.Ga.Pr.56"
+        "māhātmya",
+        "swarup",
+        "divya",
+        "bhakti"
       ],
-      "correct_answer": "Vach.Ga.Ma.14",
-      "explanation": "This quote is from Vachanamrut Gadhada I-14.",
-      "source_reference": "Vach.Ga.Ma.14"
-    },
-    {
-      "id": "5_3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Jene Bhagwānno ne santno _____ sahit nishchay hoy tethī Bhagwānne arthe ne santne arthe shu na thāy?\"",
-      "options": [
-        "māhātmya-gnāne",
-        "pāp",
-        "dosh"
-      ],
-      "correct_answer": "māhātmya-gnāne",
-      "explanation": "The exact quote from Vach.Lo.3 is being tested here.",
+      "correct_answer": "māhātmya",
+      "explanation": "Vach.Lo.3 states that one who has firm conviction along with the knowledge of the greatness of God and the Sant, what can they not do for God and the Sant?",
       "source_reference": "Vach.Lo.3"
     },
     {
-      "id": "5_4",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Jene Bhagwānno ne santno māhātmya-gnāne sahit nishchay hoy tethī Bhagwānne arthe ne santne arthe shu na thāy? Ene arthe kuṭumbno tyāg kare, loklājno tyāg kare, rājyano tyāg kare, sukhno tyāg kare, dhanno tyāg kare, strīno tyāg kare ane strī hoy te puruṣhno tyāg kare.”",
-      "options": [
-        "Vach.Lo.3",
-        "Swā.Vāto: 1/301",
-        "Vach.Ga.Ma.14",
-        "Vach.Ga.Pr.56"
-      ],
-      "correct_answer": "Vach.Lo.3",
-      "explanation": "This quote is from Vachanamrut Loya-3.",
-      "source_reference": "Vach.Lo.3"
-    },
-    {
-      "id": "5_5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Āpaṇe to _____ jāvu chhe evo ek sankalp rākhavo.",
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Āpaṇe to ________ jāvu chhe evo ek sankalp rākhavo.",
       "options": [
         "Akṣhardhāmmā",
         "Vaikunth",
-        "Golok"
+        "Golok",
+        "Brahmapur"
       ],
       "correct_answer": "Akṣhardhāmmā",
-      "explanation": "The exact quote from Swā.Vāto: 1/301 is being tested here.",
+      "explanation": "Swā.Vāto: 1/301 says that we should keep a resolution of going to Akshardham.",
       "source_reference": "Swā.Vāto: 1/301"
     },
     {
-      "id": "5_6",
-      "type": "quotation_reference_mcq",
-      "question_text": "Āpaṇe to Akṣhardhāmmā jāvu chhe evo ek sankalp rākhavo.",
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Keṭalāk siddha thāy chhe ne keṭalāk sarvagna thāy chhe ne keṭalāk devatā thāy chhe ityādik anant prakārnī moṭyap pāme chhe tathā param padne pāme chhe e sarve Bhagwānnī _________ baḷe pāme chhe, paṇ upāsanā vinā koī vāt siddha thatī nathī.",
       "options": [
-        "Swā.Vāto: 1/301",
-        "Vach.Ga.Pr.56",
-        "Vach.Ga.Ma.14",
-        "Vach.Lo.3"
+        "upāsanāne",
+        "bhaktine",
+        "sevāne",
+        "dhyāne"
       ],
-      "correct_answer": "Swā.Vāto: 1/301",
-      "explanation": "This quote is from Swamini Vato 1/301.",
-      "source_reference": "Swā.Vāto: 1/301"
-    },
-    {
-      "id": "5_7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Keṭalāk siddha thāy chhe ne keṭalāk sarvagna thāy chhe ne keṭalāk _____ thāy chhe ityādik anant prakārnī moṭyap pāme chhe tathā param padne pāme chhe e sarve Bhagwānnī upāsanāne baḷe pāme chhe, paṇ upāsanā vinā koī vāt siddha thatī nathī.\"",
-      "options": [
-        "devatā",
-        "mānav",
-        "dānava"
-      ],
-      "correct_answer": "devatā",
-      "explanation": "The exact quote from Vach.Ga.Pr.56 is being tested here.",
+      "correct_answer": "upāsanāne",
+      "explanation": "Vach.Ga.Pr.56 states that all attain greatness and the supreme state by the strength of devotion to Bhagwan; without devotion, nothing is attained.",
       "source_reference": "Vach.Ga.Pr.56"
     },
     {
-      "id": "5_8",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Keṭalāk siddha thāy chhe ne keṭalāk sarvagna thāy chhe ne keṭalāk devatā thāy chhe ityādik anant prakārnī moṭyap pāme chhe tathā param padne pāme chhe e sarve Bhagwānnī upāsanāne baḷe pāme chhe, paṇ upāsanā vinā koī vāt siddha thatī nathī.”",
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Tem ek Harine parhare, biji kare ________ koṭ; Te to māthāfar chāle mārge, jem jem chāle tem khoṭ.",
       "options": [
-        "Vach.Ga.Pr.56",
-        "Vach.Lo.3",
-        "Swā.Vāto: 1/301",
-        "Vach.Ga.Ma.14"
+        "chaturāyi",
+        "bhakti",
+        "sevā",
+        "karma"
       ],
-      "correct_answer": "Vach.Ga.Pr.56",
-      "explanation": "This quote is from Vachanamrut Gadhada Pratham-56.",
+      "correct_answer": "chaturāyi",
+      "explanation": "The kirtan 'Sārsiddhi' states, 'forsaking the one Lord, and performing millions of clever acts, they proceed astray; the more they proceed, the more they err'.",
+      "source_reference": "Sārsiddhi"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Ene arthe kuṭumbno tyāg kare, ________ tyāg kare, rājyano tyāg kare, sukhno tyāg kare, dhanno tyāg kare, strīno tyāg kare ane strī hoy te puruṣhno tyāg kare.",
+      "options": [
+        "loklājno",
+        "dharma",
+        "arth",
+        "moksha"
+      ],
+      "correct_answer": "loklājno",
+      "explanation": "Vach.Lo.3 describes the sacrifices made for Bhagwan and the Sant, including abandoning family and social norms.",
+      "source_reference": "Vach.Lo.3"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Te sarvāḷo shāno melshe, je kare chhe ________ kāgaḷe.",
+      "options": [
+        "kāḷap",
+        "safed",
+        "lal",
+        "pilo"
+      ],
+      "correct_answer": "kāḷap",
+      "explanation": "From the kirtan 'Sārsiddhi': Te sarvāḷo shāno melshe, je kare chhe kāḷap kāgaḷe.",
+      "source_reference": "Sārsiddhi"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Paṇ upāsanā vinā koī ________ thatī nathī.",
+      "options": [
+        "vāt siddha",
+        "karya safal",
+        "iccha puri",
+        "dhyey prapt"
+      ],
+      "correct_answer": "vāt siddha",
+      "explanation": "Vach.Ga.Pr.56 emphasizes that without devotion, nothing is attained.",
       "source_reference": "Vach.Ga.Pr.56"
-    },
-    {
-      "id": "5_9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Jem so so shunya sārā kare, paṇ ek na kare jo āgaḷe; Te sarvāḷo shāno melshe, je kare chhe _____. Tem ek Harine parhare, biji kare chaturāyi koṭ; Te to māthāfar chāle mārge, jem jem chāle tem khoṭ.",
-      "options": [
-        "kāḷap kāgaḷe",
-        "ratan rupāḷe",
-        "mithyā māṇe"
-      ],
-      "correct_answer": "kāḷap kāgaḷe",
-      "explanation": "The exact quote from Sarsiddhi is being tested here.",
-      "source_reference": "Sārsiddhi"
-    },
-    {
-      "id": "5_10",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Tem ek Harine parhare, biji kare _____; Te to māthāfar chāle mārge, jem jem chāle tem khoṭ.",
-      "options": [
-        "chaturāyi koṭ",
-        "bhakti mot",
-        "sevā tot"
-      ],
-      "correct_answer": "chaturāyi koṭ",
-      "explanation": "The exact quote from Sarsiddhi is being tested here.",
-      "source_reference": "Sārsiddhi"
     }
   ]
 }

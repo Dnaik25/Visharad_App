@@ -1,285 +1,187 @@
 {
-  "quiz_title": "Mini-Review Quiz (Classes 16-20)",
+  "quiz_title": "Mini-Review Questions (Classes 16-20)",
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bhagwanne bhajavā ethī _____ vāt moţī _____.",
+      "type": "MCQ",
+      "question_text": "Bhagwanne bhajavā ethī bījī vāt moţī ______.",
       "options": [
-        "bījī",
-        "nathi",
-        "moţī",
-        "ek"
+        "chhe",
+        "nathī",
+        "hoy",
+        "karavi"
       ],
-      "correct_answer": "bījī and nathi",
-      "explanation": "This is a direct quote from Vachanamrut Je.5",
+      "correct_answer": "nathī",
+      "explanation": "According to Vach.Je.5, 'Bhagwanne bhajavā ethī bījī vāt moţī nathī.'",
       "source_reference": "Vach.Je.5"
     },
     {
       "id": "2",
-      "type": "quotation_reference_mcq",
-      "question_text": "je brahmarūp thayo tene ja Purushottamnī bhaktino adhikār chhe.",
+      "type": "MCQ",
+      "question_text": "je brahmarūp thayo tene ja ______ bhaktino adhikār chhe.",
       "options": [
-        "Vach.Lo.7",
-        "Vach.Ga.Pa.20",
-        "Vach.Ga.Ma.3",
-        "Vach.Va.5"
+        "Purushottamnī",
+        "Swaminarayan",
+        "Aksharbrahmanī",
+        "Gunatitanand Swamini"
       ],
-      "correct_answer": "Vach.Lo.7",
-      "explanation": "This quote is from Vachanamrut Loya 7.",
+      "correct_answer": "Purushottamnī",
+      "explanation": "According to Vach.Lo.7, 'je brahmarūp thayo tene ja Purushottamnī bhaktino adhikār chhe.'",
       "source_reference": "Vach.Lo.7"
     },
     {
       "id": "3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "potānā jīvātmāne e brahma sangathe ekatā karīne Parabrahmanī _____ upāsanā karavī.",
+      "type": "MCQ",
+      "question_text": "je Bhagwānnā pratāpne vichārīne ______ kare chhe, te to potānā swarūpne atishay ujjval prakāshmān jue chhe ane te prakāshne madhye pratyaksh evā je Purushottam Bhagwān tenī mūrtine jue chhe",
       "options": [
-        "Swāmī-sevakbhāve",
-        "bhaktino",
-        "pratāpne",
-        "ujjval"
+        "antardrashți",
+        "bahirdrashti",
+        "bhakti",
+        "seva"
       ],
-      "correct_answer": "Swāmī-sevakbhāve",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada Madhya 3.",
-      "source_reference": "Vach.Ga.Ma.3"
+      "correct_answer": "antardrashți",
+      "explanation": "According to Vach.Ga.Pa.20, 'je Bhagwānnā pratāpne vichārīne antardrashți kare chhe, te to potānā swarūpne atishay ujjval prakāshmān jue chhe ane te prakāshne madhye pratyaksh evā je Purushottam Bhagwān tenī mūrtine jue chhe'",
+      "source_reference": "Vach.Ga.Pa.20"
     },
     {
       "id": "4",
-      "type": "quotation_reference_mcq",
-      "question_text": "Jem Bhagwānnī mānasī pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne Bhagwan bheļī mānasī pūjā kare...to te kanishth bhakta hoy ne te be janme tathā chār janme tathā das janme ke so janme karīne uttam bhakta jevo thanāro hoy, te āne janme karīne uttam bhakta thây chhe. Evu Bhagwān ne te Bhagwānnā bhakta tenī sarakhī sevā karyānu fal chhe.",
+      "type": "MCQ",
+      "question_text": "potānā jīvātmāne e brahma sangathe ekatā karīne ______ Swāmī-sevakbhāve upāsanā karavī.",
       "options": [
-        "Vach.Va.5",
-        "Vach.Ga.Pa.68",
-        "Vach.Ga.Ma.59",
-        "Vach.Ga.An.7"
+        "Parabrahmanī",
+        "Aksharbrahmanī",
+        "brahmanī",
+        "Purushottamni"
       ],
-      "correct_answer": "Vach.Va.5",
-      "explanation": "The provided quotation is from Vachanamrut Vadtal 5.",
-      "source_reference": "Vach.Va.5"
+      "correct_answer": "Parabrahmanī",
+      "explanation": "According to Vach.Ga.Ma.3, 'potānā jīvātmāne e brahma sangathe ekatā karīne Parabrahmanī Swāmī-sevakbhāve upāsanā karavī.'",
+      "source_reference": "Vach.Ga.Ma.3"
     },
     {
       "id": "5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bhagwān ne Bhagwānnā sant e ja _____ chhe... Bhagwān ke Bhagwānnā santnī jyāre prāpti thaï tyāre e jīvne ethī uparānt bīju koī kalyāņ nathī, e ja param kalyān chhe.",
+      "type": "MCQ",
+      "question_text": "Jem Bhagwānnī mānasī pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne Bhagwan bheļī mānasī pūjā kare...to te kanishth bhakta hoy ne te be janme tathā chār janme tathā das janme ke so janme karīne uttam bhakta jevo thanāro hoy, te āne janme karīne ______ thây chhe.",
       "options": [
-        "kalyāņkārī",
-        "pratimā",
-        "akhand",
-        "nivās"
+        "uttam bhakta",
+        "kanishth bhakta",
+        "madhyam bhakta",
+        "sarvopari bhakta"
       ],
-      "correct_answer": "kalyāņkārī",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada Madhya 59.",
-      "source_reference": "Vach.Ga.Ma.59"
+      "correct_answer": "uttam bhakta",
+      "explanation": "According to Vach.Va.5, 'Jem Bhagwānnī mānasī pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne Bhagwan bheļī mānasī pūjā kare...to te kanishth bhakta hoy ne te be janme tathā chār janme tathā das janme ke so janme karīne uttam bhakta jevo thanāro hoy, te āne janme karīne uttam bhakta thây chhe.'",
+      "source_reference": "Vach.Va.5"
     },
     {
       "id": "6",
-      "type": "quotation_reference_mcq",
-      "question_text": "Sant hu ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re; Sant mānajo māri murati re, Emā fer nathi ek rati re...",
+      "type": "MCQ",
+      "question_text": "Mārī asht prakārnī je pratimā tathā je sant tene vishe hu ______ nivās karīne rahu chhu.",
       "options": [
-        "PURUSHOTTAM PRAKASH 41/9",
-        "Vach.Ga.Pa.68",
-        "Vach.Ga.Ma.59",
-        "Vach.Ga.An.7"
+        "akhand",
+        "alaukik",
+        "divya",
+        "nitya"
       ],
-      "correct_answer": "PURUSHOTTAM PRAKASH 41/9",
-      "explanation": "The provided quotation is from Purushottam Prakash 41/9.",
-      "source_reference": "PURUSHOTTAM PRAKASH 41/9"
+      "correct_answer": "akhand",
+      "explanation": "According to Vach.Ga.Pa.68, 'Mārī asht prakārnī je pratimā tathā je sant tene vishe hu akhand nivās karīne rahu chhu.'",
+      "source_reference": "Vach.Ga.Pa.68"
     },
     {
       "id": "7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sant _____ ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re; Sant mānajo māri murati re, Emā fer nathi ek rati re...",
+      "type": "MCQ",
+      "question_text": "Bhagwān ne Bhagwānnā sant e ja ______ chhe... Bhagwān ke Bhagwānnā santnī jyāre prāpti thaï tyāre e jīvne ethī uparānt bīju koī kalyāņ nathī, e ja param kalyān chhe.",
       "options": [
-        "hu",
-        "fer",
-        "mānajo",
-        "murati"
+        "kalyāņkārī",
+        "dūkhkārī",
+        "māyākārī",
+        "bandhankārī"
       ],
-      "correct_answer": "hu",
-      "explanation": "This is a direct quote from Purushottam Prakash 41/9.",
-      "source_reference": "PURUSHOTTAM PRAKASH 41/9"
+      "correct_answer": "kalyāņkārī",
+      "explanation": "According to Vach.Ga.Ma.59, 'Bhagwān ne Bhagwānnā sant e ja kalyāņkārī chhe... Bhagwān ke Bhagwānnā santnī jyāre prāpti thaï tyāre e jīvne ethī uparānt bīju koī kalyāņ nathī, e ja param kalyān chhe.'",
+      "source_reference": "Vach.Ga.Ma.59"
     },
     {
       "id": "8",
-      "type": "quotation_reference_mcq",
-      "question_text": "jevu paroksh Bhagwānnā Rām-Krushņādik avatārnu māhātmya jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī. Te ā vārtā ek vār kahye samajo athavā lākh vār kahye samajo, āj samajo athavā lākh varsh kede samajo pan e vāt samajye ja chhūțako chhe.",
+      "type": "MCQ",
+      "question_text": "jene potānu kalyāņ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī ______ sukhdāyī nathī.",
       "options": [
-        "Vach.Ga.Ma.21",
-        "Vach.Ga.Pa.56",
-        "Swa.Vato.1/153",
-        "Vach.Ga.Ma.40"
+        "jagatmā",
+        "bhaktimā",
+        "deshmā",
+        "mandirmā"
       ],
-      "correct_answer": "Vach.Ga.Ma.21",
-      "explanation": "This quote is from Vachanamrut Gadhada Madhya 21.",
-      "source_reference": "Vach.Ga.Ma.21"
+      "correct_answer": "jagatmā",
+      "explanation": "According to Vach.Ga.An.7, 'jene potānu kalyāņ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī jagatmā sukhdāyī nathī.'",
+      "source_reference": "Vach.Ga.An.7"
     },
     {
       "id": "9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Game tevo pāpī hoy ne ant same jo tene 'Swāminārāyan evā nāmnu uchchāran thây to te sarva pāp thakī chhūtīne _____ vishe nivās kare",
+      "type": "MCQ",
+      "question_text": "Sant hu ne hu te vaļi sant re, Em Shrimukhe kahe ______ re; Sant mānajo māri murati re, Emā fer nathi ek rati re...",
       "options": [
-        "Brahmamoholne",
-        "paroksh",
-        "pratyaksh",
-        "Rām-Krushņādik"
+        "Bhagwant",
+        "Sadguru",
+        "Swami",
+        "Hari"
       ],
-      "correct_answer": "Brahmamoholne",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada Panchala 56",
-      "source_reference": "Vach.Ga.Pa.56"
-    },
-    {
-      "id": "10",
-      "type": "quotation_reference_mcq",
-      "question_text": "Swāminārāyan nāmnā mantra jevo bījo koī mantra āj baļiyo nathī ne e mantre kāļā nāgnu pan zer na chade ne e mantre vishay ūdī jāy chhe, brahmarūp thây chhe ne kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe. Māțe nirantar bhajan karavu.",
-      "options": [
-        "Swa.Vato.1/153",
-        "Vach.Ga.Ma.40",
-        "Vach.Ga.Ma.21",
-        "Vach.Ga.Pa.56"
-      ],
-      "correct_answer": "Swa.Vato.1/153",
-      "explanation": "This quote is from Swamini Vato 1/153.",
-      "source_reference": "Swa.Vato.1/153"
-    },
-    {
-      "id": "11",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Swāminārāyan nāmnā _____ jevo bījo koī mantra āj baļiyo nathī ne e mantre kāļā nāgnu pan zer na chade ne e mantre vishay ūdī jāy chhe, brahmarūp thây chhe ne kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe. Māțe nirantar bhajan karavu.",
-      "options": [
-        "mantra",
-        "bhajan",
-        "samajo",
-        "baliyo"
-      ],
-      "correct_answer": "mantra",
-      "explanation": "This is a direct quote from Swamini Vato 1/153.",
-      "source_reference": "Swa.Vato.1/153"
-    },
-    {
-      "id": "12",
-      "type": "quotation_reference_mcq",
-      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu; ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu... Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na karavo.",
-      "options": [
-        "Vach.Ga.Ma.40",
-        "Swa.Vato.1/153",
-        "Vach.Ga.Ma.21",
-        "Vach.Ga.Pa.56"
-      ],
-      "correct_answer": "Vach.Ga.Ma.40",
-      "explanation": "This quote is from Vachanamrut Gadhada Madhya 40.",
-      "source_reference": "Vach.Ga.Ma.40"
-    },
-    {
-      "id": "13",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu; ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu... Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne _____ na karavo.",
-      "options": [
-        "droh",
-        "bhūndu",
-        "rūdu",
-        "sādhan"
-      ],
-      "correct_answer": "droh",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada Madhya 40.",
-      "source_reference": "Vach.Ga.Ma.40"
-    },
-    {
-      "id": "14",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "je _____ thayo tene ja Purushottamnī bhaktino adhikār chhe.",
-      "options": [
-        "brahmarūp",
-        "sant",
-        "bhakta",
-        "jagatma"
-      ],
-      "correct_answer": "brahmarūp",
-      "explanation": "This is a direct quote from Vachanamrut Loya 7.",
-      "source_reference": "Vach.Lo.7"
-    },
-    {
-      "id": "15",
-      "type": "quotation_reference_mcq",
-      "question_text": "jene potānu kalyāņ ichchhavu tene to Bhagwān ne Bhagwānnā sādhu ethī uparānt bīju kāī jagatmā sukhdāyī nathī.",
-      "options": [
-        "Vach.Ga.An.7",
-        "Vach.Va.5",
-        "Vach.Ga.Pa.68",
-        "Vach.Ga.Ma.59"
-      ],
-      "correct_answer": "Vach.Ga.An.7",
-      "explanation": "The provided quotation is from Vachanamrut Gadhada antya 7.",
-      "source_reference": "Vach.Ga.An.7"
-    },
-    {
-      "id": "16",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sant _____ māri murati re, Emā fer nathi ek rati re...",
-      "options": [
-        "mānajo",
-        "hu",
-        "bhakta",
-        "brahmarūp"
-      ],
-      "correct_answer": "mānajo",
-      "explanation": "This is a direct quote from Purushottam Prakash 41/9.",
+      "correct_answer": "Bhagwant",
+      "explanation": "According to PURUSHOTTAM PRAKASH 41/9, 'Sant hu ne hu te vaļi sant re, Em Shrimukhe kahe Bhagwant re; Sant mānajo māri murati re, Emā fer nathi ek rati re...'",
       "source_reference": "PURUSHOTTAM PRAKASH 41/9"
     },
     {
-      "id": "17",
-      "type": "quotation_reference_mcq",
-      "question_text": "Mārī asht prakārnī je pratimā tathā je sant tene vishe hu akhand nivās karīne rahu chhu.",
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "jevu paroksh Bhagwānnā ______ avatārnu māhātmya jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī.",
       "options": [
-        "Vach.Ga.Pa.68",
-        "Vach.Ga.An.7",
-        "Vach.Va.5",
-        "Vach.Ga.Ma.59"
+        "Rām-Krushņādik",
+        "Narayanadik",
+        "Shrī Hari",
+        "Ghanshyam"
       ],
-      "correct_answer": "Vach.Ga.Pa.68",
-      "explanation": "The provided quotation is from Vachanamrut Gadhada Pratham 68.",
-      "source_reference": "Vach.Ga.Pa.68"
+      "correct_answer": "Rām-Krushņādik",
+      "explanation": "According to Vach.Ga.Ma.21, 'jevu paroksh Bhagwānnā Rām-Krushņādik avatārnu māhātmya jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī.'",
+      "source_reference": "Vach.Ga.Ma.21"
     },
     {
-      "id": "18",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "jene potānu kalyāņ ichchhavu tene to Bhagwān ne Bhagwānnā _____ ethī uparānt bīju kāī jagatmā sukhdāyī nathī.",
+      "id": "11",
+      "type": "MCQ",
+      "question_text": "Game tevo pāpī hoy ne ant same jo tene 'Swāminārāyan evā ______ uchchāran thây to te sarva pāp thakī chhūtīne Brahmamoholne vishe nivās kare",
       "options": [
-        "sādhu",
-        "bhakta",
-        "pratimā",
-        "sant"
+        "nāmnu",
+        "mantra",
+        "akshar",
+        "swaroop"
       ],
-      "correct_answer": "sādhu",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada antya 7.",
-      "source_reference": "Vach.Ga.An.7"
+      "correct_answer": "nāmnu",
+      "explanation": "According to Vach.Ga.Pa.56, 'Game tevo pāpī hoy ne ant same jo tene 'Swāminārāyan evā nāmnu uchchāran thây to te sarva pāp thakī chhūtīne Brahmamoholne vishe nivās kare'",
+      "source_reference": "Vach.Ga.Pa.56"
     },
     {
-      "id": "19",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Mārī asht prakārnī je _____ tathā je sant tene vishe hu akhand nivās karīne rahu chhu.",
+      "id": "12",
+      "type": "MCQ",
+      "question_text": "Swāminārāyan nāmnā mantra jevo bījo koī mantra āj ______ nathī ne e mantre kāļā nāgnu pan zer na chade ne e mantre vishay ūdī jāy chhe, brahmarūp thây chhe ne kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe. Māțe nirantar bhajan karavu.",
       "options": [
-        "pratimā",
-        "sādhu",
-        "bhakta",
-        "sant"
+        "baļiyo",
+        "sāro",
+        "ūncho",
+        "nīcho"
       ],
-      "correct_answer": "pratimā",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada Pratham 68.",
-      "source_reference": "Vach.Ga.Pa.68"
+      "correct_answer": "baļiyo",
+      "explanation": "According to Swa.Vato.1/153, 'Swāminārāyan nāmnā mantra jevo bījo koī mantra āj baļiyo nathī ne e mantre kāļā nāgnu pan zer na chade ne e mantre vishay ūdī jāy chhe, brahmarūp thây chhe ne kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe. Māțe nirantar bhajan karavu.'",
+      "source_reference": "Swa.Vato.1/153"
     },
     {
-      "id": "20",
-      "type": "quotation_reference_mcq",
-      "question_text": "Bhagwanne bhajavā ethī bījī vāt moţī nathī.",
+      "id": "13",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī ______ karīne nathī thatu; ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu... Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na karavo.",
       "options": [
-        "Vach.Je.5",
-        "Vach.Lo.7",
-        "Vach.Ga.Pa.20",
-        "Vach.Ga.Ma.3"
+        "pāpe",
+        "dharma",
+        "karma",
+        "lobhe"
       ],
-      "correct_answer": "Vach.Je.5",
-      "explanation": "This quote is from Vachanamrut Jetalpur 5.",
-      "source_reference": "Vach.Je.5"
+      "correct_answer": "pāpe",
+      "explanation": "According to Vach.Ga.Ma.40, 'Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu; ane Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu... Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na karavo.'",
+      "source_reference": "Vach.Ga.Ma.40"
     }
   ]
 }

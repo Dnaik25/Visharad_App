@@ -2,144 +2,74 @@
   "quiz_title": "Class 3 Quiz",
   "questions": [
     {
-      "id": "3-1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"...ati _____ _____ karīne satsang kare to tene koī jātno doṣh haiyāmā rahe nahī ane deh chhatā ja brahmarūp thaī jāy.\"",
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Vach.Sā.9 mujab, શાનાથી અતિ સાચે ભાવે સત્સંગ કરે તો તેને કોઈ જાતનો દોષ હૈયામાં રહે નહિ અને દેહ છતાં જ બ્રહ્મરૂપ થઈ જાય?",
       "options": [
-        "sāche bhāve",
-        "mithyā bhāve",
-        "khote bhāve",
-        "ajūgtā bhāve"
+        "ati sāche bhāve",
+        "ati khuśī karīne",
+        "ati prem thī",
+        "ati ādar thī"
       ],
-      "correct_answer": "sāche bhāve",
-      "explanation": "This is a direct quote from Vachanamrut Sārangpur 9.",
+      "correct_answer": "ati sāche bhāve",
+      "explanation": "Vach.Sā.9 māṁ āvyu chhe ke ati sāche bhāve karīne satsang kare to tene koī jātno doṣh haiyāmā rahe nahī ane deh chhatā ja brahmarūp thaī jāy.",
       "source_reference": "Vach.Sā.9"
     },
     {
-      "id": "3-2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Bhagwāne kahyu chhe je, “Jevo hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto.”",
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.An.2 mujab, જ્યારે આવો સંત-સમાગમ પ્રાપ્ત થયો ત્યારે દેહ મૂકીને જેને પામવા હતા તે તો દેહ છતાં જ શું થયા છે?",
       "options": [
-        "Swā.Vāto: 1/17",
-        "Vach.Sā.9",
-        "Vach.Ga.An.2",
-        "Bhaktachintamani: 84"
+        "maḷyā chhe",
+        "dūr thayā chhe",
+        "āgha thayā chhe",
+        "vichchhinn thayā chhe"
       ],
-      "correct_answer": "Swā.Vāto: 1/17",
-      "explanation": "This quote is found in Swamini Vato 1/17.",
-      "source_reference": "Swā.Vāto: 1/17"
-    },
-    {
-      "id": "3-3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"jyāre āvo _____ prāpt thayo tyāre deh mūkīne jene pāmavā hatā te to deh chhatā ja maḷyā chhe; māṭe jene parampad kahīe, mokṣh kahīe tene chhate dehe ja pāmyo chhe.\"",
-      "options": [
-        "sant-samāgam",
-        "mandir-samāgam",
-        "pustak-samāgam",
-        "laukik-samāgam"
-      ],
-      "correct_answer": "sant-samāgam",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada Antya 2.",
+      "correct_answer": "maḷyā chhe",
+      "explanation": "Vach.Ga.An.2 māṁ āvyu chhe ke jyāre āvo sant-samāgam prāpt thayo tyāre deh mūkīne jene pāmavā hatā te to deh chhatā ja maḷyā chhe.",
       "source_reference": "Vach.Ga.An.2"
     },
     {
-      "id": "3-4",
-      "type": "quotation_reference_mcq",
-      "question_text": "Jan pratye jīvan kahe, jene jeṭalo satsang; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Swā.Vāto: 1/17 mujab, Bhagwāne shu kahyu chhe je hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto?",
       "options": [
-        "Bhaktachintamani: 84",
-        "Vach.Sā.9",
-        "Vach.Ga.An.2",
-        "Swā.Vāto: 1/17"
+        "Jevo",
+        "Tevo",
+        "Kevo",
+        "Devo"
       ],
-      "correct_answer": "Bhaktachintamani: 84",
-      "explanation": "This quote is from Bhaktachintamani, verse 84.",
-      "source_reference": "Bhaktachintamani: 84"
-    },
-    {
-      "id": "3-5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Te satsang shu je, ‘Moṭā _____ hāth joḍavā ne te kahe tem karavu e ja chhe.’",
-      "options": [
-        "Ekāntikne",
-        "lokne",
-        "rajane",
-        "bhaktane"
-      ],
-      "correct_answer": "Ekāntikne",
-      "explanation": "This is a direct quote from Swamini Vato 1/17.",
+      "correct_answer": "Jevo",
+      "explanation": "Swā.Vāto: 1/17 mujab, Bhagwāne kahyu chhe je, “Jevo hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto.”",
       "source_reference": "Swā.Vāto: 1/17"
     },
     {
-      "id": "3-6",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"...ati sāche bhāve karīne satsang kare to tene koī jātno doṣh haiyāmā rahe nahī ane deh chhatā ja brahmarūp thaī jāy.\"",
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Swā.Vāto: 1/17 mujab, Te satsang shu je, ‘Moṭā Ekāntikne hāth joḍavā ne te kahe tem karavu e ja શું છે’?",
       "options": [
-        "Vach.Sā.9",
-        "Vach.Ga.An.2",
-        "Swā.Vāto: 1/17",
-        "Bhaktachintamani: 84"
+        "chhe",
+        "nathi",
+        "hase",
+        "hoy"
       ],
-      "correct_answer": "Vach.Sā.9",
-      "explanation": "This quote is from Vachanamrut Sarangpur 9.",
-      "source_reference": "Vach.Sā.9"
-    },
-    {
-      "id": "3-7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Jevo hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, _____, _____ sādhane karīne paṇ vash nathī thāto.\"",
-      "options": [
-        "dānādik, bhaktidik",
-        "dānādik, alaukik",
-        "dānādik, bhaktidik",
-        "dānādik, tapadik"
-      ],
-      "correct_answer": "dānādik, alaukik",
-      "explanation": "This is a direct quote from Swamini Vato 1/17.",
+      "correct_answer": "chhe",
+      "explanation": "Swā.Vāto: 1/17 mujab, Te satsang shu je, ‘Moṭā Ekāntikne hāth joḍavā ne te kahe tem karavu e ja chhe.’",
       "source_reference": "Swā.Vāto: 1/17"
     },
     {
-      "id": "3-8",
-      "type": "quotation_reference_mcq",
-      "question_text": "\"...jyāre āvo sant-samāgam prāpt thayo tyāre deh mūkīne jene pāmavā hatā te to deh chhatā ja maḷyā chhe; māṭe jene parampad kahīe, mokṣh kahīe tene chhate dehe ja pāmyo chhe.\"",
-      "options": [
-        "Vach.Ga.An.2",
-        "Vach.Sā.9",
-        "Swā.Vāto: 1/17",
-        "Bhaktachintamani: 84"
-      ],
-      "correct_answer": "Vach.Ga.An.2",
-      "explanation": "This quote is from Vachanamrut Gadhada Antya 2.",
-      "source_reference": "Vach.Ga.An.2"
-    },
-    {
-      "id": "3-9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Jan pratye jīvan kahe, jene jeṭalo _____; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Bhaktachintamani: 84 mujab, Jan pratye jīvan kahe, jene jeṭalo ___________; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
       "options": [
         "satsang",
-        "kusang",
-        "vyavahar",
-        "vivah"
+        "prasang",
+        "utsang",
+        "visang"
       ],
       "correct_answer": "satsang",
-      "explanation": "This is a direct quote from Bhaktachintamani 84.",
+      "explanation": "Bhaktachintamani: 84 mujab, Jan pratye jīvan kahe, jene jeṭalo satsang; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
       "source_reference": "Bhaktachintamani: 84"
-    },
-    {
-      "id": "3-10",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Te satsang shu je, ‘_____ _____ hāth joḍavā ne te kahe tem karavu e ja chhe.’",
-      "options": [
-        "Moṭā Ekāntikne",
-        "Nānā Ekāntikne",
-        "Moṭā bhaktane",
-        "Nānā bhaktane"
-      ],
-      "correct_answer": "Moṭā Ekāntikne",
-      "explanation": "This is a direct quote from Swamini Vato 1/17.",
-      "source_reference": "Swā.Vāto: 1/17"
     }
   ]
 }

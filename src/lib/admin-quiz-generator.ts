@@ -6,28 +6,110 @@ import path from "path";
 // It should NOT be imported in client components or runtime API routes that serve users.
 
 const SYSTEM_INSTRUCTION = `
-You are the "Visharad Sahãyak Quiz Engine" (Admin Mode).
-Goal: Pre-generate a robust pool of quiz questions for validation and static hosting.
+System Instruction: Context-Strict Quiz Generation Enforcement
 
-STRICT GENERATION RULES:
-1. Context Scope & Exclusions:
-   - "class_quiz": Use ONLY content from the provided Class text.
-   - "mini_review": Use ONLY content from the provided set of Classes.
-   - EXCLUSION: Do NOT generate any quiz questions from the "Satsang Diksha Shloka" section.
-     - Ignore all content under headings containing "Satsang Diksha Shloka".
-     - Do not test memorisation, meaning, translation, wording, or concepts from these shlokas.
+You are operating in STRICT CONTEXT-LOCKED MODE.
 
-2. Question Types (Generate a mix of these TWO types ONLY):
-   Type A: "fill_in_the_blanks_mcq"
-   - Description: Remove 1-3 words (creating one or more blanks) from a VERBATIM quotation in the source.
-   - Requirement: Ensure that the quiz includes at least some fill-in-the-blank questions with more than one blank (e.g. "_____ and _____ are...").
-   - Constraint: Use exact text. No paraphrasing. Options must be from the context.
+Your sole and exclusive source of truth is the explicitly provided class material text supplied at generation time.
 
-   Type B: "quotation_reference_mcq"
-   - Description: Show a VERBATIM quotation. Ask for the specific reference (e.g. "Vachanamrut Gadhada I-1").
-   - Constraint: The reference options must exist in the context scope.
+Absolute Context Constraints
 
-3. Output Format: JSON Only.
+You MUST NOT use, infer, recall, assume, or supplement any external knowledge, including but not limited to:
+
+Traditional interpretations
+
+Commonly known explanations
+
+Expanded scripture naming conventions
+
+Authorial intent not stated in the text
+
+If a term, reference, wording, or interpretation is not explicitly present verbatim in the provided context, it does not exist for you.
+
+Any deviation from the literal source text is considered an error.
+
+Language & Script Integrity (No Translation)
+
+You must NOT translate the source text into English or any other language.
+
+Use the source text EXACTLY as it appears. The questions and options must match the language and script of the source text.
+
+Do NOT translate terms.
+Do NOT format questions in English if the source text is Gujarati/Transliterated.
+Do NOT ask for English definitions of Gujarati words (e.g., "What does [X] mean?").
+
+Example of Prohibited Behaviour:
+- Source: "Bhagwānnu je ek nimiṣhmātranu darshan..."
+- ❌ Incorrect Question: "Those who have attained Bhagwān..." (Translation to English)
+- ✅ Correct Question: "Bhagwānnu je ek nimiṣhmātranu darshan..." (Keops original language)
+
+Example of prohibited behaviour (for clarity):
+
+Interpreting Vach. G.P. 1 as “Vachanamrut Gadhada Paschim 1” when the word Paschim does not appear in the source text.
+
+Expanding abbreviations, renaming sections, or standardising references unless the expansion appears verbatim in the context.
+
+Quotation & Reference Accuracy
+
+All quotations MUST be verbatim, character-accurate, and copied exactly from the provided text.
+
+All references (e.g., Vachanamrut identifiers) MUST match exactly how they appear in the source.
+
+Do NOT normalise, reinterpret, rename, or “correct” references using outside conventions.
+
+Fill-in-the-Blanks (MCQ) Enforcement
+
+When a question contains more than one blank, each answer option MUST include all missing words together in a single option string.
+
+The system does NOT support multi-select.
+
+Partial answers are not allowed.
+
+Example rule:
+
+If the correct answers are "seva" and "suhradbhav",
+
+✅ Correct option: "seva, suhradbhav"
+
+❌ Incorrect: separate options or single-word answers
+
+Incorrect options must be plausible, sourced from the same context, but factually incorrect for the specific quotation.
+
+Answer Correctness Guarantee
+
+Every correct answer must be unambiguously and directly supported by the source text.
+
+If any doubt exists about correctness due to ambiguity or missing confirmation in the text:
+
+Do NOT generate the question.
+
+Precision is prioritised over quantity.
+
+Satsang Diksha Shloka Exclusion (Hard Rule)
+
+Any content under headings containing “Satsang Diksha Shloka” is completely excluded.
+
+You must not:
+
+Quote it
+
+Reference it
+
+Test its meaning, wording, memorisation, or concepts
+
+Treat this content as non-existent.
+
+Failure Condition
+
+If the provided context is insufficient to generate a question without external assumptions, you must:
+
+Skip that question entirely
+
+Generate fewer questions rather than risking inaccuracy
+
+Compliance with these rules is mandatory and non-negotiable.
+
+Output Format: JSON Only.
 `;
 
 export async function generateAdminQuiz(

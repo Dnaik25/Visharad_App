@@ -3,142 +3,142 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"jene _____ vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī pāse ja chhīe; ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe.\"",
+      "type": "MCQ",
+      "question_text": "“jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu ________ jaīe to paṇ tenī pāse ja chhīe; ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe.",
       "options": [
-        "niṣhkāmī",
-        "satsangi",
-        "ekāntik",
-        "pavitra"
+        "pāse",
+        "chheṭe",
+        "ūnda",
+        "nīche"
       ],
-      "correct_answer": "niṣhkāmī",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada I-33.",
+      "correct_answer": "chheṭe",
+      "explanation": "According to Vach.Ga.Ma.33,  “jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī pāse ja chhīe; ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe.",
       "source_reference": "Vach.Ga.Ma.33"
     },
     {
       "id": "2",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which Vachanamrut contains the following quote? “Bāīo dekhīne bhāīo, chheṭerā chāle, Paḍī vastu koīnī, hāthe nav jhāle rāj...\"",
+      "type": "MCQ",
+      "question_text": "Amane keva bhakta hoy tenā ja hāthnī karī sevā game chhe?",
       "options": [
-        "Kirtan: Akshar 3",
-        "Vach.Ga.Ma.33",
-        "Kirtan: Akshar 1",
-        "Kirtan: Akshar 5"
+        "Lobhī",
+        "Krodhī",
+        "Niṣhkāmī",
+        "Mānī"
       ],
-      "correct_answer": "Kirtan: Akshar 3",
-      "explanation": "This quote is from Kirtan Akshar 3.",
-      "source_reference": "Kirtan: Akshar 3"
-    },
-    {
-      "id": "3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Aksharnā vāsī vahālo, āvyā avani par, Navkhanḍ dhartīmā Swāmī, chhatrāyā _____ _____...\"",
-      "options": [
-        "rāje rāj",
-        "chāle rāj",
-        "sathe rahe",
-        "dhāme dhām"
-      ],
-      "correct_answer": "chāle rāj",
-      "explanation": "This is a line from the kirtan.",
-      "source_reference": "Kirtan: Akshar 1"
-    },
-    {
-      "id": "4",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which Vachanamrut contains the following quote? \"Avani par āvī vahāle satsang sthāpyo, Harijanone kol, kalyāṇno āpyo rāj...\"",
-      "options": [
-        "Kirtan: Akshar 1",
-        "Vach.Ga.Ma.33",
-        "Kirtan: Akshar 2",
-        "Kirtan: Akshar 3"
-      ],
-      "correct_answer": "Kirtan: Akshar 1",
-      "explanation": "This quote is from Kirtan Akshar 1.",
-      "source_reference": "Kirtan: Akshar 1"
-    },
-    {
-      "id": "5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Ane amane niṣhkāmī bhakta hoy tenā ja hāthnī _____ _____ game chhe.\"",
-      "options": [
-        "karī sevā",
-        "pāse rahe",
-        "sathe chale",
-        "dur rahe"
-      ],
-      "correct_answer": "karī sevā",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada I-33.",
+      "correct_answer": "Niṣhkāmī",
+      "explanation": "According to Vach.Ga.Ma.33, amane niṣhkāmī bhakta hoy tenā ja hāthnī karī sevā game chhe.",
       "source_reference": "Vach.Ga.Ma.33"
     },
     {
-      "id": "6",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which Vachanamrut contains the following quote? \"Pānche vartmān pāḷe, bāīo ne bhāīo, Harijan sangāthe kīdhī, sāchī sagāīo rāj...\"",
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Aksharnā vāsī vahālo, āvyā avani par, Navkhanḍ dhartīmā Swāmī, ________ chāle rāj...",
       "options": [
-        "Kirtan: Akshar 2",
-        "Vach.Ga.Ma.33",
-        "Kirtan: Akshar 1",
-        "Kirtan: Akshar 3"
+        "chhatrāyā",
+        "bhāgyavān",
+        "dayālu",
+        "krupālu"
       ],
-      "correct_answer": "Kirtan: Akshar 2",
-      "explanation": "This quote is from Kirtan Akshar 2.",
-      "source_reference": "Kirtan: Akshar 2"
+      "correct_answer": "chhatrāyā",
+      "explanation": "From the kirtan, Aksharnā vāsī vahālo, āvyā avani par, Navkhanḍ dhartīmā Swāmī, chhatrāyā chāle rāj...",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Avani par āvī vahāle satsang sthāpyo, Harijanone kol, ________ āpyo rāj...",
+      "options": [
+        "dhanvant",
+        "kalyāṇno",
+        "bhāgyavān",
+        "dayālu"
+      ],
+      "correct_answer": "kalyāṇno",
+      "explanation": "From the kirtan, Avani par āvī vahāle satsang sthāpyo, Harijanone kol, kalyāṇno āpyo rāj...",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Pānche vartmān pāḷe, bāīo ne bhāīo, Harijan sangāthe kīdhī, ________ rāj... Akshar 2",
+      "options": [
+        "sukhī jivān",
+        "sārī prīt",
+        "sāchī sagāīo",
+        "ātmā bhakti"
+      ],
+      "correct_answer": "sāchī sagāīo",
+      "explanation": "From the kirtan, Pānche vartmān pāḷe, bāīo ne bhāīo, Harijan sangāthe kīdhī, sāchī sagāīo rāj... Akshar 2",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Bāīo dekhīne bhāīo, chheṭerā chāle, Paḍī vastu koīnī, ________ rāj... Akshar 3",
+      "options": [
+        "hāthe nav jhāle",
+        "danthe rahe",
+        "janthee rahe",
+        "jovathee rahe"
+      ],
+      "correct_answer": "hāthe nav jhāle",
+      "explanation": "From the kirtan, Bāīo dekhīne bhāīo, chheṭerā chāle, Paḍī vastu koīnī, hāthe nav jhāle rāj... Akshar 3",
+      "source_reference": "Kirtan"
     },
     {
       "id": "7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"Devnā dev vahālo, dhāmnā Dhāmī, Pragaṭ Prabhunu nām, _____ _____ Swāmī rāj...\"",
+      "type": "MCQ",
+      "question_text": "Devnā dev vahālo, dhāmnā Dhāmī, Pragaṭ Prabhunu nām, ________ rāj... Akshar 4",
       "options": [
-        "Sahajānand",
-        "Shreeji Maharaj",
-        "Gunatitanand",
-        "Bhagatji"
+        "Shrī Hari Swāmī",
+        "Akshar Purushottam",
+        "Sahajānand Swāmī",
+        "Gunātit Swāmī"
       ],
-      "correct_answer": "Sahajānand",
-      "explanation": "This is a line from the kirtan.",
-      "source_reference": "Kirtan: Akshar 4"
+      "correct_answer": "Sahajānand Swāmī",
+      "explanation": "From the kirtan, Devnā dev vahālo, dhāmnā Dhāmī, Pragaṭ Prabhunu nām, Sahajānand Swāmī rāj... Akshar 4",
+      "source_reference": "Kirtan"
     },
     {
       "id": "8",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which Vachanamrut contains the following quote? \"Premānandnā Swāmī ānandkārī, Potānā jannī vā’le, lāj vadhārī rāj...\"",
+      "type": "MCQ",
+      "question_text": "Premānandnā Swāmī ānandkārī, Potānā jannī vā’le, ________ rāj... Akshar 5",
       "options": [
-        "Kirtan: Akshar 5",
-        "Vach.Ga.Ma.33",
-        "Kirtan: Akshar 1",
-        "Kirtan: Akshar 2"
+        "lāj vadhārī",
+        "sukhdāī",
+        "dukhdāī",
+        "sāthī"
       ],
-      "correct_answer": "Kirtan: Akshar 5",
-      "explanation": "This quote is from Kirtan Akshar 5.",
-      "source_reference": "Kirtan: Akshar 5"
+      "correct_answer": "lāj vadhārī",
+      "explanation": "From the kirtan, Premānandnā Swāmī ānandkārī, Potānā jannī vā’le, lāj vadhārī rāj... Akshar 5",
+      "source_reference": "Kirtan"
     },
     {
       "id": "9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "\"jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī _____ ja chhīe\"",
+      "type": "MCQ",
+      "question_text": "According to Vach.Ga.Ma.33, if someone has a firm understanding of Nishkami Vartman, how far away can we be from them and still be close?",
       "options": [
-        "pāse",
-        "dūr",
-        "sathe",
-        "agam"
+        "Hajar Gau",
+        "Lakh Gau",
+        "Dash Gau",
+        "Ek Gau"
       ],
-      "correct_answer": "pāse",
-      "explanation": "This is a direct quote from Vachanamrut Gadhada I-33.",
+      "correct_answer": "Hajar Gau",
+      "explanation": "According to Vach.Ga.Ma.33, jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī pāse ja chhīe",
       "source_reference": "Vach.Ga.Ma.33"
     },
     {
       "id": "10",
-      "type": "quotation_reference_mcq",
-      "question_text": "Which Vachanamrut contains the following quote? \"Ane jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe.\"",
+      "type": "MCQ",
+      "question_text": "According to Vach.Ga.Ma.33, if someone has faults in Nishkami Vartman and stays close to us, how far away are they?",
       "options": [
-        "Vach.Ga.Ma.33",
-        "Kirtan: Akshar 1",
-        "Kirtan: Akshar 2",
-        "Kirtan: Akshar 3"
+        "Lakh Gau",
+        "Hajar Gau",
+        "Dash Gau",
+        "Ek Gau"
       ],
-      "correct_answer": "Vach.Ga.Ma.33",
-      "explanation": "This quote is from Vachanamrut Gadhada I-33.",
+      "correct_answer": "Lakh Gau",
+      "explanation": "According to Vach.Ga.Ma.33, jene te niṣhkāmī vartamānmā kāchyap chhe ne te jo amārī pāse rahe chhe toy paṇ te lākh gāu chheṭe chhe.",
       "source_reference": "Vach.Ga.Ma.33"
     }
   ]

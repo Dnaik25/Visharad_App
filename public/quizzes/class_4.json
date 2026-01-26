@@ -2,143 +2,143 @@
   "quiz_title": "Class 4 Quiz",
   "questions": [
     {
-      "id": "4-1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Aksharnā vāsī vahālo, āvyā _____ par, Navkhaṇḍ dharatīmā Swāmī, chhatrāyā chāle rāj… Akshar ṭek",
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Aksharnā vāsī vahālo, āvyā avani par, Navkhaṇḍ dharatīmā Swāmī, ______ chāle rāj… Akshar ṭek",
       "options": [
-        "avani",
-        "akshar",
-        "dhām",
-        "satsang"
+        "mandiriyā",
+        "chhatrāyā",
+        "ḍolariyā",
+        "pālkhiyā"
       ],
-      "correct_answer": "avani",
-      "explanation": "The kirtan states: Aksharnā vāsī vahālo, āvyā avani par...",
+      "correct_answer": "chhatrāyā",
+      "explanation": "The kirtan line is: Aksharnā vāsī vahālo, āvyā avani par, Navkhaṇḍ dharatīmā Swāmī, chhatrāyā chāle rāj… Akshar ṭek",
       "source_reference": "Kirtan"
     },
     {
-      "id": "4-2",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Avani par āvī vahāle, _____ sthāpyo, Hari janoṇe kol, kalyāṇno āpyo rāj… Akshar 1",
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Avani par āvī vahāle, ______ sthāpyo, Hari janoṇe kol, kalyāṇno āpyo rāj… Akshar 1",
       "options": [
         "satsang",
-        "dhām",
-        "vartamān",
-        "prema"
+        "utsav",
+        "mahotsav",
+        "samaiyo"
       ],
       "correct_answer": "satsang",
-      "explanation": "The kirtan states: Avani par āvī vahāle, satsang sthāpyo...",
+      "explanation": "The kirtan line is: Avani par āvī vahāle, satsang sthāpyo, Hari janoṇe kol, kalyāṇno āpyo rāj… Akshar 1",
       "source_reference": "Kirtan"
     },
     {
-      "id": "4-3",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Pānche vartamān pāḷe, bāīo ne bhāīo, Hari jan sangāthe kīdhī _____ sagāīo rāj… Akshar 2",
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Pānche vartamān pāḷe, bāīo ne bhāīo, Hari jan sangāthe kīdhī ______ rāj… Akshar 2",
       "options": [
-        "sācī",
-        "sāth",
-        "prem",
-        "nitya"
+        "khub jamāvaṭ",
+        "rīte seva",
+        "sācī sagāīo",
+        "khūb prīt"
       ],
-      "correct_answer": "sācī",
-      "explanation": "The kirtan states: Hari jan sangāthe kīdhī sācī sagāīo rāj...",
+      "correct_answer": "sācī sagāīo",
+      "explanation": "The kirtan line is: Pānche vartamān pāḷe, bāīo ne bhāīo, Hari jan sangāthe kīdhī sācī sagāīo rāj… Akshar 2",
       "source_reference": "Kirtan"
     },
     {
-      "id": "4-4",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Devnā Dev vahālo, dhāmnā Dhāmī, Pragaṭ Prabhunu nām _____ Swāmī rāj… Akshar 4",
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Bāīo dekhīne bhāīo, chheṭerā chāle, Paḍī vastu koīnī, ______ rāj… Akshar 3",
       "options": [
-        "Sahajānand",
-        "Premanand",
-        "Brahmanand",
-        "Nishkulanand"
+        "hāthe nav jhāle",
+        "hāthethi dūr kare",
+        "pāchha nav āpe",
+        "samāj māhe āpe"
       ],
-      "correct_answer": "Sahajānand",
-      "explanation": "The kirtan states: Pragaṭ Prabhunu nām Sahajānand Swāmī rāj...",
+      "correct_answer": "hāthe nav jhāle",
+      "explanation": "The kirtan line is: Bāīo dekhīne bhāīo, chheṭerā chāle, Paḍī vastu koīnī, hāthe nav zhāle rāj… Akshar 3",
       "source_reference": "Kirtan"
     },
     {
-      "id": "4-5",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Ane satsangī paṇ ene ja kahīe; kem je, satyarūp evo je potāno ātmā tathā satyarūp evā je Bhagwān teno jene āvī rīte sang thayo tene satsangī kahīe.”",
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Devnā Dev vahālo, dhāmnā Dhāmī, Pragaṭ Prabhunu nām ______ rāj… Akshar 4",
       "options": [
-        "Vach.Ga.An.39",
-        "Vach.Va.4",
-        "Akshar 1",
-        "Akshar 5"
+        "Shree Hari",
+        "Ghanshyam",
+        "Sahajānand Swāmī",
+        "Shreeji Maharaj"
       ],
-      "correct_answer": "Vach.Ga.An.39",
-      "explanation": "This quote is directly from Vachanamrut Gadhada અંત્ય 39.",
-      "source_reference": "Vachanamrut"
+      "correct_answer": "Sahajānand Swāmī",
+      "explanation": "The kirtan line is: Devnā Dev vahālo, dhāmnā Dhāmī, Pragaṭ Prabhunu nām Sahajānand Swāmī rāj… Akshar 4",
+      "source_reference": "Kirtan"
     },
     {
-      "id": "4-6",
-      "type": "quotation_reference_mcq",
-      "question_text": "“Trīs lakṣhaṇe yukta evā je sant teno je sang te man-karma-vachane rākhe, to jeṭalā kalyāṇne arthe sādhan chhe teṭalā sarve tenā sangmā āvī jāy chhe.”",
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Premānandnā Swāmī ānandkārī, Potānā jannī vāle ______ rāj… Akshar 5",
       "options": [
-        "Vach.Va.4",
-        "Vach.Ga.An.39",
-        "Ho 1",
-        "Ho 4"
+        "shobhānu dhām",
+        "sarvopari dhām",
+        "lāaj vadhārī",
+        "param sukhkārī"
       ],
-      "correct_answer": "Vach.Va.4",
-      "explanation": "This quote is directly from Vachanamrut Vartal 4.",
-      "source_reference": "Vachanamrut"
+      "correct_answer": "lāaj vadhārī",
+      "explanation": "The kirtan line is: Premānandnā Swāmī ānandkārī, Potānā jannī vāle lāaj vadhārī rāj… Akshar 5",
+      "source_reference": "Kirtan"
     },
     {
-      "id": "4-7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sant samāgam kīje, ho _____. Mān tajī santanke mukhse, prem sudhāras pīje… Ho 1",
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Ane satsangī paṇ ene ja kahīe; kem je, satyarūp evo je potāno ātmā tathā satyarūp evā je Bhagwān teno jene āvī rīte ______ thayo tene satsangī kahīe.",
+      "options": [
+        "yog",
+        "sang",
+        "vichar",
+        "sambandh"
+      ],
+      "correct_answer": "sang",
+      "explanation": "The vachanamrut line is: Ane satsangī paṇ ene ja kahīe; kem je, satyarūp evo je potāno ātmā tathā satyarūp evā je Bhagwān teno jene āvī rīte sang thayo tene satsangī kahīe.",
+      "source_reference": "Vach.Ga.An.39"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Trīs lakṣhaṇe yukta evā je sant teno je sang te ______, to jeṭalā kalyāṇne arthe sādhan chhe teṭalā sarve tenā sangmā āvī jāy chhe.",
+      "options": [
+        "tan-man-dhan rākhe",
+        "man-karma-vachane rākhe",
+        "tan-man-vachane rākhe",
+        "dhan-karma-vachane rākhe"
+      ],
+      "correct_answer": "man-karma-vachane rākhe",
+      "explanation": "The vachanamrut line is: Trīs lakṣhaṇe yukta evā je sant teno je sang te man-karma-vachane rākhe, to jeṭalā kalyāṇne arthe sādhan chhe teṭalā sarve tenā sangmā āvī jāy chhe.",
+      "source_reference": "Vach.Va.4"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Sant samāgam kīje, ho ______… ṭek",
       "options": [
         "nishdin",
-        "ekdin",
         "pratidin",
-        "anudin"
+        "ekdin",
+        "thodadin"
       ],
       "correct_answer": "nishdin",
-      "explanation": "The kirtan states: Sant samāgam kīje, ho nishdin...",
+      "explanation": "The kirtan line is: Sant samāgam kīje, ho nishdin… ṭek",
       "source_reference": "Kirtan"
     },
     {
-      "id": "4-8",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "_____ kapaṭ meṭke apnā, le unku mann dīje… Ho 2",
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Sācho maḷyo chhe satsang, ange achaḷ karī rākhjo re; Rakhe chaḍe bījāno rang, evu ______ dūr nākhjo re… ṭek",
       "options": [
-        "Antar",
-        "Bahir",
-        "Tan",
-        "Dhan"
+        "dharma",
+        "ḍahāpaṇ",
+        "karma",
+        "bhakti"
       ],
-      "correct_answer": "Antar",
-      "explanation": "The kirtan states: Antar kapaṭ meṭke apnā...",
-      "source_reference": "Kirtan"
-    },
-    {
-      "id": "4-9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Bhav-dukh ṭaḷe baḷe sab duṣhkṛut, sabvidhi _____ sījē… Ho 3",
-      "options": [
-        "kāraj",
-        "dhāraj",
-        "sāraj",
-        "niraj"
-      ],
-      "correct_answer": "kāraj",
-      "explanation": "The kirtan states: sabvidhi kāraj sījē… Ho 3",
-      "source_reference": "Kirtan"
-    },
-    {
-      "id": "4-10",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "Sācho maḷyo chhe satsang, ange achaḷ karī rākhjo re; Rakhe chaḍe bījāno _____, evu ḍahāpaṇ dūr nākhjo re… ṭek",
-      "options": [
-        "rang",
-        "sang",
-        "dang",
-        "dhang"
-      ],
-      "correct_answer": "rang",
-      "explanation": "The Chosath Padi states: Rakhe chaḍe bījāno rang...",
+      "correct_answer": "ḍahāpaṇ",
+      "explanation": "The chosath padi line is: Sācho maḷyo chhe satsang, ange achaḷ karī rākhjo re; Rakhe chaḍe bījāno rang, evu ḍahāpaṇ dūr nākhjo re… ṭek",
       "source_reference": "Chosath Padi"
     }
   ]

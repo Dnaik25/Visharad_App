@@ -2,144 +2,60 @@
   "quiz_title": "Class 7 Quiz",
   "questions": [
     {
-      "id": "7-1",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "...jene Bhagwānnī prāpti thaī chhe ane _____ chhe to paṇ te _____ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.",
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.Ma.8 anusār, jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te shu kahevāy?",
       "options": [
-        "gṛuhasthāshramī",
-        "sādhu",
-        "brahmachārī",
-        "nirguṇ"
-      ],
-      "correct_answer": "gṛuhasthāshramī",
-      "explanation": "The exact words from Vach.Ga.Ma.8 are: “...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
-      "source_reference": "Vach.Ga.Ma.8"
-    },
-    {
-      "id": "7-2",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "...jene _____ thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane _____ hoy te paṇ nirguṇ kahevāy.",
-      "options": [
-        "Bhagwānnī prāpti",
-        "dhyān",
-        "tapascharyā",
-        "tyāgī"
-      ],
-      "correct_answer": "Bhagwānnī prāpti",
-      "explanation": "The exact words from Vach.Ga.Ma.8 are: “...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
-      "source_reference": "Vach.Ga.Ma.8"
-    },
-    {
-      "id": "7-3",
-      "type": "quotation_reference_mcq",
-      "question_text": "“...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
-      "options": [
-        "Vach.Va.20",
-        "Vach.Ga.Ma.8",
-        "Vach.Lo.5",
-        "Vach.Sa.1"
-      ],
-      "correct_answer": "Vach.Va.20",
-      "explanation": "This quote is from Vachanamrut Vartal 20.",
-      "source_reference": "Vach.Va.20"
-    },
-    {
-      "id": "7-4",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "“...gṛuhī-tyāgīno kāī _____ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo _____ jāṇavo.”",
-      "options": [
-        "meḷ",
-        "haribhakta",
-        "sambandh",
-        "sevak"
-      ],
-      "correct_answer": "meḷ",
-      "explanation": "The exact words from Vach.Va.20 are: “...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
-      "source_reference": "Vach.Va.20"
-    },
-    {
-      "id": "7-5",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "“..._____-_____ kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
-      "options": [
-        "gṛuhī",
-        "tyāgī",
-        "sādhu",
-        "brahmachārī"
-      ],
-      "correct_answer": "gṛuhī",
-      "explanation": "The exact words from Vach.Va.20 are: “...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
-      "source_reference": "Vach.Va.20"
-    },
-    {
-      "id": "7-6",
-      "type": "quotation_reference_mcq",
-      "question_text": "“...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
-      "options": [
-        "Vach.Ga.Ma.8",
-        "Vach.Va.20",
-        "Vach.Lo.5",
-        "Vach.Sa.1"
-      ],
-      "correct_answer": "Vach.Ga.Ma.8",
-      "explanation": "This quote is from Vachanamrut Gadhada Madhya 8.",
-      "source_reference": "Vach.Ga.Ma.8"
-    },
-    {
-      "id": "7-7",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "...gṛuhī-tyāgīno kāī meḷ _____, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.",
-      "options": [
-        "nathī",
-        "chhē",
-        "hovā chhīe",
-        "hata"
-      ],
-      "correct_answer": "nathī",
-      "explanation": "The exact words from Vach.Va.20 are: “...gṛuhī-tyāgīno kāī meḷ nathī, jenī samajaṇ moṭī tene ja sauthī moṭo haribhakta jāṇavo.”",
-      "source_reference": "Vach.Va.20"
-    },
-    {
-      "id": "7-8",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "...jene Bhagwānnī _____ thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.",
-      "options": [
-        "prāpti",
-        "āshirvād",
-        "kṛupā",
-        "dayā"
-      ],
-      "correct_answer": "prāpti",
-      "explanation": "The exact words from Vach.Ga.Ma.8 are: “...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
-      "source_reference": "Vach.Ga.Ma.8"
-    },
-    {
-      "id": "7-9",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "_____ and tyāgī hoy te paṇ _____ kahevāy.",
-      "options": [
-        "nirguṇ",
-        "gṛuhasthāshramī",
-        "mukta",
-        "mahān"
-      ],
-      "correct_answer": "gṛuhasthāshramī",
-      "explanation": "The exact words from Vach.Ga.Ma.8 are: “...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
-      "source_reference": "Vach.Ga.Ma.8"
-    },
-    {
-      "id": "7-10",
-      "type": "fill_in_the_blanks_mcq",
-      "question_text": "....jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te _____ kahevāy ane tyāgī hoy te paṇ _____ kahevāy.",
-      "options": [
-        "nirguṇ",
         "saguṇ",
-        "brahmarūp",
-        "Ishwar"
+        "nirguṇ",
+        "adharmi",
+        "pāpī"
       ],
       "correct_answer": "nirguṇ",
-      "explanation": "The exact words from Vach.Ga.Ma.8 are: “...jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te nirguṇ kahevāy ane tyāgī hoy te paṇ nirguṇ kahevāy.”",
+      "explanation": "Vach.Ga.Ma.8mā Bhagwānnī prāpti vāḷā gṛuhasthāshramīne paṇ nirguṇ kahevāy chhe.",
       "source_reference": "Vach.Ga.Ma.8"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.Ma.8 anusār, tyāgī hoy te paṇ shu kahevāy?",
+      "options": [
+        "saguṇ",
+        "nirguṇ",
+        "adharmi",
+        "pāpī"
+      ],
+      "correct_answer": "nirguṇ",
+      "explanation": "Vach.Ga.Ma.8mā tyāgī hoy tene paṇ nirguṇ kahevāy chhe.",
+      "source_reference": "Vach.Ga.Ma.8"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Vach.Va.20 anusār, koṇī samajaṇ moṭī tene ja sauthee moṭo haribhakta jāṇavo?",
+      "options": [
+        "jenī",
+        "tenī",
+        "manushyanee",
+        "dharmanee"
+      ],
+      "correct_answer": "jenī",
+      "explanation": "Vach.Va.20mā jenī samajaṇ moṭī tene ja sauthee moṭo haribhakta jāṇavo.",
+      "source_reference": "Vach.Va.20"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Vach.Va.20 anusār, gṛuhī ane koṇo kāī meḷ nathī?",
+      "options": [
+        "tyāgīno",
+        "bhaktanī",
+        "pāpīno",
+        "dharmīno"
+      ],
+      "correct_answer": "tyāgīno",
+      "explanation": "Vach.Va.20mā gṛuhī ane tyāgīno kāī meḷ nathī.",
+      "source_reference": "Vach.Va.20"
     }
   ]
 }

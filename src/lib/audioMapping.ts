@@ -86,7 +86,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Sadguru Premanand Swami (Class 12)": "class 12/Kirtan Premanand_Aksharnavasi.m4a",
 
     //Class 13
-    //"Sadguru Premanand Swami (Class 13)": "class 13/Kirtan Premanand_Nirvikalp.m4a",
+    "Sadguru Premanand Swami (Class 13)": "class 13/Kirtan Premanand_Nirvikalp.m4a",
 
     //Class 14
     "Vach.Ga.Pa.74": "class 14/V GP74.m4a",
@@ -94,7 +94,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Swa.Vato.1/22": "class 14/SV 1.22.m4a",
     "Vach.Ga.An.13": "class 14/V GA13.m4a",
     "Swa.Vato.1/148": "class 14/SV 1.148.m4a",
-    //"Dhiraj Akhyan": "class 14/Kirtan Dhiraj_Akhyan.m4a",
+    "Dhiraj Akhyan": "class 14/Kirtan Dhiraj_Akhyan_Je_Dukhe.m4a",
 
     //Class 15
     "Vach.Ga.Ma.45": "class 15/V GM45.m4a",

@@ -13,11 +13,11 @@ export function FeedbackButton() {
         <>
             <button
                 onClick={() => setIsModalOpen(true)}
-                className="fixed top-4 right-4 z-[9999] p-2 bg-white/80 hover:bg-white backdrop-blur-md rounded-full shadow-lg border border-gray-200 text-gray-400 hover:text-amber-600 transition-all duration-300 hover:scale-105 group"
+                className="fixed top-4 right-4 z-[9999] flex items-center gap-2 px-4 py-2 bg-white hover:bg-amber-50 rounded-full shadow-lg border border-amber-200 text-amber-700 font-medium transition-all duration-300 hover:scale-105 group"
                 aria-label="Give Feedback"
-                title="Give Feedback"
             >
-                <MessageSquarePlus size={20} className="group-hover:rotate-12 transition-transform duration-300" />
+                <MessageSquarePlus size={18} className="group-hover:rotate-12 transition-transform duration-300" />
+                <span>Give us feedback</span>
             </button>
 
             <FeedbackModal

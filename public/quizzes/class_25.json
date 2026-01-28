@@ -1,0 +1,75 @@
+{
+  "quiz_title": "Class 25 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blank",
+      "question_text": "Je tejne vişhe mūrti chhe te ja pratyaksh _____ chhe,' em jāņajo.",
+      "options": [
+        "Akshardhām",
+        "Mahārāj",
+        "Aksharādik",
+        "Purushottam"
+      ],
+      "correct_answer": "Mahārāj",
+      "explanation": "According to Vach.Ga.Ma.13, 'Je tejne vişhe mūrti chhe te ja pratyaksh Mahārāj chhe,' em jāņajo.",
+      "source_reference": "Vach.Ga.Ma.13"
+    },
+    {
+      "id": "2",
+      "type": "reference_identification",
+      "question_text": "Evā sarvoparī je Purushottam Bhagwān te ja dayāe karīne jīvonā kalyāņne arthe pruthvīne vishe prakat thayā thakā sarva jannā nayan-gochar varte chhe ne tamārā işhţadev chhe ne tamārī sevāne angīkār kare chhe. Ane evā je e pratyaksh Purushottam Bhagwān tenā swarūpmā ne Akshardhāmne vishe rahyā je Bhagwān tenā swarūpmā kāī pan bhed nathī; e be ek ja chhe. Ane evā je ā pratyaksh Purushottam Bhagwān te Aksharādik sarvanā niyantā chhe, īshvarnā pan īshvar chhe ne sarva kāraņnā paņ kāran chhe ne sarvoparī varte chhe ne sarva avatārnā avatārī chhe ne tamāre sarvene ekāntikbhāve karīne upāsanā karavā yogya chhe. Aa vākhya kyānu chhe?",
+      "options": [
+        "Vach.Ga.Ma.13",
+        "Vach.Ga.An.38",
+        "Akshardham",
+        "pruthvī"
+      ],
+      "correct_answer": "Vach.Ga.An.38",
+      "explanation": "The quote is from Vach.Ga.An.38.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blank",
+      "question_text": "Evā sarvoparī je Purushottam Bhagwān te ja dayāe karīne jīvonā _____ arthe pruthvīne vishe prakat thayā thakā sarva jannā nayan-gochar varte chhe.",
+      "options": [
+        "bhaktine",
+        "kalyāņne",
+        "sevāne",
+        "bhāve"
+      ],
+      "correct_answer": "kalyāņne",
+      "explanation": "According to Vach.Ga.An.38, Purushottam Bhagwān prakat thayā jīvonā kalyāņne arthe.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "4",
+      "type": "fill_in_the_blank",
+      "question_text": "Evā je e pratyaksh Purushottam Bhagwān tenā swarūpmā ne _____ vishe rahyā je Bhagwān tenā swarūpmā kāī pan bhed nathī; e be ek ja chhe.",
+      "options": [
+        "Akshardhāmne",
+        "pruthvīne",
+        "sarvane",
+        "jīvanone"
+      ],
+      "correct_answer": "Akshardhāmne",
+      "explanation": "According to Vach.Ga.An.38, the Bhagwān in Akshardhām and the pratyaksh Purushottam Bhagwān are the same.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blank",
+      "question_text": "Evā je ā pratyaksh Purushottam Bhagwān te _____ sarvanā niyantā chhe, īshvarnā pan īshvar chhe ne sarva kāraņnā paņ kāran chhe.",
+      "options": [
+        "Aksharādik",
+        "sarvoparī",
+        "pruthvī",
+        "dayāe"
+      ],
+      "correct_answer": "Aksharādik",
+      "explanation": "According to Vach.Ga.An.38, Purushottam Bhagwān is the niyantā of Aksharādik.",
+      "source_reference": "Vach.Ga.An.38"
+    }
+  ]
+}

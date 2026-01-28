@@ -1,0 +1,75 @@
+{
+  "quiz_title": "Class 26 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blank",
+      "question_text": "Sarvādhār je ākāsh chhe te ākāshne Brahma kahīe, _____ kahīe.",
+      "options": [
+        "Chidākāsh",
+        "Akshardhām",
+        "Purushottam",
+        "sevāmā"
+      ],
+      "correct_answer": "Chidākāsh",
+      "explanation": "The Vachanamrut Ga.Pa.46 states: Sarvādhār je ākāsh chhe te ākāshne Brahma kahīe, Chidākāsh kahīe.",
+      "source_reference": "Vach.Ga.Pa.46"
+    },
+    {
+      "id": "2",
+      "type": "fill_in_the_blank",
+      "question_text": "Ane je Aksharbrahma chhe te to e Bhagwānne rahevānu _____ chhe.",
+      "options": [
+        "dhām",
+        "sevāmā",
+        "ākāsh",
+        "kalyāņne"
+      ],
+      "correct_answer": "dhām",
+      "explanation": "According to Vachanamrut Pa.1: Ane je Aksharbrahma chhe te to e Bhagwānne rahevānu dhām chhe.",
+      "source_reference": "Vach.Pa.1"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blank",
+      "question_text": "E Akshar bīje rūpe karīne Purushottam Nārāyaņnī _____ rahe chhe.",
+      "options": [
+        "sevāmā",
+        "dhām",
+        "ākāsh",
+        "kalyāņne"
+      ],
+      "correct_answer": "sevāmā",
+      "explanation": "Vachanamrut Ga.Pa.21 says: E Akshar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.",
+      "source_reference": "Vach.Ga.Pa.21"
+    },
+    {
+      "id": "4",
+      "type": "reference_identification",
+      "question_text": "“Hu to chiranjīvī chhu ne tamārā badhānā deh pānch-das varasmā padī jāshe.” Aa vākhya kyānu chhe?",
+      "options": [
+        "Swa.Vato.5/67",
+        "Vach.Ga.Pa.46",
+        "Vach.Pa.1",
+        "Vach.Ga.Pa.21"
+      ],
+      "correct_answer": "Swa.Vato.5/67",
+      "explanation": "The quote 'Hu to chiranjīvī chhu ne tamārā badhānā deh pānch-das varasmā padī jāshe' is from Swa.Vato.5/67.",
+      "source_reference": "Swa.Vato.5/67"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blank",
+      "question_text": "Bhagwān jīvnā _____ arthe jyāre mūrti dhāran kare chhe tyāre potānu je Akshardhām ane Chaitanyamūrti evā je pārshad ane potānā je sarve aishvarya te sahit ja padhāre chhe.",
+      "options": [
+        "kalyāņne",
+        "dhām",
+        "sevāmā",
+        "ākāsh"
+      ],
+      "correct_answer": "kalyāņne",
+      "explanation": "Vachanamrut Ga.Pa.71 states: Bhagwān jīvnā kalyāņne arthe jyāre mūrti dhāran kare chhe tyāre potānu je Akshardhām ane Chaitanyamūrti evā je pārshad ane potānā je sarve aishvarya te sahit ja padhāre chhe.",
+      "source_reference": "Vach.Ga.Pa.71"
+    }
+  ]
+}

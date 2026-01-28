@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 22 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blank",
+      "question_text": "Jamo thāļ Jīvan jāu vārī, dhovu kar charan karo _____...",
+      "options": [
+        "tyārī",
+        "vāri",
+        "ghari",
+        "sārī"
+      ],
+      "correct_answer": "tyārī",
+      "explanation": "The complete line is: Jamo thāļ Jīvan jāu vārī, dhovu kar charan karo tyārī...",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "2",
+      "type": "fill_in_the_blank",
+      "question_text": "Melī ghrut _____ boļī...",
+      "options": [
+        "sākarmā",
+        "ghīmā",
+        "dahīmā",
+        "telmā"
+      ],
+      "correct_answer": "sākarmā",
+      "explanation": "The line from the text is: Melī ghrut sākarmā boļī...",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "3",
+      "type": "fill_in_the_blank",
+      "question_text": "Pūrī pochĩ thaï chhe _____ chadhī...",
+      "options": [
+        "ghīmā",
+        "telmā",
+        "jale",
+        "sakarmā"
+      ],
+      "correct_answer": "ghīmā",
+      "explanation": "The line is: Pūrī pochĩ thaï chhe ghīmā chadhī...",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "4",
+      "type": "fill_in_the_blank",
+      "question_text": "Dahī bhāt sākar chhe _____...",
+      "options": [
+        "jhājhi",
+        "thodī",
+        "sārī",
+        "vāri"
+      ],
+      "correct_answer": "jhājhi",
+      "explanation": "The line is: Dahī bhāt sākar chhe jhājhi...",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "5",
+      "type": "reference_identification",
+      "question_text": "Māre gher āvjo Chhogalādhārī; Lādu jalebī ne sev suvāļī, Hu to bhāve karī lāvī chhu ghari... Aa pankti kyānthī levāmā āvī chhe?",
+      "options": [
+        "Māre gher āvjo Chhogalādhārī",
+        "Prarthana",
+        "Thāl",
+        "Shrimat-sadguņa shālinam"
+      ],
+      "correct_answer": "Māre gher āvjo Chhogalādhārī",
+      "explanation": "The provided lines are from the 'Māre gher āvjo Chhogalādhārī' section.",
+      "source_reference": "Māre gher āvjo Chhogalādhārī"
+    },
+    {
+      "id": "6",
+      "type": "fill_in_the_blank",
+      "question_text": "Limbu kākdīnā lejo _____, Kadhī karī chhe Kāthiyāvādī...",
+      "options": [
+        "athāņā",
+        "bhājī",
+        "pūran",
+        "shāk"
+      ],
+      "correct_answer": "athāņā",
+      "explanation": "The correct line is: Limbu kākdīnā lejo athāņā, Kadhī karī chhe Kāthiyāvādī...",
+      "source_reference": "Māre gher āvjo Chhogalādhārī"
+    },
+    {
+      "id": "7",
+      "type": "fill_in_the_blank",
+      "question_text": "_____ bhetu, Em māge Jerām Brahmachārī... māre 3",
+      "options": [
+        "Nishdin avo to bhāve karī",
+        "Laving sopārī ne pānbīdī vāļī",
+        "Taj elchī jāvantrī sārī",
+        "Kāju kamodnā bhāt karyā"
+      ],
+      "correct_answer": "Nishdin avo to bhāve karī",
+      "explanation": "The line is: Nishdin avo to bhāve karī bhetu, Em māge Jerām Brahmachārī... māre 3",
+      "source_reference": "Māre gher āvjo Chhogalādhārī"
+    },
+    {
+      "id": "8",
+      "type": "reference_identification",
+      "question_text": "Shrimat-sadguņa shālinam chidachidi vyāptam cha divyākrutim; Jīveshākshara mukta-koți sukhadam naikāvatārādhipam. Aa vākhya kyānu chhe?",
+      "options": [
+        "Shrimat-sadguņa shālinam",
+        "Thāl",
+        "Māre gher āvjo Chhogalādhārī",
+        "Prarthana"
+      ],
+      "correct_answer": "Shrimat-sadguņa shālinam",
+      "explanation": "The provided shlok is from the 'Shrimat-sadguņa shālinam' section.",
+      "source_reference": "Shrimat-sadguņa shālinam"
+    },
+    {
+      "id": "9",
+      "type": "fill_in_the_blank",
+      "question_text": "Gneyam Shri Purushottamam munivarair-vedādikīrtyam _____;",
+      "options": [
+        "vibhūm",
+        "sādhum",
+        "aksharam",
+        "param"
+      ],
+      "correct_answer": "vibhūm",
+      "explanation": "The line from the text is: Gneyam Shri Purushottamam munivarair-vedādikīrtyam vibhūm;",
+      "source_reference": "Shrimat-sadguņa shālinam"
+    },
+    {
+      "id": "10",
+      "type": "reference_identification",
+      "question_text": "Aum sahanāvavatu saha nau bhunaktu saha vīryam karavāvahai; Tejasvinā-vadhītamastu mā vid-vişhāvahai. Aum shāntihi shāntihi shāntihi! Aa pankti kyānthī levāmā āvī chhe?",
+      "options": [
+        "Aum sahanāvavatu",
+        "Shrimat-sadguņa shālinam",
+        "Māre gher āvjo Chhogalādhārī",
+        "Thāl"
+      ],
+      "correct_answer": "Aum sahanāvavatu",
+      "explanation": "The provided shlok is from the 'Aum sahanāvavatu' section.",
+      "source_reference": "Aum sahanāvavatu"
+    }
+  ]
+}

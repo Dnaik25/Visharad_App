@@ -1,0 +1,75 @@
+{
+  "quiz_title": "Class 27 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "fill_in_the_blank",
+      "question_text": "Bhagwānnā bhaktano paksh dradh karīne _____ joïe.",
+      "options": [
+        "karīne rākhyo",
+        "rakhyo joïe",
+        "drudh joie",
+        "paksh joie"
+      ],
+      "correct_answer": "rākhyo joïe",
+      "explanation": "According to Vach.Ga.An.7, Bhagwānnā bhaktano paksh dradh karīne rākhyo joïe.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "2",
+      "type": "fill_in_the_blank",
+      "question_text": "Jīv, māyā, īshvar, Brahma ane Parameshvar e sarve _____ chhe.",
+      "options": [
+        "anādi",
+        "anant",
+        "sādi",
+        "parameshvar"
+      ],
+      "correct_answer": "anādi",
+      "explanation": "According to Vach.Ga.An.10, Jīv, māyā, īshvar, Brahma ane Parameshvar e sarve anādi chhe.",
+      "source_reference": "Vach.Ga.An.10"
+    },
+    {
+      "id": "3",
+      "type": "reference_identification",
+      "question_text": "Nar ichhe chhe naresh thāvā, Rājā ichhe amarlok jāvā;  Amar ichhe indrapadavī, Indra ichhe thāvā ādya kavi. Aa vākhya kyānu chhe?",
+      "options": [
+        "Kirtan",
+        "Vach.Ga.An.7",
+        "Vach.Ga.Pa.7",
+        "Vach.Ga.An.10"
+      ],
+      "correct_answer": "Kirtan",
+      "explanation": "The provided quote is from the Kirtan.",
+      "source_reference": "Kirtan"
+    },
+    {
+      "id": "4",
+      "type": "fill_in_the_blank",
+      "question_text": "Jevo e jīvne potānā sambandhīne vișhe dradh prasang chhe tevo ne tevo ja prasang jo Bhagwānnā Ekāntik Sādhune vishe thāy to e jīvne mokshanu _____ ughādu thây chhe.",
+      "options": [
+        "dvār",
+        "mandir",
+        "darshan",
+        "sparsh"
+      ],
+      "correct_answer": "dvār",
+      "explanation": "According to Vach.Ga.Pa.54, Jevo e jīvne potānā sambandhīne vișhe dradh prasang chhe tevo ne tevo ja prasang jo Bhagwānnā Ekāntik Sādhune vishe thāy to e jīvne mokshanu dvār ughādu thây chhe.",
+      "source_reference": "Vach.Ga.Pa.54"
+    },
+    {
+      "id": "5",
+      "type": "fill_in_the_blank",
+      "question_text": "Māyā taravano upay e chhe je, jyāre sarva karma ane māyā teno nāsh karanārā ne māyāthī par je sākşhātkār Shri Purushottam Bhagwān athavā te Bhagwānnā maļel sant temanī jīvne _____ jyāre thāy chhe tyāre temanā āshraythī māyā ullanghāy chhe.",
+      "options": [
+        "prāpti",
+        "āshray",
+        "karma",
+        "ullanghāy"
+      ],
+      "correct_answer": "prāpti",
+      "explanation": "According to Vach.Je.1, Māyā taravano upay e chhe je, jyāre sarva karma ane māyā teno nāsh karanārā ne māyāthī par je sākşhātkār Shri Purushottam Bhagwān athavā te Bhagwānnā maļel sant temanī jīvne prāpti jyāre thāy chhe tyāre temanā āshraythī māyā ullanghāy chhe.",
+      "source_reference": "Vach.Je.1"
+    }
+  ]
+}

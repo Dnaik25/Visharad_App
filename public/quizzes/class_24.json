@@ -1,0 +1,75 @@
+{
+  "quiz_title": "Class 24 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "Fill-in-the-Blank",
+      "question_text": "Mumukshune utkrusht gunni prāpti thāy tenu kāran shu chhe? To Bhagwānnī kathā-vārtā sāmbhalyāmā jene jețalī prīti tene tețalo jagatno abhāv thay tathā kām, krodh, lobhādik _____ nāsh thāy.",
+      "options": [
+        "doshno",
+        "gunno",
+        "lobhno",
+        "mohno"
+      ],
+      "correct_answer": "doshno",
+      "explanation": "According to Vach.Ga.An.24, the more one loves listening to Bhagwan's kathā-vārtā, the more the world's absence is felt and the more sins like lust, anger, and greed are destroyed.",
+      "source_reference": "Vach.Ga.An.24"
+    },
+    {
+      "id": "2",
+      "type": "Reference Identification",
+      "question_text": "Vishvās rākhīne prītie sahit je Bhagwan Purushottam Nārāyaņnī vāt sāmbhaļvī ethī bīju manne sthir thavānu ne nirvişhayī thavānu koi moțu sādhan nathī. Aa vākhya kyānu chhe?",
+      "options": [
+        "Vach.Ka.12",
+        "Swa.Vato.1/1",
+        "Vach.Ga.An.24",
+        "Swa.Vato.1/2"
+      ],
+      "correct_answer": "Vach.Ka.12",
+      "explanation": "The quote is directly from Vach.Ka.12.",
+      "source_reference": "Vach.Ka.12"
+    },
+    {
+      "id": "3",
+      "type": "Fill-in-the-Blank",
+      "question_text": "Vishvās rākhīne prītie sahit je Bhagwan Purushottam Nārāyaņnī vāt sāmbhaļvī ethī bīju manne _____ thavānu ne nirvişhayī thavānu koi moțu sādhan nathī.",
+      "options": [
+        "sthir",
+        "adhir",
+        "chanchal",
+        "vichlit"
+      ],
+      "correct_answer": "sthir",
+      "explanation": "According to Vach.Ka.12, listening to the words of Bhagwan Purushottam Narayan with faith and love is a great means of stabilizing the mind and becoming detached.",
+      "source_reference": "Vach.Ka.12"
+    },
+    {
+      "id": "4",
+      "type": "Fill-in-the-Blank",
+      "question_text": "Bhagwān ne Sādhunā mahimānī vātu _____ karavī ne sāmbhaļvī.",
+      "options": [
+        "nirantar",
+        "ekānte",
+        "āḷase",
+        "krodhe"
+      ],
+      "correct_answer": "nirantar",
+      "explanation": "According to Swa.Vato.1/1, one should constantly talk and listen to the greatness of God and the Sadhu.",
+      "source_reference": "Swa.Vato.1/1"
+    },
+    {
+      "id": "5",
+      "type": "Reference Identification",
+      "question_text": "Bhagwān ne Sādhunā mahimānī vātu nirantar karavī ne sāmbhaļvī. Aa vākhya kyānu chhe?",
+      "options": [
+        "Swa.Vato.1/1",
+        "Vach.Ga.An.24",
+        "Vach.Ka.12",
+        "Swa.Vato.1/2"
+      ],
+      "correct_answer": "Swa.Vato.1/1",
+      "explanation": "The quote is directly from Swa.Vato.1/1.",
+      "source_reference": "Swa.Vato.1/1"
+    }
+  ]
+}

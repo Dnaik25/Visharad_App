@@ -129,7 +129,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                         </label>
                         <textarea
                             rows={2}
-                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm"
+                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm text-black placeholder-gray-500"
                             placeholder="e.g., finding the quizzes..."
                             value={confusingParts}
                             onChange={(e) => setConfusingParts(e.target.value)}
@@ -143,7 +143,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                         </label>
                         <textarea
                             rows={2}
-                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm"
+                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm text-black placeholder-gray-500"
                             placeholder="e.g., daily reminders..."
                             value={featureRequest}
                             onChange={(e) => setFeatureRequest(e.target.value)}
@@ -165,7 +165,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                         </label>
                         <textarea
                             rows={3}
-                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm"
+                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm text-black placeholder-gray-500"
                             placeholder="Tell us anything else..."
                             value={generalComment}
                             onChange={(e) => setGeneralComment(e.target.value)}

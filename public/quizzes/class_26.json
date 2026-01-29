@@ -3,50 +3,92 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blank",
-      "question_text": "Sarvādhār je ākāsh chhe te ākāshne Brahma kahīe, _____ kahīe.",
+      "type": "multiple_choice",
+      "question_text": "Sarvādhār je ākāsh chhe te ākāshne shu kahīe?",
       "options": [
-        "Chidākāsh",
-        "Akshardhām",
-        "Purushottam",
-        "sevāmā"
+        "Brahma",
+        "Prakruti",
+        "Maya",
+        "Avidya"
       ],
-      "correct_answer": "Chidākāsh",
-      "explanation": "The Vachanamrut Ga.Pa.46 states: Sarvādhār je ākāsh chhe te ākāshne Brahma kahīe, Chidākāsh kahīe.",
+      "correct_answer": "Brahma",
+      "explanation": "Vach.Ga.Pa.46: Sarvādhār je ākāsh chhe te ākāshne Brahma kahīe, Chidākāsh kahīe.",
       "source_reference": "Vach.Ga.Pa.46"
     },
     {
       "id": "2",
-      "type": "fill_in_the_blank",
-      "question_text": "Ane je Aksharbrahma chhe te to e Bhagwānne rahevānu _____ chhe.",
+      "type": "multiple_choice",
+      "question_text": "Akṣharbrahma Chidākāsh rūpe kyā vyāpīne rahe chhe?",
       "options": [
-        "dhām",
-        "sevāmā",
-        "ākāsh",
-        "kalyāņne"
+        "anantkoṭi brahmānḍonī andar ane bahār",
+        "ek brahmānḍonī andar",
+        "anantkoṭi brahmānḍonī bahār",
+        "ek brahmānḍonī bahār"
       ],
-      "correct_answer": "dhām",
-      "explanation": "According to Vachanamrut Pa.1: Ane je Aksharbrahma chhe te to e Bhagwānne rahevānu dhām chhe.",
-      "source_reference": "Vach.Pa.1"
+      "correct_answer": "anantkoṭi brahmānḍonī andar ane bahār",
+      "explanation": "Vach.Ga.Pa.46: Akṣharbrahma Chidākāsh rūpe anantkoṭi brahmānḍonī andar ane bahār vyāpīne rahe chhe",
+      "source_reference": "Vach.Ga.Pa.46"
     },
     {
       "id": "3",
-      "type": "fill_in_the_blank",
-      "question_text": "E Akshar bīje rūpe karīne Purushottam Nārāyaņnī _____ rahe chhe.",
+      "type": "multiple_choice",
+      "question_text": "Akṣharbrahmne shā tarīke oḷkhāvyu chhe?",
       "options": [
-        "sevāmā",
-        "dhām",
-        "ākāsh",
-        "kalyāņne"
+        "Paramātmānā nitya nivāssthān – dhām",
+        "Paramātmānā sevak",
+        "Paramātmānā mitra",
+        "Paramātmānā shatru"
       ],
-      "correct_answer": "sevāmā",
-      "explanation": "Vachanamrut Ga.Pa.21 says: E Akshar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.",
-      "source_reference": "Vach.Ga.Pa.21"
+      "correct_answer": "Paramātmānā nitya nivāssthān – dhām",
+      "explanation": "Vach.Pa.1: Akṣharbrahmne Paramātmānā nitya nivāssthān – dhām tarīke oḷkhāvyu chhe.",
+      "source_reference": "Vach.Pa.1"
     },
     {
       "id": "4",
-      "type": "reference_identification",
-      "question_text": "“Hu to chiranjīvī chhu ne tamārā badhānā deh pānch-das varasmā padī jāshe.” Aa vākhya kyānu chhe?",
+      "type": "multiple_choice",
+      "question_text": "Akshar bīje rūpe karīne Purushottam Nārāyaņnī kyāmā rahe chhe?",
+      "options": [
+        "sevāmā",
+        "dhyānmā",
+        "bhaktimā",
+        "yajñamā"
+      ],
+      "correct_answer": "sevāmā",
+      "explanation": "Vach.Ga.Pa.21: E Akshar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.",
+      "source_reference": "Vach.Ga.Pa.21"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Bhagwān jīvnā kalyāņne arthe jyāre mūrti dhāran kare chhe tyāre potānu shu sahit padhāre chhe?",
+      "options": [
+        "Akshardhām ane Chaitanyamūrti evā je pārshad ane potānā je sarve aishvarya",
+        "potānā bhakto",
+        "potānā sevako",
+        "potānā shastro"
+      ],
+      "correct_answer": "Akshardhām ane Chaitanyamūrti evā je pārshad ane potānā je sarve aishvarya",
+      "explanation": "Vach.Ga.Pa.71: Bhagwān jīvnā kalyāņne arthe jyāre mūrti dhāran kare chhe tyāre potānu je Akshardhām ane Chaitanyamūrti evā je pārshad ane potānā je sarve aishvarya te sahit ja padhāre chhe.",
+      "source_reference": "Vach.Ga.Pa.71"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Paramātmānī sāthe pṛuthvī upar avatār dhāraṇ kare chhe?",
+      "options": [
+        "Akṣharbrahma",
+        "Prakruti",
+        "Maya",
+        "Avidya"
+      ],
+      "correct_answer": "Akṣharbrahma",
+      "explanation": "Vach.Ga.Pa.71: Paramātmānī sāthe Akṣharbrahma paṇ pṛuthvī upar avatār dhāraṇ kare chhe.",
+      "source_reference": "Vach.Ga.Pa.71"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Hu to chiranjīvī chhu ne tamārā badhānā deh pānch-das varasmā padī jāshe, e vākya kone kahe chhe?",
       "options": [
         "Swa.Vato.5/67",
         "Vach.Ga.Pa.46",
@@ -54,22 +96,50 @@
         "Vach.Ga.Pa.21"
       ],
       "correct_answer": "Swa.Vato.5/67",
-      "explanation": "The quote 'Hu to chiranjīvī chhu ne tamārā badhānā deh pānch-das varasmā padī jāshe' is from Swa.Vato.5/67.",
+      "explanation": "Swa.Vato.5/67: Hu to chiranjīvī chhu ne tamārā badhānā deh pānch-das varasmā padī jāshe.",
       "source_reference": "Swa.Vato.5/67"
     },
     {
-      "id": "5",
-      "type": "fill_in_the_blank",
-      "question_text": "Bhagwān jīvnā _____ arthe jyāre mūrti dhāran kare chhe tyāre potānu je Akshardhām ane Chaitanyamūrti evā je pārshad ane potānā je sarve aishvarya te sahit ja padhāre chhe.",
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Ā paramparā akhanḍ chālu ja rahe chhe. Ek kāḷe āvā ek ja guru dwārā ātyantik kalyāṇno mārg chālu rahe chhe, e vākya kone kahe chhe?",
       "options": [
-        "kalyāņne",
-        "dhām",
-        "sevāmā",
-        "ākāsh"
+        "Pramukh Swami Maharaj",
+        "Shastriji Maharaj",
+        "Bhagatji Maharaj",
+        "Gondalna Maharaj"
       ],
-      "correct_answer": "kalyāņne",
-      "explanation": "Vachanamrut Ga.Pa.71 states: Bhagwān jīvnā kalyāņne arthe jyāre mūrti dhāran kare chhe tyāre potānu je Akshardhām ane Chaitanyamūrti evā je pārshad ane potānā je sarve aishvarya te sahit ja padhāre chhe.",
-      "source_reference": "Vach.Ga.Pa.71"
+      "correct_answer": "Pramukh Swami Maharaj",
+      "explanation": "Pramukh Swami Maharaj: ‘Ā paramparā akhanḍ chālu ja rahe chhe. Ek kāḷe āvā ek ja guru dwārā ātyantik kalyāṇno mārg chālu rahe chhe.’",
+      "source_reference": "Siddhant Patra"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Satpuruṣh kyārey pṛuthvī parthī kadī jatā nathī, e vākya kone kahe chhe?",
+      "options": [
+        "Shastriji Maharaj",
+        "Pramukh Swami Maharaj",
+        "Bhagatji Maharaj",
+        "Gondalna Maharaj"
+      ],
+      "correct_answer": "Shastriji Maharaj",
+      "explanation": "Shastriji Maharaj: ‘Satpuruṣh kyārey pṛuthvī parthī kadī jatā nathī.’",
+      "source_reference": "Siddhant Patra"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Je Aksharbrahma chhe te to e Bhagwānne shu chhe?",
+      "options": [
+        "rahevānu dhām",
+        "sevā karvānu sthān",
+        "bhajan karvānu sthān",
+        "āradhnā karvānu sthān"
+      ],
+      "correct_answer": "rahevānu dhām",
+      "explanation": "Vach.Pa.1: Je Aksharbrahma chhe te to e Bhagwānne rahevānu dhām chhe.",
+      "source_reference": "Vach.Pa.1"
     }
   ]
 }

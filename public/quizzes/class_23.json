@@ -3,142 +3,86 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blank",
-      "question_text": "Parameshvarnī upāsanā rahevā sāru tyāgno paksh moļo karine Bhagwānnā _____ karāvyā chhe.",
+      "type": "multiple_choice",
+      "question_text": "Parameshvarnī upāsanā rahevā sāru tyāgno paksh moļo karine ______ mandir karāvyā chhe. Temā jo thodo tyāg raheshe to pan upāsanā raheshe, to tene karine ghaņāk jīvnā kalyān thashe.",
       "options": [
-        "mandir",
-        "ghar",
-        "aashram",
-        "shikhar"
+        "dhanvānnā",
+        "Bhagwānnā",
+        "sādhuonā",
+        "janonā"
       ],
-      "correct_answer": "mandir",
-      "explanation": "The text states: 'Parameshvarnī upāsanā rahevā sāru tyāgno paksh moļo karine Bhagwānnā mandir karāvyā chhe.'",
+      "correct_answer": "Bhagwānnā",
+      "explanation": "According to Vach.Ga.Ma.27, Parameshvarnī upāsanā rahevā sāru tyāgno paksh moļo karine Bhagwānnā mandir karāvyā chhe.",
       "source_reference": "Vach.Ga.Ma.27"
     },
     {
       "id": "2",
-      "type": "fill_in_the_blank",
-      "question_text": "Jem Bhagwānnī _____ pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne Bhagwān bheļī mānasī pūjā kare.",
+      "type": "multiple_choice",
+      "question_text": "Jem Bhagwānnī mānasī pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne ______ mānasī pūjā kare.",
       "options": [
-        "mānasī",
-        "vastu",
-        "murti",
-        "seva"
+        "Bhagwān bheļī",
+        "dev bheļī",
+        "sādhu bheļī",
+        "brāhman bheļī"
       ],
-      "correct_answer": "mānasī",
-      "explanation": "The text states: 'Jem Bhagwānnī mānasī pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne Bhagwān bheļī mānasī pūjā kare'",
+      "correct_answer": "Bhagwān bheļī",
+      "explanation": "According to Vach.Va.5, jem Bhagwānnī mānasī pūjā kare tem ja je uttam haribhakta hoy tenī pan Bhagwānnī prasādīe karīne Bhagwān bheļī mānasī pūjā kare.",
       "source_reference": "Vach.Va.5"
     },
     {
       "id": "3",
-      "type": "fill_in_the_blank",
-      "question_text": "Evu Bhagwān ne te Bhagwānnā bhakta tenī sarakhī sevā karyānu _____ chhe.",
+      "type": "multiple_choice",
+      "question_text": "Ane e Akşhar bīje rūpe karīne ______ sevāmā rahe chhe.",
       "options": [
-        "fal",
-        "dhyey",
-        "karan",
-        "niyam"
+        "Purushottam Nārāyaņnī",
+        "Shree Krushna Bhagwānnī",
+        "Shree Ram Bhagwānnī",
+        "Shree Shiv Bhagwānnī"
       ],
-      "correct_answer": "fal",
-      "explanation": "The text states: 'Evu Bhagwān ne te Bhagwānnā bhakta tenī sarakhī sevā karyānu fal chhe.'",
-      "source_reference": "Vach.Va.5"
+      "correct_answer": "Purushottam Nārāyaņnī",
+      "explanation": "According to Vach.Ga.Pa.21, e Akşhar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.",
+      "source_reference": "Vach.Ga.Pa.21"
     },
     {
       "id": "4",
-      "type": "fill_in_the_blank",
-      "question_text": "Te Aksharnā be _____ chhe - ek to nirākār ekras chaitanya chhe tene Chidākāsh kahīe, Brahmamahol kahīe.",
+      "type": "multiple_choice",
+      "question_text": "Te Aksharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene ______ kahīe, Brahmamahol kahīe.",
       "options": [
-        "swarūp",
-        "naam",
-        "lakshan",
-        "artha"
+        "Chidākāsh",
+        "Prakrutiākāsh",
+        "Jeevākāsh",
+        "Māyākāsh"
       ],
-      "correct_answer": "swarūp",
-      "explanation": "The text states: 'Te Aksharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene Chidākāsh kahīe, Brahmamahol kahīe'",
+      "correct_answer": "Chidākāsh",
+      "explanation": "According to Vach.Ga.Pa.21, Aksharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene Chidākāsh kahīe, Brahmamahol kahīe.",
       "source_reference": "Vach.Ga.Pa.21"
     },
     {
       "id": "5",
-      "type": "fill_in_the_blank",
-      "question_text": "Te Aksharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene _____ kahīe, Brahmamahol kahīe.",
+      "type": "multiple_choice",
+      "question_text": "Evī rīte Bhagwān ne uttam ______ je sant tenī ati preme karīne sarakhī sevā je kare to te kanishth bhakta hoy.",
       "options": [
-        "Chidākāsh",
-        "Jyotirmandal",
-        "Prakashpunj",
-        "Divyadham"
+        "lakshanvāļā",
+        "ācharanvāļā",
+        "vichārvāļā",
+        "gyānvāļā"
       ],
-      "correct_answer": "Chidākāsh",
-      "explanation": "The text states: 'Te Aksharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene Chidākāsh kahīe, Brahmamahol kahīe'",
-      "source_reference": "Vach.Ga.Pa.21"
-    },
-    {
-      "id": "6",
-      "type": "fill_in_the_blank",
-      "question_text": "Te Akşhar bīje rūpe karīne Purushottam _____ sevāmā rahe chhe.",
-      "options": [
-        "Nārāyaņnī",
-        "Swāminārāyaṇ",
-        "Hari",
-        "Krishna"
-      ],
-      "correct_answer": "Nārāyaņnī",
-      "explanation": "The text states: 'ane e Akşhar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.'",
-      "source_reference": "Vach.Ga.Pa.21"
-    },
-    {
-      "id": "7",
-      "type": "reference_identification",
-      "question_text": "‘Temā jo thodo tyāg raheshe to pan upāsanā raheshe, to tene karine ghaņāk jīvnā kalyān thashe.’ Aa vākhya kyānu chhe?",
-      "options": [
-        "Vach.Ga.Ma.27",
-        "Vach.Va.5",
-        "Vach.Ga.Pa.21",
-        "Vach.Lo.10"
-      ],
-      "correct_answer": "Vach.Ga.Ma.27",
-      "explanation": "The quote is from Vach.Ga.Ma.27: 'Temā jo thodo tyāg raheshe to pan upāsanā raheshe, to tene karine ghaņāk jīvnā kalyān thashe.'",
-      "source_reference": "Vach.Ga.Ma.27"
-    },
-    {
-      "id": "8",
-      "type": "reference_identification",
-      "question_text": "‘Evī rīte Bhagwān ne uttam lakshanvāļā je sant tenī ati preme karīne sarakhī sevā je kare to te kanishth bhakta hoy ne te be janme tathā chār janme tathā das janme ke so janme karīne uttam bhakta jevo thanāro hoy, te āne janme karīne uttam bhakta thāy chhe.’ Aa vākhya kyānu chhe?",
-      "options": [
-        "Vach.Va.5",
-        "Vach.Ga.Ma.27",
-        "Vach.Ga.Pa.21",
-        "Vach.Lo.10"
-      ],
-      "correct_answer": "Vach.Va.5",
-      "explanation": "The quote is from Vach.Va.5: ‘Evī rīte Bhagwān ne uttam lakshanvāļā je sant tenī ati preme karīne sarakhī sevā je kare to te kanishth bhakta hoy ne te be janme tathā chār janme tathā das janme ke so janme karīne uttam bhakta jevo thanāro hoy, te āne janme karīne uttam bhakta thāy chhe.’",
+      "correct_answer": "lakshanvāļā",
+      "explanation": "According to Vach.Va.5, Bhagwān ne uttam lakshanvāļā je sant tenī ati preme karīne sarakhī sevā je kare to te kanishth bhakta hoy.",
       "source_reference": "Vach.Va.5"
     },
     {
-      "id": "9",
-      "type": "reference_identification",
-      "question_text": "‘ane e Akşhar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.’ Aa vākhya kyānu chhe?",
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Jem Bhagwānne arthe pāch rūpiyānu kharach kare tem ja te ______ arthe pan kharach kare.",
       "options": [
-        "Vach.Ga.Pa.21",
-        "Vach.Ga.Ma.27",
-        "Vach.Va.5",
-        "Vach.Lo.10"
+        "moțā santne",
+        "nānā bālakne",
+        "gareeb lokone",
+        "moṭā rājāne"
       ],
-      "correct_answer": "Vach.Ga.Pa.21",
-      "explanation": "The quote is from Vach.Ga.Pa.21: ‘ane e Akşhar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.’",
-      "source_reference": "Vach.Ga.Pa.21"
-    },
-    {
-      "id": "10",
-      "type": "fill_in_the_blank",
-      "question_text": "Jem Bhagwānne arthe pāch rūpiyānu _____ kare tem ja te moțā santne arthe pan kharach kare.",
-      "options": [
-        "kharach",
-        "daan",
-        "bhet",
-        "seva"
-      ],
-      "correct_answer": "kharach",
-      "explanation": "The text states: 'Jem Bhagwānne arthe pāch rūpiyānu kharach kare tem ja te moțā santne arthe pan kharach kare.'",
+      "correct_answer": "moțā santne",
+      "explanation": "According to Vach.Va.5, jem Bhagwānne arthe pāch rūpiyānu kharach kare tem ja te moțā santne arthe pan kharach kare.",
       "source_reference": "Vach.Va.5"
     }
   ]

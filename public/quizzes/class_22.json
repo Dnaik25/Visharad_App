@@ -3,143 +3,143 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blank",
-      "question_text": "Jamo thāļ Jīvan jāu vārī, dhovu kar charan karo _____...",
+      "type": "multiple_choice",
+      "question_text": "Jamo thāļ Jīvan jāu vārī, dhovu kar charan karo tyārī... Beso melyā ____________ dhāļī,",
       "options": [
-        "tyārī",
-        "vāri",
-        "ghari",
-        "sārī"
+        "unchā āsaniye",
+        "bājothiyā",
+        "divya sinhasane",
+        "pāte chokhāļī"
       ],
-      "correct_answer": "tyārī",
-      "explanation": "The complete line is: Jamo thāļ Jīvan jāu vārī, dhovu kar charan karo tyārī...",
+      "correct_answer": "bājothiyā",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Beso melyā bājothiyā dhāļī'.",
       "source_reference": "Thāl"
     },
     {
       "id": "2",
-      "type": "fill_in_the_blank",
-      "question_text": "Melī ghrut _____ boļī...",
+      "type": "multiple_choice",
+      "question_text": "Karī kāthā ghaunī poļī, Melī ghrut sākarmā boļī; Kādhyo ras ____________ ghoļī... jamo thāļ 2",
       "options": [
-        "sākarmā",
-        "ghīmā",
-        "dahīmā",
-        "telmā"
+        "kerīno",
+        "jāmbuno",
+        "drakshno",
+        "badāmno"
       ],
-      "correct_answer": "sākarmā",
-      "explanation": "The line from the text is: Melī ghrut sākarmā boļī...",
+      "correct_answer": "kerīno",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Kādhyo ras kerīno ghoļī'.",
       "source_reference": "Thāl"
     },
     {
       "id": "3",
-      "type": "fill_in_the_blank",
-      "question_text": "Pūrī pochĩ thaï chhe _____ chadhī...",
+      "type": "multiple_choice",
+      "question_text": "Galyā sātā ghebar fülvadī, Dūdhpāk mālpūā kadhī; Pūrī pochĩ thaï chhe ____________ chadhī... jamo thāļ 3",
       "options": [
         "ghīmā",
         "telmā",
-        "jale",
-        "sakarmā"
+        "sākarmā",
+        "dudhmā"
       ],
       "correct_answer": "ghīmā",
-      "explanation": "The line is: Pūrī pochĩ thaï chhe ghīmā chadhī...",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Pūrī pochĩ thaï chhe ghīmā chadhī'.",
       "source_reference": "Thāl"
     },
     {
       "id": "4",
-      "type": "fill_in_the_blank",
-      "question_text": "Dahī bhāt sākar chhe _____...",
+      "type": "multiple_choice",
+      "question_text": "Athāņā shāk sundar bhājī, Lāvī chhu tarat karī tāji; Dahī bhāt ____________ chhe jhājhi... jamo thāļ 4",
       "options": [
-        "jhājhi",
-        "thodī",
-        "sārī",
-        "vāri"
+        "sākar",
+        "ghī",
+        "tel",
+        "lūn"
       ],
-      "correct_answer": "jhājhi",
-      "explanation": "The line is: Dahī bhāt sākar chhe jhājhi...",
+      "correct_answer": "sākar",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Dahī bhāt sākar chhe jhājhi'.",
       "source_reference": "Thāl"
     },
     {
       "id": "5",
-      "type": "reference_identification",
-      "question_text": "Māre gher āvjo Chhogalādhārī; Lādu jalebī ne sev suvāļī, Hu to bhāve karī lāvī chhu ghari... Aa pankti kyānthī levāmā āvī chhe?",
+      "type": "multiple_choice",
+      "question_text": "Chaļu karo lāvu jaļjhārī, Elāychī laving sopārī, Pānbīdī ____________ sārī... jamo thāļ 5",
       "options": [
-        "Māre gher āvjo Chhogalādhārī",
-        "Prarthana",
-        "Thāl",
-        "Shrimat-sadguņa shālinam"
+        "banāvī",
+        "melāvī",
+        "khavāvī",
+        "pīvāvī"
       ],
-      "correct_answer": "Māre gher āvjo Chhogalādhārī",
-      "explanation": "The provided lines are from the 'Māre gher āvjo Chhogalādhārī' section.",
-      "source_reference": "Māre gher āvjo Chhogalādhārī"
+      "correct_answer": "banāvī",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Pānbīdī banāvī sārī'.",
+      "source_reference": "Thāl"
     },
     {
       "id": "6",
-      "type": "fill_in_the_blank",
-      "question_text": "Limbu kākdīnā lejo _____, Kadhī karī chhe Kāthiyāvādī...",
+      "type": "multiple_choice",
+      "question_text": "Mukhvās mangamtā laīne, Prasādīno thāļ mune daine, Bhumānand kahe ____________ thaïne... jamo thāļ 6",
       "options": [
-        "athāņā",
-        "bhājī",
-        "pūran",
-        "shāk"
+        "rājī",
+        "khush",
+        "prasann",
+        "ānandit"
       ],
-      "correct_answer": "athāņā",
-      "explanation": "The correct line is: Limbu kākdīnā lejo athāņā, Kadhī karī chhe Kāthiyāvādī...",
-      "source_reference": "Māre gher āvjo Chhogalādhārī"
+      "correct_answer": "rājī",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Bhumānand kahe rājī thaïne'.",
+      "source_reference": "Thāl"
     },
     {
       "id": "7",
-      "type": "fill_in_the_blank",
-      "question_text": "_____ bhetu, Em māge Jerām Brahmachārī... māre 3",
+      "type": "multiple_choice",
+      "question_text": "Māre gher āvjo Chhogalādhārī; Lādu jalebī ne sev suvāļī, Hu to bhāve karī lāvī chhu ____________...",
       "options": [
-        "Nishdin avo to bhāve karī",
-        "Laving sopārī ne pānbīdī vāļī",
-        "Taj elchī jāvantrī sārī",
-        "Kāju kamodnā bhāt karyā"
+        "ghari",
+        "sākar",
+        "god",
+        "tel"
       ],
-      "correct_answer": "Nishdin avo to bhāve karī",
-      "explanation": "The line is: Nishdin avo to bhāve karī bhetu, Em māge Jerām Brahmachārī... māre 3",
-      "source_reference": "Māre gher āvjo Chhogalādhārī"
+      "correct_answer": "ghari",
+      "explanation": "The lyric from 'Thāl' by Jayarãm Brahmachãri is 'Hu to bhāve karī lāvī chhu ghari'.",
+      "source_reference": "Thāl"
     },
     {
       "id": "8",
-      "type": "reference_identification",
-      "question_text": "Shrimat-sadguņa shālinam chidachidi vyāptam cha divyākrutim; Jīveshākshara mukta-koți sukhadam naikāvatārādhipam. Aa vākhya kyānu chhe?",
+      "type": "multiple_choice",
+      "question_text": "Sūran pūran ne bhājī kārelā, Pāpad vadi vaghārī; Vantāk vāloļnā shāk karyā, Me to ____________ chhamkārī... māre 1",
       "options": [
-        "Shrimat-sadguņa shālinam",
-        "Thāl",
-        "Māre gher āvjo Chhogalādhārī",
-        "Prarthana"
+        "choļāfaļī",
+        "bhinda",
+        "gājar",
+        "kāndā"
       ],
-      "correct_answer": "Shrimat-sadguņa shālinam",
-      "explanation": "The provided shlok is from the 'Shrimat-sadguņa shālinam' section.",
-      "source_reference": "Shrimat-sadguņa shālinam"
+      "correct_answer": "choļāfaļī",
+      "explanation": "The lyric from 'Thāl' by Jayarãm Brahmachãri is 'Me to choļāfaļī chhamkārī'.",
+      "source_reference": "Thāl"
     },
     {
       "id": "9",
-      "type": "fill_in_the_blank",
-      "question_text": "Gneyam Shri Purushottamam munivarair-vedādikīrtyam _____;",
+      "type": "multiple_choice",
+      "question_text": "Kāju kamodnā bhāt karyā, Me to dāļ karī bahu sārī; Limbu kākdīnā lejo athāņā, Kadhī karī chhe ____________... māre 2",
       "options": [
-        "vibhūm",
-        "sādhum",
-        "aksharam",
-        "param"
+        "Kāthiyāvādī",
+        "Gujarātī",
+        "Suratī",
+        "Mumbaiī"
       ],
-      "correct_answer": "vibhūm",
-      "explanation": "The line from the text is: Gneyam Shri Purushottamam munivarair-vedādikīrtyam vibhūm;",
-      "source_reference": "Shrimat-sadguņa shālinam"
+      "correct_answer": "Kāthiyāvādī",
+      "explanation": "The lyric from 'Thāl' by Jayarãm Brahmachãri is 'Kadhī karī chhe Kāthiyāvādī'.",
+      "source_reference": "Thāl"
     },
     {
       "id": "10",
-      "type": "reference_identification",
-      "question_text": "Aum sahanāvavatu saha nau bhunaktu saha vīryam karavāvahai; Tejasvinā-vadhītamastu mā vid-vişhāvahai. Aum shāntihi shāntihi shāntihi! Aa pankti kyānthī levāmā āvī chhe?",
+      "type": "multiple_choice",
+      "question_text": "Shrimat-sadguņa shālinam ____________ vyāptam cha divyākrutim;",
       "options": [
-        "Aum sahanāvavatu",
-        "Shrimat-sadguņa shālinam",
-        "Māre gher āvjo Chhogalādhārī",
-        "Thāl"
+        "chidachidi",
+        "gunatitam",
+        "brahmaswarupam",
+        "sarvopari"
       ],
-      "correct_answer": "Aum sahanāvavatu",
-      "explanation": "The provided shlok is from the 'Aum sahanāvavatu' section.",
-      "source_reference": "Aum sahanāvavatu"
+      "correct_answer": "chidachidi",
+      "explanation": "The line from the Prarthana is 'Shrimat-sadguņa shālinam chidachidi vyāptam cha divyākrutim'.",
+      "source_reference": "Prarthana"
     }
   ]
 }

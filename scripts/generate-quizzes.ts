@@ -44,12 +44,16 @@ async function main() {
     } catch (e) { }
 
     // 1. Identify Classes
+    // parse optional start class from args
+    const startClassArg = process.argv[2];
+    const startClass = startClassArg ? parseInt(startClassArg, 10) : 0;
+
     const files = await fs.readdir(publicDir);
     const classFiles = files.filter(f => f.startsWith('Class_') && f.endsWith('.txt'));
     const classes = classFiles.map(f => {
         const match = f.match(/Class_(\d+)\.txt/);
         return match ? parseInt(match[1], 10) : null;
-    }).filter((c): c is number => c !== null).sort((a, b) => a - b);
+    }).filter((c): c is number => c !== null && c >= startClass).sort((a, b) => a - b);
 
     console.log(`Found classes: ${classes.join(', ')}`);
 

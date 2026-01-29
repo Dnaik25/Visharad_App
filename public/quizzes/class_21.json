@@ -3,142 +3,142 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blank",
-      "question_text": "Jay Swāminārāyan, jay Akşharpurushottam, Aksharpurushottam jay, darshan _____... Jay Swāminārāyaṇ...",
+      "type": "multiple_choice",
+      "question_text": "Jay Swāminārāyaṇ, jay Akşharpurushottam, Aksharpurushottam jay, darshan ________... Jay Swāminārāyaṇ...",
       "options": [
-        "madhuram",
+        "sādhutā",
         "sarvottam",
-        "uttam",
-        "anupam"
+        "vistārakam",
+        "sākāram"
       ],
       "correct_answer": "sarvottam",
-      "explanation": "The line from the aarti is 'darshan sarvottam'.",
+      "explanation": "The missing word in the Ārti is 'sarvottam'.",
       "source_reference": "Ārti"
     },
     {
       "id": "2",
-      "type": "fill_in_the_blank",
-      "question_text": "Purushottam Parabrahma, Shrīhari Sahajānand, Aksharbrahma anādi, _____... Jay Swāminārayan... 2",
+      "type": "multiple_choice",
+      "question_text": "Mukta anant supūjit, sundar ________, Sarvoparī karuņākar, mānav tanudhāram... Jay Swāminārāyaṇ 1",
       "options": [
-        "Swaminarayan",
-        "Gunatitanand",
-        "Sahajanand",
-        "Purushottam"
+        "sākāram",
+        "prasanna",
+        "vistārakam",
+        "pravartit"
       ],
-      "correct_answer": "Guņātītānand",
-      "explanation": "The line from the aarti is 'Aksharbrahma anādi, Guņātītānand'.",
+      "correct_answer": "sākāram",
+      "explanation": "The missing word in the Ārti is 'sākāram'.",
       "source_reference": "Ārti"
     },
     {
       "id": "3",
-      "type": "reference_identification",
-      "question_text": "Dāsbhāv divyatā sah, brahmarūpe prīti, Suhrudbhāv alaukik, sthāpit shubh rīti... Jay Swāminārayan... 4",
+      "type": "multiple_choice",
+      "question_text": "Purushottam Parabrahma, Shrīhari Sahajānand, Aksharbrahma anādi, ________... Jay Swāminārāyaṇ... 2",
       "options": [
-        "Āsthak",
-        "Ārti",
-        "Satsang Diksha Shloka 1",
-        "Satsang Diksha Shloka 2"
+        "Guņātītānand",
+        "sanjīvanī",
+        "sādhutā",
+        "sākāram"
       ],
-      "correct_answer": "Ārti",
-      "explanation": "This quote is from the Aarti.",
+      "correct_answer": "Guņātītānand",
+      "explanation": "The missing word in the Ārti is 'Guņātītānand'.",
       "source_reference": "Ārti"
     },
     {
       "id": "4",
-      "type": "fill_in_the_blank",
-      "question_text": "Antaryāmi parātparam hita-karam, sarvoparī Shri Hari, Sākāram Parabrahma sarva-sharaņam, kartā _____;",
+      "type": "multiple_choice",
+      "question_text": "Prakat sadā sarvakartā, param muktidātā, Dharma ekāntik sthāpak, ________..... Jay Swāminārāyan...3",
       "options": [
-        "dukha haram",
-        "krupa nidhanam",
-        "dayā-sāgaram",
-        "Paramatma"
+        "bhakti paritrātā",
+        "sneha-rasitam",
+        "brahmānanda",
+        "sākāram"
       ],
-      "correct_answer": "dayā-sāgaram",
-      "explanation": "The line from the Asthak is 'kartā dayā-sāgaram'.",
-      "source_reference": "Āsthak"
+      "correct_answer": "bhakti paritrātā",
+      "explanation": "The missing word in the Ārti is 'bhakti paritrātā'.",
+      "source_reference": "Ārti"
     },
     {
       "id": "5",
-      "type": "fill_in_the_blank",
-      "question_text": "Sākşhād Aksharadhāma divya paramam, sevāratam mūrtimān, Sarvādhāra sadā svaroma-vivare, _____;",
+      "type": "multiple_choice",
+      "question_text": "Dāsbhāv divyatā sah, brahmarūpe prīti, Suhrudbhāv alaukik, ________... Jay Swāminārāyan... 4",
       "options": [
-        "brahmānda-koţī-dharam",
-        "Paramatma Swarupam",
-        "anand swarupam",
-        "divya swarupam"
+        "sthāpit shubh rīti",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
       ],
-      "correct_answer": "brahmānda-koţī-dharam",
-      "explanation": "The line from the Asthak is 'Sarvādhāra sadā svaroma-vivare, brahmānda-koţī-dharam'.",
-      "source_reference": "Āsthak"
+      "correct_answer": "sthāpit shubh rīti",
+      "explanation": "The missing word in the Ārti is 'sthāpit shubh rīti'.",
+      "source_reference": "Ārti"
     },
     {
       "id": "6",
-      "type": "reference_identification",
-      "question_text": "Shriman-nirguņa-mūrti sundara tanu, adhyātma-vārtā-ratam, Dehātīta dashā akhanda-bhajanam, shāntam kshamā-sāgaram;",
+      "type": "multiple_choice",
+      "question_text": "Dhanya dhanya mam jīvan, tav sharane sufalam, Yagnapurush pravartit ________ sukhadam... Jay Swāminārayan....5",
       "options": [
-        "Āsthak",
-        "Ārti",
-        "Satsang Diksha Shloka 1",
-        "Satsang Diksha Shloka 2"
+        "siddhāntam",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
       ],
-      "correct_answer": "Āsthak",
-      "explanation": "This quote is from the Asthak.",
-      "source_reference": "Āsthak"
+      "correct_answer": "siddhāntam",
+      "explanation": "The missing word in the Ārti is 'siddhāntam'.",
+      "source_reference": "Ārti"
     },
     {
       "id": "7",
-      "type": "fill_in_the_blank",
-      "question_text": "Āgnā-pālana-tatparam guna-grahī, nirdosha-mūrti svayam, Vande Prāgaji-Bhakta-pāda-kamalam, _____ gurum.",
+      "type": "multiple_choice",
+      "question_text": "Antaryāmi parātparam hita-karam, sarvoparī Shri Hari, Sākāram Parabrahma sarva-sharaņam, kartā ________;",
       "options": [
-        "brahmaswarūpam",
-        "muktaswarupam",
-        "shuddhaswarupam",
-        "divyaswarupam"
+        "dayā-sāgaram",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
       ],
-      "correct_answer": "brahmaswarūpam",
-      "explanation": "The line from the Asthak is 'Vande Prāgaji-Bhakta-pāda-kamalam, brahmaswarūpam gurum'.",
+      "correct_answer": "dayā-sāgaram",
+      "explanation": "The missing word in the Asthak is 'dayā-sāgaram'.",
       "source_reference": "Āsthak"
     },
     {
       "id": "8",
-      "type": "reference_identification",
-      "question_text": "Shuddhopāsana mandiram su-rachanam, siddhānta-rakshāparam, Sansthā-sthāpana divya-kārya-karaņam, sevāmayam jīvanam;",
+      "type": "multiple_choice",
+      "question_text": "Ārādhyam mama işhţadev prakaţam, sarvāvatārī Prabhu, Vande dukha-haram sadā sukha-karam, ________. 1",
       "options": [
-        "Āsthak",
-        "Ārti",
-        "Satsang Diksha Shloka 1",
-        "Satsang Diksha Shloka 2"
+        "Shri Swāminārāyaņam",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
       ],
-      "correct_answer": "Āsthak",
-      "explanation": "This quote is from the Asthak.",
+      "correct_answer": "Shri Swāminārāyaņam",
+      "explanation": "The missing word in the Asthak is 'Shri Swāminārāyaņam'.",
       "source_reference": "Āsthak"
     },
     {
       "id": "9",
-      "type": "fill_in_the_blank",
-      "question_text": "Vāṇī amruta-pūrṇa harsha-karaṇī, sanjīvanī mādhurī, Divyam druşhți-pradāna divya hasanam, divyam _____;",
+      "type": "multiple_choice",
+      "question_text": "Sākşhād Aksharadhāma divya paramam, sevāratam mūrtimān, Sarvādhāra sadā svaroma-vivare, ________;",
       "options": [
-        "shubham kirtanam",
-        "sundar hasanam",
-        "shubham darshanam",
-        "madhuram gyanam"
+        "brahmānda-koţī-dharam",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
       ],
-      "correct_answer": "shubham kirtanam",
-      "explanation": "The line from the Asthak is 'Divyam druşhți-pradāna divya hasanam, divyam shubham kīrtanam'.",
+      "correct_answer": "brahmānda-koţī-dharam",
+      "explanation": "The missing word in the Asthak is 'brahmānda-koţī-dharam'.",
       "source_reference": "Āsthak"
     },
     {
       "id": "10",
-      "type": "reference_identification",
-      "question_text": "Vishve Vaidika dharma marma mahimā, satsanga vistārakam, Vātsalyam karuņā aho jana-jane, akarshaņam adbhutam;",
+      "type": "multiple_choice",
+      "question_text": "Bhakti dhyāna kathā sadaiva karaņam, brahma-sthiti-dāyakam, Vande Aksharabrahma pāda-kamalam, ________. 2",
       "options": [
-        "Āsthak",
-        "Ārti",
-        "Satsang Diksha Shloka 1",
-        "Satsang Diksha Shloka 2"
+        "Guņātītānandanam",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
       ],
-      "correct_answer": "Āsthak",
-      "explanation": "This quote is from the Asthak.",
+      "correct_answer": "Guņātītānandanam",
+      "explanation": "The missing word in the Asthak is 'Guņātītānandanam'.",
       "source_reference": "Āsthak"
     }
   ]

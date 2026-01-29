@@ -3,143 +3,143 @@
   "questions": [
     {
       "id": "1",
-      "type": "fill_in_the_blank",
-      "question_text": "E brahma thaki Parabrahma je Purushottam Nārāyan te nokhā chhe ne e brahmanā paņ kāran chhe ne ādhār chhe ne _____ chhe.",
+      "type": "MCQ",
+      "question_text": "E brahma thaki Parabrahma je Purushottam Nārāyan te nokhā chhe ne e brahmanā paņ _____ chhe ne ādhār chhe ne prerak chhe.",
       "options": [
-        "potanu",
-        "prerak",
-        "par",
-        "sākār"
+        "kāran",
+        "swarūp",
+        "aṇu",
+        "prerak"
       ],
-      "correct_answer": "prerak",
-      "explanation": "The Vachanamrut states: 'E brahma thaki Parabrahma je Purushottam Nārāyan te nokhā chhe ne e brahmanā paņ kāran chhe ne ādhār chhe ne prerak chhe.'",
+      "correct_answer": "kāran",
+      "explanation": "The Vachanamrut states that Parabrahma Purushottam Narayan is different from Brahma and is the cause, support, and motivator of Brahma.",
       "source_reference": "Vach.Ga.Ma.3"
     },
     {
       "id": "2",
-      "type": "reference_identification",
-      "question_text": "Deh îndriya aru man ādik ke, sangme nahi lapțāve... sant 1",
+      "type": "MCQ",
+      "question_text": "Deh indriya aru man ādika ke, sangamen _____ lapṭāve... Sant...",
       "options": [
-        "Vach.Ga.Ma.9",
-        "Kirtan",
-        "Bhaktinidhi - 15/8",
-        "Vach.Ga.Ma.3"
+        "nahī",
+        "sadā",
+        "mero",
+        "soī"
       ],
-      "correct_answer": "Kirtan",
-      "explanation": "This line is from a Kirtan.",
-      "source_reference": "Kirtan"
+      "correct_answer": "nahī",
+      "explanation": "The kirtan states 'Deh indriya aru man ādika ke, sangamen nahī lapṭāve... Sant...' ",
+      "source_reference": "Muktānand Swāmī"
     },
     {
       "id": "3",
-      "type": "fill_in_the_blank",
-      "question_text": "Pruthvi jenī rākhī sthir rahī chhe ne dolāvī dole chhe tathā ā tārāmandal jenu rākhyu adhar rahyu chhe tathā jenā varasāvyā megh varshe chhe tathā jenī āgnāe karīne sūrya-chandra uday-astapaņāne pāme chhe tathā chandramānī kaļā vadhe-ghațe chhe tathā pāļ vināno samudra jenī _____ rahe chhe tathā jaļnā bindumāthī manushya utpanna thây chhe ane tene hath, pag, nāk, kān e ādik das indriyo thaī āve chhe tathā ākāshne vishe adhar jaļ rākhī mūkyu chhe ane temā gāj-vīj thây chhe, evā anant āshcharya chhe te sarve mane malyā evā je Bhagwān tenā karyā thāy chhe.",
+      "type": "MCQ",
+      "question_text": "Pruthvi jenī rākhī sthir rahī chhe ne dolāvī dole chhe tathā ā _____ jenu rākhyu adhar rahyu chhe tathā jenā varasāvyā megh varshe chhe...",
       "options": [
-        "dayā",
-        "maryādāmā",
-        "krupā",
-        "ichchhā"
+        "tārāmandal",
+        "surajamandal",
+        "indriyamandal",
+        "akshardham"
       ],
-      "correct_answer": "maryādāmā",
-      "explanation": "The Vachanamrut says that 'pāļ vināno samudra jenī maryādāmā rahe chhe'.",
+      "correct_answer": "tārāmandal",
+      "explanation": "The Vachanamrut describes the earth being stable and the constellations being suspended by Bhagwan.",
       "source_reference": "Vach.Ga.Pa.27"
     },
     {
       "id": "4",
-      "type": "reference_identification",
-      "question_text": "Jīva Ishwar taņo re, māyā kāļ purush pradhān; Sahune vash karu re, sahuno prerak hu Bhagwan..6",
+      "type": "MCQ",
+      "question_text": "Jīv īshwar taṇo re, māyā kāḷ puruṣh pradhān; sahune vash karū̃ re, sahuno _____ hū̃ Bhagavān... 6",
       "options": [
-        "Vach.Ga.Pa.27",
-        "Vach.Ga.Ma.13",
-        "Kirtan",
-        "Bhaktinidhi - 15/8"
+        "prerak",
+        "palak",
+        "rakshak",
+        "sevak"
       ],
-      "correct_answer": "Kirtan",
-      "explanation": "This is a line from a Kirtan.",
-      "source_reference": "Kirtan"
+      "correct_answer": "prerak",
+      "explanation": "The Oradānā Pad states that 'Jīv īshwar taṇo re, māyā kāḷ puruṣh pradhān; sahune vash karū̃ re, sahuno prerak hū̃ Bhagavān... 6'",
+      "source_reference": "Premanand Swāmī- Oradānā Pad"
     },
     {
       "id": "5",
-      "type": "fill_in_the_blank",
-      "question_text": "Bhagwānnī mūrtinu baļ atishay rākhavu je, 'Sarvoparī ne sadā divya sākārmūrti ane sarva avatārnu avatārī evu je Bhagwānnu swarūp chhe te ja mane prāpt thayu chhe.' Ane je em jāņato hoy ne tethī jo kadāchit satsangthī bāher nīsarī javāņu toy pan tene Bhagwānnī mūrtimāthī het țaļatu nathī ane te hamaņā to satsangthī bāher chhe pan deh mūkīne to ante Bhagwānnu je Akshardhām tene vishe Bhagwānne _____ jashe.",
+      "type": "MCQ",
+      "question_text": "Bhagwānnī mūrtinu baļ atishay rākhavu je, 'Sarvoparī ne sadā divya sākārmūrti ane sarva avatārnu _____ evu je Bhagwānnu swarūp chhe te ja mane prāpt thayu chhe.'",
       "options": [
-        "samīpe",
-        "swarupe",
-        "ādhāre",
-        "prasāde"
+        "avatārī",
+        "ādhār",
+        "kāran",
+        "kartā"
       ],
-      "correct_answer": "samīpe",
-      "explanation": "According to Vachanamrut, such a person will go near Bhagwan: 'Bhagwānne samīpe jashe'.",
+      "correct_answer": "avatārī",
+      "explanation": "The Vachanamrut emphasizes the importance of believing that the Swarup of Bhagwan is the cause of all avatars.",
       "source_reference": "Vach.Ga.Ma.9"
     },
     {
       "id": "6",
-      "type": "fill_in_the_blank",
-      "question_text": "E je ekras tej chhe tene ātmā kahie tathā brahma kahīe ne _____ kahīe; ane e prakāshne vishe je Bhagwānnī mūrti chhe tene ātmānu tattva kahīe tathā Parabrahma kahīe tathā Purushottam kahīe...Je tejne vișhe mūrti chhe te ja pratyaksh Mahārāj chhe,' em jāņajo.",
+      "type": "MCQ",
+      "question_text": "Ane je em jāņato hoy ne tethī jo kadāchit satsangthī bāher nīsarī javāņu toy pan tene Bhagwānnī mūrtimāthī het țaļatu nathī ane te hamaņā to satsangthī bāher chhe pan deh mūkīne to ante Bhagwānnu je _____ tene vishe Bhagwānne samīpe jashe.",
       "options": [
         "Akshardhām",
-        "Swaminarayan",
-        "Parabrahma",
-        "Purushottam"
+        "Brahmadhām",
+        "Vishnulok",
+        "Kailash"
       ],
       "correct_answer": "Akshardhām",
-      "explanation": "The Vachanamrut states: 'E je ekras tej chhe tene ātmā kahie tathā brahma kahīe ne Akshardhām kahīe'.",
-      "source_reference": "Vach.Ga.Ma.13"
+      "explanation": "The Vachanamrut states that even if someone leaves the Satsang but maintains affection for Bhagwan, they will go to Akshardham after death.",
+      "source_reference": "Vach.Ga.Ma.9"
     },
     {
       "id": "7",
-      "type": "fill_in_the_blank",
-      "question_text": "Jevu paroksh Bhagwānnā Rām-Krushņādik avatārnu māhātmya jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta _____ tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī. Te ā vārtā ek vār kahye samajo athavā lākh vār kahye samajo, āj samajo athavā lākh varsh kede samajo pan e vat samajye ja chhūtako chhe.",
+      "type": "MCQ",
+      "question_text": "E je ekras tej chhe tene ātmā kahie tathā brahma kahīe ne _____ kahīe; ane e prakāshne vishe je Bhagwānnī mūrti chhe tene ātmānu tattva kahīe tathā Parabrahma kahīe tathā Purushottam kahīe...",
       "options": [
-        "sādhu",
-        "bhakta",
-        "dev",
-        "pitar"
+        "Akshardhām",
+        "Brahmapur",
+        "tejomay",
+        "Chaitanya"
       ],
-      "correct_answer": "sādhu",
-      "explanation": "The Vachanamrut says: 'Bhagwānnā bhakta sādhu tenu māhātmya samaje'.",
-      "source_reference": "Vach.Ga.Ma.21"
+      "correct_answer": "Akshardhām",
+      "explanation": "The Vachanamrut identifies the one essence of light as Atma, Brahma, and Akshardham.",
+      "source_reference": "Vach.Ga.Ma.13"
     },
     {
       "id": "8",
-      "type": "reference_identification",
-      "question_text": "Vālmiki vakhāniyā vānarne, vyāse vakhāniyā pashupal; Te pragat bhakti pratāpthi, vādhiyo jash vishal.",
+      "type": "MCQ",
+      "question_text": "Je tejne vișhe mūrti chhe te ja pratyaksh Mahārāj chhe,' em _____.",
       "options": [
-        "Vach.Ga.Ma.3",
-        "Bhaktinidhi - 15/8",
-        "Vach.Ga.Ma.9",
-        "Kirtan"
+        "jāņajo",
+        "samajjo",
+        "vichārjo",
+        "dhārjo"
       ],
-      "correct_answer": "Bhaktinidhi - 15/8",
-      "explanation": "This quote is from Bhaktinidhi.",
-      "source_reference": "Bhaktinidhi - 15/8"
+      "correct_answer": "jāņajo",
+      "explanation": "The Vachanamrut emphasizes that the murti within the light is the प्रत्यक्ष (pratyaksh) Maharaj and instructs one to know this.",
+      "source_reference": "Vach.Ga.Ma.13"
     },
     {
       "id": "9",
-      "type": "fill_in_the_blank",
-      "question_text": "Sant jan soī sadā mohe bhāve...Sant jan soī sadā mohe bhāve... Deh _____ aru man ādik ke, sangme nahi lapțāve... sant 1",
+      "type": "MCQ",
+      "question_text": "Jevu paroksh Bhagwānnā Rām-Krushņādik avatārnu māhātmya jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta _____ tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī.",
       "options": [
-        "van",
-        "indriya",
-        "sarita",
-        "nadi"
+        "sādhu",
+        "bhakta",
+        "sevak",
+        "sangī"
       ],
-      "correct_answer": "indriya",
-      "explanation": "The Kirtan states: 'Deh îndriya aru man ādik ke, sangme nahi lapțāve'.",
-      "source_reference": "Kirtan"
+      "correct_answer": "sādhu",
+      "explanation": "The Vachanamrut highlights that understanding the greatness of pratyaksh Bhagwan and the bhakta sadhu is essential for attaining kalyan.",
+      "source_reference": "Vach.Ga.Ma.21"
     },
     {
       "id": "10",
-      "type": "fill_in_the_blank",
-      "question_text": "Aganit vishvanī re, utpatti pālan pralay thāy; Mārī marjī vinā re, koīthī _____ nav today..7",
+      "type": "MCQ",
+      "question_text": "_____ vakhāniyā vānarne, vyāse vakhāniyā pashupal; Te pragat bhakti pratāpthi, vādhiyo jash vishal.",
       "options": [
-        "tarņu",
-        "patang",
-        "dhanush",
-        "chakri"
+        "Vālmiki",
+        "Tulsidas",
+        "Surdas",
+        "Kabir"
       ],
-      "correct_answer": "tarņu",
-      "explanation": "The Kirtan says: 'Mārī marjī vinā re, koīthī tarņu nav today'.",
-      "source_reference": "Kirtan"
+      "correct_answer": "Vālmiki",
+      "explanation": "The Bhaktinidhi states 'Vālmiki vakhāniyā vānarne, vyāse vakhāniyā pashupal; Te pragat bhakti pratāpthi, vādhiyo jash vishal.'",
+      "source_reference": "Bhaktinidhi - 15/8"
     }
   ]
 }

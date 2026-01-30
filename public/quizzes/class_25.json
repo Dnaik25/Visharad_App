@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 25 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Je tejne vişhe mūrti chhe te ja pratyaksh ______ chhe,' em jāņajo.",
+      "options": [
+        "Mahārāj",
+        "Swaminarayan",
+        "Narayan",
+        "Hari"
+      ],
+      "correct_answer": "Mahārāj",
+      "explanation": "According to Vach.Ga.Ma.13, 'Je tejne vişhe mūrti chhe te ja pratyaksh Mahārāj chhe,' em jāņajo.",
+      "source_reference": "Vach.Ga.Ma.13"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Evā sarvoparī je Purushottam Bhagwān te ja dayāe karīne jīvonā ______ arthe pruthvīne vishe prakat thayā thakā sarva jannā nayan-gochar varte chhe ne tamārā işhţadev chhe ne tamārī sevāne angīkār kare chhe.",
+      "options": [
+        "uddhar",
+        "kalyāņne",
+        "moksha",
+        "uddharne"
+      ],
+      "correct_answer": "kalyāņne",
+      "explanation": "According to Vach.Ga.An.38, Evā sarvoparī je Purushottam Bhagwān te ja dayāe karīne jīvonā kalyāņne arthe pruthvīne vishe prakat thayā thakā sarva jannā nayan-gochar varte chhe ne tamārā işhţadev chhe ne tamārī sevāne angīkār kare chhe.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Mahārājne Puruṣottam jāṇyā vinā ______ javāy nahī.",
+      "options": [
+        "Akṣhardhāmmā",
+        "Vaikunth",
+        "Golok",
+        "Brahmalok"
+      ],
+      "correct_answer": "Akṣhardhāmmā",
+      "explanation": "According to Swa.Vato.3/12, Mahārājne Puruṣottam jāṇyā vinā Akṣardhāmmā javāy nahī.",
+      "source_reference": "Swa.Vato.3/12"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Sadguru Bhāyātmānand Swāmīno ek prasang ahī vichārīe. Teo ______ mūrti gaṇātā.",
+      "options": [
+        "vachanni",
+        "bhaktini",
+        "sevani",
+        "prem ni"
+      ],
+      "correct_answer": "vachanni",
+      "explanation": "According to ShreejiMahārāj Pragatni.Vato.193, Sadguru Bhāyātmānand Swāmīno ek prasang ahī vichārīe. Teo vachanni mūrti gaṇātā.",
+      "source_reference": "ShreejiMahārāj Pragatni.Vato.193"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Tyāre Guṇātītānand Swāmī Mahārāje kahyu, ‘Tamne haju Mahārājnā ______ swarūpnī pākī niṣhṭhā thaī nathī.",
+      "options": [
+        "sarvoparī",
+        "param",
+        "divya",
+        "aloukik"
+      ],
+      "correct_answer": "sarvoparī",
+      "explanation": "According to ShreejiMahārāj Pragatni.Vato.193, Tyāre Guṇātītānand Swāmī Mahārāje kahyu, ‘Tamne haju Mahārājnā sarvoparī swarūpnī pākī niṣhṭhā thaī nathī.",
+      "source_reference": "ShreejiMahārāj Pragatni.Vato.193"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Lodhikāvāḷā ______ Shrīharinī sarvoparī niṣhṭhā bestī na hatī.",
+      "options": [
+        "Abhesinh Darbārne",
+        "Jinabhai ne",
+        "Bhikhabhai ne",
+        "Jivabhai ne"
+      ],
+      "correct_answer": "Abhesinh Darbārne",
+      "explanation": "According to Abhesinh Darbār, Lodhikāvāḷā Abhesinh Darbārne Shrīharinī sarvoparī niṣhṭhā bestī na hatī.",
+      "source_reference": "Abhesinh Darbār"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Swāmī kahe, “Ā ame tamne kahīe chhīe je, Mahārāj ______ chhe. Te amāre vachane karīne māno.”",
+      "options": [
+        "sarvoparī",
+        "sarbopari",
+        "sarva karta",
+        "sarva shaktiman"
+      ],
+      "correct_answer": "sarvoparī",
+      "explanation": "According to Abhesinh Darbār, Swāmī kahe, “Ā ame tamne kahīe chhīe je, Mahārāj sarvoparī chhe. Te amāre vachane karīne māno.”",
+      "source_reference": "Abhesinh Darbār"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Ham to ek ______ gāve, Hamāre man Swāminārāyaṇ dūsaro na bhāve... Ham...",
+      "options": [
+        "Sahajānand",
+        "Ghanshyam",
+        "Harikrushna",
+        "Nilkanth"
+      ],
+      "correct_answer": "Sahajānand",
+      "explanation": "According to Premanand Swāmī, Ham to ek Sahajānand gāve, Hamāre man Swāminārāyaṇ dūsaro na bhāve... Ham...",
+      "source_reference": "Premanand Swāmī"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Paṇ jiyā̃ lagī prāṇ raheśhe, Jībhā ______ kaheśhe;",
+      "options": [
+        "Swāmī Sahajānand",
+        "Swaminarayan",
+        "Hari",
+        "Ghanshyam"
+      ],
+      "correct_answer": "Swāmī Sahajānand",
+      "explanation": "According to Bhaktachintamani.102/48-52, Paṇ jiyā̃ lagī prāṇ raheśhe, Jībhā Swāmī Sahajānand kaheśhe;",
+      "source_reference": "Bhaktachintamani.102/48-52"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Akṣharapuruṣhottam upāsanā eṭle Akṣhar ane Puruṣhottam – em be tattvonī upāsanā nahī, parantu ______ thaīne Puruṣhottamnī upāsanā; arthāt Brahmarūp thaīne Parabrahmnī upāsanā.",
+      "options": [
+        "Akṣharrūp",
+        "Purushottamrup",
+        "Brahmarup",
+        "Aksharbrahmarup"
+      ],
+      "correct_answer": "Akṣharrūp",
+      "explanation": "According to Pramukh Swami Maharaj, Akṣharapuruṣhottam upāsanā eṭle Akṣhar ane Puruṣhottam – em be tattvonī upāsanā nahī, parantu Akṣharrūp thaīne Puruṣhottamnī upāsanā; arthāt Brahmarūp thaīne Parabrahmnī upāsanā.",
+      "source_reference": "Pramukh Swami Maharaj"
+    }
+  ]
+}

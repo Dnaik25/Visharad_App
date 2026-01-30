@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Mini-Review Questions (Classes 21-25)",
+  "questions": [
+    {
+      "id": "21-1",
+      "type": "MCQ",
+      "question_text": "Mukta anant supūjit, sundar ____________, Sarvoparī karuņākar, mānav tanudhāram... Jay Swāminārāyaņ 1",
+      "options": [
+        "sākāram",
+        "nirākāram",
+        "alaukik",
+        "divyatā"
+      ],
+      "correct_answer": "sākāram",
+      "explanation": "The first line of the verse is 'Mukta anant supūjit, sundar sākāram'.",
+      "source_reference": "Class 21, Ārti"
+    },
+    {
+      "id": "21-2",
+      "type": "MCQ",
+      "question_text": "Sākshād Aksharadhāma divya paramam, ____________ mūrtimān, Sarvādhāra sadā svaroma-vivare, brahmānda-koţī-dharam;",
+      "options": [
+        "sevāratam",
+        "sevāmayam",
+        "bhakti",
+        "shāntam"
+      ],
+      "correct_answer": "sevāratam",
+      "explanation": "The second line of the verse is 'Sākshād Aksharadhāma divya paramam, sevāratam mūrtimān'.",
+      "source_reference": "Class 21, Āsthak"
+    },
+    {
+      "id": "22-1",
+      "type": "MCQ",
+      "question_text": "Jamo thāļ Jīvan jāu vārī, dhovu kar charan karo ____________...",
+      "options": [
+        "tyārī",
+        "sārī",
+        "jhājhi",
+        "chokhāļi"
+      ],
+      "correct_answer": "tyārī",
+      "explanation": "The requested answer is in the first line of the Thāl.",
+      "source_reference": "Class 22, Thāl"
+    },
+    {
+      "id": "22-2",
+      "type": "MCQ",
+      "question_text": "Lādu jalebī ne sev suvāļī, Hu to ____________ karī lāvī chhu ghari...",
+      "options": [
+        "bhāve",
+        "prem",
+        "shubh",
+        "divya"
+      ],
+      "correct_answer": "bhāve",
+      "explanation": "The requested answer is in the second line of the Jayarãm Brahmachãri Thāl.",
+      "source_reference": "Class 22, Thāl"
+    },
+    {
+      "id": "22-3",
+      "type": "MCQ",
+      "question_text": "Shrimat-sadguņa shālinam chidachidi vyāptam cha ____________; Jīveshākshara mukta-koți sukhadam naikāvatārādhipam.",
+      "options": [
+        "divyākrutim",
+        "brahmaswarūpam",
+        "sarvoparī",
+        "sarva-sharaņam"
+      ],
+      "correct_answer": "divyākrutim",
+      "explanation": "The requested answer is in the first line of the Prarthana.",
+      "source_reference": "Class 22, Prarthana"
+    },
+    {
+      "id": "22-4",
+      "type": "MCQ",
+      "question_text": "Aum sahanāvavatu saha nau bhunaktu saha ____________ karavāvahai; Tejasvinā-vadhītamastu mā vid-vişhāvahai.",
+      "options": [
+        "vīryam",
+        "ānandam",
+        "jīvanam",
+        "shubham"
+      ],
+      "correct_answer": "vīryam",
+      "explanation": "The requested answer is in the first line of the Prarthana.",
+      "source_reference": "Class 22, Prarthana"
+    },
+    {
+      "id": "23-1",
+      "type": "MCQ",
+      "question_text": "Parameshvarnī upāsanā rahevā sāru ____________ paksh moļo karine Bhagwānnā mandir karāvyā chhe.",
+      "options": [
+        "tyāgno",
+        "bhaktino",
+        "dharmano",
+        "mokshno"
+      ],
+      "correct_answer": "tyāgno",
+      "explanation": "The requested answer is in the first line of Vach.Ga.Ma.27",
+      "source_reference": "Class 23, Vach.Ga.Ma.27"
+    },
+    {
+      "id": "23-2",
+      "type": "MCQ",
+      "question_text": "Te Aksharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene ____________ kahīe, Brahmamahol kahīe; ane e Akşhar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.",
+      "options": [
+        "Chidākāsh",
+        "Akshardhām",
+        "Purushottam",
+        "Sahajānand"
+      ],
+      "correct_answer": "Chidākāsh",
+      "explanation": "The requested answer is in the first line of Vach.Ga.Pa.21.",
+      "source_reference": "Class 23, Vach.Ga.Pa.21"
+    },
+    {
+      "id": "24-1",
+      "type": "MCQ",
+      "question_text": "Ane jo kathā-vārtāmā jene āļas hoy tenī kornī em ațaka! karavī je, 'Emā ____________ nahī āve.",
+      "options": [
+        "moță gun",
+        "uttam bhakti",
+        "divya shakti",
+        "param ānand"
+      ],
+      "correct_answer": "moță gun",
+      "explanation": "The requested answer is in the second line of Vach.Ga.An.24",
+      "source_reference": "Class 24, Vach.Ga.An.24"
+    },
+    {
+      "id": "24-2",
+      "type": "MCQ",
+      "question_text": "Bhagwān ne Sādhunā mahimānī vātu ____________ karavī ne sāmbhaļvī.",
+      "options": [
+        "nirantar",
+        "ekāntik",
+        "preme",
+        "bhāve"
+      ],
+      "correct_answer": "nirantar",
+      "explanation": "The requested answer is in the first line of Swa.Vato.1/1.",
+      "source_reference": "Class 24, Swa.Vato.1/1"
+    },
+    {
+      "id": "24-3",
+      "type": "MCQ",
+      "question_text": "Vishvās rākhīne prītie sahit je Bhagwan Purushottam Nārāyaņnī vāt sāmbhaļvī ethī bīju manne ____________ thavānu ne nirvişhayī thavānu koi moțu sādhan nathī.",
+      "options": [
+        "sthir",
+        "prasanna",
+        "shuddha",
+        "nirmal"
+      ],
+      "correct_answer": "sthir",
+      "explanation": "The requested answer is in the first line of Vach.Ka.12",
+      "source_reference": "Class 24, Vach.Ka.12"
+    },
+    {
+      "id": "25-1",
+      "type": "MCQ",
+      "question_text": "Evā sarvoparī je Purushottam Bhagwān te ja dayāe karīne ____________ arthe pruthvīne vishe prakat thayā thakā sarva jannā nayan-gochar varte chhe ne tamārā işhţadev chhe ne tamārī sevāne angīkār kare chhe.",
+      "options": [
+        "jīvonā kalyāņne",
+        "bhaktonā sukhne",
+        "santonā ānandne",
+        "sarvanā hitne"
+      ],
+      "correct_answer": "jīvonā kalyāņne",
+      "explanation": "The requested answer is in the first line of Vach.Ga.An.38.",
+      "source_reference": "Class 25, Vach.Ga.An.38"
+    },
+    {
+      "id": "25-2",
+      "type": "MCQ",
+      "question_text": "Mahārājne ____________ jāṇyā vinā Akṣardhāmmā javāy nahī.",
+      "options": [
+        "Puruṣottam",
+        "Sahajānand",
+        "Swāminārāyaṇ",
+        "Aksharbrahma"
+      ],
+      "correct_answer": "Puruṣottam",
+      "explanation": "The requested answer is in the first line of Swa.Vato.3/12.",
+      "source_reference": "Class 25, Swa.Vato.3/12"
+    },
+    {
+      "id": "25-3",
+      "type": "MCQ",
+      "question_text": "Lodhikāvāḷā Abhesinh Darbārne Shrīharinī ____________ bestī na hatī.",
+      "options": [
+        "sarvoparī niṣhṭhā",
+        "param bhakti",
+        "divya sevā",
+        "uttam prīti"
+      ],
+      "correct_answer": "sarvoparī niṣhṭhā",
+      "explanation": "The requested answer is in the first line of the Abhesinh Darbār Prasang.",
+      "source_reference": "Class 25, Abhesinh Darbār"
+    },
+    {
+      "id": "25-4",
+      "type": "MCQ",
+      "question_text": "Tap tīrath sādhanme swapne nahi jāve, Jaise kou ____________ chhānḍ chhāchhkon na khāve... Ham... 1",
+      "options": [
+        "ghṛut",
+        "tel",
+        "jal",
+        "dudh"
+      ],
+      "correct_answer": "ghṛut",
+      "explanation": "The requested answer is in the second line of the Kirtan Ham to ek Sahajānand gāve.",
+      "source_reference": "Class 25, Ham to ek Sahajānand gāve"
+    },
+    {
+      "id": "25-5",
+      "type": "MCQ",
+      "question_text": "Paṇ jiyā̃ lagī prāṇ raheśhe, Jībhā ____________ kaheśhe; Teh vinā kahe bījū̃ kem, Paḍī ā̃ṭī antarmā̃ em. 48",
+      "options": [
+        "Swāmī Sahajānand",
+        "Shrī Swāminārāyaṇ",
+        "Akṣhar Purushottam",
+        "Sarvoparī Hari"
+      ],
+      "correct_answer": "Swāmī Sahajānand",
+      "explanation": "The requested answer is in the second line of Bhaktachintamani.102/48-52",
+      "source_reference": "Class 25, Bhaktachintamani.102/48-52"
+    },
+    {
+      "id": "25-6",
+      "type": "MCQ",
+      "question_text": "Tethī manuṣhyarūpe vichartā Parabrahmnā swadhāmgaman bād paṇ Brahmaswarūp gurunā bhāvne līn karīne temnā dwārā ____________ ja swayam vichartā hovāthī te pratyakṣh guruharino prasang karnār mumukṣhune upāsanā to ekmātra Paramātmānī ja rahe chhe.",
+      "options": [
+        "Paramātmā",
+        "Aksharbrahma",
+        "Purna Purushottam",
+        "Sarvopari"
+      ],
+      "correct_answer": "Paramātmā",
+      "explanation": "The requested answer is in the Siddhant Patra.",
+      "source_reference": "Class 25, Siddhant Patra"
+    },
+    {
+      "id": "25-7",
+      "type": "MCQ",
+      "question_text": "Temṇe Shrīharinu ek paṇ vachan ____________ paḍavā dīdhu na hatu. Dehabhāvno bhukko bolāvīne akhanḍ ātmā rūpe vartatnārā hatā.",
+      "options": [
+        "heṭhu",
+        "mithyā",
+        "dur",
+        "khotu"
+      ],
+      "correct_answer": "heṭhu",
+      "explanation": "The requested answer is in the ShreejiMahārāj Pragatni.Vato.193.",
+      "source_reference": "Class 25, ShreejiMahārāj Pragatni.Vato.193"
+    },
+    {
+      "id": "25-8",
+      "type": "MCQ",
+      "question_text": "Swāmī kahe, “Ā ame tamne kahīe chhīe je, Mahārāj ____________ chhe. Te amāre vachane karīne māno.”",
+      "options": [
+        "sarvoparī",
+        "sarvantaryāmi",
+        "sarvakartā",
+        "sākshāt"
+      ],
+      "correct_answer": "sarvoparī",
+      "explanation": "The requested answer is in the Abhesinh Darbār Prasang.",
+      "source_reference": "Class 25, Abhesinh Darbār"
+    },
+    {
+      "id": "25-9",
+      "type": "MCQ",
+      "question_text": "Buddhi nahi kare nishche ____________ vinya; Chitt na chintave bījī vāt, Ahankār hū̃ Harino sākṣhāt. 50",
+      "options": [
+        "Hari",
+        "Guru",
+        "Swāminārāyaṇ",
+        "Akshar"
+      ],
+      "correct_answer": "Hari",
+      "explanation": "The requested answer is in the Bhaktachintamani.102/48-52.",
+      "source_reference": "Class 25, Bhaktachintamani.102/48-52"
+    }
+  ]
+}

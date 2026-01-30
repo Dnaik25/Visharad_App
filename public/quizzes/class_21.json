@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 21 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Jay Swāminārāyaṇ, jay Akşharpurushottam, Aksharpurushottam jay, darshan ________... Jay Swāminārāyaṇ...",
+      "options": [
+        "sādhutā",
+        "sarvottam",
+        "vistārakam",
+        "sākāram"
+      ],
+      "correct_answer": "sarvottam",
+      "explanation": "The missing word in the Ārti is 'sarvottam'.",
+      "source_reference": "Ārti"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Mukta anant supūjit, sundar ________, Sarvoparī karuņākar, mānav tanudhāram... Jay Swāminārāyaṇ 1",
+      "options": [
+        "sākāram",
+        "prasanna",
+        "vistārakam",
+        "pravartit"
+      ],
+      "correct_answer": "sākāram",
+      "explanation": "The missing word in the Ārti is 'sākāram'.",
+      "source_reference": "Ārti"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Purushottam Parabrahma, Shrīhari Sahajānand, Aksharbrahma anādi, ________... Jay Swāminārāyaṇ... 2",
+      "options": [
+        "Guņātītānand",
+        "sanjīvanī",
+        "sādhutā",
+        "sākāram"
+      ],
+      "correct_answer": "Guņātītānand",
+      "explanation": "The missing word in the Ārti is 'Guņātītānand'.",
+      "source_reference": "Ārti"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "Prakat sadā sarvakartā, param muktidātā, Dharma ekāntik sthāpak, ________..... Jay Swāminārāyan...3",
+      "options": [
+        "bhakti paritrātā",
+        "sneha-rasitam",
+        "brahmānanda",
+        "sākāram"
+      ],
+      "correct_answer": "bhakti paritrātā",
+      "explanation": "The missing word in the Ārti is 'bhakti paritrātā'.",
+      "source_reference": "Ārti"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Dāsbhāv divyatā sah, brahmarūpe prīti, Suhrudbhāv alaukik, ________... Jay Swāminārāyan... 4",
+      "options": [
+        "sthāpit shubh rīti",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
+      ],
+      "correct_answer": "sthāpit shubh rīti",
+      "explanation": "The missing word in the Ārti is 'sthāpit shubh rīti'.",
+      "source_reference": "Ārti"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Dhanya dhanya mam jīvan, tav sharane sufalam, Yagnapurush pravartit ________ sukhadam... Jay Swāminārayan....5",
+      "options": [
+        "siddhāntam",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
+      ],
+      "correct_answer": "siddhāntam",
+      "explanation": "The missing word in the Ārti is 'siddhāntam'.",
+      "source_reference": "Ārti"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Antaryāmi parātparam hita-karam, sarvoparī Shri Hari, Sākāram Parabrahma sarva-sharaņam, kartā ________;",
+      "options": [
+        "dayā-sāgaram",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
+      ],
+      "correct_answer": "dayā-sāgaram",
+      "explanation": "The missing word in the Asthak is 'dayā-sāgaram'.",
+      "source_reference": "Āsthak"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Ārādhyam mama işhţadev prakaţam, sarvāvatārī Prabhu, Vande dukha-haram sadā sukha-karam, ________. 1",
+      "options": [
+        "Shri Swāminārāyaņam",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
+      ],
+      "correct_answer": "Shri Swāminārāyaņam",
+      "explanation": "The missing word in the Asthak is 'Shri Swāminārāyaņam'.",
+      "source_reference": "Āsthak"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Sākşhād Aksharadhāma divya paramam, sevāratam mūrtimān, Sarvādhāra sadā svaroma-vivare, ________;",
+      "options": [
+        "brahmānda-koţī-dharam",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
+      ],
+      "correct_answer": "brahmānda-koţī-dharam",
+      "explanation": "The missing word in the Asthak is 'brahmānda-koţī-dharam'.",
+      "source_reference": "Āsthak"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Bhakti dhyāna kathā sadaiva karaņam, brahma-sthiti-dāyakam, Vande Aksharabrahma pāda-kamalam, ________. 2",
+      "options": [
+        "Guņātītānandanam",
+        "sākāram",
+        "prasanna",
+        "vistārakam"
+      ],
+      "correct_answer": "Guņātītānandanam",
+      "explanation": "The missing word in the Asthak is 'Guņātītānandanam'.",
+      "source_reference": "Āsthak"
+    }
+  ]
+}

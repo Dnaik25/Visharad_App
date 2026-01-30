@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 22 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Jamo thāļ Jīvan jāu vārī, dhovu kar charan karo tyārī... Beso melyā ____________ dhāļī,",
+      "options": [
+        "unchā āsaniye",
+        "bājothiyā",
+        "divya sinhasane",
+        "pāte chokhāļī"
+      ],
+      "correct_answer": "bājothiyā",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Beso melyā bājothiyā dhāļī'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Karī kāthā ghaunī poļī, Melī ghrut sākarmā boļī; Kādhyo ras ____________ ghoļī... jamo thāļ 2",
+      "options": [
+        "kerīno",
+        "jāmbuno",
+        "drakshno",
+        "badāmno"
+      ],
+      "correct_answer": "kerīno",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Kādhyo ras kerīno ghoļī'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Galyā sātā ghebar fülvadī, Dūdhpāk mālpūā kadhī; Pūrī pochĩ thaï chhe ____________ chadhī... jamo thāļ 3",
+      "options": [
+        "ghīmā",
+        "telmā",
+        "sākarmā",
+        "dudhmā"
+      ],
+      "correct_answer": "ghīmā",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Pūrī pochĩ thaï chhe ghīmā chadhī'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "Athāņā shāk sundar bhājī, Lāvī chhu tarat karī tāji; Dahī bhāt ____________ chhe jhājhi... jamo thāļ 4",
+      "options": [
+        "sākar",
+        "ghī",
+        "tel",
+        "lūn"
+      ],
+      "correct_answer": "sākar",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Dahī bhāt sākar chhe jhājhi'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Chaļu karo lāvu jaļjhārī, Elāychī laving sopārī, Pānbīdī ____________ sārī... jamo thāļ 5",
+      "options": [
+        "banāvī",
+        "melāvī",
+        "khavāvī",
+        "pīvāvī"
+      ],
+      "correct_answer": "banāvī",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Pānbīdī banāvī sārī'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Mukhvās mangamtā laīne, Prasādīno thāļ mune daine, Bhumānand kahe ____________ thaïne... jamo thāļ 6",
+      "options": [
+        "rājī",
+        "khush",
+        "prasann",
+        "ānandit"
+      ],
+      "correct_answer": "rājī",
+      "explanation": "The lyric from 'Thāl' by Bhūmānand Swāmī is 'Bhumānand kahe rājī thaïne'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Māre gher āvjo Chhogalādhārī; Lādu jalebī ne sev suvāļī, Hu to bhāve karī lāvī chhu ____________...",
+      "options": [
+        "ghari",
+        "sākar",
+        "god",
+        "tel"
+      ],
+      "correct_answer": "ghari",
+      "explanation": "The lyric from 'Thāl' by Jayarãm Brahmachãri is 'Hu to bhāve karī lāvī chhu ghari'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Sūran pūran ne bhājī kārelā, Pāpad vadi vaghārī; Vantāk vāloļnā shāk karyā, Me to ____________ chhamkārī... māre 1",
+      "options": [
+        "choļāfaļī",
+        "bhinda",
+        "gājar",
+        "kāndā"
+      ],
+      "correct_answer": "choļāfaļī",
+      "explanation": "The lyric from 'Thāl' by Jayarãm Brahmachãri is 'Me to choļāfaļī chhamkārī'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Kāju kamodnā bhāt karyā, Me to dāļ karī bahu sārī; Limbu kākdīnā lejo athāņā, Kadhī karī chhe ____________... māre 2",
+      "options": [
+        "Kāthiyāvādī",
+        "Gujarātī",
+        "Suratī",
+        "Mumbaiī"
+      ],
+      "correct_answer": "Kāthiyāvādī",
+      "explanation": "The lyric from 'Thāl' by Jayarãm Brahmachãri is 'Kadhī karī chhe Kāthiyāvādī'.",
+      "source_reference": "Thāl"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Shrimat-sadguņa shālinam ____________ vyāptam cha divyākrutim;",
+      "options": [
+        "chidachidi",
+        "gunatitam",
+        "brahmaswarupam",
+        "sarvopari"
+      ],
+      "correct_answer": "chidachidi",
+      "explanation": "The line from the Prarthana is 'Shrimat-sadguņa shālinam chidachidi vyāptam cha divyākrutim'.",
+      "source_reference": "Prarthana"
+    }
+  ]
+}

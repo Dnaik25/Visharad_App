@@ -1,11 +1,7 @@
+'use client';
+
 import Link from 'next/link';
 import { RefItem } from '@/lib/types';
-
-// --- Placeholders ---
-
-// --- Placeholders ---
-
-// Removed AudioPlaceholder as it is now handled in AudioPlayer component
 
 export function ExplanationPlaceholder() {
     return (

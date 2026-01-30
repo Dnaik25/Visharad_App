@@ -139,8 +139,12 @@ export function parseClassTxt(text: string): ShlokBlock[] {
                     };
                 } else {
                     // Continuation of current ref text
-                    const joinChar = (currentSection?.includes('Kirtan') || currentSection?.includes('Padi')) ? '\n' : ' ';
+                    // Default to newlines for most references (Aarti, Asthak, Kirtan, etc.)
+                    // Only use spaces for prose-heavy texts like Vachanamrut and Swamini Vato
+                    const isProse = currentSection?.includes('Vachanamrut') || currentSection?.includes('Swamini Vato');
+                    const joinChar = isProse ? ' ' : '\n';
 
+                    // Strict WYSIWYG: Use the content exactly as it is in the file line
                     if (currentRef) {
                         currentRef.text = currentRef.text
                             ? currentRef.text + joinChar + trimmed

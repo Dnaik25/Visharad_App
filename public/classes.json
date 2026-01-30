@@ -98,5 +98,45 @@
         "id": "20",
         "file": "Class_20.txt",
         "title": "Class 20"
+    },
+    {
+        "id": "21",
+        "file": "Class_21.txt",
+        "title": "Class 21"
+    },
+    {
+        "id": "22",
+        "file": "Class_22.txt",
+        "title": "Class 22"
+    },
+    {
+        "id": "23",
+        "file": "Class_23.txt",
+        "title": "Class 23"
+    },
+    {
+        "id": "24",
+        "file": "Class_24.txt",
+        "title": "Class 24"
+    },
+    {
+        "id": "25",
+        "file": "Class_25.txt",
+        "title": "Class 25"
+    },
+    {
+        "id": "26",
+        "file": "Class_26.txt",
+        "title": "Class 26"
+    },
+    {
+        "id": "27",
+        "file": "Class_27.txt",
+        "title": "Class 27"
+    },
+    {
+        "id": "28",
+        "file": "Class_28.txt",
+        "title": "Class 28"
     }
 ]

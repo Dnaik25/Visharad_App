@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 27 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Bhagwānnā bhaktano paksh dradh karīne rākhyo joïe. Ane te paksh rākhatā thakā ābarū vadho athavā ghato, athavā mān thāo ke apamān thão, athavā deh jīvo ke maro, pan koi rīte __________ nahī ne emano abhāv āvavā devo nahī.",
+      "options": [
+        "Bhagwān ne Bhagwānnā bhaktano pakşh mūkavo",
+        "Bhagwān ne māyanu pakşh mūkavo",
+        "ishvar ne jivano paksh mukavo",
+        "brahma ane parmatmanu paksh mukavo"
+      ],
+      "correct_answer": "Bhagwān ne Bhagwānnā bhaktano pakşh mūkavo",
+      "explanation": "The Vachanamrut states: pan koi rīte Bhagwān ne Bhagwānnā bhaktano pakşh mūkavo nahī ne emano abhāv āvavā devo nahī.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Evī rīte je haribhakta varte tene ati baļavān evā je __________, te paņ parābhav karī shakatā nathī.",
+      "options": [
+        "kām, krodhādik shatru",
+        "lobh, mohadik shatru",
+        "mān, irṣhyādik shatru",
+        "matsar, mohādik shatru"
+      ],
+      "correct_answer": "kām, krodhādik shatru",
+      "explanation": "The Vachanamrut states: Evī rīte je haribhakta varte tene ati baļavān evā je kām, krodhādik shatru te paņ parābhav karī shakatā nathī.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "E Purushottam Bhagwan, Aksharbrahma, māyā, īshvar ane jiv e je __________ te anādi chhe.",
+      "options": [
+        "pach bhed",
+        "tran bhed",
+        "char bhed",
+        "chhe bhed"
+      ],
+      "correct_answer": "pach bhed",
+      "explanation": "The Vachanamrut states: E Purushottam Bhagwan, Aksharbrahma, māyā, īshvar ane jiv e je pach bhed te anādi chhe.",
+      "source_reference": "Vach.Ga.Pa.7"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "Jīv, māyā, īshvar, Brahma ane Parameshvar e sarve __________ chhe.",
+      "options": [
+        "anādi",
+        "sādi",
+        "nāshvant",
+        "vināshī"
+      ],
+      "correct_answer": "anādi",
+      "explanation": "The Vachanamrut states: Jīv, māyā, īshvar, Brahma ane Parameshvar e sarve anādi chhe.",
+      "source_reference": "Vach.Ga.An.10"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Nar ichchhe chhe naresh thāvā, rājā ichchhe __________;",
+      "options": [
+        "Amarlok jāvā",
+        "Indrapadavī pāvā",
+        "vaikunth javā",
+        "brahmpur javā"
+      ],
+      "correct_answer": "Amarlok jāvā",
+      "explanation": "The Bhaktachintamani states: Nar ichchhe chhe naresh thāvā, rājā ichchhe Amarlok jāvā.",
+      "source_reference": "Bhaktachintamani.77/4-7"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Amar ichchhe Indrapadavī, Indra ichchhe __________.",
+      "options": [
+        "thāvā ādya kavi",
+        "vishnulok javā",
+        "shivlok javā",
+        "surya jevo thava"
+      ],
+      "correct_answer": "thāvā ādya kavi",
+      "explanation": "The Bhaktachintamani states: Amar ichchhe Indrapadavī, Indra ichchhe thāvā ādya kavi.",
+      "source_reference": "Bhaktachintamani.77/4-7"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Te par Mūḷ Prakṛutipuruṣh, tethī par __________.",
+      "options": [
+        "Akṣhar sujush",
+        "purushottam kahie",
+        "brahma kahie",
+        "paramatma kahie"
+      ],
+      "correct_answer": "Akṣhar sujush",
+      "explanation": "The Bhaktachintamani states: Te par Mūḷ Prakṛutipuruṣh, tethī par Akṣhar sujush.",
+      "source_reference": "Bhaktachintamani.77/4-7"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Akṣhar par Puruṣhottam jeh, teṇe __________;",
+      "options": [
+        "dharyu manuṣhyanu deh",
+        "dharyu devtanu deh",
+        "dharyu pashunu deh",
+        "dharyu pakshinu deh"
+      ],
+      "correct_answer": "dharyu manuṣhyanu deh",
+      "explanation": "The Bhaktachintamani states: Akṣhar par Puruṣhottam jeh, teṇe dharyu manuṣhyanu deh.",
+      "source_reference": "Bhaktachintamani.77/4-7"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Jevo e jīvne potānā sambandhīne vișhe dradh prasang chhe tevo ne tevo ja prasang jo __________ vishe thāy to e jīvne mokshanu dvār ughādu thây chhe.",
+      "options": [
+        "Bhagwānnā Ekāntik Sādhune",
+        "Bhagwānnā sāmānya bhaktane",
+        "Bhagwānnā sevakne",
+        "Bhagwānnā pujarine"
+      ],
+      "correct_answer": "Bhagwānnā Ekāntik Sādhune",
+      "explanation": "The Vachanamrut states: Jevo e jīvne potānā sambandhīne vișhe dradh prasang chhe tevo ne tevo ja prasang jo Bhagwānnā Ekāntik Sādhune vishe thāy to e jīvne mokshanu dvār ughādu thây chhe.",
+      "source_reference": "Vach.Ga.Pa.54"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Māyā taravano upay e chhe je, jyāre sarva karma ane māyā teno nāsh karanārā ne māyāthī par je sākşhātkār Shri Purushottam Bhagwān athavā te Bhagwānnā maļel sant temanī jīvne prāpti jyāre thāy chhe tyāre temanā __________ māyā ullanghāy chhe.",
+      "options": [
+        "āshraythī",
+        "sevāthī",
+        "bhaktithī",
+        "dhyānthī"
+      ],
+      "correct_answer": "āshraythī",
+      "explanation": "The Vachanamrut states: Māyā taravano upay e chhe je, jyāre sarva karma ane māyā teno nāsh karanārā ne māyāthī par je sākşhātkār Shri Purushottam Bhagwān athavā te Bhagwānnā maļel sant temanī jīvne prāpti jyāre thāy chhe tyāre temanā āshraythī māyā ullanghāy chhe.",
+      "source_reference": "Vach.Je.1"
+    }
+  ]
+}

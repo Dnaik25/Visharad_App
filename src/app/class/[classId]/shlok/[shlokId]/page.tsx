@@ -93,7 +93,10 @@ export default async function ShlokPage({ params }: Props) {
                         <div key={`group-${groupIdx}`} className="mb-10">
                             {/* Title (Topic) Header */}
                             {group.title && (
-                                <h3 className="text-xl font-serif font-bold text-gray-800 mb-6 pb-2 border-b border-gray-200">
+                                <h3 className={`text-xl font-serif font-bold mb-6 pb-2 border-b border-gray-200 ${group.title === 'Memorize all the details of any TWO incidents from this letter. Understand the other incidents for further reinforcement.'
+                                        ? 'text-red-600'
+                                        : 'text-gray-800'
+                                    }`}>
                                     {group.title}
                                 </h3>
                             )}

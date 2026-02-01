@@ -4,6 +4,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 import { MainLayout } from '@/components/MainLayout';
 import { getAllClassesMetadata } from '@/lib/data';
+import { FeedbackButton } from '@/components/FeedbackButton';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -25,6 +26,7 @@ export default async function RootLayout({
         <MainLayout classes={classesData}>
           {children}
         </MainLayout>
+        <FeedbackButton />
         <Analytics />
       </body>
     </html>

@@ -3,7 +3,7 @@ import { getClassContent } from '@/lib/data';
 import {
     ShlokCard,
     ExplanationPlaceholder,
-    ReferenceItem,
+    ReferenceSection,
     NavButtons
 } from '@/components/ShlokView';
 
@@ -62,66 +62,11 @@ export default async function ShlokPage({ params }: Props) {
 
 
             {/* 4. References (Dynamic) */}
-            {/* 4. References (Dynamic) */}
-            <div className="space-y-8">
-                {(() => {
-                    // 1. Flatten all references into a single list with source
-                    const allRefs: { source: string; item: typeof shlok.references[string][0] }[] = [];
-                    Object.entries(shlok.references).forEach(([source, items]) => {
-                        items.forEach(item => allRefs.push({ source, item }));
-                    });
-
-                    // 2. Group by Title (preserving order)
-                    // We use a Map<Title | 'Untitled', GroupObject> to preserve insertion order
-                    type GroupObj = { title?: string; itemsBySource: Record<string, typeof shlok.references[string]> };
-                    const groups = new Map<string, GroupObj>();
-
-                    allRefs.forEach(({ source, item }) => {
-                        const key = item.title || 'Untitled';
-                        if (!groups.has(key)) {
-                            groups.set(key, { title: item.title, itemsBySource: {} });
-                        }
-                        const group = groups.get(key)!;
-                        if (!group.itemsBySource[source]) {
-                            group.itemsBySource[source] = [];
-                        }
-                        group.itemsBySource[source].push(item);
-                    });
-
-                    // 3. Render Groups
-                    return Array.from(groups.values()).map((group, groupIdx) => (
-                        <div key={`group-${groupIdx}`} className="mb-10">
-                            {/* Title (Topic) Header */}
-                            {group.title && (
-                                <h3 className={`text-xl font-serif font-bold mb-6 pb-2 border-b border-gray-200 ${group.title === 'Memorize all the details of any TWO incidents from this letter. Understand the other incidents for further reinforcement.'
-                                        ? 'text-red-600'
-                                        : 'text-gray-800'
-                                    }`}>
-                                    {group.title}
-                                </h3>
-                            )}
-
-                            {/* Render Sources within this Group */}
-                            {Object.entries(group.itemsBySource).map(([source, items], sourceIdx) => (
-                                <div key={`source-${sourceIdx}`} className="mb-6 last:mb-0">
-                                    {/* Source Sub-header */}
-                                    <h4 className="text-sm font-bold text-gray-500 uppercase tracking-wider mb-3">
-                                        {source}
-                                    </h4>
-
-                                    {items.map((ref, refIdx) => (
-                                        <ReferenceItem
-                                            key={`${source}-${refIdx}`}
-                                            item={ref}
-                                            classId={classId}
-                                        />
-                                    ))}
-                                </div>
-                            ))}
-                        </div>
-                    ));
-                })()}
-            </div>
+            <ReferenceSection
+                shlokReferences={shlok.references}
+                classId={classId}
+                shlokNumber={shlok.shlokNumber}
+            />
 
             {/* 5. Navigation */}
             <NavButtons

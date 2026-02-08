@@ -21,7 +21,8 @@
             },
             {
                 "text": "Worship God with this body since this body will pass away at any time. This task is like instantly threading a pearl in a flash of lightning. Similarly, achieve your work (i.e. worship God) in the little time you have (i.e. during one’s lifetime).",
-                "source": "Swā.Vāto: 6/77"
+                "source": "Swā.Vāto: 6/77",
+                "match_text": "zabakārāmā"
             }
         ]
     },
@@ -68,7 +69,8 @@
             },
             {
                 "text": "When he attains the company of such a Sant, he has, while still alive, attained He who was to be attained after death. That is to say, he has attained that which is called the highest state of enlightenment, or liberation, while being alive.",
-                "source": "Vach.Ga.An.2"
+                "source": "Vach.Ga.An.2",
+                "match_text": "parampad"
             },
             {
                 "text": "God has said, “I am not as pleased by austerities, sacrifices, yoga, observance of vows, donations and other endeavours as I am by satsang.” What is that satsang? “To fold one’s hands before the great God-realized Sadhu and to do as he says.”",
@@ -94,7 +96,7 @@
         ]
     },
     {
-        "shlok": "8-9",
+        "shlok": 8,
         "references": [
             {
                 "text": "Only he is a satsangi, because only he who associates with his own satya ātmā and satya God can be called a satsangi.",
@@ -147,7 +149,7 @@
         ]
     },
     {
-        "shlok": "14-16",
+        "shlok": 14,
         "references": [
             {
                 "text": "One who desires one’s own liberation should not harbor any form of vanity - such as, ‘I have been born in an upper-class family,’ or ‘I am wealthy,’ or ‘I am handsome,’ or ‘I am a scholar.’ One should not keep any of these types of beliefs. In fact, even with a meek satsangi, one should behave as a servant of servants.",

@@ -1,0 +1,18 @@
+﻿
+> vv@0.1.0 lint
+> eslint
+
+
+C:\Users\dhruv\Desktop\Mandir\Visharad App\src\app\class\[classId]\shlok\[shlokId]\page.tsx
+  5:5  warning  'AudioPlaceholder' is defined but never used        @typescript-eslint/no-unused-vars
+  6:5  warning  'ExplanationPlaceholder' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\dhruv\Desktop\Mandir\Visharad App\src\components\ShlokView.tsx
+  33:5   warning  'shlokNumber' is defined but never used  @typescript-eslint/no-unused-vars
+  67:39  warning  'source' is defined but never used       @typescript-eslint/no-unused-vars
+
+C:\Users\dhruv\Desktop\Mandir\Visharad App\src\lib\data.ts
+  8:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+Ô£û 5 problems (1 error, 4 warnings)
+

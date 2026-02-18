@@ -1,4 +1,5 @@
 export type RefItem = {
+    id?: string;
     ref: string;
     displayRef?: string;
     text: string;

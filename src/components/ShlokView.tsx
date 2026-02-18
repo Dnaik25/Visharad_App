@@ -63,6 +63,7 @@ import { AudioPlayer } from './AudioPlayer';
 type TranslationData = {
     shlok?: number;
     references: {
+        id: string;
         text: string;
         source: string;
     }[];
@@ -106,20 +107,16 @@ export function ReferenceItem({
             (async () => {
                 setIsLoading(true);
                 try {
-                    const res = await fetch('/reference_translations.json');
+                    const res = await fetch('/reference_translations_v2.json');
                     if (!res.ok) throw new Error('Failed to load translations');
 
                     const data = await res.json();
 
-                    // Normalize strings for comparison (remove spaces, punctuation, lowercase)
-                    const normalize = (s: string) => s.replace(/[\s\.]/g, '').toLowerCase();
-                    const targetRef = normalize(item.displayRef || item.ref);
-
                     // 1. Find the shlok data
                     let shlokData;
                     if (Array.isArray(data)) {
-                        shlokData = data.find((d: any) => d.shlok === shlokNumber);
-                    } else if (data.shlok === shlokNumber) {
+                        shlokData = data.find((d: any) => String(d.shlok) === String(shlokNumber));
+                    } else if (String(data.shlok) === String(shlokNumber)) {
                         // Single object case (legacy support for simple structure if needed)
                         shlokData = data;
                     }
@@ -129,23 +126,22 @@ export function ReferenceItem({
                         return;
                     }
 
-                    // 2. Filter all references in this shlok that match the target source
-                    // We use the same normalization logic to match "Vach. Sā. 1" with "Vach.Sā.1"
-                    const matchingRefs = shlokData.references.filter((r: any) =>
-                        normalize(r.source) === targetRef
-                    );
+                    // 2. Find the reference by ID
+                    let match;
+                    if (item.id) {
+                        match = shlokData.references.find((r: any) => r.id === item.id);
+                    }
 
-                    // 3. Try to find an exact match using 'match_text' substring
-                    let match = matchingRefs.find((r: any) => {
-                        if (!r.match_text) return false;
-                        // Check if the reference text displayed contains the match_text (case-insensitive)
-                        return item.text.toLowerCase().includes(r.match_text.toLowerCase());
-                    });
+                    // Fallback to source-based matching ONLY if ID is missing (legacy compat)
+                    if (!match && !item.id) {
+                        // Normalize strings for comparison (remove spaces, punctuation, lowercase)
+                        const normalize = (s: string) => s.replace(/[\s\.]/g, '').toLowerCase();
+                        const targetRef = normalize(item.displayRef || item.ref);
 
-                    // 4. Fallback to index-based matching if no specific text match is found
-                    // If there are duplicates (e.g. 2 instances of Vach.Ga.Ma.59), 
-                    // the indexInSource (0, 1, etc.) ensures we pick the right one (if no match_text is used).
-                    if (!match) {
+                        const matchingRefs = shlokData.references.filter((r: any) =>
+                            normalize(r.source) === targetRef
+                        );
+                        // Fallback to index-based matching
                         match = matchingRefs[indexInSource];
                     }
 

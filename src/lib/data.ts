@@ -18,9 +18,51 @@ export async function getClasses(): Promise<any[]> {
 
 export async function getClassContent(filename: string): Promise<ShlokBlock[]> {
     const filePath = path.join(PUBLIC_DIR, filename);
+    const translationsPath = path.join(PUBLIC_DIR, 'reference_translations_v2.json');
+
     try {
         const fileContent = fs.readFileSync(filePath, 'utf-8');
-        return parseClassTxt(fileContent);
+        const blocks = parseClassTxt(fileContent);
+
+        // Load translations to inject IDs
+        let translations: any[] = [];
+        try {
+            const transContent = fs.readFileSync(translationsPath, 'utf-8');
+            translations = JSON.parse(transContent);
+            if (!Array.isArray(translations)) translations = [translations];
+        } catch (e) {
+            console.warn('Failed to load reference_translations_v2.json for ID injection', e);
+        }
+
+        // Inject IDs
+        const normalize = (s: string) => s ? s.replace(/[\s\.]/g, '').toLowerCase() : '';
+
+        blocks.forEach(block => {
+            const shlokTrans = translations.find((t: any) => String(t.shlok) === String(block.shlokNumber));
+            if (!shlokTrans || !shlokTrans.references) return;
+
+            // Clone references to consume them as we match (handling duplicates sequentially)
+            const jsonRefs = [...shlokTrans.references];
+
+            // Iterate through all parsed references in the block
+            Object.values(block.references).forEach(sectionRefs => {
+                sectionRefs.forEach(refItem => {
+                    const targetSource = normalize(refItem.displayRef || refItem.ref);
+
+                    // Find the first matching JSON reference
+                    const matchIndex = jsonRefs.findIndex((r: any) => normalize(r.source) === targetSource);
+
+                    if (matchIndex !== -1) {
+                        // Assign ID
+                        refItem.id = jsonRefs[matchIndex].id;
+                        // Remove from pool to ensure 1:1 mapping for duplicates
+                        jsonRefs.splice(matchIndex, 1);
+                    }
+                });
+            });
+        });
+
+        return blocks;
     } catch (error) {
         console.error(`Error reading class file: ${filename}`, error);
         return [];

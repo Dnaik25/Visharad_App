@@ -1,6 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { generateAdminQuiz } from '../src/lib/admin-quiz-generator';
+import { generateAdminQuiz } from '@/lib/admin-quiz-generator';
 
 async function loadEnv() {
     try {

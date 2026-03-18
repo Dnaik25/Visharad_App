@@ -1,0 +1,103 @@
+{
+  "quiz_title": "Class 30 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Swāminārāyaṇ nāmnā mantra jevo bījo koī mantra āj ......... nathī.",
+      "options": [
+        "sāro",
+        "ūchcho",
+        "baḷiyo",
+        "mototho"
+      ],
+      "correct_answer": "baḷiyo",
+      "explanation": "The exact words from Swamini Vato 1/153 are: Swāminārāyaṇ nāmnā mantra jevo bījo koī mantra āj baḷiyo nathī.",
+      "source_reference": "Swa. Vato: 1/153"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Swāminārāyaṇ nāmnā mantre kevā nāgnu paṇ jher na chaḍe?",
+      "options": [
+        "dhuḷiyā",
+        "kāḷā",
+        "pīḷā",
+        "līlā"
+      ],
+      "correct_answer": "kāḷā",
+      "explanation": "The exact words from Swamini Vato 1/153 are: e mantre kāḷā nāgnu paṇ jher na chaḍe.",
+      "source_reference": "Swa. Vato: 1/153"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Shāstrījī Mahārāje prasangopātt uchchārelā chār .........",
+      "options": [
+        "shloko",
+        "mantro",
+        "mahāvākyo",
+        "bhajano"
+      ],
+      "correct_answer": "mahāvākyo",
+      "explanation": "The exact words from Shastriji Maharajno Patra are: Shāstrījī Mahārāje prasangopātt uchchārelā chār mahāvākyo.",
+      "source_reference": "Shastriji Maharajno Patra"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Āpaṇe to Aksharpurushottamnā ......... chhīe.",
+      "options": [
+        "bhakto",
+        "sevako",
+        "baḷadiyā",
+        "mitro"
+      ],
+      "correct_answer": "baḷadiyā",
+      "explanation": "The exact words from Shastriji Maharajno Patra are: Āpaṇe to Aksharpurushottamnā baḷadiyā chhīe.",
+      "source_reference": "Shastriji Maharajno Patra"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Aksharpurushottam māṭe āpaṇe ......... paḍe to paṇ te ochhu chhe.",
+      "options": [
+        "vechāvu",
+        "jeevavu",
+        "marvu",
+        "hasvu"
+      ],
+      "correct_answer": "vechāvu",
+      "explanation": "The exact words from Shastriji Maharajno Patra are: Aksharpurushottam māṭe āpaṇe vechāvu paḍe to paṇ te ochhu chhe.",
+      "source_reference": "Shastriji Maharajno Patra"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Aksharpurushottamni vāt koī mārā ......... par besīne kare toy ochhu chhe.",
+      "options": [
+        "pag",
+        "hāth",
+        "māthā",
+        "kanth"
+      ],
+      "correct_answer": "māthā",
+      "explanation": "The exact words from Shastriji Maharajno Patra are: Aksharpurushottamni vāt koī mārā māthā par besīne kare toy ochhu chhe.",
+      "source_reference": "Shastriji Maharajno Patra"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Ā munḍāvyu chhe te ......... māṭe munḍāvyu chhe.",
+      "options": [
+        "Aksharbrahma",
+        "Gunatitanand Swami",
+        "Aksharpurushottam",
+        "Bhagatji Maharaj"
+      ],
+      "correct_answer": "Aksharpurushottam",
+      "explanation": "The exact words from Shastriji Maharajno Patra are: Ā munḍāvyu chhe te Aksharpurushottam māṭe munḍāvyu chhe.",
+      "source_reference": "Shastriji Maharajno Patra"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 33 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Bhajan kartā kartā kriyā karīe to antarmā ___ rahe ne antarmā ṭāḍhu joīne moṭā sādhu rājī thāy ne jenī upar moṭā sādhu rājī thāy teno jīv sukhiyo thaī jāy.",
+      "options": [
+        "ṭhāḍu",
+        "garam",
+        "dukhi",
+        "santap"
+      ],
+      "correct_answer": "ṭhāḍu",
+      "explanation": "The provided text states: Bhajan kartā kartā kriyā karīe to antarmā ṭāḍhu rahe ne antarmā ṭāḍhu joīne moṭā sādhu rājī thāy ne jenī upar moṭā sādhu rājī thāy teno jīv sukhiyo thaī jāy.",
+      "source_reference": "Swa. Vato: 3/32"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Amāre to Bhagwānnī kathā, kīrtan ke vārtā ke Bhagwānnu dhyān emānthī koī kāḷe ___ thatī ja nathī, ne tamāre paṇ sarvene evī rīte karvu.",
+      "options": [
+        "mannī tṛupti",
+        "indriyo ni trupti",
+        "antahkaran ni trupti",
+        "jivan ni trupti"
+      ],
+      "correct_answer": "mannī tṛupti",
+      "explanation": "The provided text states: Amāre to Bhagwānnī kathā, kīrtan ke vārtā ke Bhagwānnu dhyān emānthī koī kāḷe mannī tṛupti thatī ja nathī, ne tamāre paṇ sarvene evī rīte karvu.",
+      "source_reference": "Vach.Ga.Ma.49"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Māyā tarvāno upāy e chhe je, jyāre sarva karma ane māyā teno nāsh karnārā ne māyāthī par je sākshātkār Shrīpurushottam Bhagwān athavā te Bhagwānnā maḷel sant temnī jīvne prāpti jyāre thāy chhe tyāre temnā ___ māyā ullanghāy chhe.",
+      "options": [
+        "āshraythī",
+        "sangathi",
+        "vachanthi",
+        "namthhi"
+      ],
+      "correct_answer": "āshraythī",
+      "explanation": "The provided text states: Māyā tarvāno upāy e chhe je, jyāre sarva karma ane māyā teno nāsh karnārā ne māyāthī par je sākshātkār Shrīpurushottam Bhagwān athavā te Bhagwānnā maḷel sant temnī jīvne prāpti jyāre thāy chhe tyāre temnā āshraythī māyā ullanghāy chhe.",
+      "source_reference": "Vach.Je.1"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Māhātmya sahit Bhagwānnī bhakti e ja vāsanā ṭāḷyānu ___ achaḷ sādhan chhe.",
+      "options": [
+        "mahāmoṭu",
+        "nānkadu",
+        "sadharan",
+        "alaukik"
+      ],
+      "correct_answer": "mahāmoṭu",
+      "explanation": "The provided text states: Māhātmya sahit Bhagwānnī bhakti e ja vāsanā ṭāḷyānu mahāmoṭu achaḷ sādhan chhe.",
+      "source_reference": "Vach.Sā.5"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Bhagwānno je ___ e ja ek sarva sādhanmā moṭu sādhan chhe, teṇe karīne Bhagwān rājī thāy chhe.",
+      "options": [
+        "dṛuḍh āsharo",
+        "prem sahito sang",
+        "ati nischay",
+        "mahamtae sahit bhakti"
+      ],
+      "correct_answer": "dṛuḍh āsharo",
+      "explanation": "The provided text states: Bhagwānno je dṛuḍh āsharo e ja ek sarva sādhanmā moṭu sādhan chhe, teṇe karīne Bhagwān rājī thāy chhe.",
+      "source_reference": "Vach.Ga.Pr.33"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Je bhakt em samaje je, 'Ā Bhagwān ne ā sant te sarve Vaikuṇṭh, Golok ane Brahmapur tenā nivāsī chhe. Te sant ne Parameshwar jyā virājamān chhe tyā ja e sarve dhām chhe ane e sant bheḷo māro nivās thayo chhe te māru ati baḍu bhāgya chhe.' Evī rīte samaje to āṭhe pahor ___ rahe ane āṭhe pahor ānandnā samudramā jhīlto rahe.",
+      "options": [
+        "āshcharya sarkhu",
+        "dukhi",
+        "dhiraj",
+        "vichar ma"
+      ],
+      "correct_answer": "āshcharya sarkhu",
+      "explanation": "The provided text states: Je bhakt em samaje je, 'Ā Bhagwān ne ā sant te sarve Vaikuṇṭh, Golok ane Brahmapur tenā nivāsī chhe. Te sant ne Parameshwar jyā virājamān chhe tyā ja e sarve dhām chhe ane e sant bheḷo māro nivās thayo chhe te māru ati baḍu bhāgya chhe.' Evī rīte samaje to āṭhe pahor āshcharya sarkhu rahe ane āṭhe pahor ānandnā samudramā jhīlto rahe.",
+      "source_reference": "Vach.Ga.Pr.78"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Koṭi tap karīne, koṭi jap karīne, koṭi vrat karīne, koṭi dān karīne ne koṭi yagna karīne paṇ je ___ pāmvā hatā te āj āpaṇne maḷyā chhe.",
+      "options": [
+        "Bhagwānne ne sādhune",
+        "bhaktine ane gnaan ne",
+        "moksha ane bhakti",
+        "dharm ane karma"
+      ],
+      "correct_answer": "Bhagwānne ne sādhune",
+      "explanation": "The provided text states: Koṭi tap karīne, koṭi jap karīne, koṭi vrat karīne, koṭi dān karīne ne koṭi yagna karīne paṇ je Bhagwānne ne sādhune pāmvā hatā te āj āpaṇne maḷyā chhe.",
+      "source_reference": "Swa. Vato: 1/294"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "___ sahit ne īrṣhyāe rahit je bhakti kare te amne atishay game chhe.",
+      "options": [
+        "Shraddhāe",
+        "Prem",
+        "Bhav",
+        "Vinay"
+      ],
+      "correct_answer": "Shraddhāe",
+      "explanation": "The provided text states: Shraddhāe sahit ne īrṣhyāe rahit je bhakti kare te amne atishay game chhe.",
+      "source_reference": "Vach.Ga.Ma.52"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Jīvne Bhagwānne rājī karyāno upāy to ___ Bhagwānnā bhaktnī sevā karvī e ja chhe.",
+      "options": [
+        "man-karma-vachane",
+        "tan-man-dhanthi",
+        "karma-dharma-bhavthi",
+        "satya-prem-karunathi"
+      ],
+      "correct_answer": "man-karma-vachane",
+      "explanation": "The provided text states: Jīvne Bhagwānne rājī karyāno upāy to man-karma-vachane Bhagwānnā bhaktnī sevā karvī e ja chhe.",
+      "source_reference": "Vach.Ga.Ma.28"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī sevā-chākarī maḷe tyāre potānu moṭu ___ mānīne sevā karvī.",
+      "options": [
+        "bhāgya",
+        "kartavya",
+        "dharma",
+        "karma"
+      ],
+      "correct_answer": "bhāgya",
+      "explanation": "The provided text states: Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī sevā-chākarī maḷe tyāre potānu moṭu bhāgya mānīne sevā karvī.",
+      "source_reference": "Vach.Ga.Ma.41"
+    }
+  ]
+}

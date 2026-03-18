@@ -1,0 +1,89 @@
+{
+  "quiz_title": "Class 32 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Amāre to Bhagwānno rājīpo thayā sāru ____________ janmojanm Bhagwānnā bhaktnī ja sevā karvī chhe.",
+      "options": [
+        "ekvārmā",
+        "anekvārmā",
+        "janmojanm",
+        "nityakāl"
+      ],
+      "correct_answer": "janmojanm",
+      "explanation": "The Vachanamrut says, 'Amāre to Bhagwānno rājīpo thayā sāru janmojanm Bhagwānnā bhaktnī ja sevā karvī chhe.'",
+      "source_reference": "Vach.Ga.Ma.28"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā santnī sevā to ____________ puṇyavāḷāne maḷe chhe paṇ thoḍā puṇyavāḷāne maḷtī nathī.",
+      "options": [
+        "bahune",
+        "sarvane",
+        "bahuj",
+        "thodane"
+      ],
+      "correct_answer": "bahu ja",
+      "explanation": "The Vachanamrut says, 'Bhagwānnā santnī sevā to bahu ja moṭā puṇyavāḷāne maḷe chhe paṇ thoḍā puṇyavāḷāne maḷtī nathī.'",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī ____________ maḷe tyāre potānu moṭu bhāgya mānīne sevā karvī.",
+      "options": [
+        "sevā-chākarī",
+        "pūjā-archanā",
+        "bhakti-prarthanā",
+        "darshan-sparsh"
+      ],
+      "correct_answer": "sevā-chākarī",
+      "explanation": "The Vachanamrut says, 'Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī sevā-chākarī maḷe tyāre potānu moṭu bhāgya mānīne sevā karvī.'",
+      "source_reference": "Vach.Ga.Ma.41"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī sevā-chākarī maḷe tyāre potānu moṭu bhāgya mānīne sevā karvī, te paṇ ____________ arthe ne potānā kalyāṇne arthe bhaktie karīne ja karvī, paṇ koī vakhāṇe te sāru na karvī.",
+      "options": [
+        "Bhagwānnī prasannatāne",
+        "loknī prasannatāne",
+        "swajanone",
+        "ātmane"
+      ],
+      "correct_answer": "Bhagwānnī prasannatāne",
+      "explanation": "The Vachanamrut says, 'Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī sevā-chākarī maḷe tyāre potānu moṭu bhāgya mānīne sevā karvī, te paṇ Bhagwānnī prasannatāne arthe ne potānā kalyāṇne arthe bhaktie karīne ja karvī, paṇ koī vakhāṇe te sāru na karvī.'",
+      "source_reference": "Vach.Ga.Ma.41"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Dāsī thaī raheje tu ____________, Nīchī ṭel maḷe to māne bhāgya jo...",
+      "options": [
+        "dīnadayāḷnī",
+        "karuṇāsāgarnī",
+        "bhaktavatsalnī",
+        "mahārājnī"
+      ],
+      "correct_answer": "dīnadayāḷnī",
+      "explanation": "The kirtan says, 'Dāsī thaī raheje tu dīnadayāḷnī, Nīchī ṭel maḷe to māne bhāgya jo...'",
+      "source_reference": "Muktanand Swami"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Dāsī thaī raheje tu dīnadayāḷnī, Nīchī ṭel maḷe to māne bhāgya jo; ____________ nishche maḷtī nathī, Purushottam pāse beṭhānī jāgya jo... sāmbhaḷ 2",
+      "options": [
+        "Bhavabrahmādikne",
+        "Indrādikdevone",
+        "Shivādikdevone",
+        "Rudrādikdevone"
+      ],
+      "correct_answer": "Bhavabrahmādikne",
+      "explanation": "The kirtan says, 'Dāsī thaī raheje tu dīnadayāḷnī, Nīchī ṭel maḷe to māne bhāgya jo; Bhavabrahmādikne nishche maḷtī nathī, Purushottam pāse beṭhānī jāgya jo... sāmbhaḷ 2'",
+      "source_reference": "Muktanand Swami"
+    }
+  ]
+}

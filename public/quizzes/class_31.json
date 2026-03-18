@@ -1,0 +1,75 @@
+{
+  "quiz_title": "Class 31 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Brahma thakī Parabrahma je Purushottam Nārāyan te _______ chhe ne e brahmanā paṇ kāran chhe ne ādhār chhe ne prerak chhe, em samajīne potānā jīvātmāne e brahma sangāthe ekatā karīne Parabrahmanī swāmī-sevakbhāve upāsanā karvī.",
+      "options": [
+        "sākār",
+        "nokhā",
+        "sāthe",
+        "ek"
+      ],
+      "correct_answer": "nokhā",
+      "explanation": "According to Vach.Ga.Ma.3, Brahma thakī Parabrahma je Purushottam Nārāyan te nokhā chhe ne e brahmanā paṇ kāran chhe ne ādhār chhe ne prerak chhe, em samajīne potānā jīvātmāne e brahma sangāthe ekatā karīne Parabrahmanī swāmī-sevakbhāve upāsanā karvī.",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Kathā kare, kīrtan kare, vātu kare paṇ ā deh hu _______, em māne nahi. Māṭe āṭhe pahor bhajan karvu je, hu deh nathī ne dehmā rahyo evo je hu, ātmā chhu, brahma chhu, akshar chhu ne māre viṣhe Paramātmā Parabrahma Purushottam pragaṭ pramāṇ akhand rahyā chhe.",
+      "options": [
+        "chhu",
+        "brahma",
+        "ātmā",
+        "nahi"
+      ],
+      "correct_answer": "nahi",
+      "explanation": "According to Swa. Vato: 1/341, Kathā kare, kīrtan kare, vātu kare paṇ ā deh hu nahi, em māne nahi. Māṭe āṭhe pahor bhajan karvu je, hu deh nathī ne dehmā rahyo evo je hu, ātmā chhu, brahma chhu, akshar chhu ne māre viṣhe Paramātmā Parabrahma Purushottam pragaṭ pramāṇ akhand rahyā chhe.",
+      "source_reference": "Swa. Vato: 1/341"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Āpaṇo janma be vāt sādhvā sāru thayo chhe, temā ek _______ thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭāḷvī.",
+      "options": [
+        "dehrup",
+        "aksharrūp",
+        "brahmarup",
+        "ishwarrup"
+      ],
+      "correct_answer": "aksharrūp",
+      "explanation": "According to Swa. Vato: 4/99, Āpaṇo janma be vāt sādhvā sāru thayo chhe, temā ek aksharrūp thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭāḷvī.",
+      "source_reference": "Swa. Vato: 4/99"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Āpaṇo janma be vāt sādhvā sāru thayo chhe, temā ek aksharrūp thāvu, emā deh antarāyrūp chhe; ne bīju _______, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭāḷvī.",
+      "options": [
+        "Swaminarayan ne olkhavu",
+        "aksharbrahma ne olkhavu",
+        "Bhagwānmā joḍāvu",
+        "sādhune olkhavu"
+      ],
+      "correct_answer": "Bhagwānmā joḍāvu",
+      "explanation": "According to Swa. Vato: 4/99, Āpaṇo janma be vāt sādhvā sāru thayo chhe, temā ek aksharrūp thāvu, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭāḷvī.",
+      "source_reference": "Swa. Vato: 4/99"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Ek vāt kahu māno teh, āpaṇe _______ nahi deh; Māno chaitanyarūp tamāru, duhkharūp deh teh nyāru.",
+      "options": [
+        "brahma",
+        "ātmā",
+        "siddha",
+        "dehi"
+      ],
+      "correct_answer": "ātmā",
+      "explanation": "According to Bhaktichintamani - 99/39, Ek vāt kahu māno teh, āpaṇe ātamā nahi deh; Māno chaitanyarūp tamāru, duhkharūp deh teh nyāru.",
+      "source_reference": "Bhaktichintamani - 99/39"
+    }
+  ]
+}

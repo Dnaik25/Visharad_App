@@ -59,7 +59,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Swa.Vato.1/114": "class 9/SV 1.114.m4a",
 
     //Class 10
-    "Vach.Ga.Ma.13": "class 10/V GM13.m4a",
+    "Vach.Ga.Ma.13 (class 10)": "class 10/V GM13.m4a",
     "Vach.Va.11": "class 10/V Var11.m4a",
     "Sadguru Brahmanand Swami (Class 10)": "class 10/Kirtan Brahmanand_SantParamHitkari.m4a",
     //"Vach.Ga.Ma.62": "class 10/V GM62.m4a",
@@ -108,7 +108,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Lo.7 (Class 17)": "class 17/V Loya7.m4a",
     "Vach.Ga.Pa.20": "class 17/V GP20.m4a",
     "Vach.Ga.Ma.3": "class 17/V GM3.m4a",
-    "Vach.Va.5": "class 17/V Var5.m4a",
+    "Vach.Va.5 (class 17)" : "class 17/V Var5.m4a",
     "Vach.Ga.Pa.68": "class 17/V GP68.m4a",
     "Vach.Ga.Ma.59 (Class 17)": "class 17/V GM59.m4a",
     "Vach.Ga.An.7 (Class 17)": "class 17/V GA7.m4a",
@@ -120,5 +120,41 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Swa.Vato.1/153": "class 18/SV 1.153.m4a",
 
     //Class 19
-    "Vach.Ga.Ma.40": "class 19/V GM40.m4a"
+    "Vach.Ga.Ma.40": "class 19/V GM40.m4a",
+
+    //class20 
+
+    //class21
+    "Arti": "class 21/arti.m4a",
+    "Āshtak": "class 21/ashtak/Antaryami_paratparam.m4a",
+
+    //class22
+    "Bhūmānand Swāmi (class 22)": "class 21/thal_Jamo_thal_jivan.m4a",
+    "Jayarām Brahmachāri": "class 22/mare_jayarambrahmachari.m4a",
+    "Shrimat-sadguṇa shālinam": "class 22/shrimat_sadguna_shalinam.m4a",
+    "Aum sahanāvavatu": "class 22/aum_sahanavavatu_saha.m4a",
+
+    //class23
+    "Vach.Ga.Ma.27": "class 23/V GM27.m4a",
+    "Vach.Va.5 (class 23)": "class 23/V Var5.m4a",
+    "Vach.Ga.Pa.21": "class 23/V GP21.m4a",
+
+    //class24
+    "Vach.Ga.An.24": "class 24/V GA24.m4a",
+    "Vach.Ka.12": "class 24/V K12.m4a",
+    "Swa.Vato.1/1": "class 24/SV 1.1.m4a",
+
+    //class25
+    "Vach.Ga.Ma.13 (class 25)": "class 25/V GM13.m4a",
+    "Vach.Ga.An.38": "class 25/V GA38.m4a",
+    "Swa.Vato.3/12": "class 25/SV 3.12.m4a",
+    "ShreejiMaharāj Pragatni.Vato.193": "class 25/SPV 193.m4a",
+    "Abhesinh Darbār": "class 25/abhesinh_darbar_prasang.m4a",
+    "Premanand Swāmi (Class 25)": "class 25/premanand_swami_kirtan.m4a",
+    "BHAKTACHINTAMANI.102/48-52": "class 25/Kirtan Bhaktachintamani_102_48_52.m4a",
+    "Pramukh Swami Maharaj (Class 25)": "class 25/pramukh_swami_siddhant_patra.m4a",
+    
+
+
+
 };

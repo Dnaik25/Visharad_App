@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 35 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Swadharma, gnān, vairāgya ane māhātmya-gnān teṇe sahit je Bhagwānnī bhakti teṇe yukt evā je Bhagwānnā ekāntik sādhu tenā prasang thakī bhāgwat dharmanu poshaṇ thāy chhe ane vaḷī jīvne mokshanu je ________ te paṇ evā sādhunā prasang thakī ughāḍu thāy chhe.",
+      "options": [
+        "je sukh",
+        "je dwar",
+        "je rup",
+        "je dhyan"
+      ],
+      "correct_answer": "je dwar",
+      "explanation": "According to Vach.Ga.Pr.54, jīvne mokshanu je dwar te paṇ evā sādhunā prasang thakī ughāḍu thāy chhe.",
+      "source_reference": "Vach.Ga.Pr.54"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Pote kūtrā jevo kāmī hoy te ________ thāy ane jo moṭāpurushne viṣhe kāmīpaṇāno dosh paraṭhe to game tevo niṣhkāmī hoy toy paṇ atishay kāmī thāy.",
+      "options": [
+        "lobhi",
+        "nishkami",
+        "krodhi",
+        "nirmani"
+      ],
+      "correct_answer": "nishkami",
+      "explanation": "According to Vach.Ga.Pr.58, Pote kūtrā jevo kāmī hoy te niṣhkāmī thāy ane jo moṭāpurushne viṣhe kāmīpaṇāno dosh paraṭhe to game tevo niṣhkāmī hoy toy paṇ atishay kāmī thāy.",
+      "source_reference": "Vach.Ga.Pr.58"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Ane jo moṭāpurushne atishay niṣhkāmī, nirlobhī, nihswādī, nirmānī, ________ samaje to pote paṇ e sarva vikārthī rahit thaī jāy ane pāko haribhakt thāy.",
+      "options": [
+        "nirdoshi",
+        "nihsnehi",
+        "nirkrodhi",
+        "nirlobhi"
+      ],
+      "correct_answer": "nihsnehi",
+      "explanation": "According to Vach.Ga.Pr.58, Ane jo moṭāpurushne atishay niṣhkāmī, nirlobhī, nihswādī, nirmānī, nihsnehī samaje to pote paṇ e sarva vikārthī rahit thaī jāy ane pāko haribhakt thāy.",
+      "source_reference": "Vach.Ga.Pr.58"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Je trīs lakshaṇe yukt sant hoy tene viṣhe ________ ne devbuddhi rākhīne man-karma-vachane eno sang kare, to e sangnā karnārāne viṣhe paṇ e trīs lakshaṇ āve chhe.",
+      "options": [
+        "gurubuddhi",
+        "atmbuddhi",
+        "devbuddhi",
+        "shantibuddhi"
+      ],
+      "correct_answer": "gurubuddhi",
+      "explanation": "According to Vach.Ga.Pr.78, Je trīs lakshaṇe yukt sant hoy tene viṣhe gurubuddhi ne devbuddhi rākhīne man-karma-vachane eno sang kare, to e sangnā karnārāne viṣhe paṇ e trīs lakshaṇ āve chhe.",
+      "source_reference": "Vach.Ga.Pr.78"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Satpurushne viṣhe ________ e ja ātmadarshannu sādhan chhe ane satpurushno mahimā jāṇyānu paṇ e ja sādhan chhe ane Parameshwarnu sākshāt darshan thavānu paṇ e ja sādhan chhe.",
+      "options": [
+        "drudh priti",
+        "shradha",
+        "bhakti",
+        "seva"
+      ],
+      "correct_answer": "drudh priti",
+      "explanation": "According to Vach.Va.11, Satpurushne viṣhe dṛuḍh prīti e ja ātmadarshannu sādhan chhe ane satpurushno mahimā jāṇyānu paṇ e ja sādhan chhe ane Parameshwarnu sākshāt darshan thavānu paṇ e ja sādhan chhe.",
+      "source_reference": "Vach.Va.11"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Satpurushnī āgnāne viṣhe varte chhe te ja ________ varte chhe.",
+      "options": [
+        "atmasattarupe",
+        "brahmasattarupe",
+        "jivasattarupe",
+        "ishwarsattarupe"
+      ],
+      "correct_answer": "atmasattarupe",
+      "explanation": "According to Vach.Ga.Ma.51, Satpurushnī āgnāne viṣhe varte chhe te ja ātmasattārūpe varte chhe.",
+      "source_reference": "Vach.Ga.Ma.51"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Moṭāpurushno jem jem guṇ grahaṇ karto jāy tem tem enī ________ vṛuddhi pāmtī jāy.",
+      "options": [
+        "bhakti",
+        "shradha",
+        "priti",
+        "seva"
+      ],
+      "correct_answer": "bhakti",
+      "explanation": "According to Vach.Ga.Ma.51, Moṭāpurushno jem jem guṇ grahaṇ karto jāy tem tem enī bhakti vṛuddhi pāmtī jāy.",
+      "source_reference": "Vach.Ga.Ma.51"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Trīs lakshaṇe yukt evā je sant teno je sang te ________ karīne rākhe, to jeṭlā kalyāṇne arthe sādhan chhe teṭlā sarve tenā sangmā āvī jāy chhe.",
+      "options": [
+        "man-karma-vachane",
+        "tan-man-dhan",
+        "vachan-karma-dhyan",
+        "dhyan-seva-bhakti"
+      ],
+      "correct_answer": "man-karma-vachane",
+      "explanation": "According to Vach.Va.4, Trīs lakshaṇe yukt evā je sant teno je sang te man-karma-vachane karīne rākhe, to jeṭlā kalyāṇne arthe sādhan chhe teṭlā sarve tenā sangmā āvī jāy chhe.",
+      "source_reference": "Vach.Va.4"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Santnā ________ Naimishāraṇya kshetra jyā dekhāy tyā kalyāṇne ichchhavu ane tyā ati dṛuḍh man karīne rahevu.",
+      "options": [
+        "samagamrup",
+        "charitrarup",
+        "swabhāvrūp",
+        "svarūprūp"
+      ],
+      "correct_answer": "samagamrup",
+      "explanation": "According to Vach.Sā.7, Santnā samāgamrūp Naimishāraṇya kshetra jyā dekhāy tyā kalyāṇne ichchhavu ane tyā ati dṛuḍh man karīne rahevu.",
+      "source_reference": "Vach.Sā.7"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Jevo sānḍh hoy tevu vāchharu āve ane jevo ghoḍo hoy evu vachheru āve, tem ja jevā guru maḷe evu ________ āve.",
+      "options": [
+        "shishyamā daivat",
+        "bhaktama bhav",
+        "sevakma gun",
+        "agnanima tej"
+      ],
+      "correct_answer": "shishyamā daivat",
+      "explanation": "According to Swa. Vato: 2/10, Jevo sānḍh hoy tevu vāchharu āve ane jevo ghoḍo hoy evu vachheru āve, tem ja jevā guru maḷe evu shishyamā daivat āve.",
+      "source_reference": "Swa. Vato: 2/10"
+    }
+  ]
+}

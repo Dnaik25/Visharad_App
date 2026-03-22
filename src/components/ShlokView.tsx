@@ -158,8 +158,16 @@ export function ReferenceItem({
                         const matchingRefs = shlokData.references.filter((r: any) =>
                             normalize(r.source) === targetRef
                         );
-                        // Fallback to index-based matching
-                        match = matchingRefs[indexInSource];
+                        
+                        // Determine the exact occurrence index from the parser's deduplication logic (e.g. "Vach. (2)")
+                        let occurrenceIndex = 0;
+                        const matchParen = item.ref.match(/\((\d+)\)$/);
+                        if (matchParen) {
+                            occurrenceIndex = parseInt(matchParen[1], 10) - 1;
+                        }
+
+                        // Use the occurrence index, or default to the first exact match
+                        match = matchingRefs[occurrenceIndex] || matchingRefs[0];
                     }
 
                     if (match) {

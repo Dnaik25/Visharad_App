@@ -115,7 +115,24 @@ export function ReferenceItem({
                     // 1. Find the shlok data
                     let shlokData;
                     if (Array.isArray(data)) {
-                        shlokData = data.find((d: any) => String(d.shlok) === String(shlokNumber));
+                        shlokData = data.find((d: any) => {
+                            const shlokStr = String(d.shlok);
+                            // 1. Exact match
+                            if (shlokStr === String(shlokNumber)) return true;
+                            // 2. Range match (e.g., "129-130")
+                            if (shlokStr.includes('-')) {
+                                const parts = shlokStr.split('-');
+                                if (parts.length === 2) {
+                                    const start = parseInt(parts[0], 10);
+                                    const end = parseInt(parts[1], 10);
+                                    const target = parseInt(String(shlokNumber), 10);
+                                    if (!isNaN(start) && !isNaN(end) && !isNaN(target)) {
+                                        if (target >= start && target <= end) return true;
+                                    }
+                                }
+                            }
+                            return false;
+                        });
                     } else if (String(data.shlok) === String(shlokNumber)) {
                         // Single object case (legacy support for simple structure if needed)
                         shlokData = data;

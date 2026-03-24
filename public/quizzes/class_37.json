@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 37 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Bhagwānnā bhaktano paksh rākhatā thakā shu vadho athavā ghaṭo?",
+      "options": [
+        "ābarū",
+        "paisa",
+        "jagat",
+        "rajai"
+      ],
+      "correct_answer": "ābarū",
+      "explanation": "Bhagwānnā bhaktano paksh rākhatā thakā ābarū vadho athavā ghaṭo...",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Jevo dehnā sambandhīno paksh chhe tevo jene satsangno paksh hoy teno pāyo shane viṣhe achaḷ chhe?",
+      "options": [
+        "satsangne",
+        "devone",
+        "bhagwanne",
+        "santne"
+      ],
+      "correct_answer": "satsangne",
+      "explanation": "Jevo dehnā sambandhīno paksh chhe tevo jene satsangno paksh hoy teno pāyo satsangne viṣhe achaḷ chhe.",
+      "source_reference": "Vach.Ga.Pr.78"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Je Bhagwānno bhakta hoy tene koīk mārī nānkhto hoy athavā tene koīk duhkha deto hoy ne te Bhagwānnā bhakta āḍo jaīne jo mare ke ghāyal thāy, to shāstramā em kahyu chhe je, 'Tenā brahmahatyādik je panch mahāpāp te sarve _____ chhe;' evo Bhagwānnā bhaktano paksh rākhyāno pratāp chhe.",
+      "options": [
+        "maṭī jāy",
+        "vadhi jay",
+        "duri thay",
+        "ghati jay"
+      ],
+      "correct_answer": "maṭī jāy",
+      "explanation": "Je Bhagwānno bhakta hoy tene koīk mārī nānkhto hoy athavā tene koīk duhkha deto hoy ne te Bhagwānnā bhakta āḍo jaīne jo mare ke ghāyal thāy, to shāstramā em kahyu chhe je, 'Tenā brahmahatyādik je panch mahāpāp te sarve maṭī jāy chhe;' evo Bhagwānnā bhaktano paksh rākhyāno pratāp chhe.",
+      "source_reference": "Vach.Ga.Ma.60"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "Āgnā ne _____ e be pānkho chhe, tene mūkvī ja nahi, to saheje ja Akshardhāmmā javāshe emā kāī sanshay nathī.",
+      "options": [
+        "upāsanā",
+        "bhakti",
+        "prarthana",
+        "seva"
+      ],
+      "correct_answer": "upāsanā",
+      "explanation": "Āgnā ne upāsanā e be pānkho chhe, tene mūkvī ja nahi, to saheje ja Akshardhāmmā javāshe emā kāī sanshay nathī.",
+      "source_reference": "Swa. Vato: 3/31"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Sant kahe tem karvu te _____ chhe ne mandhāryu karvu te kanishṭha chhe",
+      "options": [
+        "shreshṭha",
+        "adhama",
+        "madhyama",
+        "nikrusht"
+      ],
+      "correct_answer": "shreshṭha",
+      "explanation": "Sant kahe tem karvu te shreshṭha chhe ne mandhāryu karvu te kanishṭha chhe",
+      "source_reference": "Swa. Vato: 2/49"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Satpurushnī _____ viṣhe varte chhe te ja ātmasattārūpe varte chhe.",
+      "options": [
+        "āgnāne",
+        "ichchhāne",
+        "swabhavne",
+        "rahani"
+      ],
+      "correct_answer": "āgnāne",
+      "explanation": "Satpurushnī āgnāne viṣhe varte chhe te ja ātmasattārūpe varte chhe.",
+      "source_reference": "Vach.Ga.Ma.51"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Jene Bhagwānne viṣhe prīti hoy te Bhagwānnī āgnā koī kāḷe _____ nahī.",
+      "options": [
+        "lope",
+        "pade",
+        "bhule",
+        "jite"
+      ],
+      "correct_answer": "lope",
+      "explanation": "Jene Bhagwānne viṣhe prīti hoy te Bhagwānnī āgnā koī kāḷe lope nahī.",
+      "source_reference": "Vach.Ka.11"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Pragaṭnī ek _____ bījī karoḍ āgnā kartā vadhāre chhe.",
+      "options": [
+        "āgnā",
+        "bhakti",
+        "prarthana",
+        "seva"
+      ],
+      "correct_answer": "āgnā",
+      "explanation": "Āpaṇe āgnā upar tān rākhvu. Pragaṭnī ek āgnā bījī karoḍ āgnā kartā vadhāre chhe.",
+      "source_reference": "Yogigita"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Vachane _____ vachane pravṛutti, Vachane baddha mukta kahiye; Te vachan Shrīhari mukhnā, Sukhadāyak sarve lahiye.",
+      "options": [
+        "nivṛutti",
+        "pravrutti",
+        "baddha",
+        "mukta"
+      ],
+      "correct_answer": "nivṛutti",
+      "explanation": "Vachane nivṛutti vachane pravṛutti, Vachane baddha mukta kahiye; Te vachan Shrīhari mukhnā, Sukhadāyak sarve lahiye.",
+      "source_reference": "Vachanvidhi - 2/9"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Nirantar sarva kriyāmā pāchhu vāḷīne jovu je, māre Bhagwān _____ chhe ne hu shu karu chhu? Em joyā karvu.",
+      "options": [
+        "bhajvā",
+        "samarvā",
+        "jaanvā",
+        "rakhwā"
+      ],
+      "correct_answer": "bhajvā",
+      "explanation": "Nirantar sarva kriyāmā pāchhu vāḷīne jovu je, māre Bhagwān bhajvā chhe ne hu shu karu chhu? Em joyā karvu.",
+      "source_reference": "Swa. Vato: 2/34"
+    }
+  ]
+}

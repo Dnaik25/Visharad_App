@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 39 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Jīv em samaje je, 'Māru swarūp to māyā thakī mukt ne par evu je ______ te chhe.'",
+      "options": [
+        "Akshar",
+        "purush",
+        "brahma",
+        "ishwar"
+      ],
+      "correct_answer": "brahma",
+      "explanation": "The Vachanamrut states: Jīv em samaje je, 'Māru swarūp to māyā thakī mukt ne par evu je brahma te chhe.'",
+      "source_reference": "Vach.Ga.Ma.31"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Potānā jīvātmāne e brahma sangāthe ekatā karīne Parabrahmanī ______ upāsanā karvī.",
+      "options": [
+        "swāmī-sevakbhāve",
+        "pitā-putrabhāve",
+        "sakha-sakhibhāve",
+        "bhāi-bahanbhāve"
+      ],
+      "correct_answer": "swāmī-sevakbhāve",
+      "explanation": "The Vachanamrut states: Potānā jīvātmāne e brahma sangāthe ekatā karīne Parabrahmanī swāmī-sevakbhāve upāsanā karvī.",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Dehe karīne kriyā karto hoy ne potānu rūp judu samajīne bhajan karto hoy to bahu ______ thāy, paṇ kriyārūp thaīne temā bhaḷī jāy to ṭhīk nahī.",
+      "options": [
+        "samās",
+        "nukshān",
+        "labh",
+        "anarth"
+      ],
+      "correct_answer": "samās",
+      "explanation": "Swamini Vato states: Dehe karīne kriyā karto hoy ne potānu rūp judu samajīne bhajan karto hoy to bahu samās thāy, paṇ kriyārūp thaīne temā bhaḷī jāy to ṭhīk nahī.",
+      "source_reference": "Swa. Vato: 8/93"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Jeṭlu kāī ______ sukh chhe te sarve duhkha vinānu hoy nahi.",
+      "options": [
+        "māyāmay",
+        "brahmamay",
+        "divyamay",
+        "akshardham"
+      ],
+      "correct_answer": "māyāmay",
+      "explanation": "Swamini Vato states: Jeṭlu kāī māyāmay sukh chhe te sarve duhkha vinānu hoy nahi.",
+      "source_reference": "Swa. Vato: 1/15"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Ne sānkhya vinā lobh, kām, swād, sneh ne mān e pānch dosh tathā adhyātma, adhibhūt ne ______ e traṇ tāp e sarvenu duhkha maṭe nahī.",
+      "options": [
+        "adhidev",
+        "adhijiv",
+        "adhikarma",
+        "adhignan"
+      ],
+      "correct_answer": "adhidev",
+      "explanation": "Swamini Vato states: Ne sānkhya vinā lobh, kām, swād, sneh ne mān e pānch dosh tathā adhyātma, adhibhūt ne adhidev e traṇ tāp e sarvenu duhkha maṭe nahī.",
+      "source_reference": "Swa. Vato: 1/2"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Ne sānkhya vinā ______ satsang kahevāy.",
+      "options": [
+        "ardho",
+        "pūrṇ",
+        "ūn",
+        "adhūro"
+      ],
+      "correct_answer": "ardho",
+      "explanation": "Swamini Vato states: Ne sānkhya vinā ardho satsang kahevāy.",
+      "source_reference": "Swa. Vato: 1/2"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Ā deh ______, strīno deh paṇ hāḍkāno ne chhokrāno paṇ hāḍkāno, emā kāīye māl nathī.",
+      "options": [
+        "hāḍkāno",
+        "mānsan",
+        "charmno",
+        "raktno"
+      ],
+      "correct_answer": "hāḍkāno",
+      "explanation": "Swamini Vato states: Ā deh hāḍkāno, strīno deh paṇ hāḍkāno ne chhokrāno paṇ hāḍkāno, emā kāīye māl nathī.",
+      "source_reference": "Swa. Vato: 6/191"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Deh dhūḍno, rūpiyā dhūḍnā, kuṭumbī dhūḍnā, ______ dhūḍnu, khorḍā dhūḍnā em chhe.",
+      "options": [
+        "khāvu",
+        "pīvu",
+        "odhvu",
+        "pahervu"
+      ],
+      "correct_answer": "khāvu",
+      "explanation": "Swamini Vato states: Deh dhūḍno, rūpiyā dhūḍnā, kuṭumbī dhūḍnā, khāvu dhūḍnu, khorḍā dhūḍnā em chhe.",
+      "source_reference": "Swa. Vato: 6/191"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Temā ek to em je, āpaṇe ā dehne mūkīne jarūr marī javu chhe ne teno vilamb nathī jaṇāto, e to em ja nishchay jaṇāy chhe je, 'Ā ghaḍī, ______ āpaṇe marvu chhe.'",
+      "options": [
+        "ā kshaṇmā",
+        "ā palmā",
+        "ā divasmā",
+        "ā varshmā"
+      ],
+      "correct_answer": "ā kshaṇmā",
+      "explanation": "Vachanamrut states: Temā ek to em je, āpaṇe ā dehne mūkīne jarūr marī javu chhe ne teno vilamb nathī jaṇāto, e to em ja nishchay jaṇāy chhe je, 'Ā ghaḍī, ā kshaṇmā āpaṇe marvu chhe.'",
+      "source_reference": "Vach.Ga.An.30"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Ā pānch ______ amāre nitye nirantar anusandhān rahe chhe.",
+      "options": [
+        "vārtānu",
+        "shabdonu",
+        "kathanu",
+        "lekhanu"
+      ],
+      "correct_answer": "vārtānu",
+      "explanation": "Vachanamrut states: Ā pānch vārtānu amāre nitye nirantar anusandhān rahe chhe.",
+      "source_reference": "Vach.Ga.An.30"
+    }
+  ]
+}

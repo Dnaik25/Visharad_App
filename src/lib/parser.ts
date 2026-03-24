@@ -83,7 +83,8 @@ export function parseClassTxt(text: string): ShlokBlock[] {
                 const isBullet = trimmed.startsWith('- ') || trimmed.startsWith('• ');
                 if (!isBullet) continue; // Ignore non-bullet lines in Shlok section
 
-                let content = trimmed.substring(2).trim();
+                let originalContent = trimmed.substring(2).trim();
+                let content = originalContent;
                 // Replace single danda '।' or single pipe '|' with newline to break the shlok lines
                 // Ensure we don't break on double danda '॥' or double pipe '||'
                 content = content.replace(/(?<![|])\|(?![|])/g, '\n').replace(/।/g, '\n');
@@ -95,19 +96,20 @@ export function parseClassTxt(text: string): ShlokBlock[] {
                 // Ignore empty bullets acting as separators
                 if (!content) continue;
 
-                if (currentBlock.shlokTransliteration) {
-                    // We already have a transliteration (which was the last line seen so far).
-                    // Move it to Sanskrit (append if needed), and make the new content the Transliteration.
+                const isSanskritText = /(?:\|\||॥|\||।)\s*\d+(?:-\d+)?\s*(?:\|\||॥|\||।)\s*$/.test(originalContent);
 
+                if (isSanskritText) {
                     if (currentBlock.shlokSanskrit) {
-                        currentBlock.shlokSanskrit += '\n' + currentBlock.shlokTransliteration;
+                        currentBlock.shlokSanskrit += '\n' + content;
                     } else {
-                        currentBlock.shlokSanskrit = currentBlock.shlokTransliteration;
+                        currentBlock.shlokSanskrit = content;
                     }
-                    currentBlock.shlokTransliteration = content;
                 } else {
-                    // First line found -> Tentatively Transliteration
-                    currentBlock.shlokTransliteration = content;
+                    if (currentBlock.shlokTransliteration) {
+                        currentBlock.shlokTransliteration += '\n' + content;
+                    } else {
+                        currentBlock.shlokTransliteration = content;
+                    }
                 }
             }
             else {

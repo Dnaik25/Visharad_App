@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Mini-Review Questions (Classes 31-35)",
+  "questions": [
+    {
+      "id": "31-1",
+      "type": "MCQ",
+      "question_text": "Brahma thakī Parabrahma je Purushottam Nārāyan te nokhā chhe ne e brahmanā paṇ kāran chhe ne ādhār chhe ne prerak chhe, em samajīne potānā ________ e brahma sangāthe ekatā karīne Parabrahmanī swāmī-sevakbhāve upāsanā karvī.",
+      "options": [
+        "deh",
+        "indriyo",
+        "jīvātmāne",
+        "antahkaran"
+      ],
+      "correct_answer": "jīvātmāne",
+      "explanation": "According to Vach.Ga.Ma.3, one should understand that Brahma is distinct from Parabrahma Purushottam Narayan and then unite their jīvātmā with Brahma to worship Parabrahma.",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "31-2",
+      "type": "MCQ",
+      "question_text": "Kathā kare, kīrtan kare, vātu kare paṇ ā deh hu nahi, em māne nahi. Māṭe āṭhe pahor bhajan karvu je, hu deh nathī ne dehmā rahyo evo je hu, ________ chhu, brahma chhu, akshar chhu ne māre viṣhe Paramātmā Parabrahma Purushottam pragaṭ pramāṇ akhand rahyā chhe.",
+      "options": [
+        "ātmā",
+        "prakruti",
+        "māyā",
+        "man"
+      ],
+      "correct_answer": "ātmā",
+      "explanation": "According to Swa. Vato: 1/341, one should constantly remember 'hu deh nathī ne dehmā rahyo evo je hu, ātmā chhu, brahma chhu, akshar chhu ne māre viṣhe Paramātmā Parabrahma Purushottam pragaṭ pramāṇ akhand rahyā chhe'.",
+      "source_reference": "Swa. Vato: 1/341"
+    },
+    {
+      "id": "31-3",
+      "type": "MCQ",
+      "question_text": "Āpaṇo janma be vāt sādhvā sāru thayo chhe, temā ek ________, emā deh antarāyrūp chhe; ne bīju Bhagwānmā joḍāvu, temā sang anek prakārnā antarāyrūp chhe. E be khoṭ ṭāḷvī.",
+      "options": [
+        "aksharrūp thāvu",
+        "māyārūp thāvu",
+        "dehrup thāvu",
+        "brahmarūp thāvu"
+      ],
+      "correct_answer": "aksharrūp thāvu",
+      "explanation": "According to Swa. Vato: 4/99, our birth is to achieve two things: to become aksharrūp, in which the body is an obstacle, and to unite with Bhagwān, in which various associations are obstacles. These two shortcomings should be avoided.",
+      "source_reference": "Swa. Vato: 4/99"
+    },
+    {
+      "id": "31-4",
+      "type": "MCQ",
+      "question_text": "Ek vāt kahu māno teh, āpaṇe ________ nahi deh; Māno chaitanyarūp tamāru, duhkharūp deh teh nyāru.",
+      "options": [
+        "ātamā",
+        "brahma",
+        "ishwar",
+        "dev"
+      ],
+      "correct_answer": "ātamā",
+      "explanation": "According to Bhaktichintamani - 99/39, we are ātamā and not the body. Recognize your form as consciousness, separate from the painful body.",
+      "source_reference": "Bhaktichintamani - 99/39"
+    },
+    {
+      "id": "32-1",
+      "type": "MCQ",
+      "question_text": "Amāre to Bhagwānno rājīpo thayā sāru ________ Bhagwānnā bhaktnī ja sevā karvī chhe.",
+      "options": [
+        "janmojanm",
+        "divaso divas",
+        "pal pal",
+        "ghadi ghadi"
+      ],
+      "correct_answer": "janmojanm",
+      "explanation": "According to Vach.Ga.Ma.28, the goal is to serve Bhagwān's devotees for lifetimes to please Bhagwān.",
+      "source_reference": "Vach.Ga.Ma.28"
+    },
+    {
+      "id": "32-2",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā santnī sevā to bahu ja moṭā puṇyavāḷāne maḷe chhe paṇ ________ maḷtī nathī.",
+      "options": [
+        "thoḍā puṇyavāḷāne",
+        "pāpī lokone",
+        "murkh manushyone",
+        "alasi lokone"
+      ],
+      "correct_answer": "thoḍā puṇyavāḷāne",
+      "explanation": "According to Vach.Ga.Ma.59, serving Bhagwān's Sant is available to those with great merit, but not to those with little merit.",
+      "source_reference": "Vach.Ga.Ma.59"
+    },
+    {
+      "id": "32-3",
+      "type": "MCQ",
+      "question_text": "Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī sevā-chākarī maḷe tyāre potānu ________ mānīne sevā karvī, te paṇ Bhagwānnī prasannatāne arthe ne potānā kalyāṇne arthe bhaktie karīne ja karvī, paṇ koī vakhāṇe te sāru na karvī.",
+      "options": [
+        "moṭu bhāgya",
+        "ḍhāhya panu",
+        "motapanu",
+        "chaturai"
+      ],
+      "correct_answer": "moṭu bhāgya",
+      "explanation": "According to Vach.Ga.Ma.41, those who wish to worship Parameshwar should consider it a great fortune to serve Bhagwān or Bhagwān's devotees.",
+      "source_reference": "Vach.Ga.Ma.41"
+    },
+    {
+      "id": "32-4",
+      "type": "MCQ",
+      "question_text": "Dāsī thaī raheje tu ________, Nīchī ṭel maḷe to māne bhāgya jo; Bhavabrahmādikne nishche maḷtī nathī, Purushottam pāse beṭhānī jāgya jo... sāmbhaḷ 2",
+      "options": [
+        "dīnadayāḷnī",
+        "dayāḷu devnī",
+        "bhakt vallabhni",
+        "param krupaluni"
+      ],
+      "correct_answer": "dīnadayāḷnī",
+      "explanation": "According to the Kirtan of Muktanand Swami, one should remain a servant of the compassionate and consider it a blessing to receive a low place.",
+      "source_reference": "Muktanand Swami"
+    },
+    {
+      "id": "33-1",
+      "type": "MCQ",
+      "question_text": "Bhajan kartā kartā kriyā karīe to antarmā ṭāḍhu rahe ne antarmā ṭāḍhu joīne moṭā sādhu rājī thāy ne jenī upar moṭā sādhu rājī thāy teno ________ thaī jāy.",
+      "options": [
+        "jīv sukhiyo",
+        "deh sukhiyo",
+        "antahkaran sukhiyo",
+        "ātmā sukhiyo"
+      ],
+      "correct_answer": "jīv sukhiyo",
+      "explanation": "According to Swa. Vato: 3/32, if one performs actions while doing bhajan, the inner self remains calm, and the great sādhus are pleased, and the jīv of the one whom the great sādhus are pleased with becomes happy.",
+      "source_reference": "Swa. Vato: 3/32"
+    },
+    {
+      "id": "33-2",
+      "type": "MCQ",
+      "question_text": "Amāre to Bhagwānnī kathā, kīrtan ke vārtā ke Bhagwānnu dhyān emānthī koī kāḷe ________ thatī ja nathī, ne tamāre paṇ sarvene evī rīte karvu.",
+      "options": [
+        "mannī tṛupti",
+        "indriyo ni trupti",
+        "deh ni trupti",
+        "antar karan ni trupti"
+      ],
+      "correct_answer": "mannī tṛupti",
+      "explanation": "According to Vach.Ga.Ma.49, there is never satisfaction of the mind in Bhagwān's kathā, kīrtan, or dhyān, and everyone should do the same.",
+      "source_reference": "Vach.Ga.Ma.49"
+    },
+    {
+      "id": "33-3",
+      "type": "MCQ",
+      "question_text": "Māyā tarvāno upāy e chhe je, jyāre sarva karma ane māyā teno nāsh karnārā ne māyāthī par je sākshātkār Shrīpurushottam Bhagwān athavā te Bhagwānnā maḷel sant temnī ________ jyāre thāy chhe tyāre temnā āshraythī māyā ullanghāy chhe.",
+      "options": [
+        "jīvne prāpti",
+        "deh ne prapti",
+        "indriyo ne prapti",
+        "antar ne prapti"
+      ],
+      "correct_answer": "jīvne prāpti",
+      "explanation": "According to Vach.Je.1, the way to overcome māyā is when the jīv attains সাক্ষাৎShrīpurushottam Bhagwān or the Sant who has attained Bhagwān; then, through their refuge, māyā is overcome.",
+      "source_reference": "Vach.Je.1"
+    },
+    {
+      "id": "33-4",
+      "type": "MCQ",
+      "question_text": "Māhātmya sahit Bhagwānnī bhakti e ja ________ mahāmoṭu achaḷ sādhan chhe.",
+      "options": [
+        "vāsanā ṭāḷyānu",
+        "kām ṭāḷyānu",
+        "krodh talyanu",
+        "lobh talyanu"
+      ],
+      "correct_answer": "vāsanā ṭāḷyānu",
+      "explanation": "According to Vach.Sā.5, bhakti of Bhagwān along with mahātmya is the great and unwavering means to eliminate desires.",
+      "source_reference": "Vach.Sā.5"
+    },
+    {
+      "id": "34-1",
+      "type": "MCQ",
+      "question_text": "Shraddhāe sahit ne ________ je bhakti kare te amne atishay game chhe.",
+      "options": [
+        "īrṣhyāe rahit",
+        "krodhe rahit",
+        "lobhe rahit",
+        "mohe rahit"
+      ],
+      "correct_answer": "īrṣhyāe rahit",
+      "explanation": "According to Vach.Ga.Ma.52, we are pleased with the bhakti that is done with shraddhā and without īrṣhyā.",
+      "source_reference": "Vach.Ga.Ma.52"
+    },
+    {
+      "id": "34-2",
+      "type": "MCQ",
+      "question_text": "Jo dharma, arth ne kām sambandhī je phaḷnī ichchā teno tyāg karīne tenā te shubh karma jo Bhagwānnī prasannatāne arthe kare to e ja shubh karma chhe te ________ thaīne kevaḷ mokshane arthe thāy chhe.",
+      "options": [
+        "bhaktirūp",
+        "gnānrup",
+        "vairagyarup",
+        "dharmrup"
+      ],
+      "correct_answer": "bhaktirūp",
+      "explanation": "According to Vach.Ga.Ma.11, if one renounces the desire for fruits related to dharma, arth, and kām and performs those auspicious deeds for the pleasure of Bhagwān, then those same auspicious deeds become bhaktirūp and are solely for the purpose of moksha.",
+      "source_reference": "Vach.Ga.Ma.11"
+    },
+    {
+      "id": "34-3",
+      "type": "MCQ",
+      "question_text": "Jīvne Bhagwānne rājī karyāno upāy to ________ Bhagwānnā bhaktnī sevā karvī e ja chhe.",
+      "options": [
+        "man-karma-vachane",
+        "tan-man-dhanthi",
+        "man-vachanthi",
+        "karmathi"
+      ],
+      "correct_answer": "man-karma-vachane",
+      "explanation": "According to Vach.Ga.Ma.28, the way for the jīv to please Bhagwān is to serve Bhagwān's devotees with man-karma-vachane.",
+      "source_reference": "Vach.Ga.Ma.28"
+    },
+    {
+      "id": "34-4",
+      "type": "MCQ",
+      "question_text": "Sārāmā sāru to ā Bhagwān ne sādhuno sambandh thayo chhe tethī kāī sāru nathī ne tethī kāī sāru samajvānu nathī ne bhūnḍāmā bhūnḍu shu chhe? To ā sādhune viṣhe ________ āve chhe tethī bīju kāī bhūnḍu nathī.",
+      "options": [
+        "manushyabhāv",
+        "pashubhav",
+        "pakshibhav",
+        "devbhav"
+      ],
+      "correct_answer": "manushyabhāv",
+      "explanation": "According to Swa. Vato: 3/36, there is nothing better than having a relationship with Bhagwān and Sādhu. What is the worst thing? It is when one sees manushyabhāv in the Sādhu.",
+      "source_reference": "Swa. Vato: 3/36"
+    },
+    {
+      "id": "35-1",
+      "type": "MCQ",
+      "question_text": "Swadharma, gnān, vairāgya ane māhātmya-gnān teṇe sahit je Bhagwānnī bhakti teṇe yukt evā je Bhagwānnā ________ tenā prasang thakī bhāgwat dharmanu poshaṇ thāy chhe ane vaḷī jīvne mokshanu je dvār te paṇ evā sādhunā prasang thakī ughāḍu thāy chhe.",
+      "options": [
+        "ekāntik sādhu",
+        "sādhārṇ sādhu",
+        "gruhasth sādhu",
+        "tyāgī sādhu"
+      ],
+      "correct_answer": "ekāntik sādhu",
+      "explanation": "According to Vach.Ga.Pr.54, association with Bhagwān's ekāntik sādhu, who are endowed with swadharma, gnān, vairāgya, and māhātmya-gnān, nourishes bhāgwat dharma and opens the door to moksha for the jīv.",
+      "source_reference": "Vach.Ga.Pr.54"
+    },
+    {
+      "id": "35-2",
+      "type": "MCQ",
+      "question_text": "Je purushne Parameshwar vinānī bīje kyāy prīti na hoy teno em guṇ grahaṇ kare je, \"Ā purush to atishay moṭā chhe ane enī āgaḷ lākho māṇas hāth joḍīne ūbhā rahe chhe to paṇ leshmātra sansārnā sukhne ichchhtā nathī. Ane hu to atishay pāmar chhu je kevaḷ sansārnā sukhmā āsakt thaī rahyo chhu ane Parameshwarnī vātmā to leshmātra samajto ja nathī, ________.\" Evī rīte anutāp kare ane moṭāpurushno guṇ grahaṇ kare ane potānā avaguṇ grahaṇ karīne anutāp kare. Pachhī em ne em paritāp karte karte enā hṛudayne viṣhe vairāgya ūpje ane pachhī temā satpurushnā jevā guṇ āve chhe.",
+      "options": [
+        "māṭe mane dhikkār chhe",
+        "māṭe mane shaarm chhe",
+        "māṭe mane dar chhe",
+        "māṭe mane lajjā chhe"
+      ],
+      "correct_answer": "māṭe mane dhikkār chhe",
+      "explanation": "According to Vach.Ga.Pr.67, a person who has no love for anything other than Parameshwar should think, \"This person is so great that even though millions of people stand before him with folded hands, he does not desire even a trace of worldly pleasures. And I am so foolish that I am only attached to worldly pleasures and do not understand even a trace of Parameshwar's words, therefore I am contemptible.\"",
+      "source_reference": "Vach.Ga.Pr.67"
+    },
+    {
+      "id": "35-3",
+      "type": "MCQ",
+      "question_text": "Je trīs lakshaṇe yukt sant hoy tene viṣhe ________ rākhīne man-karma-vachane eno sang kare, to e sangnā karnārāne viṣhe paṇ e trīs lakshaṇ āve chhe. Evī rīte sarva shāstramā kahyu chhe je, \"Santne seve tyāre sant sarkho thāy chhe.\"",
+      "options": [
+        "gurubuddhi ne devbuddhi",
+        "bhaktibuddhi ne gnanbuddhi",
+        "shantibuddhi ne vairagyabuddhi",
+        "vinaybuddhi ne vivekbuddhi"
+      ],
+      "correct_answer": "gurubuddhi ne devbuddhi",
+      "explanation": "According to Vach.Ga.Pr.78, if one associates with a sant who possesses thirty characteristics, with gurubuddhi and devbuddhi, then those thirty characteristics also come to the one who associates with him.",
+      "source_reference": "Vach.Ga.Pr.78"
+    },
+    {
+      "id": "35-4",
+      "type": "MCQ",
+      "question_text": "Satpurushne viṣhe ________ e ja ātmadarshannu sādhan chhe ane satpurushno mahimā jāṇyānu paṇ e ja sādhan chhe ane Parameshwarnu sākshāt darshan thavānu paṇ e ja sādhan chhe.",
+      "options": [
+        "dṛuḍh prīti",
+        "dṛuḍh bhakti",
+        "dṛuḍh gnān",
+        "dṛuḍh vairāgya"
+      ],
+      "correct_answer": "dṛuḍh prīti",
+      "explanation": "According to Vach.Va.11, firm love for the Satpurush is the means for ātmadarshan, for knowing the greatness of the Satpurush, and for having a direct darshan of Parameshwar.",
+      "source_reference": "Vach.Va.11"
+    }
+  ]
+}

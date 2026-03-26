@@ -1,0 +1,136 @@
+{
+  "quiz_title": "Class 40 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Āpaṇe jyāre tan-man-dhan Bhagwānne arpaṇ karyu tyāre have Bhagwānnī ......... te ja āpaṇu prārabdha chhe.",
+      "options": [
+        "ichchhā",
+        "marzī",
+        "ājñā"
+      ],
+      "correct_answer": "ichchhā",
+      "explanation": "When we offer our body, mind, and wealth to Bhagwān, then His wish is our destiny.",
+      "source_reference": "Vach.Ga.An.13"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane .......... besāḍe to gadheḍe besīne rājī rahevu.",
+      "options": [
+        "gadheḍe",
+        "pāḷakhīmā",
+        "ḍolāmā"
+      ],
+      "correct_answer": "gadheḍe",
+      "explanation": "If Bhagwān seats us on an elephant, we should remain happy sitting on the elephant; and if He seats us on a donkey, we should remain happy sitting on the donkey.",
+      "source_reference": "Vach.Ga.Pr.74"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Pote potānā sukhne bhogavto nathī ne pote potānā rūpne jāṇto nathī, e ja sarva agnānīmā .......... agnānī chhe.",
+      "options": [
+        "atishay",
+        "alpa",
+        "aḍh",
+        "aghro"
+      ],
+      "correct_answer": "atishay",
+      "explanation": "He who does not enjoy his own bliss and does not know his own form is the most ignorant amongst all ignorant people.",
+      "source_reference": "Vach.Ga.Pr.20"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy chhe: ek to Bhagwānnu bhajan karvu ne bīju Bhagwānne .......... samajvā.",
+      "options": [
+        "sarvakartā",
+        "sarvopari",
+        "sarvashaktimān"
+      ],
+      "correct_answer": "sarvakartā",
+      "explanation": "There are two ways to remain calm within and not be agitated: one is to do bhajan of Bhagwān, and the other is to understand Bhagwān to be the all-doer.",
+      "source_reference": "Swa. Vato: 1/148"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Mahābaḷvant māyā tamārī, Jeṇe .......... narnārī.",
+      "options": [
+        "āvariyā",
+        "dhigāṇā",
+        "bhāmī"
+      ],
+      "correct_answer": "āvariyā",
+      "explanation": "Your māyā is extremely powerful; it has enveloped men and women.",
+      "source_reference": "Bhaktichintamani - Ch. 64"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Mārī māyāmā nahi mūnjhāo, .......... nahi bandhāo.",
+      "options": [
+        "Dehādikmā",
+        "Lokdikmā",
+        "Pinddikmā"
+      ],
+      "correct_answer": "Dehādikmā",
+      "explanation": "Do not be confused by my māyā; do not be bound by the body, etc.",
+      "source_reference": "Bhaktichintamani - Ch. 64"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Moṭā moṭā Bhagwānnā bhakta temṇe paṇ Bhagwān pāse em ja māgyu chhe je, Aham-mamatvarūp māyā thakī rakshā karjyo ane .......... viṣhe prīti thajyo.",
+      "options": [
+        "tamāre",
+        "amāre",
+        "sarvene"
+      ],
+      "correct_answer": "tamāre",
+      "explanation": "Even the great devotees of Bhagwān have prayed to Bhagwān, “Protect us from māyā, which is in the form of aham and mamatva, and may we have love for You.”",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Antarmā bhajan karvā shīkhvu, teṇe karīne .......... rāg ochhā thāy chhe.",
+      "options": [
+        "viṣhaynā",
+        "indriyona",
+        "mansenā"
+      ],
+      "correct_answer": "viṣhaynā",
+      "explanation": "Learn to do bhajan within; by doing so, the attachment to sensual pleasures decreases.",
+      "source_reference": "Swa. Vato: 2/30"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Mān-apamānmā potāne .......... mānavu je, āpaṇāthī koī moṭo nathī, māṭe kenī pāse mān-apamān mānavu?",
+      "options": [
+        "Akshar",
+        "Purushottam",
+        "Mul Akshar"
+      ],
+      "correct_answer": "Akshar",
+      "explanation": "In honor and insult, consider oneself to be Akshar, that no one is greater than us; therefore, from whom should we expect honor and insult?",
+      "source_reference": "Swa. Vato: 2/147"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Māṭe baḷ Mahārājnu, rākhvu ..........; Teh vinā aparādh ṭāḷvā, anya nathī upāy.",
+      "options": [
+        "hṛudiyāmāy",
+        "kanṭhamāy",
+        "netramāy"
+      ],
+      "correct_answer": "hṛudiyāmāy",
+      "explanation": "Therefore, keep the strength of Mahārāj in your heart; there is no other way to remove offenses without it.",
+      "source_reference": "Haribalgita - 7/4"
+    }
+  ]
+}

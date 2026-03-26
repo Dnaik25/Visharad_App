@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 34 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Shraddhāe sahit ne ______ rahit je bhakti kare te amne atishay game chhe.",
+      "options": [
+        "bhaktie",
+        "īrṣhyāe",
+        "prem",
+        "dharme"
+      ],
+      "correct_answer": "īrṣhyāe",
+      "explanation": "The Vachanamrut says, 'Shraddhāe sahit ne īrṣhyāe rahit je bhakti kare te amne atishay game chhe.'",
+      "source_reference": "Vach.Ga.Ma.52"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Jo dharma, arth ne kām sambandhī je phaḷnī icchā teno tyāg karīne tenā te shubh karma jo ______ prasannatāne arthe kare to e ja shubh karma chhe te bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.",
+      "options": [
+        "sādhuno",
+        "Bhagwānnī",
+        "sant",
+        "guru"
+      ],
+      "correct_answer": "Bhagwānnī",
+      "explanation": "The Vachanamrut says, 'Jo dharma, arth ne kām sambandhī je phaḷnī icchā teno tyāg karīne tenā te shubh karma jo Bhagwānnī prasannatāne arthe kare to e ja shubh karma chhe te bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.'",
+      "source_reference": "Vach.Ga.Ma.11"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Jīvne Bhagwānne rājī karyāno upāy to man-karma-vachane Bhagwānnā ______ sevā karvī e ja chhe.",
+      "options": [
+        "bhaktnī",
+        "mandirnī",
+        "dhāmnī",
+        "murti"
+      ],
+      "correct_answer": "bhaktnī",
+      "explanation": "The Vachanamrut says, 'Jīvne Bhagwānne rājī karyāno upāy to man-karma-vachane Bhagwānnā bhaktnī sevā karvī e ja chhe.'",
+      "source_reference": "Vach.Ga.Ma.28"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī sevā-chākarī maḷe tyāre potānu ______ mānīne sevā karvī.",
+      "options": [
+        "moṭu bhāgya",
+        "nānun karya",
+        "ṭhīk",
+        "sāru"
+      ],
+      "correct_answer": "moṭu bhāgya",
+      "explanation": "The Vachanamrut says, 'Jene Parameshwar bhajvā hoy tene Bhagwānnī athavā Bhagwānnā bhaktnī sevā-chākarī maḷe tyāre potānu moṭu bhāgya mānīne sevā karvī.'",
+      "source_reference": "Vach.Ga.Ma.41"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Karīe rājī Ghanshyām re, Santo karīe rājī Ghanshyām; To sare ______ re, Santo karīe rājī Ghanshyām...",
+      "options": [
+        "badhā kaam",
+        "sarve kām",
+        "ṭek",
+        "dharma kaam"
+      ],
+      "correct_answer": "sarve kām",
+      "explanation": "The kirtan says, 'Karīe rājī Ghanshyām re, Santo karīe rājī Ghanshyām; To sare sarve kām re, Santo karīe rājī Ghanshyām...'",
+      "source_reference": "Nishkuḷānand Swami"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Moṭā sādhuno avaguṇ nahi hoy ne kāī dosh hashe to tenī ______ chhe paṇ moṭā sādhuno avaguṇ hashe tenu to pāp vajralep thāshe.",
+      "options": [
+        "Bhagwānne phikar",
+        "sādhune phikar",
+        "santne phikar",
+        "tene phikar"
+      ],
+      "correct_answer": "Bhagwānne phikar",
+      "explanation": "Swamini Vato says, 'Moṭā sādhuno avaguṇ nahi hoy ne kāī dosh hashe to tenī Bhagwānne phikar chhe paṇ moṭā sādhuno avaguṇ hashe tenu to pāp vajralep thāshe.'",
+      "source_reference": "Swa. Vato: 4/85"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Ātyantik pralayne ante Akshardhāmne viṣhe jevu Bhagwānnu swarūp anant aishvarya-teje yukt chhe tevu ne tevu ja pratyaksha ______ Bhagwānne viṣhe jāṇvu; teṇe tattve karīne Bhagwānne jāṇyā kahevāy.",
+      "options": [
+        "manushyarūp",
+        "sādhurūp",
+        "devrūp",
+        "brahmarūp"
+      ],
+      "correct_answer": "manushyarūp",
+      "explanation": "The Vachanamrut says, 'Ātyantik pralayne ante Akshardhāmne viṣhe jevu Bhagwānnu swarūp anant aishvarya-teje yukt chhe tevu ne tevu ja pratyaksha manushyarūp Bhagwānne viṣhe jāṇvu; teṇe tattve karīne Bhagwānne jāṇyā kahevāy.'",
+      "source_reference": "Vach.Pa.7"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Mārī mūrati re, mārā lok bhog ne ______; Sarve divya chhe re, tyā to joyānī chhe jukta... 2",
+      "options": [
+        "mukta",
+        "bhakta",
+        "prakruti",
+        "katha"
+      ],
+      "correct_answer": "mukta",
+      "explanation": "The kirtan says, 'Mārī mūrati re, mārā lok bhog ne mukta; Sarve divya chhe re, tyā to joyānī chhe jukta... 2'",
+      "source_reference": "Premanand Swami"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Jo sant tathā Parameshwarnā vachanne viṣhe atishay shraddhā hoy ane ati dṛuḍh vishwās hoy to game tevā tāmasī karma hoy paṇ teno ______ thaī jāy ane kaḷiyugnā dharma maṭīne satyayugnā dharma hoy te varte.",
+      "options": [
+        "nāsh",
+        "bandhan",
+        "ādar",
+        "prem"
+      ],
+      "correct_answer": "nāsh",
+      "explanation": "The Vachanamrut says, 'Jo sant tathā Parameshwarnā vachanne viṣhe atishay shraddhā hoy ane ati dṛuḍh vishwās hoy to game tevā tāmasī karma hoy paṇ teno nāsh thaī jāy ane kaḷiyugnā dharma maṭīne satyayugnā dharma hoy te varte.'",
+      "source_reference": "Vach.Sā.9"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "______ khāvo ne Prabhu bhajvā, bīju kāī karvu nathī ne roṭlā to Bhagwānne devā chhe, sādhune devā chhe, te deshe, deshe ne deshe.",
+      "options": [
+        "Bājaro",
+        "Ghau",
+        "Chokha",
+        "Dāl"
+      ],
+      "correct_answer": "Bājaro",
+      "explanation": "Swamini Vato says, 'Bājaro khāvo ne Prabhu bhajvā, bīju kāī karvu nathī ne roṭlā to Bhagwānne devā chhe, sādhune devā chhe, te deshe, deshe ne deshe.'",
+      "source_reference": "Swa. Vato: 1/126"
+    }
+  ]
+}

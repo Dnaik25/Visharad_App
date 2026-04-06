@@ -155,8 +155,8 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Pa.21 (Class 26)": "class 26/V GP21.m4a",
     "Vach.Ga.Pa.71": "class 26/V GP71.m4a",
     "Swa.Vato.5/67": "class 26/SV 5.67.m4a",
-    "Pramukh Swami Maharaj (Class 25)": "class 25/PSM_patra.m4a",
-    "Shastriji Maharaj": "class 26/Satpurush pruthvi.m4a",
+    "Pramukh Swami Maharaj": "class 26/PSM_patra.m4a",
+    "Shastriji Maharaj": "class 26/Satpurush_pruthvi.m4a",
 
     //class27
     "Vach.Ga.An.7 (Class 27)": "class 27/V GA7.m4a",

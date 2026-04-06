@@ -173,7 +173,6 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //"Premanand Swāmī- Oradānā Pad": "class 28/kirtan_premanand_swami_oradana_pad.m4a",
     "Vach.Ga.Ma.9": "class 28/V GM9.m4a",
     //"Vach.Ga.Ma.13": "class 28/V GM13.m4a",
-    //"Vach.Ga.Ma.21 (Class 28)": "class 28/V GM21.m4a",
     //"Bhaktinidhi - 15/8": "class 28/Bhaktinidhi_15_8.m4a",
 
 };

@@ -251,7 +251,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //"Swa. Vato: 1/177": "class 36/SV 1.177.m4a",
     "Swa. Vato: 1/1": "class 36/SV 1.1.m4a",
     "Swa. Vato: 4/136": "class 36/SV 4.136.m4a",
-    //"Swa. Vato: 3/9": "class 36/SV 3.9.m4a",
+    "Swa. Vato: 3/17": "class 36/SV 3.17.m4a",
     "Haricharitramrutsagar_1": "class 36/Haricharitramrutsagar_1.m4a",
     "Haricharitramrutsagar_2": "class 36/Haricharitramrutsagar_2.m4a",
     "Vach.Ga.Ma.63": "class 36/V GM63.m4a",
@@ -291,15 +291,13 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //class 40
     "Vach.Ga.An.13 (Class 40)": "class 40/V GA13_Class_40.m4a",
     "Vach.Ga.Pr.74": "class 40/V GP74.m4a",
-    "Vach.Ga.Pr.20": "class 40/V GP20.m4a",
+    "Vach.Ga.Pr.20 (Class 40)": "class 40/V GP20_Class_40.m4a",
     "Swa. Vato: 1/148": "class 40/SV 1.148.m4a",
     "Bhaktichintamani - Ch. 64": "class 40/Bhaktichintamani_64.m4a",
-    "Vach.Ga.An.38 (Class 40)": "class 40/V GA38_Class_40.m4a",
+    //"Vach.Ga.An.38 (Class 40)": "class 40/V GA38_Class_40.m4a",
     "Swa. Vato: 2/30": "class 40/SV 2.30.m4a",
-    "Swa. Vato: 2/147": "class 40/SV 2.147.m4a",
-    "Swa. Vato: 1/272": "class 40/SV 1.272.m4a",
-    "Vach.Ga.Ma.13": "class 40/V GM13.m4a",
-    "Vach.Ga.Ma.50": "class 40/V GM50.m4a",
+    "Vach.Ga.Ma.13 (Class 40)": "class 40/V GM13_Class_40.m4a",
+    "Vach.Ga.Ma.50 (Class 40)": "class 40/V GM50_Class_40.m4a",
     "Haribalgita - 7/4": "class 40/Haribalgita_7_4.m4a",
 
 

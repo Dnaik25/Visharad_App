@@ -138,7 +138,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //class24
     "Vach.Ga.An.24": "class 24/V GA24.m4a",
     "Vach.Ka.12": "class 24/V K12.m4a",
-    //"Swa.Vato.1/1": "class 24/SV 1.1.m4a",
+    "Swa.Vato.1/1": "class 24/SV 1.1.m4a",
 
     //class25
     "Vach.Ga.Ma.13 (Class 25)": "class 25/V GM13.m4a",

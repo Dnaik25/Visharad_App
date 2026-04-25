@@ -172,7 +172,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Pa.27": "class 28/V GP27.m4a",
     //"Premanand Swāmī- Oradānā Pad": "class 28/kirtan_premanand_swami_oradana_pad.m4a",
     "Vach.Ga.Ma.9": "class 28/V GM9.m4a",
-    //"Vach.Ga.Ma.13": "class 28/V GM13.m4a",
+    "Vach.Ga.Ma.13 (Class 28)": "class 28/V GM13.m4a",
     //"Bhaktinidhi - 15/8": "class 28/Bhaktinidhi_15_8.m4a",
 
     //class29
@@ -184,7 +184,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Pa.27 (Class 29)": "class 29/V GP27_Class29.m4a",
     "Vach.Ga.Pa.37": "class 29/V GP37.m4a",
     "Bhaktichintamani - 164/6": "class 29/V BC164_6.m4a",
-    "Purushottam Prakash - 41/9": "class 29/V PP41_9.m4a",
+    "Purushottam Prakash - 41/9 (Class 29)": "class 29/PurushottamPrakash_41_9_Class_29.m4a",
     "Nishkuḷānand Swami": "class 29/V Nishkulanand_Swami_Kirtan.m4a",
     "Vach.Va.11 (Class 29)": "class 29/V Var11_Class_29.m4a",
     "Vach.Ga.An.2 (Class 29)": "class 29/V GA2_Class_29.m4a",
@@ -192,7 +192,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
 
     //class 30
     "Swa. Vato: 1/153": "class 30/SV 1.153.m4a",
-    //"Mahavakya": "class30/Mahavakya1.m4a",
+    "Mahavakya": "class30/Mahavakya1.m4a",
 
     //class 31
     "Vach.Ga.Ma.3 (Class 31)": "class 31/V GM3_Class_31.m4a",
@@ -251,7 +251,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //"Swa. Vato: 1/177": "class 36/SV 1.177.m4a",
     "Swa. Vato: 1/1": "class 36/SV 1.1.m4a",
     "Swa. Vato: 4/136": "class 36/SV 4.136.m4a",
-    //"Swa. Vato: 3/9": "class 36/SV 3.9.m4a",
+    "Swa. Vato: 3/17": "class 36/SV 3.17.m4a",
     "Haricharitramrutsagar_1": "class 36/Haricharitramrutsagar_1.m4a",
     "Haricharitramrutsagar_2": "class 36/Haricharitramrutsagar_2.m4a",
     "Vach.Ga.Ma.63": "class 36/V GM63.m4a",
@@ -291,15 +291,13 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //class 40
     "Vach.Ga.An.13 (Class 40)": "class 40/V GA13_Class_40.m4a",
     "Vach.Ga.Pr.74": "class 40/V GP74.m4a",
-    "Vach.Ga.Pr.20": "class 40/V GP20.m4a",
+    "Vach.Ga.Pr.20 (Class 40)": "class 40/V GP20_Class_40.m4a",
     "Swa. Vato: 1/148": "class 40/SV 1.148.m4a",
     "Bhaktichintamani - Ch. 64": "class 40/Bhaktichintamani_64.m4a",
-    "Vach.Ga.An.38 (Class 40)": "class 40/V GA38_Class_40.m4a",
+    //"Vach.Ga.An.38 (Class 40)": "class 40/V GA38_Class_40.m4a",
     "Swa. Vato: 2/30": "class 40/SV 2.30.m4a",
-    "Swa. Vato: 2/147": "class 40/SV 2.147.m4a",
-    "Swa. Vato: 1/272": "class 40/SV 1.272.m4a",
-    "Vach.Ga.Ma.13": "class 40/V GM13.m4a",
-    "Vach.Ga.Ma.50": "class 40/V GM50.m4a",
+    "Vach.Ga.Ma.13 (Class 40)": "class 40/V GM13_Class_40.m4a",
+    "Vach.Ga.Ma.50 (Class 40)": "class 40/V GM50_Class_40.m4a",
     "Haribalgita - 7/4": "class 40/Haribalgita_7_4.m4a",
 
 

@@ -192,7 +192,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
 
     //class 30
     "Swa. Vato: 1/153": "class 30/SV 1.153.m4a",
-    //"Mahavakya": "class30/Mahavakya1.m4a",
+    "Mahavakya": "class30/Mahavakya1.m4a",
 
     //class 31
     "Vach.Ga.Ma.3 (Class 31)": "class 31/V GM3_Class_31.m4a",

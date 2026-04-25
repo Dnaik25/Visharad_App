@@ -172,7 +172,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Pa.27": "class 28/V GP27.m4a",
     //"Premanand Swāmī- Oradānā Pad": "class 28/kirtan_premanand_swami_oradana_pad.m4a",
     "Vach.Ga.Ma.9": "class 28/V GM9.m4a",
-    //"Vach.Ga.Ma.13": "class 28/V GM13.m4a",
+    "Vach.Ga.Ma.13 (Class 28)": "class 28/V GM13.m4a",
     //"Bhaktinidhi - 15/8": "class 28/Bhaktinidhi_15_8.m4a",
 
     //class29
@@ -184,7 +184,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Pa.27 (Class 29)": "class 29/V GP27_Class29.m4a",
     "Vach.Ga.Pa.37": "class 29/V GP37.m4a",
     "Bhaktichintamani - 164/6": "class 29/V BC164_6.m4a",
-    "Purushottam Prakash - 41/9": "class 29/V PP41_9.m4a",
+    "Purushottam Prakash - 41/9 (Class 29)": "class 29/PurushottamPrakash_41_9_Class_29.m4a",
     "Nishkuḷānand Swami": "class 29/V Nishkulanand_Swami_Kirtan.m4a",
     "Vach.Va.11 (Class 29)": "class 29/V Var11_Class_29.m4a",
     "Vach.Ga.An.2 (Class 29)": "class 29/V GA2_Class_29.m4a",

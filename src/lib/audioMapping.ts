@@ -170,10 +170,10 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Ma.3 (Class 28)": "class 28/V GM3.m4a",
     "Muktanand Swami (Class 28)": "class 28/kirtan_muktanand_swami_bhagwan_ne_bhajya.m4a",
     "Vach.Ga.Pa.27": "class 28/V GP27.m4a",
-    //"Premanand Swāmī- Oradānā Pad": "class 28/kirtan_premanand_swami_oradana_pad.m4a",
+    "Premanand Swāmī- Oradānā Pad": "class 28/kirtan_premanand_swami_oradana_pad.m4a",
     "Vach.Ga.Ma.9": "class 28/V GM9.m4a",
     "Vach.Ga.Ma.13 (Class 28)": "class 28/V GM13.m4a",
-    //"Bhaktinidhi - 15/8": "class 28/Bhaktinidhi_15_8.m4a",
+    "Bhaktinidhi - 15/8": "class 28/Bhaktinidhi_15_8.m4a",
 
     //class29
     "Vach.Sā.10": "class 29/V SA10.m4a",
@@ -204,7 +204,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Ma.28 (Class 32)": "class 32/V GM28_Class_32.m4a",
     "Vach.Ga.Ma.59 (Class 32)": "class 32/V GM59_Class_32.m4a",
     "Vach.Ga.Ma.41 (Class 32)": "class 32/V GM41_Class_32.m4a",
-    //"Muktanand Swami": "class 32/kirtan_muktanand_swami_dindayal_prabhu.m4a",
+    "Muktanand Swami": "class 32/kirtan_muktanand_swami_dindayal_prabhu.m4a",
 
     //class 33
     "Swa. Vato: 3/32": "class 33/SV 3.32.m4a",
@@ -217,19 +217,19 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Pr.24 (Class 33)": "class 33/V GP24_Class_33.m4a",
     "Swa. Vato: 1/294": "class 33/SV 1.294.m4a",
     "Swa. Vato: 1/163": "class 33/SV 1.163.m4a",
-    //"Chosath Padi - 27": "class 33/Chosath_padi_27.m4a",
+    "Chosath Padi - 27": "class 33/Chosath_padi_27.m4a",
 
     //class 34
     "Vach.Ga.Ma.52": "class 34/V GM52.m4a",
     "Vach.Ga.Ma.11": "class 34/V GM11.m4a",
     "Vach.Ga.Ma.28 (Class 34)": "class 34/V GM28_Class_34.m4a",
     "Vach.Ga.Ma.41 (Class 34)": "class 34/V GM41_Class_34.m4a",
-    //"Nishkuḷānand Swami": "class 34/kirtan_nishkulanand_swami_kariye_raji_ghanshyam.m4a",
+    "Nishkuḷānand Swami (Class 34)": "class 34/kirtan_nishkulanand_swami_kariye_raji_ghanshyam.m4a",
     "Swa. Vato: 3/36": "class 34/SV 3.36.m4a",
     "Swa. Vato: 4/85": "class 34/SV 4.85.m4a",
     "Vach.Pa.7": "class 34/V P7.m4a",
     //"Swa. Vato: 5/66": "class 34/SV 5.66.m4a",
-    "Premanand Swami": "class 34/kirtan_premanand_swami_mari_murati.m4a",
+    "Premanand Swami (Class 34)": "class 34/kirtan_premanand_swami_mari_murati.m4a",
     "Vach.Sā.9 (Class 34)": "class 34/V S9_Class_34.m4a",
     //"Swa. Vato: 1/126": "class 34/SV 1.126.m4a",
 
@@ -277,7 +277,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Swa. Vato: 4/9": "class 38/SV 4.9.m4a",
     //"Swa. Vato: 2/176": "class 38/SV 2.176.m4a",
     //"Swa. Vato: 4/24": "class 38/SV 4.24.m4a",
-    //"Nishkuḷānand Swami": "class 38/kirtan_nishkulanand_swami_anand_urma.m4a",
+    "Nishkuḷānand Swami (Class 38)": "class 38/kirtan_nishkulanand_swami_anand_urma.m4a",
 
     //class 39
     "Vach.Ga.Ma.31": "class 39/V GM31.m4a",

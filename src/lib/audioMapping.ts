@@ -302,7 +302,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
 
     //Class 41
     "Swa. Vato: 4/119": "class 41/SV 4.119.m4a",
-    "Swa. Vato: 2/57": "class 41/SV 2.57.m4a",
+    "Swa. Vato: 2/57 (Class 41)": "class 41/SV 2.57_Class_41.m4a",
     "Purushottam Bolya Prite (Class 41)": "class 41/PBP_Class_41.m4a",
     "Vach.Va.1": "class 41/V Var1.m4a",
     "Vachanvidhi - 4/5,7": "class 41/Vachanvidhi_4_5_7.m4a",
@@ -325,7 +325,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //Class 45
     "Vach.Lo.5": "class 45/V Loya5.m4a",
     "Vach.Ga.Ma.63 (Class 45)": "class 45/V GM63_Class_45.m4a",
-    "Swa. Vato: 4/136": "class 45/SV 4.136.m4a",
+    "Swa. Vato: 4/136 (Class 45)": "class 45/SV 4.136_Class_45.m4a",
     "Yogigita (Class 45)": "class 45/Yogigita_Class_45.m4a",
 
     //Class 47
@@ -385,7 +385,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.An.24 (Class 60)": "class 60/V GA24_Class_60.m4a",
     "Vach.Ga.Ma.49 (Class 60)": "class 60/V GM49_Class_60.m4a",
     "Swa.Vato.1/50 (Class 60)": "class 60/SV 1.50_Class_60.m4a",
-    "Swa.Vato.1/131 (Class 60)": "class 60/SV 1.131_Class_60.m4a",
+    "Swa.Vato.1/131 (Class 60)": "class 60/SV 1.131_Class_60.m4a"
 
     //Class 61
     // "Premanand Swami": "",
@@ -413,5 +413,4 @@ export const AUDIO_MAPPING: Record<string, string> = {
     // "Vach.Ga.Ma.63",
     // "Purushottam Bolya Prite",
     // "Vach.Ga.Pr.70",
-
 };

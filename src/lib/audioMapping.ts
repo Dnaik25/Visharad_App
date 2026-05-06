@@ -300,5 +300,118 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Ma.50 (Class 40)": "class 40/V GM50_Class_40.m4a",
     "Haribalgita - 7/4": "class 40/Haribalgita_7_4.m4a",
 
+    //Class 41
+    "Swa. Vato: 4/119": "class 41/SV 4.119.m4a",
+    "Swa. Vato: 2/57": "class 41/SV 2.57.m4a",
+    "Purushottam Bolya Prite (Class 41)": "class 41/PBP_Class_41.m4a",
+    "Vach.Va.1": "class 41/V Var1.m4a",
+    "Vachanvidhi - 4/5,7": "class 41/Vachanvidhi_4_5_7.m4a",
+    "Sar-Siddhi - 28/9": "class 41/Sar_siddhi_28_9.m4a",
+    "Swa. Vato: 6/156": "class 41/SV 6.156.m4a",
+    "Vachanvidhi - 42/2": "class 41/Vachanvidhi_42_2.m4a",
+    "Bhaktichintamani - 76/39-41": "class 41/Bhaktichintamani_76_39_41.m4a",
+
+    //Class 43
+    "Vach.Sā.2": "class 43/V S2.m4a",
+
+    //Class 44
+    "Vach.Ga.Ma.26 (Class 44)": "class 44/V GM26_Class_44.m4a",
+    "Vach.Ga.An.21 (Class 44)": "class 44/V GA21_Class_44.m4a",
+    "Vach.Ga.Pr.28 (Class 44)": "class 44/V GP28_Class_44.m4a",
+    "Vach.Ga.An.12 (Class 44)": "class 44/V GA12_Class_44.m4a",
+    "Swa. Vato: 2/132": "class 44/SV 2.132.m4a",
+    "Swa. Vato: 1/237": "class 44/SV 1.237.m4a",
+
+    //Class 45
+    "Vach.Lo.5": "class 45/V Loya5.m4a",
+    "Vach.Ga.Ma.63 (Class 45)": "class 45/V GM63_Class_45.m4a",
+    "Swa. Vato: 4/136": "class 45/SV 4.136.m4a",
+    "Yogigita (Class 45)": "class 45/Yogigita_Class_45.m4a",
+
+    //Class 47
+    //"Taittiriya Upanishad - 1/11/2": "class 47/Taittiriya_Upanishad_1_11_2.m4a",
+
+    //Class 48
+    //"Taittiriya Upanishad - 1/11/2": "class 48/Taittiriya_Upanishad_1_11_2.m4a",
+    //"Bhaktichintamani - 68/9": "class 48/Bhaktichintamani_68_9.m4a",
+
+    //Class 49
+    "Vach.Ga.An.22 (Class 49)": "class 49/V GA22_Class_49.m4a",
+    //"Premanand Swami (Class 49)": "class 49/Premanand_Swami_Class_49.m4a",
+
+    //Class 52
+    "Vach.Ga.Pr.72 (Class 52)": "class 52/V GP72_Class_52.m4a",
+    "Vach.Ga.Ma.11 (Class 52)": "class 52/V GM11_Class_52.m4a",
+
+    //Class 54
+    "Vach.Ga.Pr.29 (Class 54)": "class 54/V GP29_Class_54.m4a",
+
+    //Class 55
+    "Vach.Ga.Ma.51 (Class 55)": "class 55/V GM51_Class_55.m4a",
+    "Swa.Vato.1/148 (Class 55)": "class 55/SV 1.148_Class_55.m4a",
+    "Nishkulanand Swami (Class 55)": "class 55/Nishkulanand_Swami_Class_55.m4a",
+    "Vach.Ga.Ma.55 (Class 55)": "class 55/V GM55_Class_55.m4a",
+
+    //Class 56
+    "Vach.Ga.Pr.8 (Class 56)": "class 56/V GP8_Class_56.m4a",
+    "Vach.Ga.Pr.20 (Class 56)": "class 56/V GP20_Class_56.m4a",
+    "Vach.Sā.18 (Class 56)": "class 56/V Sa18_Class_56.m4a",
+    "Swa.Vato.4/124": "class 56/SV 4.124.m4a",
+    "Vach.Ga.Pr.68 (Class 56)": "class 56/V GP68_Class_56.m4a",
+
+    //Class 57
+    //"Vach.Ga.Pr.37 (Class 57)": "class 57/V GP37_Class_57.m4a",
+    "Swa.Vato.5/311": "class 57/SV 5.311.m4a",
+    "Vach.Ga.An.12 (Class 57)": "class 57/V GA12_Class_57.m4a",
+    "Vach.Lo.1 (Class 57)": "class 57/V Loya1_Class_57.m4a",
+    //"Narsinh Mehta (Class 57)": "class 57/Narsinh_Mehta_Class_57.m4a",
+
+    //Class 58
+    "Swa.Vato.1/177": "class 58/SV 1.177.m4a",
+    "Muktanand Swami (Class 58)": "class 58/Muktanand_Swami_Class_58.m4a",
+
+    //Class 59
+    "Swa.Vato.4/132": "class 59/SV 4.132.m4a",
+    "Swa.Vato.4/34": "class 59/SV 4.34.m4a",
+    "Swa.Vato.5/176": "class 59/SV 5.176.m4a",
+    "Swa.Vato.1/33": "class 59/SV 1.33.m4a",
+    "Vach.Ga.Pr.21 (Class 59)": "class 59/V GP21_Class_59.m4a",
+    "Vach.Ga.Ma.58 (Class 59)": "class 59/V GM58_Class_59.m4a",
+
+    //Class 60
+    "Vach.Ga.An.39 (Class 60)": "class 60/V GA39_Class_60.m4a",
+    "Vach.Ga.Ma.13 (Class 60)": "class 60/V GM13_Class_60.m4a",
+    "Vach.Ka.12 (Class 60)": "class 60/V Ka12_Class_60.m4a",
+    "Vach.Ga.An.24 (Class 60)": "class 60/V GA24_Class_60.m4a",
+    "Vach.Ga.Ma.49 (Class 60)": "class 60/V GM49_Class_60.m4a",
+    "Swa.Vato.1/50 (Class 60)": "class 60/SV 1.50_Class_60.m4a",
+    "Swa.Vato.1/131 (Class 60)": "class 60/SV 1.131_Class_60.m4a",
+
+    //Class 61
+    // "Premanand Swami": "",
+    // "Paṇ jiyā lagī prāṇ raheshe, jībhā svāmī sahajānand kaheshe;": "",
+    // "Vach.Ga.Ma.11": "",
+    // "Vach.Ka.3",
+    // "Purushottam Bolya Prite",
+    // "Brahmanand Swami",
+    // "Bhaktichintamani - 68/9",
+    // "Brahmanand Swami",
+    // "1. Om Shri Swāminārāyaṇāya Namah",
+    // "Vach.Ga.Pr.72",
+    // "Vach.Ga.Ma.47",
+    // "Vach.Ga.An.38",
+    // "Swa.Vato.2/993",
+    // "Muktanand Swami",
+    // "Premanand Swami",
+    // "Brahmanand Swami",
+    // "Brahmanand Swami",
+    // "Vach.Ga.An.2",
+    // "Vach.Ga.Ma.3",
+    // "Vach.Ka.5",
+    // "Nishkulanand Swami",
+    // "Swa.Vato.1/72",
+    // "Vach.Ga.Ma.63",
+    // "Purushottam Bolya Prite",
+    // "Vach.Ga.Pr.70",
 
 };

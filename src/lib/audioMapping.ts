@@ -333,11 +333,11 @@ export const AUDIO_MAPPING: Record<string, string> = {
 
     //Class 48
     //"Taittiriya Upanishad - 1/11/2": "class 48/Taittiriya_Upanishad_1_11_2.m4a",
-    //"Bhaktichintamani - 68/9": "class 48/Bhaktichintamani_68_9.m4a",
+    "Bhaktichintamani - 68/9": "class 48/Bhaktichintamani_68_9.m4a",
 
     //Class 49
     "Vach.Ga.An.22 (Class 49)": "class 49/V GA22_Class_49.m4a",
-    //"Premanand Swami (Class 49)": "class 49/Premanand_Swami_Class_49.m4a",
+    "Premanand Swami (Class 49)": "class 49/Premanand_Swami_Class_49.m4a",
 
     //Class 52
     "Vach.Ga.Pr.72 (Class 52)": "class 52/V GP72_Class_52.m4a",
@@ -364,7 +364,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Swa.Vato.5/311": "class 57/SV 5.311.m4a",
     "Vach.Ga.An.12 (Class 57)": "class 57/V GA12_Class_57.m4a",
     "Vach.Lo.1 (Class 57)": "class 57/V Loya1_Class_57.m4a",
-    //"Narsinh Mehta (Class 57)": "class 57/Narsinh_Mehta_Class_57.m4a",
+    "Narsinh Mehta (Class 57)": "class 57/Narsinh_Mehta_Class_57.m4a",
 
     //Class 58
     "Swa.Vato.1/177": "class 58/SV 1.177.m4a",

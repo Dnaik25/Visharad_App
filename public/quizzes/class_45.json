@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 45 Quiz: Qualities of a Devotee and Avoiding Harm",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple_choice",
+      "question_text": "Jene _______ grahaṇ karyāno swabhāv hoy teno ja satsangmā dṛuḍh pāyo thāy chhe.",
+      "options": [
+        "dhan",
+        "guṇ",
+        "prayatna",
+        "man"
+      ],
+      "correct_answer": "guṇ",
+      "explanation": "Vach.Lo.5 states: 'Jene guṇ grahaṇ karyāno swabhāv hoy teno ja satsangmā dṛuḍh pāyo thāy chhe.'",
+      "source_reference": "Vach.Lo.5"
+    },
+    {
+      "id": "Q2",
+      "type": "multiple_choice",
+      "question_text": "Kevo swabhāv hoy teno satsangmā dṛuḍh pāyo thāy chhe?",
+      "options": [
+        "Dhan grahaṇ karyāno swabhāv",
+        "Guṇ grahaṇ karyāno swabhāv",
+        "Krodh grahaṇ karyāno swabhāv",
+        "Lobh grahaṇ karyāno swabhāv"
+      ],
+      "correct_answer": "Guṇ grahaṇ karyāno swabhāv",
+      "explanation": "Vach.Lo.5 states: 'Jene guṇ grahaṇ karyāno swabhāv hoy teno ja satsangmā dṛuḍh pāyo thāy chhe.'",
+      "source_reference": "Vach.Lo.5"
+    },
+    {
+      "id": "Q3",
+      "type": "multiple_choice",
+      "question_text": "Bhagwānnā bhaktnā guṇ kahevā, temānthī jīv _______ thaī jāy.",
+      "options": [
+        "manushyarūp",
+        "devarūp",
+        "brahmarūp",
+        "paśurūp"
+      ],
+      "correct_answer": "brahmarūp",
+      "explanation": "Swa. Vato: 4/136 states: 'Bhagwānnā bhaktnā guṇ kahevā, temānthī jīv brahmarūp thaī jāy.'",
+      "source_reference": "Swa. Vato: 4/136"
+    },
+    {
+      "id": "Q4",
+      "type": "multiple_choice",
+      "question_text": "Bhagwānnā bhaktnā guṇ kahevāthī jīv kevo thaī jāy?",
+      "options": [
+        "Māyārūp",
+        "Sansārrūp",
+        "Brahmarūp",
+        "Dehrūp"
+      ],
+      "correct_answer": "Brahmarūp",
+      "explanation": "Swa. Vato: 4/136 states: 'Bhagwānnā bhaktnā guṇ kahevā, temānthī jīv brahmarūp thaī jāy.'",
+      "source_reference": "Swa. Vato: 4/136"
+    },
+    {
+      "id": "Q5",
+      "type": "multiple_choice",
+      "question_text": "Avaguṇ koīno jevāno - _______ rasto na levo.",
+      "options": [
+        "amṛut pīvāno",
+        "jher pīvāno",
+        "jal pīvāno",
+        "doodh pīvāno"
+      ],
+      "correct_answer": "jher pīvāno",
+      "explanation": "Yogigita states: 'Avaguṇ koīno jevāno - jher pīvāno rasto na levo.'",
+      "source_reference": "Yogigita"
+    },
+    {
+      "id": "Q6",
+      "type": "multiple_choice",
+      "question_text": "Yogigītā pramāṇe, kevo rasto na levo?",
+      "options": [
+        "Jher pīvāno rasto",
+        "Amrut pīvāno rasto",
+        "Doodh pīvāno rasto",
+        "Jal pīvāno rasto"
+      ],
+      "correct_answer": "Jher pīvāno rasto",
+      "explanation": "Yogigita states: 'Avaguṇ koīno jevāno - jher pīvāno rasto na levo.'",
+      "source_reference": "Yogigita"
+    },
+    {
+      "id": "Q7",
+      "type": "multiple_choice",
+      "question_text": "A sansārmā panch mahāpāpnā karanārāno koī divas chhūṭako thāy paṇ Bhagwānnā bhaktanā _______ karanārāno koī divas chhūṭako thato nathī.",
+      "options": [
+        "sevānā",
+        "drohnā",
+        "sāthnā",
+        "bhajannā"
+      ],
+      "correct_answer": "drohnā",
+      "explanation": "Vach.Ga.Ma.63 states: 'A sansārmā panch mahāpāpnā karanārāno koī divas chhūṭako thāy paṇ Bhagwānnā bhaktanā drohnā karanārāno koī divas chhūṭako thato nathī.'",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "Q8",
+      "type": "multiple_choice",
+      "question_text": "Kono koī divas chhūṭako thato nathī?",
+      "options": [
+        "Panch mahāpāpnā karanārāno",
+        "Bhagwānnā bhaktanā drohnā karanārāno",
+        "Choorīnā karanārāno",
+        "Jhooth bolnārāno"
+      ],
+      "correct_answer": "Bhagwānnā bhaktanā drohnā karanārāno",
+      "explanation": "Vach.Ga.Ma.63 states: 'A sansārmā panch mahāpāpnā karanārāno koī divas chhūṭako thāy paṇ Bhagwānnā bhaktanā drohnā karanārāno koī divas chhūṭako thato nathī.'",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "Q9",
+      "type": "multiple_choice",
+      "question_text": "Māṭe Bhagwānnā bhaktanī je sevā karavī te barobar koī _______ nathī ne Bhagwānnā bhaktano droh karavo te barobar koī pāp paṇ nathī.",
+      "options": [
+        "labh",
+        "puṇya",
+        "dhan",
+        "pratishtha"
+      ],
+      "correct_answer": "puṇya",
+      "explanation": "Vach.Ga.Ma.63 states: 'Māṭe Bhagwānnā bhaktanī je sevā karavī te barobar koī puṇya nathī ne Bhagwānnā bhaktano droh karavo te barobar koī pāp paṇ nathī.'",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "Q10",
+      "type": "multiple_choice",
+      "question_text": "Māṭe Bhagwānnā bhaktanī je sevā karavī te barobar koī _______ nathī ne Bhagwānnā bhaktano droh karavo te barobar koī _______ paṇ nathī.",
+      "options": [
+        "labh, hāni",
+        "puṇya, pāp",
+        "dhan, dāridra",
+        "pratishtha, apamān"
+      ],
+      "correct_answer": "puṇya, pāp",
+      "explanation": "Vach.Ga.Ma.63 states: 'Māṭe Bhagwānnā bhaktanī je sevā karavī te barobar koī puṇya nathī ne Bhagwānnā bhaktano droh karavo te barobar koī pāp paṇ nathī.'",
+      "source_reference": "Vach.Ga.Ma.63"
+    }
+  ]
+}

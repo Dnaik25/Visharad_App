@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Mini-Review Quiz (Classes 66-70)",
+  "questions": [
+    {
+      "id": "C66Q1",
+      "type": "mcq",
+      "question_text": "Which number corresponds to \"Om Shri Sahajānandāya Namah\" in the Sahajanand Namavali?",
+      "options": [
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "correct_answer": "40",
+      "explanation": "The Sahajanand Namavali explicitly lists \"Om Shri Sahajānandāya Namah\" as the 40th name.",
+      "source_reference": "Sahajanand Namavali"
+    },
+    {
+      "id": "C66Q2",
+      "type": "mcq",
+      "question_text": "Which of the following names is not found in the Sahajanand Namavali from 1 to 10?",
+      "options": [
+        "Om Shri Akshardhāmavāsāya Namah",
+        "Om Shri Paramātmane Namah",
+        "Om Shri Anādaye Namah",
+        "Om Shri Bhagavate Namah"
+      ],
+      "correct_answer": "Om Shri Anādaye Namah",
+      "explanation": "\"Om Shri Anādaye Namah\" is listed as the 11th name in the Sahajanand Namavali, not among the first 10.",
+      "source_reference": "Sahajanand Namavali"
+    },
+    {
+      "id": "C66Q3",
+      "type": "mcq",
+      "question_text": "Fill in the blanks: \"Je bhagwānnā bhaktane bhagwānno nishchay māhātmya sahit hoy ne santnu ne satsangīnu māhātmya ghaṇu _____, ne te bhaktnu jo karma kaṭhaṇ hoy ne kāḷ paṇ kaṭhaṇ hoy to paṇ te bhaktane evī bhaktinu atishay baḷ chhe, te kāḷ ne karma e bey maḷīne tenu bhūnḍu karī shaktā nathī.\"",
+      "options": [
+        "jāṇto hoy",
+        "mānto hoy",
+        "samjato hoy",
+        "vichārto hoy"
+      ],
+      "correct_answer": "jāṇto hoy",
+      "explanation": "The Vachanamrut states \"...santnu ne satsangīnu māhātmya ghaṇu jāṇto hoy...\".",
+      "source_reference": "Vach.Ga.Pr.72"
+    },
+    {
+      "id": "C66Q4",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.Pr.72, what is true about a devotee who has a firm conviction in Bhagwān with mahatmya, and understands the greatness of the Sant and Satsangi?",
+      "options": [
+        "Even if their karma and time are difficult, their devotion's strength will prevent harm.",
+        "They will always have easy karma and time.",
+        "They will not experience any difficulties.",
+        "Their devotion will only be strong if karma is not difficult."
+      ],
+      "correct_answer": "Even if their karma and time are difficult, their devotion's strength will prevent harm.",
+      "explanation": "Vach.Ga.Pr.72 clearly states that \"te kāḷ ne karma e bey maḷīne tenu bhūnḍu karī shaktā nathī\" for such a devotee.",
+      "source_reference": "Vach.Ga.Pr.72"
+    },
+    {
+      "id": "C66Q5",
+      "type": "mcq",
+      "question_text": "According to Swa.Vato.5/250, what is stated about the \"Moṭā\"?",
+      "options": [
+        "Moṭā lagār paṇ draṣhṭi kare to kāmādik pīḍī shake nahī.",
+        "Moṭā potānī meḷe game teṭalā dākhaḍā kare.",
+        "Kāmādik parābhav karyā vinā rahe ja nahī even with Moṭā's draṣhṭi.",
+        "Māṭe Moṭāno kāmādik parābhav karavo."
+      ],
+      "correct_answer": "Moṭā lagār paṇ draṣhṭi kare to kāmādik pīḍī shake nahī.",
+      "explanation": "Swa.Vato.5/250 directly states, \"Moṭā lagār paṇ draṣhṭi kare to kāmādik pīḍī shake nahī.\"",
+      "source_reference": "Swa.Vato.5/250"
+    },
+    {
+      "id": "C67Q1",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.Ma.47, why will one not attain satisfaction from sense pleasures even after becoming a devotee of Bhagwān and experiencing them for years?",
+      "options": [
+        "Because sense pleasures are inherently short-lived.",
+        "Because the jiva has experienced these pleasures in countless bodies before and is still not satisfied.",
+        "Because Bhagwān prohibits sense pleasures entirely.",
+        "Because only one year of enjoyment is allowed."
+      ],
+      "correct_answer": "Because the jiva has experienced these pleasures in countless bodies before and is still not satisfied.",
+      "explanation": "Vach.Ga.Ma.47 explicitly mentions that the jiva has experienced these pleasures in countless bodies \"to paṇ hajī lagaṇ e viṣhaynī tṛupti thaī nathī\".",
+      "source_reference": "Vach.Ga.Ma.47"
+    },
+    {
+      "id": "C67Q2",
+      "type": "mcq",
+      "question_text": "Which analogy is used in Vach.Ga.Ma.47 to describe the unending nature of sense pleasure satisfaction?",
+      "options": [
+        "Filling a small pot with ocean water.",
+        "Trying to fill a deep hole in the earth with water.",
+        "Trying to catch smoke in a net.",
+        "Drawing water from an empty well."
+      ],
+      "correct_answer": "Trying to fill a deep hole in the earth with water.",
+      "explanation": "Vach.Ga.Ma.47 uses the analogy: \"Jem pātāḷ sudhī pṛuthvī fāṭī hoy tene pāṇīe karīne bharvā mānḍīe te kyārey bharāy nahī\".",
+      "source_reference": "Vach.Ga.Ma.47"
+    },
+    {
+      "id": "C67Q3",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.An.38, which of the following is not one of the six things mentioned that prevents a person from attaining happiness in life or after death?",
+      "options": [
+        "Lobh of dravya",
+        "Jihvānī āsakti in ras",
+        "Het in Sant",
+        "Het in kusangī"
+      ],
+      "correct_answer": "Het in Sant",
+      "explanation": "Vach.Ga.An.38 lists \"kusangīmā het\" and \"sambandhīmā het\" as detrimental, but \"het in Sant\" is not mentioned in this context.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "C67Q4",
+      "type": "mcq",
+      "question_text": "What should one do if they wish for happiness, according to Vach.Ga.An.38, if they possess the mentioned svabhāvs?",
+      "options": [
+        "Accept them as part of their nature.",
+        "Try to reduce them gradually.",
+        "They should ṭāḷvā (remove) them.",
+        "Seek spiritual guidance to manage them."
+      ],
+      "correct_answer": "They should ṭāḷvā (remove) them.",
+      "explanation": "Vach.Ga.An.38 concludes: \"māṭe jene sukh ichchhavu hoy tene evā svabhāv hoy to ṭāḷvā.\"",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "C67Q5",
+      "type": "mcq",
+      "question_text": "Fill in the blanks: \"Viṣhayno sambandh thayā morya to bakarānī peṭhe bīvu ne sambandh thaī jāy to tyā _____.\"",
+      "options": [
+        "bakarānī peṭhe dāṭavu",
+        "sinh thāvu",
+        "gāyanī peṭhe namvu",
+        "potānī jaḷāvu"
+      ],
+      "correct_answer": "sinh thāvu",
+      "explanation": "Swa.Vato.2/993 states: \"...ne sambandh thaī jāy to tyā sinh thāvu.\"",
+      "source_reference": "Swa.Vato.2/993"
+    },
+    {
+      "id": "C69Q1",
+      "type": "mcq",
+      "question_text": "Who is the author of the kirtan starting with \"Hānjī bhalā sādhu, harikī sādh\"?",
+      "options": [
+        "Premanand Swami",
+        "Muktanand Swami",
+        "Nishkulanand Swami",
+        "Brahmanand Swami"
+      ],
+      "correct_answer": "Muktanand Swami",
+      "explanation": "The kirtan \"Hānjī bhalā sādhu...\" is attributed to Muktanand Swami in the provided text.",
+      "source_reference": "Muktanand Swami, Kirtan"
+    },
+    {
+      "id": "C69Q2",
+      "type": "mcq",
+      "question_text": "According to Muktanand Swami's kirtan, \"Mān apamānme ekatā, sukhduḥkhme samabhāv; Ahī ke sukh alp hai, nahi svarga luchāv...\" describes which characteristic of a sādhu?",
+      "options": [
+        "Taje tīkhā tamatamā",
+        "Tankī upādhi taje",
+        "Grahe na gānṭhe dām",
+        "Maṭh na bāndhe mamatā karī"
+      ],
+      "correct_answer": "Tankī upādhi taje",
+      "explanation": "The first stanza of Muktanand Swami's kirtan describes \"Tankī upādhi taje\" through examples like \"Mān apamānme ekatā, sukhduḥkhme samabhāv\".",
+      "source_reference": "Muktanand Swami, Kirtan"
+    },
+    {
+      "id": "C69Q3",
+      "type": "mcq",
+      "question_text": "Fill in the blanks from Premanand Swami's kirtan: \"Kām, krodh, lobh manmā na āṇe, Sonu ne dhūḷ te _____ karī jāṇe; Hā re jene gītājī gāy chhe pokārī re...\"",
+      "options": [
+        "pruthak",
+        "sam",
+        "uttam",
+        "bhinn"
+      ],
+      "correct_answer": "sam",
+      "explanation": "Premanand Swami's kirtan states: \"Sonu ne dhūḷ te sam karī jāṇe\".",
+      "source_reference": "Premanand Swami, Kirtan"
+    },
+    {
+      "id": "C69Q4",
+      "type": "mcq",
+      "question_text": "According to Bhaktichintamani.76/40, what will happen if one gives up their vrat and ṭek?",
+      "options": [
+        "They will attain great happiness in the future.",
+        "They will be protected and cared for.",
+        "They will suffer the consequences of their own actions.",
+        "They will remain carefree."
+      ],
+      "correct_answer": "They will suffer the consequences of their own actions.",
+      "explanation": "Bhaktichintamani.76/40 warns: \"Paṇ vrat ṭek jo ṭāḷsho to, bhogavsho sahu sahu taṇu.\"",
+      "source_reference": "Bhaktichintamani.76/39-41"
+    },
+    {
+      "id": "C69Q5",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.An.2, what is stated about attaining parampad or moksh when santasamāgam is achieved?",
+      "options": [
+        "One must leave the body to attain parampad.",
+        "Parampad is attained only after many lives.",
+        "Parampad or moksh is attained even while living in the body.",
+        "Santasamāgam is only helpful after death."
+      ],
+      "correct_answer": "Parampad or moksh is attained even while living in the body.",
+      "explanation": "Vach.Ga.An.2 confirms: \"Māṭe jene parampad kahīe, moksh kahīe tene chhate dehe ja pāmyo chhe.\"",
+      "source_reference": "Vach.Ga.An.2"
+    },
+    {
+      "id": "C70Q1",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.Ma.3, what is the relationship between Brahma and Parabrahma Purushottam Narayan?",
+      "options": [
+        "Brahma and Parabrahma are one and the same.",
+        "Parabrahma is separate from Brahma and is the cause, support, and inspirer of Brahma.",
+        "Brahma is the cause and support of Parabrahma.",
+        "They are two equal entities."
+      ],
+      "correct_answer": "Parabrahma is separate from Brahma and is the cause, support, and inspirer of Brahma.",
+      "explanation": "Vach.Ga.Ma.3 explicitly states that Parabrahma Purushottam Narayan is \"nokhā chhe ne e brahmanā paṇ kāraṇ chhe ne ādhār chhe ne prerak chhe\".",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "C70Q2",
+      "type": "mcq",
+      "question_text": "How should one worship Parabrahma according to Vach.Ga.Ma.3, after identifying their jivatma with Brahma?",
+      "options": [
+        "As an equal.",
+        "As a friend.",
+        "In a svāmī-sevakbhāve (master-servant relationship).",
+        "As a child."
+      ],
+      "correct_answer": "In a svāmī-sevakbhāve (master-servant relationship).",
+      "explanation": "Vach.Ga.Ma.3 instructs to worship Parabrahma in \"svāmī-sevakbhāve upāsanā karvī\".",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "C70Q3",
+      "type": "mcq",
+      "question_text": "What is the purpose of Bhagwān's avatār, according to Vach.Ka.5?",
+      "options": [
+        "To punish the wicked.",
+        "To establish dharma.",
+        "To fulfill the desires of his beloved devotees.",
+        "To perform divine deeds."
+      ],
+      "correct_answer": "To fulfill the desires of his beloved devotees.",
+      "explanation": "Vach.Ka.5 clearly states: \"Potānā je premī bhakta tenā manorath pūrā karvā e ja bhagwānne avatār dharyānu prayojan chhe.\"",
+      "source_reference": "Vach.Ka.5"
+    },
+    {
+      "id": "C70Q4",
+      "type": "mcq",
+      "question_text": "Who is the author of the kirtan that includes the line \"Je je harie karyu het, evu kare koṇ āpaṇe re\"?",
+      "options": [
+        "Muktanand Swami",
+        "Premanand Swami",
+        "Nishkulanand Swami",
+        "Sarveshvaranand Swami"
+      ],
+      "correct_answer": "Nishkulanand Swami",
+      "explanation": "The kirtan \"Je je harie karyu het...\" is attributed to Nishkulanand Swami in the provided text.",
+      "source_reference": "Nishkulanand Swami, Kirtan"
+    },
+    {
+      "id": "C70Q5",
+      "type": "mcq",
+      "question_text": "According to Nishkulanand Swami's kirtan, what happens if one does not understand Hari's compassion and protection?",
+      "options": [
+        "One feels immense gratitude.",
+        "Unmattāī (intoxication/pride) enters the body, and the mind turns to kusang.",
+        "One becomes humble and devoted.",
+        "One gains spiritual knowledge."
+      ],
+      "correct_answer": "Unmattāī (intoxication/pride) enters the body, and the mind turns to kusang.",
+      "explanation": "Nishkulanand Swami's kirtan stanza 4 states: \"Em samajyā vinā jan, āve unmattāī angmā re;... pachhī man māne kusangmā re...\"",
+      "source_reference": "Nishkulanand Swami, Kirtan"
+    }
+  ]
+}

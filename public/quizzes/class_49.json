@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 49: Drushtino Sanyam ane pavitrata",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.An.22 pramāṇe, \"Je harijanne viṣhe kudṛuṣhṭi rākhe te atishay pāpī chhe ne teno koī kāḷe ______ thāy nahī.\"",
+      "options": [
+        "vadhu pāp",
+        "chhūṭko",
+        "drushti sanyam",
+        "pavitrata"
+      ],
+      "correct_answer": "chhūṭko",
+      "explanation": "The Vachanamrut states, \"Je harijanne viṣhe kudṛuṣhṭi rākhe te atishay pāpī chhe ne teno koī kāḷe chhūṭko thāy nahī.\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "Q2",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.An.22 pramāṇe, Satsangī harijanne kevā kahyā chhe?",
+      "options": [
+        "jevā potānā mā, ben ke dīkrī hoy tevā",
+        "jevā potānā bhāi ke bāp hoy tevā",
+        "jevā mitro hoy tevā",
+        "jevā guru hoy tevā"
+      ],
+      "correct_answer": "jevā potānā mā, ben ke dīkrī hoy tevā",
+      "explanation": "The Vachanamrut states, \"Satsangī harijan chhe te to jevā potānā mā, ben ke dīkrī hoy tevā chhe...\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "Q3",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.An.22 pramāṇe, \"Upar kudṛuṣhṭie jovāyu hoy to tenu ______ chhe.\"",
+      "options": [
+        "ochhu pāp",
+        "samanya pāp",
+        "vadhu pāp",
+        "koī pāp nahī"
+      ],
+      "correct_answer": "vadhu pāp",
+      "explanation": "The Vachanamrut states, \"Upar kudṛuṣhṭie jovāyu hoy to tenu vadhu pāp chhe...\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "Q4",
+      "type": "MCQ",
+      "question_text": "Premanand Swami rachit kirtan pramāṇe, \"Bāio dekhīne bhāio, ______ chāle.\"",
+      "options": [
+        "najīk",
+        "chheṭerā",
+        "sāthe",
+        "āgaḷ"
+      ],
+      "correct_answer": "chheṭerā",
+      "explanation": "The kirtan states, \"Bāio dekhīne bhāio, chheṭerā chāle...\"",
+      "source_reference": "Premanand Swami Kirtan"
+    },
+    {
+      "id": "Q5",
+      "type": "MCQ",
+      "question_text": "Premanand Swami rachit kirtan pramāṇe, \"...Paḍī vastu koīnī, ______ nav jhāle rāj.\"",
+      "options": [
+        "pagathīe",
+        "hāthe",
+        "ḍagale",
+        "manthī"
+      ],
+      "correct_answer": "hāthe",
+      "explanation": "The kirtan states, \"Paḍī vastu koīnī, hāthe nav jhāle rāj...\"",
+      "source_reference": "Premanand Swami Kirtan"
+    },
+    {
+      "id": "Q6",
+      "type": "MCQ",
+      "question_text": "Vachanamrut Vach.Ga.An.22 pramāṇe, je harijanne viṣhe kudṛuṣhṭi rākhe teno koī kāḷe chhūṭko nahī thāy kem?",
+      "options": [
+        "te samanya pāpī chhe",
+        "te atishay pāpī chhe",
+        "te sādhāraṇ mānuṣya chhe",
+        "te dharmik vyakti chhe"
+      ],
+      "correct_answer": "te atishay pāpī chhe",
+      "explanation": "The Vachanamrut states, \"Je harijanne viṣhe kudṛuṣhṭi rākhe te atishay pāpī chhe ne teno koī kāḷe chhūṭko thāy nahī.\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "Q7",
+      "type": "MCQ",
+      "question_text": "Premanand Swami rachit kirtan pramāṇe, Bāio dekhīne bhāio kevu chālvu joīe ane koīnī paḍelī vastu māṭe shu karvu joīe?",
+      "options": [
+        "najīk chāle, hāthe jhāle",
+        "chheṭerā chāle, hāthe nav jhāle",
+        "sāthe chāle, hāthe jhāle",
+        "āgaḷ chāle, hāthe nav jhāle"
+      ],
+      "correct_answer": "chheṭerā chāle, hāthe nav jhāle",
+      "explanation": "The kirtan states, \"Bāio dekhīne bhāio, chheṭerā chāle, Paḍī vastu koīnī, hāthe nav jhāle rāj...\"",
+      "source_reference": "Premanand Swami Kirtan"
+    },
+    {
+      "id": "Q8",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.An.22 pramāṇe, Satsangī harijanne viṣhe kudṛuṣhṭi rākhvāvāḷā māṭe nīce nāmānthī satya vidhan shodho.",
+      "options": [
+        "tenu ochhu pāp chhe",
+        "teno koī kāḷe chhūṭko thāy",
+        "te atishay pāpī chhe",
+        "te dharmik chhe"
+      ],
+      "correct_answer": "te atishay pāpī chhe",
+      "explanation": "The Vachanamrut states, \"Je harijanne viṣhe kudṛuṣhṭi rākhe te atishay pāpī chhe ne teno koī kāḷe chhūṭko thāy nahī.\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "Q9",
+      "type": "MCQ",
+      "question_text": "'Drushtino Sanyam ane pavitrata' shirṣhak nīce, nīce nāmānthī kayā Vachanamrutno ullekh thayel chhe?",
+      "options": [
+        "Vach.Ga.Pu.1",
+        "Vach.Lo.8",
+        "Vach.Sa.12",
+        "Vach.Ga.An.22"
+      ],
+      "correct_answer": "Vach.Ga.An.22",
+      "explanation": "The Vachanamrut section explicitly lists \"Vach.Ga.An.22\".",
+      "source_reference": "Class 49"
+    },
+    {
+      "id": "Q10",
+      "type": "MCQ",
+      "question_text": "'Drushtino Sanyam ane pavitrata' shirṣhak nīce, kayā Santnu kirtan āpel chhe?",
+      "options": [
+        "Muktanand Swami",
+        "Gopalanand Swami",
+        "Premanand Swami",
+        "Nishkulanand Swami"
+      ],
+      "correct_answer": "Premanand Swami",
+      "explanation": "The Kirtan section explicitly lists \"Premanand Swami\".",
+      "source_reference": "Class 49"
+    }
+  ]
+}

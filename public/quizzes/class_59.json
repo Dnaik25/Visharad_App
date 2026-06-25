@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 59 Quiz",
+  "questions": [
+    {
+      "id": "Q001",
+      "type": "multiple_choice",
+      "question_text": "Te Akṣharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene Chidākāsh kahīe, Brahmamahol kahīe; ane e Akṣhar bīje rūpe karīne ______ sevāmā rahe chhe.",
+      "options": [
+        "Puruṣhottam Nārāyaṇnī",
+        "Bhagwān Swaminarayaṇnī",
+        "Muktapurushonī",
+        "Ādi Nārāyaṇnī"
+      ],
+      "correct_answer": "Puruṣhottam Nārāyaṇnī",
+      "explanation": "Vachanamrut Ga. Pr. 21 states that Akshar in its second form resides in the service of Purushottam Narayan.",
+      "source_reference": "Vach.Ga.Pr.21"
+    },
+    {
+      "id": "Q002",
+      "type": "multiple_choice",
+      "question_text": "Akṣharnā be swarūpmāthī, ek to nirākār ekras chaitanya chhe tene _________ kahīe.",
+      "options": [
+        "Chidākāsh ane Brahmamahol",
+        "Divya Akshardham",
+        "Aksharbhramha",
+        "Parabramha Swaminarayaṇ"
+      ],
+      "correct_answer": "Chidākāsh ane Brahmamahol",
+      "explanation": "As per Vachanamrut Ga. Pr. 21, the nirakar ekras chaitanya form of Akshar is called Chidakash and Brahmamahol.",
+      "source_reference": "Vach.Ga.Pr.21"
+    },
+    {
+      "id": "Q003",
+      "type": "multiple_choice",
+      "question_text": "Sampradāynī puṣhṭi māṭe, te shāstra Sanskṛut hoy athavā bhāṣhā hoy paṇ ________ sampradāynī puṣhṭi kare, paṇ te vinā bījo granth potānā sampradāynī puṣhṭi na kare.",
+      "options": [
+        "te ja granth",
+        "koī paṇ granth",
+        "purāṇ granth",
+        "ved granth"
+      ],
+      "correct_answer": "te ja granth",
+      "explanation": "Vachanamrut Ga. Ma. 58 specifies that only 'te ja granth' (that specific scripture of the Ishtadev's charitra) fortifies the sampraday.",
+      "source_reference": "Vach.Ga.Ma.58"
+    },
+    {
+      "id": "Q004",
+      "type": "multiple_choice",
+      "question_text": "Potānā iṣhṭadevnā je janmathī karīne deh mūkavā paryant charitra tenu je shāstra teṇe karīne _______ thāy chhe.",
+      "options": [
+        "sampradāynī puṣhṭi",
+        "mokṣha prāpti",
+        "jīvan shuddhi",
+        "ātmajñān"
+      ],
+      "correct_answer": "sampradāynī puṣhṭi",
+      "explanation": "According to Vachanamrut Ga. Ma. 58, the scripture detailing the Ishtadev's life from birth to leaving the body leads to the fortification of the sampraday.",
+      "source_reference": "Vach.Ga.Ma.58"
+    },
+    {
+      "id": "Q005",
+      "type": "multiple_choice",
+      "question_text": "Kyā granth vagar potānā sampradāynī puṣhṭi na thāy?",
+      "options": [
+        "Iṣhṭadevnā janmathī karīne deh mūkavā paryant charitra tenu je shāstra",
+        "Sanskṛut bhāṣhānā granth",
+        "Kalyāṇkārī updesh granth",
+        "Dharma ane gnān nā granth"
+      ],
+      "correct_answer": "Iṣhṭadevnā janmathī karīne deh mūkavā paryant charitra tenu je shāstra",
+      "explanation": "Vachanamrut Ga. Ma. 58 explicitly states 'paṇ te vinā bījo granth potānā sampradāynī puṣhṭi na kare', referring to the shastra of the Ishtadev's charitra.",
+      "source_reference": "Vach.Ga.Ma.58"
+    },
+    {
+      "id": "Q006",
+      "type": "multiple_choice",
+      "question_text": "Vachanāmṛut kartā bījāmā māl manāy chhe e _______ jāṇvo.",
+      "options": [
+        "moh",
+        "vibhram",
+        "ajñān",
+        "bhram"
+      ],
+      "correct_answer": "moh",
+      "explanation": "Swamini Vato 4/132 identifies believing other things to be superior to Vachanamrut as 'moh'.",
+      "source_reference": "Swa.Vato.4/132"
+    },
+    {
+      "id": "Q007",
+      "type": "multiple_choice",
+      "question_text": "Āvī vātu bīje kyāī nathī; ā to ______, ______, ane ______ chhe.",
+      "options": [
+        "akshardhāmnī vātu, bhagwānnī, nārāyaṇnī",
+        "loknī, dehīnī, sansārnī",
+        "jīvnī, īshwarnī, māyānī",
+        "purāṇonī, vedonī, itihāsnī"
+      ],
+      "correct_answer": "akshardhāmnī vātu, bhagwānnī, nārāyaṇnī",
+      "explanation": "Swamini Vato 4/34 describes these talks as being of Akshardham, Bhagwan, and Narayan.",
+      "source_reference": "Swa.Vato.4/34"
+    },
+    {
+      "id": "Q008",
+      "type": "multiple_choice",
+      "question_text": "Ā vātu ______ chedī nākhe evī bhagwān puruṣhottamnī vātu chhe.",
+      "options": [
+        "anant sanshayne",
+        "anant vighnonne",
+        "anant upādhīne",
+        "anant doshonne"
+      ],
+      "correct_answer": "anant sanshayne",
+      "explanation": "Swamini Vato 5/176 states that these talks of Bhagwan Purushottam cut through infinite doubts.",
+      "source_reference": "Swa.Vato.5/176"
+    },
+    {
+      "id": "Q009",
+      "type": "multiple_choice",
+      "question_text": "Ā vātomānthī to brahmarūp thavāshe bāḷ, joban ane vṛuddha e traṇ prakārnī strīo, _______ ane ______ e badhu sarkhu thaī jashe.",
+      "options": [
+        "kacharo, kanchan",
+        "sukh, duḥkh",
+        "mān, apmān",
+        "lābh, hāni"
+      ],
+      "correct_answer": "kacharo, kanchan",
+      "explanation": "Swamini Vato 1/33 mentions that through these talks, trash and gold will become equal.",
+      "source_reference": "Swa.Vato.1/33"
+    },
+    {
+      "id": "Q010",
+      "type": "multiple_choice",
+      "question_text": "Ā vātomānthī brahmarūp thavāthe shu sarkhu thaī jashe?",
+      "options": [
+        "bāḷ, joban ane vṛuddha e traṇ prakārnī strīo, kacharo ane kanchan",
+        "jīv, īshwar ane māyā",
+        "dharma, gnān ane vairāgya",
+        "sarva sansārik vastu"
+      ],
+      "correct_answer": "bāḷ, joban ane vṛuddha e traṇ prakārnī strīo, kacharo ane kanchan",
+      "explanation": "Swamini Vato 1/33 lists these items as becoming equal through these talks, enabling one to become brahmarup.",
+      "source_reference": "Swa.Vato.1/33"
+    }
+  ]
+}

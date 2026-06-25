@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 41 Quiz",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "mcq",
+      "question_text": "Swamini Vatoma (4/119) Mahārāje kai vātne nitye vichārvā jevī kahī chhe?",
+      "options": [
+        "Keṭlākne man ramāḍe chhe ne keṭlāk manne ramāḍe chhe.",
+        "Sant kahe tem karavu te shreṣhṭh chhe.",
+        "Manmukhi na thavu pan agnama rahevu.",
+        "Man sāthe jarūr vair bāndhvu."
+      ],
+      "correct_answer": "Keṭlākne man ramāḍe chhe ne keṭlāk manne ramāḍe chhe.",
+      "explanation": "As per Swamini Vato 4/119: 'Keṭlākne man ramāḍe chhe ne keṭlāk manne ramāḍe chhe. Ā vāt nitye vichārvā jevī chhe.'",
+      "source_reference": "Swa. Vato: 4/119"
+    },
+    {
+      "id": "Q2",
+      "type": "mcq",
+      "question_text": "Swamini Vatoma (2/57) 'shreṣhṭh' ane 'kaniṣhṭh' koṇne kahyā chhe?",
+      "options": [
+        "Sant kahe tem karavu te shreṣhṭh chhe ne mandhāryu karavu te kaniṣhṭh chhe.",
+        "Mandhāryu karavu te shreṣhṭh chhe ne sant kahe tem karavu te kaniṣhṭh chhe.",
+        "Mangamtu karavu te shreṣhṭh chhe ne sant kahe tem karavu te kaniṣhṭh chhe.",
+        "Āḷasu hoy ne ūnghato hoy te shreṣhṭh chhe ne sant kahe tem kare te kaniṣhṭh chhe."
+      ],
+      "correct_answer": "Sant kahe tem karavu te shreṣhṭh chhe ne mandhāryu karavu te kaniṣhṭh chhe.",
+      "explanation": "As per Swamini Vato 2/57: 'Sant kahe tem karavu te shreṣhṭh chhe ne mandhāryu karavu te kaniṣhṭh chhe.'",
+      "source_reference": "Swa. Vato: 2/57"
+    },
+    {
+      "id": "Q3",
+      "type": "mcq",
+      "question_text": "Purushottam Bolya Prite pramāṇe, Ingoralama Shri Harie kahyu ke amara janoe ________ na thavu pan ________ rahevu.",
+      "options": [
+        "manmukhi, agnama",
+        "agnamā, manmukhi",
+        "swatantra, agnama",
+        "agnama, swatantra"
+      ],
+      "correct_answer": "manmukhi, agnama",
+      "explanation": "As per Purushottam Bolya Prite: 'Ingoralama Shri Harie kahyu: Amara janoe manmukhi na thavu pan agnama rahevu.'",
+      "source_reference": "Purushottam Bolya Prite"
+    },
+    {
+      "id": "Q4",
+      "type": "mcq",
+      "question_text": "Vachanamrut Vartal 1 pramāṇe, je kalyāṇne ichchhe tene to ________ sāthe jarūr vair bāndhvu.",
+      "options": [
+        "man",
+        "māyā",
+        "deha",
+        "svabhāv"
+      ],
+      "correct_answer": "man",
+      "explanation": "As per Vachanamrut Vartal 1: 'Je kalyāṇne ichchhe tene to man sāthe jarūr vair bāndhvu.'",
+      "source_reference": "Vach.Va.1"
+    },
+    {
+      "id": "Q5",
+      "type": "mcq",
+      "question_text": "Vachanvidhi (4/5) pramāṇe, \"So vātnī ek vāt chhe, nav karvo ________; Rājī karvānu rahyu paru, paṇ karāviye nahi Harine kop.\"",
+      "options": [
+        "āgnālop",
+        "vachanbhang",
+        "nindā",
+        "dosha"
+      ],
+      "correct_answer": "āgnālop",
+      "explanation": "As per Vachanvidhi 4/5: 'So vātnī ek vāt chhe, nav karvo āgnālop; Rājī karvānu rahyu paru, paṇ karāviye nahi Harine kop.'",
+      "source_reference": "Vachanvidhi - 4/5"
+    },
+    {
+      "id": "Q6",
+      "type": "mcq",
+      "question_text": "Sar-Siddhi (28/9) pramāṇe, \"Pragaṭ Prabhunā vachan pāḷe, ethī moṭo koī ________ chhe.\"",
+      "options": [
+        "dharma",
+        "jñān",
+        "bhakti",
+        "tapas"
+      ],
+      "correct_answer": "dharma",
+      "explanation": "As per Sar-Siddhi 28/9: 'Dharma dharma sahu koī kahe, paṇ dharmamā bahu marm chhe; Pragaṭ Prabhunā vachan pāḷe, ethī moṭo koī dharma chhe.'",
+      "source_reference": "Sar-Siddhi - 28/9"
+    },
+    {
+      "id": "Q7",
+      "type": "mcq",
+      "question_text": "Swamini Vatoma (6/156) Mahārāje shu kahyu hatu ke \"koī niyam bhang karsho mā, ne jene karvo hoy te ________ rahesho mā, ne ā je sūraj sarkhī godaḍiyu temā bhalā thaīne ________ desho mā.\"",
+      "options": [
+        "satsangmā, ḍāgh lāgvā",
+        "ghar, ḍāgh lāgvā",
+        "mandirma, melo lāgvā",
+        "satsangmā, melo lāgvā"
+      ],
+      "correct_answer": "satsangmā, ḍāgh lāgvā",
+      "explanation": "As per Swamini Vato 6/156: 'Ek vār Mahārāje ūbhā thaīne kahyu hatu je, koī niyam bhang karsho mā, ne jene karvo hoy te satsangmā rahesho mā, ne ā je sūraj sarkhī godaḍiyu temā bhalā thaīne ḍāgh lāgvā desho mā.'",
+      "source_reference": "Swa. Vato: 6/156"
+    },
+    {
+      "id": "Q8",
+      "type": "mcq",
+      "question_text": "Vachanvidhi (42/2) pramāṇe, \"________ niyamne kām na karvu, Mar hoy lābh jo lākhno; Toy lalchāviye nahi lesh manne, Jāṇiye mavāḷo kākhno.\"",
+      "options": [
+        "Ṭhelī",
+        "Mūkī",
+        "Chhoḍī",
+        "Visarī"
+      ],
+      "correct_answer": "Ṭhelī",
+      "explanation": "As per Vachanvidhi 42/2: 'Ṭhelī niyamne kām na karvu, Mar hoy lābh jo lākhno; Toy lalchāviye nahi lesh manne, Jāṇiye mavāḷo kākhno.'",
+      "source_reference": "Vachanvidhi - 42/2"
+    },
+    {
+      "id": "Q9",
+      "type": "mcq",
+      "question_text": "Bhaktichintamani (76/39-41) pramāṇe, sukh duhkha āve sarve bheḷu, temā shu rākhjyo?",
+      "options": [
+        "sthir mati",
+        "dhyān",
+        "virakti",
+        "anāsakti"
+      ],
+      "correct_answer": "sthir mati",
+      "explanation": "As per Bhaktichintamani 76/39-41: 'Sukh duhkha āve sarve bheḷu, temā rākhjyo sthir mati;'",
+      "source_reference": "Bhaktichintamani - 76/39-41"
+    },
+    {
+      "id": "Q10",
+      "type": "mcq",
+      "question_text": "Bhaktichintamani (76/39-41) pramāṇe, \"Paṇ vrat ṭek jo ṭāḷsho to, ________ sahu sahu taṇu.\"",
+      "options": [
+        "bhogavsho",
+        "pāmsho",
+        "jośo",
+        "chhoḍsho"
+      ],
+      "correct_answer": "bhogavsho",
+      "explanation": "As per Bhaktichintamani 76/39-41: 'Em kartā jo panḍ paḍshe, to āgaḷ sukh chhe ati ghaṇu; Paṇ vrat ṭek jo ṭāḷsho to, bhogavsho sahu sahu taṇu.'",
+      "source_reference": "Bhaktichintamani - 76/39-41"
+    }
+  ]
+}

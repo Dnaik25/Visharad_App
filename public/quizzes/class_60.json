@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 60 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "mcq",
+      "question_text": "Ā vātne ame karīe chhīe te kāī buddhinī kalpanāe nathī kartā tathā siddhāī jaṇāvvā sāru nathī kartā; ā to amārī ____ chhe ne jem ame ____ chhīe tem vāt karīe chhīe.",
+      "options": [
+        "ajmāvel vāt, vartīe",
+        "siddha vāt, shāstrāe",
+        "vichārel vāt, kahīe",
+        "shikhavel vāt, maḷīe"
+      ],
+      "correct_answer": "ajmāvel vāt, vartīe",
+      "explanation": "The Vachanamrut states: \"ā to amārī ajmāvel vāt chhe ne jem ame vartīe chhīe tem vāt karīe chhīe.\"",
+      "source_reference": "Vach.Ga.An.39"
+    },
+    {
+      "id": "2",
+      "type": "mcq",
+      "question_text": "Ā je vāt chhe te keṭlā prakāre siddha karī chhe?",
+      "options": [
+        "Mārī dīṭhel chhe ne mārā anubhave karīne paṇ me siddha karī chhe ane sarva shāstramā paṇ maḷtī āve chhe.",
+        "Buddhinī kalpanāe ane guru gamyatāe siddha karī chhe.",
+        "Fakta dīṭhel chhe ane kīrtanmā maḷtī āve chhe.",
+        "Fakta shāstra dvārā ane vātā lābh dvārā siddha karī chhe."
+      ],
+      "correct_answer": "Mārī dīṭhel chhe ne mārā anubhave karīne paṇ me siddha karī chhe ane sarva shāstramā paṇ maḷtī āve chhe.",
+      "explanation": "The Vachanamrut states: \"Ā je vāt chhe te mārī dīṭhel chhe ne mārā anubhave karīne paṇ me siddha karī chhe ane sarva shāstramā paṇ maḷtī āve chhe.\"",
+      "source_reference": "Vach.Ga.Ma.13"
+    },
+    {
+      "id": "3",
+      "type": "mcq",
+      "question_text": "Manne sthir thavānu ne nirviṣhayī thavānu koī moṭu sādhan nathī ethī, etle keṇā vāt sāmbhaḷvī thi?",
+      "options": [
+        "Vishvās rākhīne prītie sahit je bhagwān puruṣhottam nārāyaṇnī vāt sāmbhaḷvī.",
+        "Sant samāgam karvo.",
+        "Bhagwānnā dhyānamā beśvu.",
+        "Shāstra pāṭh karvo."
+      ],
+      "correct_answer": "Vishvās rākhīne prītie sahit je bhagwān puruṣhottam nārāyaṇnī vāt sāmbhaḷvī.",
+      "explanation": "The Vachanamrut states: \"Vishvās rākhīne prītie sahit je bhagwān puruṣhottam nārāyaṇnī vāt sāmbhaḷvī ethī bīju manne sthir thavānu ne nirviṣhayī thavānu koī moṭu sādhan nathī.\"",
+      "source_reference": "Vach.Ka.12"
+    },
+    {
+      "id": "4",
+      "type": "mcq",
+      "question_text": "Jene kathāvārtāmā āḷas hoy tenī kornī em aṭkaḷ karvī je, \"Emā moṭā ____ nahī āve.\"",
+      "options": [
+        "guṇ",
+        "phal",
+        "sukh",
+        "kām"
+      ],
+      "correct_answer": "guṇ",
+      "explanation": "The Vachanamrut states: \"Ane jo kathāvārtāmā jene āḷas hoy tenī kornī em aṭkaḷ karvī je, \"Emā moṭā guṇ nahī āve.\"\"",
+      "source_reference": "Vach.Ga.An.24"
+    },
+    {
+      "id": "5",
+      "type": "mcq",
+      "question_text": "Amāre to bhagwānnī kathā, kīrtan ke vārtā ke bhagwānnu dhyān emānthī koī kāḷe mannī ____ thatī ja nathī, ne tamāre paṇ sarvene evī rīte karvu.",
+      "options": [
+        "tṛupti",
+        "nindā",
+        "virakti",
+        "prīti"
+      ],
+      "correct_answer": "tṛupti",
+      "explanation": "The Vachanamrut states: \"Amāre to bhagwānnī kathā, kīrtan ke vārtā ke bhagwānnu dhyān emānthī koī kāḷe mannī tṛupti thatī ja nathī...\"",
+      "source_reference": "Vach.Ga.Ma.49"
+    },
+    {
+      "id": "6",
+      "type": "mcq",
+      "question_text": "Ā sarve kām mūkīne āvīne navrā besīne vātu sāmbhaḷīe chhīe, te em samajvu je, karoḍ kām karīe chhīe. Te shu je, ____, ____, ____ e sarvene māthe līṭā tāṇīe chhīe paṇ navrā beṭhā chhīe em na samajvu.",
+      "options": [
+        "jamapurī, chorāsī, garbhvās",
+        "dhan, pratishṭhā, mān",
+        "kām, krodh, lobh",
+        "bhakti, gnān, vairāgya"
+      ],
+      "correct_answer": "jamapurī, chorāsī, garbhvās",
+      "explanation": "Swamini Vato states: \"Te shu je, jamapurī, chorāsī, garbhvās e sarvene māthe līṭā tāṇīe chhīe...\"",
+      "source_reference": "Swa.Vato.1/50"
+    },
+    {
+      "id": "7",
+      "type": "mcq",
+      "question_text": "Sūkāī jāo, anna mūkī diyo, vanmā jāo ke ghar mūkī diyo te kartā paṇ ā ____ vātu sāmbhaḷvī te adhik chhe, ane ā to puruṣhottamnā vachan chhe ne guṇātītnī vātu chhe ne ā vātumānthī to ____ dekhāy chhe.",
+      "options": [
+        "sādhunī, akshardhām",
+        "shāstranī, swarg",
+        "santsamāgamnī, mukti",
+        "gurugamyatānī, Paramātmā"
+      ],
+      "correct_answer": "sādhunī, akshardhām",
+      "explanation": "Swamini Vato states: \"...ā sādhunī vātu sāmbhaḷvī te adhik chhe... ne ā vātumānthī to akshardhām dekhāy chhe.\"",
+      "source_reference": "Swa.Vato.1/131"
+    },
+    {
+      "id": "8",
+      "type": "mcq",
+      "question_text": "Premanand Swami rachit kirtan pramāṇe, amar ichchhe shu thāvā?",
+      "options": [
+        "indrapadavī",
+        "ādya kavi",
+        "naresh",
+        "amarlok jāvā"
+      ],
+      "correct_answer": "indrapadavī",
+      "explanation": "Kirtan states: \"Amar ichchhe indrapadavī...\"",
+      "source_reference": "Kirtan, Stanza 4"
+    },
+    {
+      "id": "9",
+      "type": "mcq",
+      "question_text": "Premanand Swami rachit kirtan pramāṇe, mūḷ prakṛutipuruṣh tethī par ____ sujash.",
+      "options": [
+        "akshar",
+        "virāṭ",
+        "pradhānpuruṣh",
+        "vidhi"
+      ],
+      "correct_answer": "akshar",
+      "explanation": "Kirtan states: \"Te par mūḷ prakṛutipuruṣh, tethī par akshar sujash.\"",
+      "source_reference": "Kirtan, Stanza 5"
+    },
+    {
+      "id": "10",
+      "type": "mcq",
+      "question_text": "Je koī jāṇe ajāṇye sāmbhaḷashe, tenā ____ tāp ṭaḷashe; Je koī samaje jathārath jan, tenu thāshe ____ tan.",
+      "options": [
+        "janmamaraṇ, tejomay",
+        "kām, krodh",
+        "śarīrnā, śuddh",
+        "jagannā, prakāśit"
+      ],
+      "correct_answer": "janmamaraṇ, tejomay",
+      "explanation": "Kirtan states: \"Je koī jāṇe ajāṇye sāmbhaḷashe, tenā janmamaraṇ tāp ṭaḷashe; Je koī samaje jathārath jan, tenu thāshe tejomay tan.\"",
+      "source_reference": "Kirtan, Stanza 8"
+    }
+  ]
+}

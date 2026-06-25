@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 44: Kyarey koina avgun ke doshni vat na karvi",
+  "questions": [
+    {
+      "id": "44_1",
+      "type": "mcq",
+      "question_text": "Bhagwānno bhakta hoy tene sauthī vishesh potāmā shu bhāse?",
+      "options": [
+        "guṇ",
+        "dosh",
+        "avaguṇ",
+        "māyā"
+      ],
+      "correct_answer": "avaguṇ",
+      "explanation": "Vachanamrut Gadhada Madhyanu 26 states: Bhagwānno bhakta hoy tene to sauthī vishesh potāmā ja avaguṇ bhāse.",
+      "source_reference": "Vach.Ga.Ma.26"
+    },
+    {
+      "id": "44_2",
+      "type": "mcq",
+      "question_text": "Je bījāmā avaguṇ jue ane potāmā guṇ paraṭhe te satsangī hoy to paṇ kem kaheVāy chhe?",
+      "options": [
+        "ardho mahān",
+        "ardho vimukh",
+        "pūrṇ satsangī",
+        "pūrṇ vimukh"
+      ],
+      "correct_answer": "ardho vimukh",
+      "explanation": "According to Vachanamrut Gadhada Madhyanu 26: Ane je bījāmā avaguṇ jue ane potāmā guṇ paraṭhe te to satsangī chhe to paṇ ardho vimukh chhe.",
+      "source_reference": "Vach.Ga.Ma.26"
+    },
+    {
+      "id": "44_3",
+      "type": "mcq",
+      "question_text": "Swami ni Vato pramāṇe, 'asevā' te shu chhe?",
+      "options": [
+        "seva karvi",
+        "avaguṇ levo",
+        "nindā karvi",
+        "stuti karvi"
+      ],
+      "correct_answer": "avaguṇ levo",
+      "explanation": "Swa. Vato: 2/132 defines: Te asevā te shu je avaguṇ levo.",
+      "source_reference": "Swa. Vato: 2/132"
+    },
+    {
+      "id": "44_4",
+      "type": "mcq",
+      "question_text": "Amārī āgaḷ je koī Bhagwānnā bhaktanu _______ bole te to amne dīṭho ja game nahī.",
+      "options": [
+        "sāru",
+        "ghasātu",
+        "mahimā",
+        "stuti"
+      ],
+      "correct_answer": "ghasātu",
+      "explanation": "Vachanamrut Gadhada Antya 21 states: Amārī āgaḷ je koī Bhagwānnā bhaktanu ghasātu bole te to amne dīṭho ja game nahī.",
+      "source_reference": "Vach.Ga.An.21"
+    },
+    {
+      "id": "44_5",
+      "type": "mcq",
+      "question_text": "Je Bhagwānnā bhaktano avaguṇ leto hoy tenā hāthnu Maharaj ne shu na bhāve?",
+      "options": [
+        "vastra",
+        "anna-jaḷ",
+        "dhan",
+        "sukh"
+      ],
+      "correct_answer": "anna-jaḷ",
+      "explanation": "As per Vachanamrut Gadhada Antya 21: Ane je Bhagwānnā bhaktano avaguṇ leto hoy tenā hāthnu to anna-jaḷ paṇ bhāve nahī.",
+      "source_reference": "Vach.Ga.An.21"
+    },
+    {
+      "id": "44_6",
+      "type": "mcq",
+      "question_text": "Dehno sambandhī hoy paṇ jo Bhagwānnā bhaktano avaguṇ le to te sāthe shu thaī jāy?",
+      "options": [
+        "atishay sneh",
+        "atishay prem",
+        "atishay kuhet",
+        "atishay ādar"
+      ],
+      "correct_answer": "atishay kuhet",
+      "explanation": "Vachanamrut Gadhada Antya 21 states: Ane dehno sambandhī hoy paṇ jo Bhagwānnā bhaktano avaguṇ le to te sāthe paṇ atishay kuhet thaī jāy.",
+      "source_reference": "Vach.Ga.An.21"
+    },
+    {
+      "id": "44_7",
+      "type": "mcq",
+      "question_text": "Swami ni Vato pramāṇe, jo koī nitye lākh rūpiyā lāve paṇ satsangnu ghasātu bolto hoy to shu thāy?",
+      "options": [
+        "te mane game",
+        "tenī chākarī karāvu",
+        "te mane na game",
+        "teno ādar karu"
+      ],
+      "correct_answer": "te mane na game",
+      "explanation": "Swa. Vato: 1/237 says: Nitye lākh rūpiyā lāve ne satsangnu ghasātu bolto hoy to te mane na game.",
+      "source_reference": "Swa. Vato: 1/237"
+    },
+    {
+      "id": "44_8",
+      "type": "mcq",
+      "question_text": "Evo koṇ chhe jeni chākarī Maharaj karāvavānu kahe chhe?",
+      "options": [
+        "je nitye lākh rūpiyā lāve",
+        "je satsangnu ghasātu bole",
+        "je sūto sūto khāy paṇ Bhagwānnā bhaktnu sāru bolto hoy",
+        "je Bhagwānnā bhaktano avaguṇ le"
+      ],
+      "correct_answer": "je sūto sūto khāy paṇ Bhagwānnā bhaktnu sāru bolto hoy",
+      "explanation": "Swa. Vato: 1/237 explains: ...ne sūto sūto khāy paṇ Bhagwānnā bhaktnu sāru bolto hoy to tenī chākarī hu karāvu, evo māro swabhāv chhe.",
+      "source_reference": "Swa. Vato: 1/237"
+    },
+    {
+      "id": "44_9",
+      "type": "mcq",
+      "question_text": "Je satsangī satsangmānthī pāchho paḍvāno hoy tene pratham to divse divse _________ avaguṇ āve chhe.",
+      "options": [
+        "Parabrahmano",
+        "paramātmāno",
+        "satsangīmātrano",
+        "pramukh swamino"
+      ],
+      "correct_answer": "satsangīmātrano",
+      "explanation": "Vachanamrut Gadhada Pratham 28 describes: Je satsangī satsangmānthī pāchho paḍvāno hoy tene pratham to divse divse satsangīmātrano avaguṇ āve chhe...",
+      "source_reference": "Vach.Ga.Pr.28"
+    },
+    {
+      "id": "44_10",
+      "type": "mcq",
+      "question_text": "Jem kshayrog koī oshadhe karīne maṭe nahī, tem jene Bhagwān ne Bhagwānnā bhaktano avaguṇ āvyo hoy tenā hṛudaymānthī kyārey shu na ṭaḷe?",
+      "options": [
+        "divya mati",
+        "sātvik mati",
+        "āsurī mati",
+        "brahmamati"
+      ],
+      "correct_answer": "āsurī mati",
+      "explanation": "Vachanamrut Gadhada Antya 12 states: ...jem kshayrog thayo hoy te koī oshadhe karīne maṭe ja nahī, tem jene Bhagwān ne Bhagwānnā bhaktano avaguṇ āvyo hoy tenā hṛudaymānthī kyārey āsurī mati ṭaḷe nahī...",
+      "source_reference": "Vach.Ga.An.12"
+    }
+  ]
+}

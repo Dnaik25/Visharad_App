@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 57: Vachanamrut and Swamini Vato Overview",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Vachanamrut Gadhada Pratham 37 pramāṇe, \"Amārī sevā kartā hoy ne tenā hṛudaymā jo parameshwarnī bhakti na hoy to te upar ______ karīe toy paṇ na thāy.\"",
+      "options": [
+        "het",
+        "prīt",
+        "dayā",
+        "karuṇā"
+      ],
+      "correct_answer": "het",
+      "explanation": "The Vachanamrut states: \"Amārī sevā kartā hoy ne tenā hṛudaymā jo parameshwarnī bhakti na hoy to te upar het karīe toy paṇ na thāy.\"",
+      "source_reference": "Vach.Ga.Pr.37"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Swamini Vato 5/311 pramāṇe, \"Satsangmā kusangno jog thāy ne brahmarūp hoy to shū karī nākhe?\"",
+      "options": [
+        "dehrūp karī nākhe",
+        "ātmarūp karī nākhe",
+        "īshwarrūp karī nākhe",
+        "mokshapūrvak kare"
+      ],
+      "correct_answer": "dehrūp karī nākhe",
+      "explanation": "Swamini Vato states: \"Satsangmā kusangno jog thāy ne brahmarūp hoy to dehrūp karī nākhe\".",
+      "source_reference": "Swa.Vato.5/311"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Swamini Vato 5/311 pramāṇe, \"Satsangmā sārāno jog thāy to dehrūp hoy tene shū kare?\"",
+      "options": [
+        "brahmarūp kare",
+        "māyārūp kare",
+        "vimukh kare",
+        "siddha kare"
+      ],
+      "correct_answer": "brahmarūp kare",
+      "explanation": "Swamini Vato states: \"ne satsangmā sārāno jog thāy to dehrūp hoy tene brahmarūp kare.\"",
+      "source_reference": "Swa.Vato.5/311"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Vachanamrut Gadhada Antya 12 pramāṇe, \"Jene Bhagwān tathā bhagwānnā bhakta teno avaguṇ āvyo hoy ne te satsangī kahevāto hoy to paṇ tene koṇ jevo jāṇvo?\"",
+      "options": [
+        "haḍkāyā shvān jevo",
+        "māyāvī jevo",
+        "nirguṇ jevo",
+        "krodhī jevo"
+      ],
+      "correct_answer": "haḍkāyā shvān jevo",
+      "explanation": "The Vachanamrut states: \"Bhagwān tathā bhagwānnā bhakta teno jene avaguṇ āvyo hoy ne te satsangī kahevāto hoy to paṇ tene haḍkāyā shvān jevo jāṇvo.\"",
+      "source_reference": "Vach.Ga.An.12"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Vachanamrut Gadhada Antya 12 pramāṇe, \"Jem haḍkāyā shvānnī lāḷ jene aḍe tene paṇ haḍkavā hāle; tem jene bhagwān ne bhagwānnā bhaktano avaguṇ āvyo hoy te sāthe je het rākhe athavā tenī vāt sāmbhaḷe, to te hetno karnāro ne vātno sāmbhaḷnāro paṇ __________ thāy.\"",
+      "options": [
+        "vimukh sarkho",
+        "dehbhāvī sarkho",
+        "māyāvī sarkho",
+        "mohagrasta sarkho"
+      ],
+      "correct_answer": "vimukh sarkho",
+      "explanation": "The Vachanamrut states: \"to te hetno karnāro ne vātno sāmbhaḷnāro paṇ vimukh sarkho thāy.\"",
+      "source_reference": "Vach.Ga.An.12"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Vachanamrut Loyano 1 pramāṇe, \"Jene potāne nishchay karāvyo hoy ne te ja vaḷī em kahe je e Bhagwān nathī tyāre ene em jāṇe je ‘enu māthu faryu chhe.’ Evo je hoy tene __________ kahīe.\"",
+      "options": [
+        "uttam gnānvāḷo",
+        "siddha puruṣh",
+        "mahāgyānī",
+        "bhakta shiramaṇi"
+      ],
+      "correct_answer": "uttam gnānvāḷo",
+      "explanation": "The Vachanamrut states: \"Evo je hoy tene uttam gnānvāḷo kahīe.\"",
+      "source_reference": "Vach.Lo.1"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Narsinh Mehtā rachit Kirtan pramāṇe, \"Mārā harjī shu het na dīse re tene gher shīd jaīe?\" Koṇ sāthe sang na karvo joīe?",
+      "options": [
+        "Jene Harjī shu het na dīse",
+        "Jene Harjī nu nām na game",
+        "Jene Harjī nu darshan na thāy",
+        "Jene Harjī no mahimā na samajāy"
+      ],
+      "correct_answer": "Jene Harjī shu het na dīse",
+      "explanation": "The Kirtan begins with: \"Mārā harjī shu het na dīse re tene gher shīd jaīe, Tene sange shīd rahīe re...\".",
+      "source_reference": "Kirtan - Narsinh Mehta"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Narsinh Mehtā rachit Kirtan pramāṇe, \"bhaktibhāvno bhed na jāṇe ne, bhurāyo thaīne bhāḷe re\" - āvī vyakti sāthe shū karvu joīe?",
+      "options": [
+        "Tene sange na rahīe",
+        "Tene het karvo",
+        "Tene gyān āpvu",
+        "Tene darshan karāvvu"
+      ],
+      "correct_answer": "Tene sange na rahīe",
+      "explanation": "The Kirtan's refrain is \"Tene sange shīd rahīe re...\". The second verse describes such a person.",
+      "source_reference": "Kirtan - Narsinh Mehta"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Narsinh Mehtā rachit Kirtan pramāṇe, \"Jānvī tīre tarang tajīne, pachhī taṭmā jaīne kūp khode re\" - te koṇā viṣhe kahyu chhe?",
+      "options": [
+        "Jene nām taṇo vishvās na āve ne ūndu te ūndu shodhe",
+        "Jene Harjī shu het na dīse",
+        "Jene bhaktibhāvno bhed na jāṇe",
+        "Jene Puruṣhottamne māyā kahe"
+      ],
+      "correct_answer": "Jene nām taṇo vishvās na āve ne ūndu te ūndu shodhe",
+      "explanation": "The Kirtan links this action directly with \"Nām taṇo vishvās na āve, ne ūndu te ūndu shodhe re\".",
+      "source_reference": "Kirtan - Narsinh Mehta"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Narsinh Mehtā rachit Kirtan pramāṇe, \"Narasaiyānā swāmīnī līlā, olyā matiyā kahe chhe shū?\"",
+      "options": [
+        "māyā re",
+        "brahma re",
+        "ātma re",
+        "satya re"
+      ],
+      "correct_answer": "māyā re",
+      "explanation": "The Kirtan states: \"Narasaiyānā swāmīnī līlā, olyā matiyā kahe chhe māyā re\".",
+      "source_reference": "Kirtan - Narsinh Mehta"
+    }
+  ]
+}

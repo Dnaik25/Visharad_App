@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 66 Quiz",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "MCQ",
+      "question_text": "Sahajanand Namavali māṁ paheluṁ nām kaḷuṁ chhe?",
+      "options": [
+        "Om Shri Swāminārāyaṇāya Namah",
+        "Om Shri Sākshād-Aksharapurushottamāya Namah",
+        "Om Shri Paramātmane Namah",
+        "Om Shri Parabrahmaṇe Namah"
+      ],
+      "correct_answer": "Om Shri Swāminārāyaṇāya Namah",
+      "explanation": "The first name in the Sahajanand Namavali is 'Om Shri Swāminārāyaṇāya Namah'.",
+      "source_reference": "Sahajanand Namavali - 1"
+    },
+    {
+      "id": "Q2",
+      "type": "MCQ",
+      "question_text": "Sahajanand Namavali māṁ 40-muṁ nām kaḷuṁ chhe?",
+      "options": [
+        "Om Shri Sahajānandāya Namah",
+        "Om Shri Sarvānandapradāya Namah",
+        "Om Shri Prabhave Namah",
+        "Om Shri Praṇītadivya-Satsangāya Namah"
+      ],
+      "correct_answer": "Om Shri Sahajānandāya Namah",
+      "explanation": "The 40th name in the Sahajanand Namavali is 'Om Shri Sahajānandāya Namah'.",
+      "source_reference": "Sahajanand Namavali - 40"
+    },
+    {
+      "id": "Q3",
+      "type": "MCQ",
+      "question_text": "Sahajanand Namavali māṁ 109-muṁ nām kaḷuṁ chhe?",
+      "options": [
+        "Om Shri Aksharapuruṣhottama-Mahārājāya Namah",
+        "Om Shri Guṇātītānandasvāmi-Mahārājāya Namah",
+        "Om Shri Bhagatajīmahārājāya Namah",
+        "Om Shri Shāstrijīmahārājāya Namah"
+      ],
+      "correct_answer": "Om Shri Aksharapuruṣhottama-Mahārājāya Namah",
+      "explanation": "The 109th name in the Sahajanand Namavali is 'Om Shri Aksharapuruṣhottama-Mahārājāya Namah'.",
+      "source_reference": "Sahajanand Namavali - 109"
+    },
+    {
+      "id": "Q4",
+      "type": "MCQ",
+      "question_text": "Sahajanand Namavali māṁ kḷuṁ nām 'Sarvāvatāra-Kāraṇāya' taḷke darshāveḷuṁ chhe?",
+      "options": [
+        "Om Shri Sarvāvatāra-Kāraṇāya Namah",
+        "Om Shri Svechchhā-Dhṛutāvatārāya Namah",
+        "Om Shri Īshvareshāya Namah",
+        "Om Shri Svayamsiddhāya Namah"
+      ],
+      "correct_answer": "Om Shri Sarvāvatāra-Kāraṇāya Namah",
+      "explanation": "The name 'Om Shri Sarvāvatāra-Kāraṇāya Namah' (31) means the cause of all avatars.",
+      "source_reference": "Sahajanand Namavali - 31"
+    },
+    {
+      "id": "Q5",
+      "type": "MCQ",
+      "question_text": "Sahajanand Namavali māṁ kḷuṁ nām 'Shāshvata-Shānti-Dāyakāya' taḷke darshāveḷuṁ chhe?",
+      "options": [
+        "Om Shri Shāshvata-Shānti-Dāyakāya Namah",
+        "Om Shri Niyāmakāya Namah",
+        "Om Shri Sadāsarva-Samutkṛuṣhṭāya Namah",
+        "Om Shri Dharmasutāya Namah"
+      ],
+      "correct_answer": "Om Shri Shāshvata-Shānti-Dāyakāya Namah",
+      "explanation": "The name 'Om Shri Shāshvata-Shānti-Dāyakāya Namah' (54) means the giver of eternal peace.",
+      "source_reference": "Sahajanand Namavali - 54"
+    },
+    {
+      "id": "Q6",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.Pr.72 pramāṇe, je bhagwānnā bhaktane bhagwānno nishchay māhātmya sahit hoy ne santnu ne satsangīnu māhātmya ghaṇu jāṇto hoy, ne te bhaktnu jo karma kaṭhaṇ hoy ne kāḷ paṇ kaṭhaṇ hoy to paṇ te bhaktane evī bhaktinu atishay baḷ chhe, te __________ e bey maḷīne tenu bhūnḍu karī shaktā nathī.",
+      "options": [
+        "kāḷ ne karma",
+        "jīv ne īshwar",
+        "māyā ne kāḷ",
+        "sant ne satsangī"
+      ],
+      "correct_answer": "kāḷ ne karma",
+      "explanation": "The Vachanamrut states that 'te kāḷ ne karma e bey maḷīne tenu bhūnḍu karī shaktā nathī'.",
+      "source_reference": "Vach.Ga.Pr.72"
+    },
+    {
+      "id": "Q7",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.Pr.72 pramāṇe, bhagwānnā bhaktane kaḷuṁ baḷ prāpt thāḷ chhe jeṭhī kaṭhaṇ kāḷ ne karma paṇ tenu bhūnḍu karī shaktā nathī?",
+      "options": [
+        "bhaktinu atishay baḷ",
+        "Moṭāno āsharo",
+        "gurunu baḷ",
+        "gnananu baḷ"
+      ],
+      "correct_answer": "bhaktinu atishay baḷ",
+      "explanation": "The Vachanamrut states, 'te bhaktane evī bhaktinu atishay baḷ chhe'.",
+      "source_reference": "Vach.Ga.Pr.72"
+    },
+    {
+      "id": "Q8",
+      "type": "MCQ",
+      "question_text": "Swa.Vato.5/250 pramāṇe, \"Moṭā lagār paṇ draṣhṭi kare to kāmādik __________.\"",
+      "options": [
+        "pīḍī shake nahī",
+        "parābhav karī shake",
+        "adhik sukh āpe",
+        "dur thāḷ jaḷ"
+      ],
+      "correct_answer": "pīḍī shake nahī",
+      "explanation": "The Swamini Vato states, 'Moṭā lagār paṇ draṣhṭi kare to kāmādik pīḍī shake nahī'.",
+      "source_reference": "Swa.Vato.5/250"
+    },
+    {
+      "id": "Q9",
+      "type": "MCQ",
+      "question_text": "Swa.Vato.5/250 māṁ Moṭāno draḍh āsharo karavānuṁ shaṇ māṭe kahevāmāṁ āveḷuṁ chhe?",
+      "options": [
+        "potānī meḷe game teṭalā dākhaḍā kare paṇ kāmādik parābhav karyā vinā rahe ja nahī",
+        "kāmādik nathi pīḍatā",
+        "sukha māṭe",
+        "bhagwānnā darshan māṭe"
+      ],
+      "correct_answer": "potānī meḷe game teṭalā dākhaḍā kare paṇ kāmādik parābhav karyā vinā rahe ja nahī",
+      "explanation": "The Swamini Vato advises 'Māṭe Moṭāno draḍh āsharo karavo' because 'potānī meḷe game teṭalā dākhaḍā kare paṇ kāmādik parābhav karyā vinā rahe ja nahī'.",
+      "source_reference": "Swa.Vato.5/250"
+    },
+    {
+      "id": "Q10",
+      "type": "MCQ",
+      "question_text": "Sahajanand Namavali māṁ nām ā pramāṇe chhe: \"Om Shri __________-____________-Pradāyakāya Namah\".",
+      "options": [
+        "Svāminārāyaṇetyākhya-Divyamantra",
+        "Sākshād-Aksharapurushottamāya-Divyamantra",
+        "Guṇātītokta-Māhātmyāya-Divyamantra",
+        "Aksharātmakya-Prabodhakāya-Divyamantra"
+      ],
+      "correct_answer": "Svāminārāyaṇetyākhya-Divyamantra",
+      "explanation": "The full name is 'Om Shri Svāminārāyaṇetyākhya-Divyamantra-Pradāyakāya Namah' (88).",
+      "source_reference": "Sahajanand Namavali - 88"
+    }
+  ]
+}

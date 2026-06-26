@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 55 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Satpurushnī āgnā pramāṇe je rahe chhe, te ja ____deshkāḷādikne viṣhe rahyo chhe.",
+      "options": [
+        "bhūnḍā",
+        "rūḍā",
+        "māṭhā",
+        "kharāb"
+      ],
+      "correct_answer": "rūḍā",
+      "explanation": "As per Vach.Ga.Ma.51, \"Satpurushnī āgnā pramāṇe je rahe chhe, te ja rūḍā deshkāḷādikne viṣhe rahyo chhe\".",
+      "source_reference": "Vach.Ga.Ma.51"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Je satpurushnī āgnāthī bahār paḍyo te ja tene ____ yog thayo chhe.",
+      "options": [
+        "sārā deshkāḷādikno",
+        "uttama deshkāḷādikno",
+        "bhūnḍā deshkāḷādikno",
+        "shubh deshkāḷādikno"
+      ],
+      "correct_answer": "bhūnḍā deshkāḷādikno",
+      "explanation": "As per Vach.Ga.Ma.51, \"ane je satpurushnī āgnāthī bahār paḍyo te ja tene bhūnḍā deshkāḷādikno yog thayo chhe.\"",
+      "source_reference": "Vach.Ga.Ma.51"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Māṭe satpurushnī āgnāne viṣhe varte chhe te ja ____ varte chhe.",
+      "options": [
+        "dehsattārūpe",
+        "indriyasattārūpe",
+        "manasattārūpe",
+        "ātmasattārūpe"
+      ],
+      "correct_answer": "ātmasattārūpe",
+      "explanation": "As per Vach.Ga.Ma.51, \"Māṭe satpurushnī āgnāne viṣhe varte chhe te ja ātmasattārūpe varte chhe.\"",
+      "source_reference": "Vach.Ga.Ma.51"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy kyā chhe?",
+      "options": [
+        "bhagwānnu bhajan karvu ne bīju, satsang karvo",
+        "bhagwānnu bhajan karvu ne bīju, gurunu seva karvu",
+        "bhagwānnu bhajan karvu ne bīju, bhagwānne sarvakartā samajvā",
+        "bhagwānnu dhyan karvu ne bīju, tapa karvu"
+      ],
+      "correct_answer": "bhagwānnu bhajan karvu ne bīju, bhagwānne sarvakartā samajvā",
+      "explanation": "As per Swa.Vato.1/148, \"Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy chhe: ek to, bhagwānnu bhajan karvu ne bīju, bhagwānne sarvakartā samajvā\".",
+      "source_reference": "Swa.Vato.1/148"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Te kahyu chhe je, dāsnā dushman hari ke’dī hoy nahī, jem karshe tem ____ ja thāshe.",
+      "options": [
+        "duḥkh",
+        "sukh",
+        "lābh",
+        "hāni"
+      ],
+      "correct_answer": "sukh",
+      "explanation": "As per Swa.Vato.1/148, \"Te kahyu chhe je, dāsnā dushman hari ke’dī hoy nahī, jem karshe tem sukh ja thāshe.\"",
+      "source_reference": "Swa.Vato.1/148"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Kirtan pramāṇe, shū dhan sam nahī?",
+      "options": [
+        "Bhakti",
+        "Gnyān",
+        "Dhīraj",
+        "Seva"
+      ],
+      "correct_answer": "Dhīraj",
+      "explanation": "As per the Kirtan by Nishkulanand Swami, \"Dhīraj sam nahi dhan re\".",
+      "source_reference": "Kirtan - Nishkulanand Swami (Tek)"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Atol duḥkh paḍe jyāre āvī, te to na sahevāy tan; Temā kāyar thaīne kedī, na vade ____ vachan re...",
+      "options": [
+        "kaṭhor",
+        "dīn",
+        "mīṭhā",
+        "shubh"
+      ],
+      "correct_answer": "dīn",
+      "explanation": "As per the Kirtan by Nishkulanand Swami (Santo 1), \"Temā kāyar thaīne kedī, na vade dīn vachan re...\"",
+      "source_reference": "Kirtan - Nishkulanand Swami (Santo 1)"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Kirtan pramāṇe, Dhīraj dhārī rahe narnārī, te śu pāme chhe?",
+      "options": [
+        "duḥkhasadan",
+        "svargalok",
+        "sukhasadan",
+        "mṛtyulok"
+      ],
+      "correct_answer": "sukhasadan",
+      "explanation": "As per the Kirtan by Nishkulanand Swami (Santo 3), \"Dhīraj dhārī rahe narnārī, pāme te sukhasadan\".",
+      "source_reference": "Kirtan - Nishkulanand Swami (Santo 3)"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Niṣhkuḷānandnā nāthne pūraṇ prasanna karvā māṭe, koṇe dhīraj ati man dhārī hatī?",
+      "options": [
+        "sītā kuntā ne draipadī",
+        "rām lakṣhmaṇ ne bharat",
+        "rukmaṇī satyabhāmā ne jāmbavatī",
+        "gopīyone devīyo"
+      ],
+      "correct_answer": "sītā kuntā ne draipadī",
+      "explanation": "As per the Kirtan by Nishkulanand Swami (Santo 4), \"Āge sītā kuntā ne draipadī, dhārī dhīraj ati man; Niṣhkuḷānandnā nāthne karyā, pūraṇ eṇe prasanna re...\"",
+      "source_reference": "Kirtan - Nishkulanand Swami (Santo 4)"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Maharajne bāḷ avasthāmā kaī vārtā gamtī hatī?",
+      "options": [
+        "devamandir hoy tyā darshane javu, kathāvārtā sāmbhaḷvī, sādhuno samāgam karvo, tīrth karvā javu",
+        "ramato ramvu, pustak vāṃcvu, mitra sāthe ghumvu, nānā bāḷko sāthe vato karvī",
+        "bhajan karvu, dhyan karvu, japa karvo, tap karvo",
+        "ghar nu kārya karvu, seva karvu, gurunu ajna pāḷvu, shikṣhaṇ levu"
+      ],
+      "correct_answer": "devamandir hoy tyā darshane javu, kathāvārtā sāmbhaḷvī, sādhuno samāgam karvo, tīrth karvā javu",
+      "explanation": "As per Vach.Ga.Ma.55, \"Jyāre amāre bāḷ avasthā hatī tyāre paṇ devamandir hoy tyā darshane javu, kathāvārtā sāmbhaḷvī, sādhuno samāgam karvo, tīrth karvā javu evī vārtā gamtī.\"",
+      "source_reference": "Vach.Ga.Ma.55"
+    }
+  ]
+}

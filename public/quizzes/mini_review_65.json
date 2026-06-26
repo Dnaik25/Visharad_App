@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Mini-Review Quiz: Classes 61-65",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple-choice",
+      "question_text": "Premānand Svāmīnu kirtan shuru thāy chhe, \"Ham to ek sahajānand gāve, Hamāre man _______ dūsro na bhāve.\" Khālī jagyā pūro.",
+      "options": [
+        "rādhā-kṛṣhṇa",
+        "sītā-rām",
+        "svāminārāyaṇ",
+        "lakṣhmī-nārāyaṇ"
+      ],
+      "correct_answer": "svāminārāyaṇ",
+      "explanation": "The kirtan by Premanand Swami states, \"Ham to ek sahajānand gāve, Hamāre man svāminārāyaṇ dūsro na bhāve...\"",
+      "source_reference": "Class 63: Kirtan • Premanand Swami"
+    },
+    {
+      "id": "Q2",
+      "type": "multiple-choice",
+      "question_text": "Premānand Svāmī kirtanmā kahe chhe ke, \"___________ sār sugam sahajānand āve.\"",
+      "options": [
+        "Premānand",
+        "Brahmanand",
+        "Muktanand",
+        "Nityanand"
+      ],
+      "correct_answer": "Premānand",
+      "explanation": "The last line of Premanand Swami's kirtan is \"Premānand sār sugam sahajānand āve...\"",
+      "source_reference": "Class 63: Kirtan • Premanand Swami"
+    },
+    {
+      "id": "Q3",
+      "type": "multiple-choice",
+      "question_text": "\"Paṇ jiyā lagī prāṇ raheshe, _______ svāmī sahajānand kaheshe; Teh vinā kahe bīju kem, paḍī ānṭī antarmā em.\" Khālī jagyā pūro.",
+      "options": [
+        "dṛṣhṭi",
+        "jībhā",
+        "vachana",
+        "mukh"
+      ],
+      "correct_answer": "jībhā",
+      "explanation": "The kirtan states, \"Paṇ jiyā lagī prāṇ raheshe, jībhā svāmī sahajānand kaheshe...\"",
+      "source_reference": "Class 63: Kirtan (unattributed) - 48"
+    },
+    {
+      "id": "Q4",
+      "type": "multiple-choice",
+      "question_text": "Kirtan pramāṇe, antarmā kī āṇṭī paḍī chhe ke ____ bīju kem kahe?",
+      "options": [
+        "jībhā svāmī sahajānand kaheshe",
+        "kān nahi suṇe bījo uchchār",
+        "netra nahi juve bījo ākār",
+        "man nahi kare manan anya"
+      ],
+      "correct_answer": "jībhā svāmī sahajānand kaheshe",
+      "explanation": "The kirtan states, \"Paṇ jiyā lagī prāṇ raheshe, jībhā svāmī sahajānand kaheshe; Teh vinā kahe bīju kem, paḍī ānṭī antarmā em.\"",
+      "source_reference": "Class 63: Kirtan (unattributed) - 48"
+    },
+    {
+      "id": "Q5",
+      "type": "multiple-choice",
+      "question_text": "Kirtanmā shaṇā viṣhe kahyu chhe ke 'nāsā nahi liye sugandh nānī'?",
+      "options": [
+        "tvachā",
+        "netra",
+        "jihvā",
+        "nāsā"
+      ],
+      "correct_answer": "nāsā",
+      "explanation": "The kirtan mentions, \"Tvachā nahi kare bheṭya bījānī, nāsā nahi liye sugandh nānī.\"",
+      "source_reference": "Class 63: Kirtan (unattributed) - 49"
+    },
+    {
+      "id": "Q6",
+      "type": "multiple-choice",
+      "question_text": "Kirtan pramāṇe, _______ hari vinya bījo nishche nahi kare.",
+      "options": [
+        "man",
+        "chitta",
+        "buddhi",
+        "ahankār"
+      ],
+      "correct_answer": "buddhi",
+      "explanation": "The kirtan states, \"Man nahi kare manan anya, buddhi nahi kare nishche hari vinya;\"",
+      "source_reference": "Class 63: Kirtan (unattributed) - 50"
+    },
+    {
+      "id": "Q7",
+      "type": "multiple-choice",
+      "question_text": "Kirtan pramāṇe, jyā lagī tan shvās rahe tyā lagī shu taju nahi?",
+      "options": [
+        "e adhyās",
+        "e vishay",
+        "e kām",
+        "e lobh"
+      ],
+      "correct_answer": "e adhyās",
+      "explanation": "The kirtan states, \"Māṭe jyā lagī rahe tan shvās, taju nahi tyā lagī e adhyās;\"",
+      "source_reference": "Class 63: Kirtan (unattributed) - 52"
+    },
+    {
+      "id": "Q8",
+      "type": "multiple-choice",
+      "question_text": "Vach.Ga.Ma.11 pramāṇe, Dharma, artha ane kām sambandhī je faḷnī ichchhā teno tyāg karīne tenā te shubh karma jo ______________ arthe kare to e ja shubh karma chhe te bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.",
+      "options": [
+        "guru nī prasannatāne",
+        "svajan nī prasannatāne",
+        "bhagwānnī prasannatāne",
+        "ātmā nī prasannatāne"
+      ],
+      "correct_answer": "bhagwānnī prasannatāne",
+      "explanation": "Vach.Ga.Ma.11 states, \"...shubh karma jo bhagwānnī prasannatāne arthe kare to e ja shubh karma chhe te bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.\"",
+      "source_reference": "Class 63: Vachanamrut • Vach.Ga.Ma.11"
+    },
+    {
+      "id": "Q9",
+      "type": "multiple-choice",
+      "question_text": "Vach.Ka.3 pramāṇe, gṛuhasth satsangīne paṇ jarūr rākhyā joie te be vānā kyā chhe?",
+      "options": [
+        "dharma ne bhakti",
+        "sharīrnu daman ne vichār",
+        "gyān ne vairāgya",
+        "dhyān ne tap"
+      ],
+      "correct_answer": "sharīrnu daman ne vichār",
+      "explanation": "Vach.Ka.3 states, \"Sharīrnu daman ne vichār e be vānā to gṛuhasth satsangīne paṇ jarūr rākhyā joie...\"",
+      "source_reference": "Class 63: Vachanamrut • Vach.Ka.3"
+    },
+    {
+      "id": "Q10",
+      "type": "multiple-choice",
+      "question_text": "Purushottam Bolya Prite pramāṇe, Ekādashīnā vratnu faḷ koṭi _______ jeṭlu kahyu chhe.",
+      "options": [
+        "tīrath",
+        "yagna",
+        "tap",
+        "dān"
+      ],
+      "correct_answer": "yagna",
+      "explanation": "Purushottam Bolya Prite states, \"Koṭi yagna jeṭlu ek ekādashīnā vratnu faḷ kahyu chhe.\"",
+      "source_reference": "Class 63: Purushottam Bolya Prite"
+    },
+    {
+      "id": "Q11",
+      "type": "multiple-choice",
+      "question_text": "Purushottam Bolya Prite pramāṇe, Ekādashīnā divase anna khāy tene shaṇī tulya kahyu chhe?",
+      "options": [
+        "fāns",
+        "viṣh",
+        "māns",
+        "dhūḷ"
+      ],
+      "correct_answer": "māns",
+      "explanation": "Purushottam Bolya Prite states, \"Ekādashīnā divase anna khāy tene māns tulya kahyu chhe.\"",
+      "source_reference": "Class 63: Purushottam Bolya Prite"
+    },
+    {
+      "id": "Q12",
+      "type": "multiple-choice",
+      "question_text": "Brahmānand Svāmī kirtanmā kahe chhe ke _______, evu vrat jāvā nav dījīe re.",
+      "options": [
+        "koḍe koḍe ekādashī kījīe re",
+        "koḍe koḍe dān dījīe re",
+        "koḍe koḍe tīrath kījīe re",
+        "koḍe koḍe jap kījīe re"
+      ],
+      "correct_answer": "koḍe koḍe ekādashī kījīe re",
+      "explanation": "Brahmanand Swami's kirtan starts with \"Koḍe koḍe ekādashī kījīe re, Evu vrat jāvā nav dījīe re...\"",
+      "source_reference": "Class 63: Kirtan • Brahmanand Swami"
+    },
+    {
+      "id": "Q13",
+      "type": "multiple-choice",
+      "question_text": "Bhaktichintamani - 68/9 pramāṇe, Bhagwān kahe chhe ke \"Mārā janne _______, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.\"",
+      "options": [
+        "jivandāse",
+        "antakāḷe",
+        "yātrākāḷe",
+        "janmakāḷe"
+      ],
+      "correct_answer": "antakāḷe",
+      "explanation": "Bhaktichintamani - 68/9 states, \"Mārā janne antakāḷe, jarūr māre āvvu...\"",
+      "source_reference": "Class 65: Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "Q14",
+      "type": "multiple-choice",
+      "question_text": "Brahmānand Svāmī kirtan pramāṇe, sāchā Harijan je urmā _______ rākhe chhe.",
+      "options": [
+        "moha",
+        "krodh",
+        "himmat",
+        "lobh"
+      ],
+      "correct_answer": "himmat",
+      "explanation": "Brahmanand Swami's kirtan says, \"Harijan sāchā re, je urmā himmat rākhe...\"",
+      "source_reference": "Class 65: Kirtan • Brahmanand Swami - 1"
+    },
+    {
+      "id": "Q15",
+      "type": "multiple-choice",
+      "question_text": "Brahmanand Swami kirtan pramane, vipatti varatī re, kedī _______ nav bhākhe.",
+      "options": [
+        "dīn vachan",
+        "mithyā vachan",
+        "kaṭhor vachan",
+        "mṛudu vachan"
+      ],
+      "correct_answer": "dīn vachan",
+      "explanation": "Brahmanand Swami's kirtan says, \"Vipatti varatī re, kedī dīn vachan nav bhākhe...\"",
+      "source_reference": "Class 65: Kirtan • Brahmanand Swami - 1"
+    },
+    {
+      "id": "Q16",
+      "type": "multiple-choice",
+      "question_text": "Brahmanand Swami kirtan pramane, Harijan jagnu sukhduḥkh shaṇu karī jāṇe chhe?",
+      "options": [
+        "nitya satya",
+        "māyik mithyā",
+        "shāshvat anitya",
+        "param shubh"
+      ],
+      "correct_answer": "māyik mithyā",
+      "explanation": "Brahmanand Swami's kirtan states, \"Jagnu sukhduḥkh re, māyik mithyā karī jāṇe...\"",
+      "source_reference": "Class 65: Kirtan • Brahmanand Swami - 2"
+    },
+    {
+      "id": "Q17",
+      "type": "multiple-choice",
+      "question_text": "Brahmanand Swami kirtan pramane, tan dhan jātā re, antarmā _______. ",
+      "options": [
+        "anand na āṇe",
+        "shok na āṇe",
+        "moha na āṇe",
+        "krodh na āṇe"
+      ],
+      "correct_answer": "shok na āṇe",
+      "explanation": "Brahmanand Swami's kirtan states, \"Tan dhan jātā re, antarmā shok na āṇe...\"",
+      "source_reference": "Class 65: Kirtan • Brahmanand Swami - 2"
+    },
+    {
+      "id": "Q18",
+      "type": "multiple-choice",
+      "question_text": "Brahmanand Swami kirtan pramane, par upkārī jan kyāmā pūrā chhe?",
+      "options": [
+        "dharma-niyam",
+        "vrat-niyam",
+        "premniyam",
+        "sevā-niyam"
+      ],
+      "correct_answer": "premniyammā",
+      "explanation": "Brahmanand Swami's kirtan states, \"Par upkārī re, jan premniyammā pūrā...\"",
+      "source_reference": "Class 65: Kirtan • Brahmanand Swami - 3"
+    },
+    {
+      "id": "Q19",
+      "type": "multiple-choice",
+      "question_text": "Brahmanand Swami kirtan pramane, Harijan ahonish _______ Harine samare re.",
+      "options": [
+        "shānti bhariyā",
+        "umang bhariyā",
+        "vairāgya bhariyā",
+        "bhakti bhariyā"
+      ],
+      "correct_answer": "umang bhariyā",
+      "explanation": "Brahmanand Swami's kirtan states, \"Harine samare re, nitya ahonish umang bhariyā...\"",
+      "source_reference": "Class 65: Kirtan • Brahmanand Swami - 4"
+    },
+    {
+      "id": "Q20",
+      "type": "multiple-choice",
+      "question_text": "Brahmanand Swami kirtan pramane, evā harijannī balihārī, _______ jātā re, nav mele ṭek vichārī.",
+      "options": [
+        "tan",
+        "dhan",
+        "mastak",
+        "prāṇ"
+      ],
+      "correct_answer": "mastak",
+      "explanation": "Brahmanand Swami's kirtan states, \"Mastak jātā re, nav mele ṭek vichārī...\"",
+      "source_reference": "Class 65: Kirtan • Brahmanand Swami - 5"
+    }
+  ]
+}

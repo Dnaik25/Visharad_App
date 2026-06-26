@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 47: Taittiriya Upanishad",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question_text": "Which of the following is the complete shloka found under 'Taittiriya Upanishad - 1/11/2' in Class 47?",
+      "options": [
+        "Mātṛudevo bhava. Pitṛudevo bhava.",
+        "Mātṛudevo bhava.",
+        "Pitṛudevo bhava.",
+        "Mātṛudevo. Pitṛudevo bhava."
+      ],
+      "correct_answer": "Mātṛudevo bhava. Pitṛudevo bhava.",
+      "explanation": "The full shloka explicitly mentioned under 'Taittiriya Upanishad - 1/11/2' is 'Mātṛudevo bhava. Pitṛudevo bhava.'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question_text": "Complete the first part of the shloka from 'Taittiriya Upanishad - 1/11/2': '_______ bhava. Pitṛudevo bhava.'",
+      "options": [
+        "Mātṛudevo",
+        "Pitṛudevo",
+        "devo",
+        "bhava"
+      ],
+      "correct_answer": "Mātṛudevo",
+      "explanation": "The complete shloka is 'Mātṛudevo bhava. Pitṛudevo bhava.'. Therefore, the missing word in the first part is 'Mātṛudevo'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question_text": "Complete the second part of the shloka from 'Taittiriya Upanishad - 1/11/2': 'Mātṛudevo bhava. ___________'",
+      "options": [
+        "Pitṛudevo bhava.",
+        "Mātṛudevo bhava.",
+        "devo bhava.",
+        "Pitṛudevo"
+      ],
+      "correct_answer": "Pitṛudevo bhava.",
+      "explanation": "The complete shloka is 'Mātṛudevo bhava. Pitṛudevo bhava.'. Therefore, the missing part is 'Pitṛudevo bhava.'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question_text": "What is the first word of the shloka 'Mātṛudevo bhava. Pitṛudevo bhava.' from 'Taittiriya Upanishad - 1/11/2'?",
+      "options": [
+        "Mātṛudevo",
+        "bhava.",
+        "Pitṛudevo",
+        "devo"
+      ],
+      "correct_answer": "Mātṛudevo",
+      "explanation": "The shloka 'Mātṛudevo bhava. Pitṛudevo bhava.' begins with 'Mātṛudevo'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question_text": "What is the second word of the shloka 'Mātṛudevo bhava. Pitṛudevo bhava.' from 'Taittiriya Upanishad - 1/11/2'?",
+      "options": [
+        "bhava.",
+        "Mātṛudevo",
+        "Pitṛudevo",
+        "devo"
+      ],
+      "correct_answer": "bhava.",
+      "explanation": "The second word in the shloka 'Mātṛudevo bhava. Pitṛudevo bhava.' is 'bhava.'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question_text": "What is the last word of the shloka 'Mātṛudevo bhava. Pitṛudevo bhava.' from 'Taittiriya Upanishad - 1/11/2'?",
+      "options": [
+        "bhava.",
+        "Mātṛudevo",
+        "Pitṛudevo",
+        "devo"
+      ],
+      "correct_answer": "bhava.",
+      "explanation": "The shloka 'Mātṛudevo bhava. Pitṛudevo bhava.' ends with 'bhava.'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "question_text": "Which of the following represents the first complete clause of the shloka found under 'Taittiriya Upanishad - 1/11/2'?",
+      "options": [
+        "Mātṛudevo bhava.",
+        "Pitṛudevo bhava.",
+        "Mātṛudevo",
+        "bhava."
+      ],
+      "correct_answer": "Mātṛudevo bhava.",
+      "explanation": "The first complete clause of the shloka 'Mātṛudevo bhava. Pitṛudevo bhava.' is 'Mātṛudevo bhava.'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "question_text": "Which of the following represents the second complete clause of the shloka found under 'Taittiriya Upanishad - 1/11/2'?",
+      "options": [
+        "Pitṛudevo bhava.",
+        "Mātṛudevo bhava.",
+        "Pitṛudevo",
+        "bhava."
+      ],
+      "correct_answer": "Pitṛudevo bhava.",
+      "explanation": "The second complete clause of the shloka 'Mātṛudevo bhava. Pitṛudevo bhava.' is 'Pitṛudevo bhava.'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "question_text": "In the shloka 'Mātṛudevo bhava. Pitṛudevo bhava.', what word immediately follows 'Mātṛudevo'?",
+      "options": [
+        "bhava.",
+        "Pitṛudevo",
+        "Mātṛudevo",
+        "devo"
+      ],
+      "correct_answer": "bhava.",
+      "explanation": "In the provided shloka, 'bhava.' immediately follows 'Mātṛudevo'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "question_text": "In the shloka 'Mātṛudevo bhava. Pitṛudevo bhava.', what word immediately follows 'Pitṛudevo'?",
+      "options": [
+        "bhava.",
+        "Mātṛudevo",
+        "Pitṛudevo",
+        "devo"
+      ],
+      "correct_answer": "bhava.",
+      "explanation": "In the provided shloka, 'bhava.' immediately follows 'Pitṛudevo'.",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    }
+  ]
+}

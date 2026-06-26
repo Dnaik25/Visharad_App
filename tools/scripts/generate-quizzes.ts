@@ -62,8 +62,13 @@ async function main() {
 
         // A. Generate Class Quiz
         const classQuizPath = path.join(quizzesDir, `class_${strId}.json`);
-        // Check if exists to avoid accidental overwrite/cost (Comment out to force regen)
-        // For now, we force regen as per user request to "generate double questions"
+        try {
+            const existing = JSON.parse(await fs.readFile(classQuizPath, 'utf-8'));
+            if (Array.isArray(existing?.questions) && existing.questions.length >= 4) {
+                console.log(`⏭️  Skipping Class ${strId} Quiz (already has ${existing.questions.length} questions)`);
+                continue;
+            }
+        } catch { }
 
         const classQuizData = await generateAdminQuiz(apiKey, strId, 'class_quiz');
         if (classQuizData) {

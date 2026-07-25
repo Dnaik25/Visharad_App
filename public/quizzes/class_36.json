@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 36 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Manushya dehe karīne na thāy evu shu chhe? Je nitye ......... rākhīne kare te thāy chhe.",
+      "options": [
+        "abhyās",
+        "samagam",
+        "sang",
+        "prem"
+      ],
+      "correct_answer": "abhyās",
+      "explanation": "According to Vach.Ga.Ma.33, 'Manushya dehe karīne na thāy evu shu chhe? Je nitye abhyās rākhīne kare te thāy chhe.'",
+      "source_reference": "Vach.Ga.Ma.33"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Have āj dinthī āpaṇā satsangmā koī paṇ evī ......... vāt karsho nahī, sadā himmatya sahit ja vāt karjyo.",
+      "options": [
+        "himmatyarahit",
+        "dayārahit",
+        "bhaktirahit",
+        "prarthanarahit"
+      ],
+      "correct_answer": "himmatyarahit",
+      "explanation": "According to Vach.Ga.Pr.17, 'Have āj dinthī āpaṇā satsangmā koī paṇ evī himmatyarahit vāt karsho nahī, sadā himmatya sahit ja vāt karjyo.'",
+      "source_reference": "Vach.Ga.Pr.17"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Ane je evī himmatyarahit vāt kare tene to ......... jāṇvo.",
+      "options": [
+        "napunsak",
+        "murkh",
+        "adhama",
+        "patit"
+      ],
+      "correct_answer": "napunsak",
+      "explanation": "According to Vach.Ga.Pr.17, 'Ane je evī himmatyarahit vāt kare tene to napunsak jāṇvo.'",
+      "source_reference": "Vach.Ga.Pr.17"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Jevā ......... sāmbhaḷe tevo jīv thaī jāy chhe.",
+      "options": [
+        "shabd",
+        "vichar",
+        "mantra",
+        "vachan"
+      ],
+      "correct_answer": "shabd",
+      "explanation": "According to Swa. Vato: 1/177, 'Jevā shabd sāmbhaḷe tevo jīv thaī jāy chhe.'",
+      "source_reference": "Swa. Vato: 1/177"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Māṭe baḷiyā Bhagwānnā bhakta hoy tenā ......... sāmbhaḷīe to jīvmā baḷ āve, paṇ napunsakne sange baḷ pamāy nahī.",
+      "options": [
+        "shabd",
+        "vachan",
+        "mantra",
+        "vichar"
+      ],
+      "correct_answer": "shabd",
+      "explanation": "According to Swa. Vato: 1/177, 'Māṭe baḷiyā Bhagwānnā bhakta hoy tenā shabd sāmbhaḷīe to jīvmā baḷ āve, paṇ napunsakne sange baḷ pamāy nahī.'",
+      "source_reference": "Swa. Vato: 1/177"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Bhagwān ne sādhunā ......... vātu nirantar karvī ne sāmbhaḷvī.",
+      "options": [
+        "mahimānī",
+        "shaktinī",
+        "bhaktinī",
+        "samarthinī"
+      ],
+      "correct_answer": "mahimānī",
+      "explanation": "According to Swa. Vato: 1/1, 'Bhagwān ne sādhunā mahimānī vātu nirantar karvī ne sāmbhaḷvī.'",
+      "source_reference": "Swa. Vato: 1/1"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Mahārāje anant prakārnī vātu jīvnā ......... arthe pravartāvī chhe; paṇ temā chār vātu chhe te to jīvnu jīvan chhe.",
+      "options": [
+        "mokshane",
+        "kalyāṇne",
+        "uddharne",
+        "ātmānandne"
+      ],
+      "correct_answer": "mokshane",
+      "explanation": "According to Swa. Vato: 3/9, 'Mahārāje anant prakārnī vātu jīvnā mokshane arthe pravartāvī chhe; paṇ temā chār vātu chhe te to jīvnu jīvan chhe.'",
+      "source_reference": "Swa. Vato: 3/9"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Bhaktoe paraspar ......... rākhvo.",
+      "options": [
+        "suhṛudbhāv",
+        "prembhāv",
+        "divyabhāv",
+        "ekatābhāv"
+      ],
+      "correct_answer": "suhṛudbhāv",
+      "explanation": "According to Haricharitramrutsagar, 'Bhaktoe paraspar suhṛudbhāv rākhvo.'",
+      "source_reference": "Haricharitramrutsagar"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā bhakta chhe te to kevaḷ ......... ja mūrtio chhe, ene viṣhe to manushyabhāv lāvvo ja nahī.",
+      "options": [
+        "brahmanī",
+        "bhagwānnī",
+        "sādhunī",
+        "devonī"
+      ],
+      "correct_answer": "brahmanī",
+      "explanation": "According to Vach.Ga.Ma.63, 'Bhagwānnā bhakta chhe te to kevaḷ brahmanī ja mūrtio chhe, ene viṣhe to manushyabhāv lāvvo ja nahī.'",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Sarve haribhaktane atishay ......... yukt dekhu chhu.",
+      "options": [
+        "prakāshe",
+        "ānande",
+        "sukhe",
+        "shāntie"
+      ],
+      "correct_answer": "prakāshe",
+      "explanation": "According to Vach.Ga.An.2, 'sarve haribhaktane atishay prakāshe yukt dekhu chhu.'",
+      "source_reference": "Vach.Ga.An.2"
+    }
+  ]
+}

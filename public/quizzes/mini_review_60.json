@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Mini-Review Quiz: Classes 56-60",
+  "questions": [
+    {
+      "id": "C56Q1",
+      "type": "multiple_choice",
+      "question_text": "Jo indriyonī vṛuttione strīādiknā viṣhaymā pravartāve chhe to enu antaḥkaraṇ ______ thāy chhe ane kalyāṇnā mārg thakī ______ jāy chhe.",
+      "options": [
+        "bhraṣhṭ, paḍī",
+        "shuddh, chaḍhī",
+        "nirvighn, surakṣhit",
+        "sukhī, rahī"
+      ],
+      "correct_answer": "bhraṣhṭ, paḍī",
+      "explanation": "As per Vach.Ga.Pr.8, 'Jo indriyonī vṛuttione strīādiknā viṣhaymā pravartāve chhe to enu antaḥkaraṇ bhraṣhṭ thāy chhe ane kalyāṇnā mārg thakī paḍī jāy chhe.'",
+      "source_reference": "Vach.Ga.Pr.8"
+    },
+    {
+      "id": "C56Q2",
+      "type": "multiple_choice",
+      "question_text": "Haribhaktane to jeṭlī kasar rahe chhe teṭlī ______ karīne rahe chhe.",
+      "options": [
+        "potāne āḷase",
+        "parādhīntāe",
+        "kuvichāre",
+        "kām-krodhe"
+      ],
+      "correct_answer": "potāne āḷase",
+      "explanation": "As per Vach.Ga.Pr.20, 'Haribhaktane to jeṭlī kasar rahe chhe teṭlī potāne āḷase karīne rahe chhe.'",
+      "source_reference": "Vach.Ga.Pr.20"
+    },
+    {
+      "id": "C56Q3",
+      "type": "multiple_choice",
+      "question_text": "Je shraddhāvān puruṣh hoy ane tene jo sāchā santno sang maḷe ane te santnā vachanne viṣhe shraddhāvān thāy, to enā hṛudayne viṣhe ______ ādik je kalyāṇkārī guṇ te sarve prakaṭ thaī āve chhe.",
+      "options": [
+        "svadharma, vairāgya, vivek, gnān, bhakti",
+        "dharmabhāv, tyāg, sthairyatā, jñān, shānti",
+        "adhyātmikta, tapasyā, sahanśīltā, vairāgya",
+        "prem, karuṇā, dayā, kṣhamā, santosh"
+      ],
+      "correct_answer": "svadharma, vairāgya, vivek, gnān, bhakti",
+      "explanation": "As per Vach.Sā.18, 'Je shraddhāvān puruṣh hoy ane tene jo sāchā santno sang maḷe ane te santnā vachanne viṣhe shraddhāvān thāy, to enā hṛudayne viṣhe svadharma, vairāgya, vivek, gnān, bhakti ādik je kalyāṇkārī guṇ te sarve prakaṭ thaī āve chhe.'",
+      "source_reference": "Vach.Sā.18"
+    },
+    {
+      "id": "C56Q4",
+      "type": "multiple_choice",
+      "question_text": "Sangno bhed em chhe je, so janme ekāntik thavāno hoy te āj thāy ane ā janme ekāntik thavāno hoy tene paṇ so janma dharvā paḍe; e be ______ chhe.",
+      "options": [
+        "bhed",
+        "kāraṇ",
+        "prakār",
+        "nīti"
+      ],
+      "correct_answer": "bhed",
+      "explanation": "As per Swa.Vato.4/124, 'Sangno bhed em chhe je, so janme ekāntik thavāno hoy te āj thāy ane ā janme ekāntik thavāno hoy tene paṇ so janma dharvā paḍe; e be bhed chhe.'",
+      "source_reference": "Swa.Vato.4/124"
+    },
+    {
+      "id": "C57Q1",
+      "type": "multiple_choice",
+      "question_text": "Amārī sevā kartā hoy ne tenā hṛudaymā jo ______ bhakti na hoy to te upar het karīe toy paṇ na thāy.",
+      "options": [
+        "parameshwarnī",
+        "guruṇī",
+        "santnī",
+        "swāmīnu"
+      ],
+      "correct_answer": "parameshwarnī",
+      "explanation": "As per Vach.Ga.Pr.37, 'Amārī sevā kartā hoy ne tenā hṛudaymā jo parameshwarnī bhakti na hoy to te upar het karīe toy paṇ na thāy.'",
+      "source_reference": "Vach.Ga.Pr.37"
+    },
+    {
+      "id": "C57Q2",
+      "type": "multiple_choice",
+      "question_text": "Satsangmā kusangno jog thāy ne brahmarūp hoy to ______ karī nākhe ne satsangmā sārāno jog thāy to dehrūp hoy tene ______ kare.",
+      "options": [
+        "dehrūp, brahmarūp",
+        "brahmarūp, dehrūp",
+        "kalyāṇkārī, ashubh",
+        "sukhī, duḥkhī"
+      ],
+      "correct_answer": "dehrūp, brahmarūp",
+      "explanation": "As per Swa.Vato.5/311, 'Satsangmā kusangno jog thāy ne brahmarūp hoy to dehrūp karī nākhe ne satsangmā sārāno jog thāy to dehrūp hoy tene brahmarūp kare.'",
+      "source_reference": "Swa.Vato.5/311"
+    },
+    {
+      "id": "C57Q3",
+      "type": "multiple_choice",
+      "question_text": "Bhagwān tathā bhagwānnā bhakta teno jene avaguṇ āvyo hoy ne te satsangī kahevāto hoy to paṇ tene ______ jāṇvo.",
+      "options": [
+        "haḍkāyā shvān jevo",
+        "durjan",
+        "vimukh",
+        "pāpī"
+      ],
+      "correct_answer": "haḍkāyā shvān jevo",
+      "explanation": "As per Vach.Ga.An.12, 'Bhagwān tathā bhagwānnā bhakta teno jene avaguṇ āvyo hoy ne te satsangī kahevāto hoy to paṇ tene haḍkāyā shvān jevo jāṇvo.'",
+      "source_reference": "Vach.Ga.An.12"
+    },
+    {
+      "id": "C57Q4",
+      "type": "multiple_choice",
+      "question_text": "Evo je hoy tene ______ kahīe.",
+      "options": [
+        "uttam gnānvāḷo",
+        "ajnānī",
+        "bhrānt",
+        "doshit"
+      ],
+      "correct_answer": "uttam gnānvāḷo",
+      "explanation": "As per Vach.Lo.1, 'Jene potāne nishchay karāvyo hoy ne te ja vaḷī em kahe je e Bhagwān nathī tyāre ene em jāṇe je ‘enu māthu faryu chhe.’ Evo je hoy tene uttam gnānvāḷo kahīe.'",
+      "source_reference": "Vach.Lo.1"
+    },
+    {
+      "id": "C58Q1",
+      "type": "multiple_choice",
+      "question_text": "Baḷiyā bhagwānnā bhakta hoy teno sang karīe to ______ āve.",
+      "options": [
+        "jīvmā baḷ",
+        "sharīrmā shakti",
+        "manmā shānti",
+        "buddhimā gnān"
+      ],
+      "correct_answer": "jīvmā baḷ",
+      "explanation": "As per Swa.Vato.1/177, 'Baḷiyā bhagwānnā bhakta hoy teno sang karīe to jīvmā baḷ āve.'",
+      "source_reference": "Swa.Vato.1/177"
+    },
+    {
+      "id": "C58Q2",
+      "type": "multiple_choice",
+      "question_text": "Mārā vā'lājī shu vā'lap dīse re, teno sang shīd ______, Te vinā kene ______ re... ṭek",
+      "options": [
+        "tajīe, bhajīe",
+        "choḍīe, dhyāīe",
+        "visarīe, smarīe",
+        "tyajīe, pūjīe"
+      ],
+      "correct_answer": "tajīe, bhajīe",
+      "explanation": "As per Muktanand Swami Kirtan, 'Mārā vā'lājī shu vā'lap dīse re, teno sang shīd tajīe, Te vinā kene bhajīe re... ṭek'",
+      "source_reference": "Muktanand Swami Kirtan"
+    },
+    {
+      "id": "C58Q3",
+      "type": "multiple_choice",
+      "question_text": "Sanmukh thātā shankā na kīje, mar bhālā taṇā ______ varase re.",
+      "options": [
+        "meh",
+        "pāṇī",
+        "vārī",
+        "vṛuṣhṭi"
+      ],
+      "correct_answer": "meh",
+      "explanation": "As per Muktanand Swami Kirtan, 'Sanmukh thātā shankā na kīje, mar bhālā taṇā meh varase re.'",
+      "source_reference": "Muktanand Swami Kirtan"
+    },
+    {
+      "id": "C58Q4",
+      "type": "multiple_choice",
+      "question_text": "Shūḷī upar shayan karāve toy, sādhune ______ rahīe re; Durijan lok durbhāṣhaṇ bole, tenu ______ sarve sahīe re.",
+      "options": [
+        "sange, sukhduḥkh",
+        "pāse, bolavā",
+        "saathe, nindā",
+        "pachhe, apmān"
+      ],
+      "correct_answer": "sange, sukhduḥkh",
+      "explanation": "As per Muktanand Swami Kirtan, 'Shūḷī upar shayan karāve toy, sādhune sange rahīe re; Durijan lok durbhāṣhaṇ bole, tenu sukhduḥkh sarve sahīe re.'",
+      "source_reference": "Muktanand Swami Kirtan"
+    },
+    {
+      "id": "C59Q1",
+      "type": "multiple_choice",
+      "question_text": "Te Akṣharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene ______ kahīe, ______ kahīe.",
+      "options": [
+        "Chidākāsh, Brahmamahol",
+        "Param Vyom, Divya Dham",
+        "Sarvopari Lok, Akṣhardhām",
+        "Anant Tej, Mahol"
+      ],
+      "correct_answer": "Chidākāsh, Brahmamahol",
+      "explanation": "As per Vach.Ga.Pr.21, 'Te Akṣharnā be swarūp chhe - ek to nirākār ekras chaitanya chhe tene Chidākāsh kahīe, Brahmamahol kahīe.'",
+      "source_reference": "Vach.Ga.Pr.21"
+    },
+    {
+      "id": "C59Q2",
+      "type": "multiple_choice",
+      "question_text": "Māṭe potānā iṣhṭadevnā je janmathī karīne deh mūkavā paryant charitra tenu je shāstra teṇe karīne sampradāynī ______ thāy chhe.",
+      "options": [
+        "puṣhṭi",
+        "vruddhi",
+        "mahima",
+        "pragathi"
+      ],
+      "correct_answer": "puṣhṭi",
+      "explanation": "As per Vach.Ga.Ma.58, 'Māṭe potānā iṣhṭadevnā je janmathī karīne deh mūkavā paryant charitra tenu je shāstra teṇe karīne sampradāynī puṣhṭi thāy chhe.'",
+      "source_reference": "Vach.Ga.Ma.58"
+    },
+    {
+      "id": "C59Q3",
+      "type": "multiple_choice",
+      "question_text": "Vachanāmṛut kartā bījāmā māl manāy chhe e ______ jāṇvo.",
+      "options": [
+        "moh",
+        "ajnān",
+        "bhrānti",
+        "dosh"
+      ],
+      "correct_answer": "moh",
+      "explanation": "As per Swa.Vato.4/132, 'Vachanāmṛut kartā bījāmā māl manāy chhe e moh jāṇvo.'",
+      "source_reference": "Swa.Vato.4/132"
+    },
+    {
+      "id": "C59Q4",
+      "type": "multiple_choice",
+      "question_text": "Ā vātomānthī to brahmarūp thavāshe bāḷ, joban ane vṛuddha e traṇ prakārnī strīo, kacharo ane kanchan e badhu ______ jashe.",
+      "options": [
+        "sarkhu thaī",
+        "bhedbhāv vaḷu",
+        "alag paḍī",
+        "naṣhṭ thaī"
+      ],
+      "correct_answer": "sarkhu thaī",
+      "explanation": "As per Swa.Vato.1/33, 'Ā vātomānthī to brahmarūp thavāshe bāḷ, joban ane vṛuddha e traṇ prakārnī strīo, kacharo ane kanchan e badhu sarkhu thaī jashe.'",
+      "source_reference": "Swa.Vato.1/33"
+    },
+    {
+      "id": "C60Q1",
+      "type": "multiple_choice",
+      "question_text": "Ā vātne ame karīe chhīe te kāī buddhinī kalpanāe nathī kartā tathā siddhāī jaṇāvvā sāru nathī kartā; ā to amārī ______ vāt chhe ne jem ame vartīe chhīe tem vāt karīe chhīe.",
+      "options": [
+        "ajmāvel",
+        "shāstrīya",
+        "anubhavasiddha",
+        "devadatt"
+      ],
+      "correct_answer": "ajmāvel",
+      "explanation": "As per Vach.Ga.An.39, 'Ā vātne ame karīe chhīe te kāī buddhinī kalpanāe nathī kartā tathā siddhāī jaṇāvvā sāru nathī kartā; ā to amārī ajmāvel vāt chhe ne jem ame vartīe chhīe tem vāt karīe chhīe.'",
+      "source_reference": "Vach.Ga.An.39"
+    },
+    {
+      "id": "C60Q2",
+      "type": "multiple_choice",
+      "question_text": "Vishvās rākhīne prītie sahit je bhagwān puruṣhottam nārāyaṇnī vāt sāmbhaḷvī ethī bīju manne ______ ne ______ koī moṭu sādhan nathī.",
+      "options": [
+        "sthir thavānu, nirviṣhayī thavānu",
+        "shānt thavānu, sukhi thavānu",
+        "prasanna thavānu, gnānvān thavānu",
+        "dhyānstha thavānu, vairāgyavān thavānu"
+      ],
+      "correct_answer": "sthir thavānu, nirviṣhayī thavānu",
+      "explanation": "As per Vach.Ka.12, 'Vishvās rākhīne prītie sahit je bhagwān puruṣhottam nārāyaṇnī vāt sāmbhaḷvī ethī bīju manne sthir thavānu ne nirviṣhayī thavānu koī moṭu sādhan nathī.'",
+      "source_reference": "Vach.Ka.12"
+    },
+    {
+      "id": "C60Q3",
+      "type": "multiple_choice",
+      "question_text": "To bhagwānnī kathāvārtā sāmbhaḷyāmā jene jeṭlī prīti tene teṭlo ______ abhāv thāy tathā ______ doṣhno nāsh thāy.",
+      "options": [
+        "jagatno, kām, krodh, lobhādik",
+        "māyāno, mamatva, ahankār",
+        "saṃsārno, rāg, dveṣh",
+        "dehbuddhi, moh, matsara"
+      ],
+      "correct_answer": "jagatno, kām, krodh, lobhādik",
+      "explanation": "As per Vach.Ga.An.24, 'To bhagwānnī kathāvārtā sāmbhaḷyāmā jene jeṭlī prīti tene teṭlo jagatno abhāv thāy tathā kām, krodh, lobhādik doṣhno nāsh thāy.'",
+      "source_reference": "Vach.Ga.An.24"
+    },
+    {
+      "id": "C60Q4",
+      "type": "multiple_choice",
+      "question_text": "Te shu je, ______, ______, ______ e sarvene māthe līṭā tāṇīe chhīe paṇ navrā beṭhā chhīe em na samajvu.",
+      "options": [
+        "jamapurī, chorāsī, garbhvās",
+        "pāp, duḥkh, klesh",
+        "māyā, ahankār, lobh",
+        "bhram, vipatti, rog"
+      ],
+      "correct_answer": "jamapurī, chorāsī, garbhvās",
+      "explanation": "As per Swa.Vato.1/50, 'Te shu je, jamapurī, chorāsī, garbhvās e sarvene māthe līṭā tāṇīe chhīe paṇ navrā beṭhā chhīe em na samajvu.'",
+      "source_reference": "Swa.Vato.1/50"
+    }
+  ]
+}

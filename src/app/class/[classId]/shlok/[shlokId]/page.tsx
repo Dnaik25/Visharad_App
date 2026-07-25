@@ -2,9 +2,8 @@ import { notFound } from 'next/navigation';
 import { getClassContent } from '@/lib/data';
 import {
     ShlokCard,
-    AudioPlaceholder,
     ExplanationPlaceholder,
-    ReferenceItem,
+    ReferenceSection,
     NavButtons
 } from '@/components/ShlokView';
 
@@ -47,6 +46,9 @@ export default async function ShlokPage({ params }: Props) {
     if (currentIndex < blocks.length - 1) {
         const nextShlokNum = blocks[currentIndex + 1].shlokNumber;
         nextHref = `/class/${classId}/shlok/${nextShlokNum}`;
+    } else {
+        // Last shloka, link to quiz
+        nextHref = `/class/${classId}/quiz`;
     }
 
     return (
@@ -60,29 +62,18 @@ export default async function ShlokPage({ params }: Props) {
 
 
             {/* 4. References (Dynamic) */}
-            <div className="space-y-8">
-                {Object.entries(shlok.references).map(([source, items], idx) => {
-                    if (!items || items.length === 0) return null;
-
-                    return (
-                        <div key={`section-${idx}`}>
-                            <h3 className="text-sm font-bold text-gray-900 uppercase tracking-wider mb-4 border-b pb-2">
-                                {source}
-                            </h3>
-                            {items.map((ref, refIdx) => (
-                                <ReferenceItem
-                                    key={`${source}-${refIdx}`}
-                                    item={ref}
-                                    source={source}
-                                />
-                            ))}
-                        </div>
-                    );
-                })}
-            </div>
+            <ReferenceSection
+                shlokReferences={shlok.references}
+                classId={classId}
+                shlokNumber={shlok.shlokNumber}
+            />
 
             {/* 5. Navigation */}
-            <NavButtons prevHref={prevHref} nextHref={nextHref} />
+            <NavButtons
+                prevHref={prevHref}
+                nextHref={nextHref}
+                nextLabel={nextHref?.includes('/quiz') ? "Take Quiz →" : undefined}
+            />
         </div>
     );
 }

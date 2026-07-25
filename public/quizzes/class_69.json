@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 69 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Muktanand Swami kirtan pramāṇe, sādhu mān apamānme _______ ane sukhduḥkhme _______ rākhe chhe.",
+      "options": [
+        "ekatā, samabhāv",
+        "ekatā, alp",
+        "samabhāv, ekatā",
+        "alp, luchāv"
+      ],
+      "correct_answer": "ekatā, samabhāv",
+      "explanation": "According to Muktanand Swami's kirtan (tankī 1): 'Mān apamānme ekatā, sukhduḥkhme samabhāv'.",
+      "source_reference": "Kirtan - Muktanand Swami, tankī 1"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Muktanand Swami kirtan pramāṇe, sādhu nārīne _______ taje.",
+      "options": [
+        "nāgaṇī sam",
+        "rām sam",
+        "dām sam",
+        "lobh sam"
+      ],
+      "correct_answer": "nāgaṇī sam",
+      "explanation": "According to Muktanand Swami's kirtan (tankī 2): 'Nārī nāgaṇī sam taje'.",
+      "source_reference": "Kirtan - Muktanand Swami, tankī 2"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Muktanand Swami kirtan pramāṇe, je mamatā karī maṭh na bāndhe, shaṭhatā kīnī _______ ane kabahu krodh na upaje, te sāchā vairāgya chhe.",
+      "options": [
+        "tyāg",
+        "krodh",
+        "mamatā",
+        "vairāgya"
+      ],
+      "correct_answer": "tyāg",
+      "explanation": "According to Muktanand Swami's kirtan (tankī 3): 'Maṭh na bāndhe mamatā karī, shaṭhatā kīnī tyāg; Kabahu krodh na upaje, so sāchā vairāgya'.",
+      "source_reference": "Kirtan - Muktanand Swami, tankī 3"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "Muktanand Swami kirtan pramāṇe, eva sant sadā konī pās rahat?",
+      "options": [
+        "hari pās",
+        "rām pās",
+        "vairāgya pās",
+        "sant pās"
+      ],
+      "correct_answer": "hari pās",
+      "explanation": "According to Muktanand Swami's kirtan (tankī 4): 'Muktānand so santke, sadā rahat hari pās'.",
+      "source_reference": "Kirtan - Muktanand Swami, tankī 4"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Premanand Swami kirtan pramāṇe (Evā santnī balihārī), evā sant manmā _______ na āṇe ane _______ te sam karī jāṇe.",
+      "options": [
+        "Kām, krodh, lobh; Sonu ne dhūḷ",
+        "Kām, krodh; Gītājī",
+        "Lobh, moh; Pinḍ brahmāṇḍ",
+        "Kām, lobh; Nārī"
+      ],
+      "correct_answer": "Kām, krodh, lobh; Sonu ne dhūḷ",
+      "explanation": "According to Premanand Swami's kirtan (evā 1): 'Kām, krodh, lobh manmā na āṇe, Sonu ne dhūḷ te sam karī jāṇe'.",
+      "source_reference": "Kirtan - Premanand Swami (Evā santnī balihārī), evā 1"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Premanand Swami kirtan pramāṇe (Evā santnī balihārī), eva santne Lobh laharno _______ na lāge.",
+      "options": [
+        "lesh",
+        "ghāṭ",
+        "bāṇ",
+        "moh"
+      ],
+      "correct_answer": "lesh",
+      "explanation": "According to Premanand Swami's kirtan (evā 2): 'Lobh laharno lesh na lāge'.",
+      "source_reference": "Kirtan - Premanand Swami (Evā santnī balihārī), evā 2"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Premanand Swami kirtan pramāṇe (Evā santnī balihārī), jeṇe Brahmavidyā dṛuḍh karī sādhī ane Pinḍ brahmāṇḍnī upādhi tajī, te _______ hitkārī hoy.",
+      "options": [
+        "bhūtprāṇī taṇā",
+        "Hari guṇmā",
+        "premsakhī",
+        "girdhārī"
+      ],
+      "correct_answer": "bhūtprāṇī taṇā",
+      "explanation": "According to Premanand Swami's kirtan (evā 3): 'Brahmavidyā jeṇe dṛuḍh karī sādhī, Pinḍ brahmāṇḍnī tajī re upādhi; Hā re bhūtprāṇī taṇā hitkārī re'.",
+      "source_reference": "Kirtan - Premanand Swami (Evā santnī balihārī), evā 3"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Bhaktichintamani.76/39 pramāṇe, sukh duḥkh āve sarve bheḷu, temā _______ rākhjyo.",
+      "options": [
+        "sthir mati",
+        "ati jatan",
+        "mārā janne",
+        "sukh ghaṇu"
+      ],
+      "correct_answer": "sthir mati",
+      "explanation": "According to Bhaktichintamani.76/39: 'Sukh duḥkh āve sarve bheḷu, temā rākhjyo sthir mati'.",
+      "source_reference": "Bhaktichintamani.76/39"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Bhaktichintamani.76/40 pramāṇe, jo vrat ṭek ṭāḷsho to shu bhogavsho?",
+      "options": [
+        "sahu sahu taṇu",
+        "ati ghaṇu sukh",
+        "sthir mati",
+        "panḍ paḍshe"
+      ],
+      "correct_answer": "sahu sahu taṇu",
+      "explanation": "According to Bhaktichintamani.76/40: 'Paṇ vrat ṭek jo ṭāḷsho to, bhogavsho sahu sahu taṇu'.",
+      "source_reference": "Bhaktichintamani.76/40"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Vachanamrut Ga.An.2 pramāṇe, jene parampad kahīe ane moksh kahīe tene _______ pāmyo chhe.",
+      "options": [
+        "chhate dehe ja",
+        "deh mūkīne",
+        "santasamāgam prāpt thayo tyāre",
+        "āvo santasamāgam"
+      ],
+      "correct_answer": "chhate dehe ja",
+      "explanation": "According to Vachanamrut Ga.An.2: 'Māṭe jene parampad kahīe, moksh kahīe tene chhate dehe ja pāmyo chhe'.",
+      "source_reference": "Vachanamrut Ga.An.2"
+    }
+  ]
+}

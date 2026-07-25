@@ -1,0 +1,135 @@
+{
+  "quiz_title": "Class 13 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Nirvikalp uttam ati, nischay tav ___________; Māhātmya-gnān-yukt bhakti tav, ekāntik sukh ḍhām.",
+      "options": [
+        "Ghanshyām",
+        "Shreeji",
+        "Hari"
+      ],
+      "correct_answer": "Ghanshyām",
+      "explanation": "The correct answer is 'Ghanshyām' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 1"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Mohime tav ___________, tāme koī prakār; Dosh na rahe koī jātko, suniyo Dharmakumār.",
+      "options": [
+        "bhaktapano",
+        "dāspano",
+        "sevapano"
+      ],
+      "correct_answer": "bhaktapano",
+      "explanation": "The correct answer is 'bhaktapano' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 2"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Tumāro tav Hari bhaktako, droh kabu nahi hoy; ___________ tav dāsko, dīje samāgam moy.",
+      "options": [
+        "kāntik",
+        "bhaktik",
+        "sevak"
+      ],
+      "correct_answer": "kāntik",
+      "explanation": "The correct answer is 'kāntik' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 3"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Nāth nīrantar darsh tav, tav dāsanko dās; Ehī māgu karī vinay Hari, ___________ rākhiyo pās.",
+      "options": [
+        "sadā",
+        "nischay",
+        "ekantik"
+      ],
+      "correct_answer": "sadā",
+      "explanation": "The correct answer is 'sadā' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 4"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "He Krupālo! He Bhaktapte! Bhaktavatsal! suno bāt; Dayāsindho! stavan karī, ___________ sāt.",
+      "options": [
+        "māgu vastu",
+        "kaho vastu",
+        "dijo vastu"
+      ],
+      "correct_answer": "māgu vastu",
+      "explanation": "The correct answer is 'māgu vastu' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 5"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Sahajānand Mahārājke, sab satsangī sujāṇ; Tāku hoy dradh vartano, ___________ pramāṇ.",
+      "options": [
+        "Shikshāpatrī",
+        "Bhaktichintāmaṇi",
+        "Vachanāmrut"
+      ],
+      "correct_answer": "Shikshāpatrī",
+      "explanation": "The correct answer is 'Shikshāpatrī' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 6"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "So Patrī me atibaḍe, niyam ekādash joy; Tākī vigti kahat hu, suniyo sab ___________ proy.",
+      "options": [
+        "chitt",
+        "bhakti",
+        "haridas"
+      ],
+      "correct_answer": "chitt",
+      "explanation": "The correct answer is 'chitt' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 7"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Hinsā na karnī jantukī, partriyā sangko tyāg; Māns na khāvat madhyaku, ___________ nahi badbhāg.",
+      "options": [
+        "pīvat",
+        "khāvat",
+        "karat"
+      ],
+      "correct_answer": "pīvat",
+      "explanation": "The correct answer is 'pīvat' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 8"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Vidhvāku sparshat nahi, karat na ātmaghat; Chori na karnī kāhukī, ___________ kouku lagāt.",
+      "options": [
+        "kalank na",
+        "dosh na",
+        "sang na"
+      ],
+      "correct_answer": "kalank na",
+      "explanation": "The correct answer is 'kalank na' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 9"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Nindat nahi koy devku, bin khapto nahi khāt; Vimukh jīvake vadanse, ___________ nahi jāt.",
+      "options": [
+        "kathā sunī",
+        "prīt karo",
+        "dhyān dharo"
+      ],
+      "correct_answer": "kathā sunī",
+      "explanation": "The correct answer is 'kathā sunī' as it appears verbatim in the provided kirtan.",
+      "source_reference": "Kirtan, 10"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Mini-Review Quiz: Class 46-50",
+  "questions": [
+    {
+      "id": "C47Q1",
+      "type": "mcq",
+      "question_text": "Complete the verse from Taittiriya Upanishad: \"Mātṛudevo bhava. ____.\"",
+      "options": [
+        "Pitṛudevo bhava",
+        "Atithidevo bhava",
+        "Je harijanne viṣhe kudṛuṣhṭi rākhe",
+        "Mārā janne antakāḷe"
+      ],
+      "correct_answer": "Pitṛudevo bhava",
+      "explanation": "The verse from Taittiriya Upanishad - 1/11/2 states \"Mātṛudevo bhava. Pitṛudevo bhava.\"",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "C47Q2",
+      "type": "mcq",
+      "question_text": "The verse \"Mātṛudevo bhava. Pitṛudevo bhava.\" is from which Upanishad?",
+      "options": [
+        "Taittiriya Upanishad",
+        "Bhaktichintamani",
+        "Vachanamrut",
+        "Kirtan"
+      ],
+      "correct_answer": "Taittiriya Upanishad",
+      "explanation": "The source reference explicitly states \"Taittiriya Upanishad - 1/11/2\".",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "C48Q1",
+      "type": "mcq",
+      "question_text": "Complete the verse from Taittiriya Upanishad: \"____ bhava.\"",
+      "options": [
+        "Atithidevo",
+        "Mātṛudevo",
+        "Pitṛudevo",
+        "Premanand Swami"
+      ],
+      "correct_answer": "Atithidevo",
+      "explanation": "The verse from Taittiriya Upanishad - 1/11/2 states \"Atithidevo bhava.\"",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "C48Q2",
+      "type": "mcq",
+      "question_text": "Which of the following statements is from Bhaktichintamani - 68/9?",
+      "options": [
+        "Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.",
+        "Mātṛudevo bhava. Pitṛudevo bhava.",
+        "Atithidevo bhava.",
+        "Upar kudṛuṣhṭie jovāyu hoy to tenu vadhu pāp chhe..."
+      ],
+      "correct_answer": "Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.",
+      "explanation": "Bhaktichintamani - 68/9 states: \"Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.\"",
+      "source_reference": "Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "C48Q3",
+      "type": "mcq",
+      "question_text": "Complete the verse from Bhaktichintamani - 68/9: \"Mārā janne antakāḷe, jarūr māre āvvu; ____.\"",
+      "options": [
+        "Birud māru e na badle, te sarve janne jaṇāvvu.",
+        "Atithidevo bhava.",
+        "Upar kudṛuṣhṭie jovāyu hoy to tenu vadhu pāp chhe...",
+        "Potānā mā, ben ke dīkrī hoy tevā chhe..."
+      ],
+      "correct_answer": "Birud māru e na badle, te sarve janne jaṇāvvu.",
+      "explanation": "Bhaktichintamani - 68/9 states: \"Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.\"",
+      "source_reference": "Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "C48Q4",
+      "type": "mcq",
+      "question_text": "According to the title provided, what is Swaminarayan Bhagwan's vardan (blessing)?",
+      "options": [
+        "Antakale dhamma lai javanu",
+        "Mātṛudevo bhava",
+        "Atithidevo bhava",
+        "Drushtino Sanyam ane pavitrata"
+      ],
+      "correct_answer": "Antakale dhamma lai javanu",
+      "explanation": "The title for Class 48 states: \"Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe.\"",
+      "source_reference": "Title: Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe."
+    },
+    {
+      "id": "C48Q5",
+      "type": "mcq",
+      "question_text": "The verse \"Atithidevo bhava.\" is found in which Upanishad?",
+      "options": [
+        "Taittiriya Upanishad",
+        "Bhaktichintamani",
+        "Vachanamrut",
+        "Kirtan"
+      ],
+      "correct_answer": "Taittiriya Upanishad",
+      "explanation": "The source reference explicitly states \"Taittiriya Upanishad - 1/11/2\".",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "C48Q6",
+      "type": "mcq",
+      "question_text": "According to Bhaktichintamani - 68/9, what is Bhagwan's birud (vow) that will not change?",
+      "options": [
+        "Mārā janne antakāḷe, jarūr māre āvvu",
+        "Mātṛudevo bhava",
+        "Atithidevo bhava",
+        "Upar kudṛuṣhṭie jovāyu hoy to tenu vadhu pāp chhe"
+      ],
+      "correct_answer": "Mārā janne antakāḷe, jarūr māre āvvu",
+      "explanation": "Bhaktichintamani - 68/9 states: \"Birud māru e na badle...\" referring to \"Mārā janne antakāḷe, jarūr māre āvvu\".",
+      "source_reference": "Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "C49Q1",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.An.22, what is the result if someone looks with a \"kudṛuṣhṭi\" (evil eye) from above?",
+      "options": [
+        "tenu vadhu pāp chhe",
+        "teno koī kāḷe chhūṭko thāy nahī",
+        "chheṭerā chāle",
+        "jarūr māre āvvu"
+      ],
+      "correct_answer": "tenu vadhu pāp chhe",
+      "explanation": "Vach.Ga.An.22 states: \"Upar kudṛuṣhṭie jovāyu hoy to tenu vadhu pāp chhe...\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "C49Q2",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.An.22, Satsangī harijan are like what?",
+      "options": [
+        "jevā potānā mā, ben ke dīkrī hoy tevā chhe",
+        "tenu vadhu pāp chhe",
+        "chheṭerā chāle",
+        "Atithidevo bhava."
+      ],
+      "correct_answer": "jevā potānā mā, ben ke dīkrī hoy tevā chhe",
+      "explanation": "Vach.Ga.An.22 states: \"Satsangī harijan chhe te to jevā potānā mā, ben ke dīkrī hoy tevā chhe...\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "C49Q3",
+      "type": "mcq",
+      "question_text": "What is said about one who holds a \"kudṛuṣhṭi\" towards a harijan, according to Vach.Ga.An.22?",
+      "options": [
+        "te atishay pāpī chhe ne teno koī kāḷe chhūṭko thāy nahī",
+        "tenu vadhu pāp chhe",
+        "Birud māru e na badle",
+        "Mātṛudevo bhava"
+      ],
+      "correct_answer": "te atishay pāpī chhe ne teno koī kāḷe chhūṭko thāy nahī",
+      "explanation": "Vach.Ga.An.22 states: \"Je harijanne viṣhe kudṛuṣhṭi rākhe te atishay pāpī chhe ne teno koī kāḷe chhūṭko thāy nahī.\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "C49Q4",
+      "type": "mcq",
+      "question_text": "Who is the author of the Kirtan that contains the lines: \"Bāio dekhīne bhāio, chheṭerā chāle...\"?",
+      "options": [
+        "Premanand Swami",
+        "Bhaktichintamani",
+        "Taittiriya Upanishad",
+        "Vachanamrut"
+      ],
+      "correct_answer": "Premanand Swami",
+      "explanation": "The Kirtan containing these lines is attributed to \"Premanand Swami\".",
+      "source_reference": "Kirtan - Premanand Swami"
+    },
+    {
+      "id": "C49Q5",
+      "type": "mcq",
+      "question_text": "Complete the Kirtan line by Premanand Swami: \"Bāio dekhīne bhāio, chheṭerā chāle, ____.\"",
+      "options": [
+        "Paḍī vastu koīnī, hāthe nav jhāle rāj...",
+        "tenu vadhu pāp chhe",
+        "jarūr māre āvvu",
+        "Atithidevo bhava"
+      ],
+      "correct_answer": "Paḍī vastu koīnī, hāthe nav jhāle rāj...",
+      "explanation": "The Kirtan by Premanand Swami states: \"Bāio dekhīne bhāio, chheṭerā chāle, Paḍī vastu koīnī, hāthe nav jhāle rāj...\"",
+      "source_reference": "Kirtan - Premanand Swami"
+    },
+    {
+      "id": "C49Q6",
+      "type": "mcq",
+      "question_text": "What is the title for Class 49?",
+      "options": [
+        "Drushtino Sanyam ane pavitrata",
+        "Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe.",
+        "Class 47",
+        "Class 48"
+      ],
+      "correct_answer": "Drushtino Sanyam ane pavitrata",
+      "explanation": "The title for Class 49 is \"Drushtino Sanyam ane pavitrata\".",
+      "source_reference": "Title: Drushtino Sanyam ane pavitrata"
+    },
+    {
+      "id": "C49Q7",
+      "type": "mcq",
+      "question_text": "From which Vachanamrut is the statement \"Upar kudṛuṣhṭie jovāyu hoy to tenu vadhu pāp chhe...\"?",
+      "options": [
+        "Vach.Ga.An.22",
+        "Bhaktichintamani - 68/9",
+        "Taittiriya Upanishad - 1/11/2",
+        "Kirtan - Premanand Swami"
+      ],
+      "correct_answer": "Vach.Ga.An.22",
+      "explanation": "The statement \"Upar kudṛuṣhṭie jovāyu hoy to tenu vadhu pāp chhe...\" is from Vach.Ga.An.22.",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "C49Q8",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.An.22, what is the consequence for one who keeps kudṛuṣhṭi towards a harijan?",
+      "options": [
+        "teno koī kāḷe chhūṭko thāy nahī",
+        "tenu vadhu pāp chhe",
+        "Birud māru e na badle",
+        "chheṭerā chāle"
+      ],
+      "correct_answer": "teno koī kāḷe chhūṭko thāy nahī",
+      "explanation": "Vach.Ga.An.22 states: \"Je harijanne viṣhe kudṛuṣhṭi rākhe te atishay pāpī chhe ne teno koī kāḷe chhūṭko thāy nahī.\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "C49Q9",
+      "type": "mcq",
+      "question_text": "According to Vach.Ga.An.22, what is the nature of the \"pāp\" from looking with kudṛuṣhṭi from above?",
+      "options": [
+        "vadhu pāp chhe",
+        "teno koī kāḷe chhūṭko thāy nahī",
+        "chheṭerā chāle",
+        "Mārā janne antakāḷe"
+      ],
+      "correct_answer": "vadhu pāp chhe",
+      "explanation": "Vach.Ga.An.22 states: \"Upar kudṛuṣhṭie jovāyu hoy to tenu vadhu pāp chhe...\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "C49Q10",
+      "type": "mcq",
+      "question_text": "In Vach.Ga.An.22, Satsangī harijan are compared to whom?",
+      "options": [
+        "potānā mā, ben ke dīkrī",
+        "bhāio",
+        "janne",
+        "satsangī"
+      ],
+      "correct_answer": "potānā mā, ben ke dīkrī",
+      "explanation": "Vach.Ga.An.22 states: \"Satsangī harijan chhe te to jevā potānā mā, ben ke dīkrī hoy tevā chhe...\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "C49Q11",
+      "type": "mcq",
+      "question_text": "What kind of person is one who holds \"kudṛuṣhṭi\" towards a harijan, according to Vach.Ga.An.22?",
+      "options": [
+        "atishay pāpī",
+        "tenu vadhu pāp chhe",
+        "chheṭerā chāle",
+        "birud māru"
+      ],
+      "correct_answer": "atishay pāpī",
+      "explanation": "Vach.Ga.An.22 states: \"Je harijanne viṣhe kudṛuṣhṭi rākhe te atishay pāpī chhe...\"",
+      "source_reference": "Vach.Ga.An.22"
+    },
+    {
+      "id": "C49Q12",
+      "type": "mcq",
+      "question_text": "According to the Kirtan by Premanand Swami, what should 'bhāio' (brothers) do when they see 'bāio' (sisters)?",
+      "options": [
+        "chheṭerā chāle",
+        "hāthe nav jhāle rāj",
+        "jarūr māre āvvu",
+        "tenu vadhu pāp chhe"
+      ],
+      "correct_answer": "chheṭerā chāle",
+      "explanation": "The Kirtan by Premanand Swami states: \"Bāio dekhīne bhāio, chheṭerā chāle...\"",
+      "source_reference": "Kirtan - Premanand Swami"
+    }
+  ]
+}

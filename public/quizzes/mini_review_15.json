@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Mini-Review Questions (Classes 11-15)",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "“Satpuruṣhno je prasang e ja ________ viṣhe draḍh prīti thavānu kāraṇ chhe.”",
+      "options": [
+        "Parameshvarne",
+        "Akshardhāmnā mukhne",
+        "Swaminarayan Bhagwanne",
+        "Paramatmane"
+      ],
+      "correct_answer": "Parameshvarne",
+      "explanation": "According to Vach.Ga.Pa.44, “Satpuruṣhno je prasang e ja Parameshvarne viṣhe draḍh prīti thavānu kāraṇ chhe.”",
+      "source_reference": "Vach.Ga.Pa.44"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Āvā Sādhune manmā sambhārīe to mannā pāp baḷī jāy ne vātu sāmbhaḷīe to _________ baḷī jāy ne darshan karīe to ānkhnā pāp baḷī jāy, em mahimā jāṇavo.",
+      "options": [
+        "kānnā pāp",
+        "nāknā pāp",
+        "pāgnā pāp",
+        "hāthnā pāp"
+      ],
+      "correct_answer": "kānnā pāp",
+      "explanation": "According to Swa.Vato.1/30, Āvā Sādhune manmā sambhārīe to mannā pāp baḷī jāy ne vātu sāmbhaḷīe to kānnā pāp baḷī jāy ne darshan karīe to ānkhnā pāp baḷī jāy, em mahimā jāṇavo.",
+      "source_reference": "Swa.Vato.1/30"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Sant samān e eke nahi, me ________ karyo vichār.",
+      "options": [
+        "manmā",
+        "tanmā",
+        "dhanmā",
+        "chittmā"
+      ],
+      "correct_answer": "manmā",
+      "explanation": "According to Bhaktachintamani, Sant samān e eke nahi, me manmā karyo vichār.",
+      "source_reference": "Bhaktachintamani"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Jevī parokṣh devne viṣhe jīvne pratīti chhe tevī jo pratyakṣh gururūp Harine viṣhe āve, to jeṭalā arth prāpt thavānā kahyā chhe teṭalā sarve arth tene ________ chhe.",
+      "options": [
+        "prāpt thāy",
+        "dur thāy",
+        "alga thāy",
+        "nasht thāy"
+      ],
+      "correct_answer": "prāpt thāy",
+      "explanation": "According to Vach.Ga.An.2, Jevī parokṣh devne viṣhe jīvne pratīti chhe tevī jo pratyakṣh gururūp Harine viṣhe āve, to jeṭalā arth prāpt thavānā kahyā chhe teṭalā sarve arth tene prāpt thāy chhe.",
+      "source_reference": "Vach.Ga.An.2"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Yasya deve parābhaktir, yathā deve _________ |",
+      "options": [
+        "tathā gurau",
+        "tathā pitrau",
+        "tathā bhātrau",
+        "tathā mītrau"
+      ],
+      "correct_answer": "tathā gurau",
+      "explanation": "According to Shvetashvatar Upanishad, Yasya deve parābhaktir, yathā deve tathā gurau |",
+      "source_reference": "Shvetashvatar Upanishad"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī ________ ja chhīe",
+      "options": [
+        "pāse",
+        "dūr",
+        "agam",
+        "pare"
+      ],
+      "correct_answer": "pāse",
+      "explanation": "According to Vach.Ga.Ma.33, jene niṣhkāmī vartamān draḍh hoy to te thakī ame hajār gāu chheṭe jaīe to paṇ tenī pāse ja chhīe",
+      "source_reference": "Vach.Ga.Ma.33"
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "question_text": "Navkhanḍ dhartīmā Swāmī, ________ chāle rāj...",
+      "options": [
+        "chhatrāyā",
+        "āgrayā",
+        "bharāyā",
+        "samāyā"
+      ],
+      "correct_answer": "chhatrāyā",
+      "explanation": "According to Sadguru Premanand Swami, Navkhanḍ dhartīmā Swāmī, chhatrāyā chāle rāj...",
+      "source_reference": "Sadguru Premanand Swami"
+    },
+    {
+      "id": "8",
+      "type": "MCQ",
+      "question_text": "Avani par āvī vahāle satsang sthāpyo Harijanone kol, _________ āpyo rāj... Akshar 1",
+      "options": [
+        "kalyāṇno",
+        "bhaktino",
+        "shaktino",
+        "premno"
+      ],
+      "correct_answer": "kalyāṇno",
+      "explanation": "According to Sadguru Premanand Swami, Avani par āvī vahāle satsang sthāpyo Harijanone kol, kalyāṇno āpyo rāj... Akshar 1",
+      "source_reference": "Sadguru Premanand Swami"
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "question_text": "Pānche vartmān pāḷe, ________, Harijan sangāthe kīdhī, sāchī sagāīo rāj... Akshar 2",
+      "options": [
+        "bāīo ne bhāīo",
+        "bāpo ne betīo",
+        "bāīo ne dīkarīo",
+        "dādā ne potā"
+      ],
+      "correct_answer": "bāīo ne bhāīo",
+      "explanation": "According to Sadguru Premanand Swami, Pānche vartmān pāḷe, bāīo ne bhāīo, Harijan sangāthe kīdhī, sāchī sagāīo rāj... Akshar 2",
+      "source_reference": "Sadguru Premanand Swami"
+    },
+    {
+      "id": "10",
+      "type": "MCQ",
+      "question_text": "Nirvikalp uttam ati, nischay tav ________;",
+      "options": [
+        "Ghanshyām",
+        "Haridham",
+        "Purushottam",
+        "Sahajanand"
+      ],
+      "correct_answer": "Ghanshyām",
+      "explanation": "According to Sadguru Premanand Swami, Nirvikalp uttam ati, nischay tav Ghanshyām;",
+      "source_reference": "Sadguru Premanand Swami"
+    },
+    {
+      "id": "11",
+      "type": "MCQ",
+      "question_text": "Mohime tav bhaktapano, tāme koī prakār; Dosh na rahe koī jātko, suniyo ________. 2",
+      "options": [
+        "Dharmakumār",
+        "Ichchhārām",
+        "Devnandan",
+        "Ghanshyam"
+      ],
+      "correct_answer": "Dharmakumār",
+      "explanation": "According to Sadguru Premanand Swami, Mohime tav bhaktapano, tāme koī prakār; Dosh na rahe koī jātko, suniyo Dharmakumār. 2",
+      "source_reference": "Sadguru Premanand Swami"
+    },
+    {
+      "id": "12",
+      "type": "MCQ",
+      "question_text": "He Krupālo! He Bhaktapte! ________! suno bāt; Dayāsindho! stavan karī, māgu vastu sāt. 5",
+      "options": [
+        "Bhaktavatsal",
+        "Premsagar",
+        "Krupaludev",
+        "Dayalusagar"
+      ],
+      "correct_answer": "Bhaktavatsal",
+      "explanation": "According to Sadguru Premanand Swami, He Krupālo! He Bhaktapte! Bhaktavatsal! suno bāt; Dayāsindho! stavan karī, māgu vastu sāt. 5",
+      "source_reference": "Sadguru Premanand Swami"
+    },
+    {
+      "id": "13",
+      "type": "MCQ",
+      "question_text": "Ane e Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane gadheḍe besāḍe to gadheḍe besīne rājī rahevu. Ane e Bhagwānnu karyu sarve thāy chhe. Māṭe sūku pānaḍu jem _________ fare tem e Bhagwānne ādhīn rahīne ānandmā e Parameshvarnu bhajan karavu ane koī jātno manmā udveg āvavā devo nahī.",
+      "options": [
+        "vāyune ādhāre",
+        "pavanne ādhāre",
+        "agnine ādhāre",
+        "jalne ādhāre"
+      ],
+      "correct_answer": "vāyune ādhāre",
+      "explanation": "According to Vach.Ga.Pa.74, Ane e Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane gadheḍe besāḍe to gadheḍe besīne rājī rahevu. Ane e Bhagwānnu karyu sarve thāy chhe. Māṭe sūku pānaḍu jem vāyune ādhāre fare tem e Bhagwānne ādhīn rahīne ānandmā e Parameshvarnu bhajan karavu ane koī jātno manmā udveg āvavā devo nahī.",
+      "source_reference": "Vach.Ga.Pa.74"
+    },
+    {
+      "id": "14",
+      "type": "MCQ",
+      "question_text": "Jo mār mār karato koī āvato hoy to em samajavu je, ‘Mārā Swāmīnu ja karyu sarve thāy chhe, paṇ te vinā koīnu _________ halatu nathī.’",
+      "options": [
+        "halāvyu pānaḍu",
+        "karyu kāmadu",
+        "chalyu chakardu",
+        "hālyu nakardu"
+      ],
+      "correct_answer": "halāvyu pānaḍu",
+      "explanation": "According to Swa.Vato.1/88, Jo mār mār karato koī āvato hoy to em samajavu je, ‘Mārā Swāmīnu ja karyu sarve thāy chhe, paṇ te vinā koīnu halāvyu pānaḍu paṇ halatu nathī.’",
+      "source_reference": "Swa.Vato.1/88"
+    },
+    {
+      "id": "15",
+      "type": "MCQ",
+      "question_text": "Bhagwān to potānā bhaktanī rakṣhā karavāmā ja beṭhā chhe. Kenī peṭhe? To jem pāpaṇ _________ kare chhe ne hāth kanṭhanī rakṣhā kare chhe ne māvatar chhokarānī rakṣhā kare chhe ne rājā prajānī rakṣhāmā chhe, tem ja Bhagwān āpaṇī rakṣhāmā chhe.",
+      "options": [
+        "ānkhanī rakṣhā",
+        "kānni rakṣhā",
+        "nāknī rakṣhā",
+        "munhnī rakṣhā"
+      ],
+      "correct_answer": "ānkhanī rakṣhā",
+      "explanation": "According to Swa.Vato.1/22, Bhagwān to potānā bhaktanī rakṣhā karavāmā ja beṭhā chhe. Kenī peṭhe? To jem pāpaṇ ānkhanī rakṣhā kare chhe ne hāth kanṭhanī rakṣhā kare chhe ne māvatar chhokarānī rakṣhā kare chhe ne rājā prajānī rakṣhāmā chhe, tem ja Bhagwān āpaṇī rakṣhāmā chhe.",
+      "source_reference": "Swa.Vato.1/22"
+    },
+    {
+      "id": "16",
+      "type": "MCQ",
+      "question_text": "āpaṇe jyāre tan-man-dhan Bhagwānne arpaṇ karyu tyāre have Bhagwānnī ichchhā te ja āpaṇu prārabdha chhe, te vinā bīju koī prārabdha nathī. Māṭe Bhagwānnī ichchhāe karīne game tevu _________ āve, temā koī rīte akaḷāī javu nahī",
+      "options": [
+        "sukh-dukh",
+        "labh-gani",
+        "jay-parajay",
+        "has-rudan"
+      ],
+      "correct_answer": "sukh-dukh",
+      "explanation": "According to Vach.Ga.An.13, āpaṇe jyāre tan-man-dhan Bhagwānne arpaṇ karyu tyāre have Bhagwānnī ichchhā te ja āpaṇu prārabdha chhe, te vinā bīju koī prārabdha nathī. Māṭe Bhagwānnī ichchhāe karīne game tevu sukh-dukh āve, temā koī rīte akaḷāī javu nahī",
+      "source_reference": "Vach.Ga.An.13"
+    },
+    {
+      "id": "17",
+      "type": "MCQ",
+      "question_text": "Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy chhe: ek to Bhagwānnu bhajan karavu ne bīju Bhagwānne _________ samajavā ne temā sukh āve to sukh bhogavī levu ne dukh āve to dukh bhogavī levu. Te kahyu chhe je, Dāsnā dushman Hari ke’dī hoy nahi, jem karashe tem sukh ja thāshe.",
+      "options": [
+        "sarva-kartā",
+        "sarva-dhartā",
+        "sarva-hartā",
+        "sarva-bhartā"
+      ],
+      "correct_answer": "sarva-kartā",
+      "explanation": "According to Swa.Vato.1/148, Antarmā ṭāḍhu rahyā kare ne dhagī na jāy tenā be upāy chhe: ek to Bhagwānnu bhajan karavu ne bīju Bhagwānne sarva-kartā samajavā ne temā sukh āve to sukh bhogavī levu ne dukh āve to dukh bhogavī levu. Te kahyu chhe je, Dāsnā dushman Hari ke’dī hoy nahi, jem karashe tem sukh ja thāshe.",
+      "source_reference": "Swa.Vato.1/148"
+    },
+    {
+      "id": "18",
+      "type": "MCQ",
+      "question_text": "Je dukhe thāy sukh janne, te de chhe dukh dayā kari | jeha sukhe dukh upaje, te āpe nahi _________ ||",
+      "options": [
+        "kedi hari",
+        "kadapi hari",
+        "kyare hari",
+        "kashu hari"
+      ],
+      "correct_answer": "kedi hari",
+      "explanation": "According to Dhiraj Akhyan, Je dukhe thāy sukh janne, te de chhe dukh dayā kari | jeha sukhe dukh upaje, te āpe nahi kedi hari ||",
+      "source_reference": "Dhiraj Akhyan"
+    },
+    {
+      "id": "19",
+      "type": "MCQ",
+      "question_text": "je je mārā kahevāyā chho temā māre ek ________ kasar rahevā devī nathī.",
+      "options": [
+        "talmātra",
+        "ratimātra",
+        "vantimātra",
+        "kāṅkarhmātra"
+      ],
+      "correct_answer": "talmātra",
+      "explanation": "According to Vach.Ga.Ma.45, je je mārā kahevāyā chho temā māre ek talmātra kasar rahevā devī nathī.",
+      "source_reference": "Vach.Ga.Ma.45"
+    },
+    {
+      "id": "20",
+      "type": "MCQ",
+      "question_text": "Te Bhagwānno jene pratyaksh pramān dradh āsharo hoy tene manmā evī bīk na rākhavī je, 'Hu rakhe marine _________ thau ke rakhe Indralokne ja pāmu ke rakhe Brahmalokne ja pāmu!' Evī āshankā manmā rākhavī nahī; kem je, je evo Bhagwānno bhakta hoy te to Bhagwānnā dhāmne ja pāme pan vachmā kyāy tene Bhagwān rahevā de nahī.",
+      "options": [
+        "bhūt-pret",
+        "pishāch-jinn",
+        "rakshas-bheru",
+        "yaksh-gandharv"
+      ],
+      "correct_answer": "bhūt-pret",
+      "explanation": "According to Vach.Ga.An.7, Te Bhagwānno jene pratyaksh pramān dradh āsharo hoy tene manmā evī bīk na rākhavī je, 'Hu rakhe marine bhūt-pret thau ke rakhe Indralokne ja pāmu ke rakhe Brahmalokne ja pāmu!' Evī āshankā manmā rākhavī nahī; kem je, je evo Bhagwānno bhakta hoy te to Bhagwānnā dhāmne ja pāme pan vachmā kyāy tene Bhagwān rahevā de nahī.",
+      "source_reference": "Vach.Ga.An.7"
+    }
+  ]
+}

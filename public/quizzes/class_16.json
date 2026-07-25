@@ -1,0 +1,19 @@
+{
+  "quiz_title": "Class 16 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Bhagwanne bhajavā ethī ___ ___ nathī.",
+      "options": [
+        "vārtā sārī",
+        "vāt moţī",
+        "chetāvnī sārī",
+        "samajણ moţī"
+      ],
+      "correct_answer": "vāt moţī",
+      "explanation": "From Vach.Je.5, the correct answer is 'vāt moţī'.",
+      "source_reference": "Vach.Je.5"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "quiz_title": "Class 7 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.Ma.8 anusār, jene Bhagwānnī prāpti thaī chhe ane gṛuhasthāshramī chhe to paṇ te shu kahevāy?",
+      "options": [
+        "saguṇ",
+        "nirguṇ",
+        "adharmi",
+        "pāpī"
+      ],
+      "correct_answer": "nirguṇ",
+      "explanation": "Vach.Ga.Ma.8mā Bhagwānnī prāpti vāḷā gṛuhasthāshramīne paṇ nirguṇ kahevāy chhe.",
+      "source_reference": "Vach.Ga.Ma.8"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.Ma.8 anusār, tyāgī hoy te paṇ shu kahevāy?",
+      "options": [
+        "saguṇ",
+        "nirguṇ",
+        "adharmi",
+        "pāpī"
+      ],
+      "correct_answer": "nirguṇ",
+      "explanation": "Vach.Ga.Ma.8mā tyāgī hoy tene paṇ nirguṇ kahevāy chhe.",
+      "source_reference": "Vach.Ga.Ma.8"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Vach.Va.20 anusār, koṇī samajaṇ moṭī tene ja sauthee moṭo haribhakta jāṇavo?",
+      "options": [
+        "jenī",
+        "tenī",
+        "manushyanee",
+        "dharmanee"
+      ],
+      "correct_answer": "jenī",
+      "explanation": "Vach.Va.20mā jenī samajaṇ moṭī tene ja sauthee moṭo haribhakta jāṇavo.",
+      "source_reference": "Vach.Va.20"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Vach.Va.20 anusār, gṛuhī ane koṇo kāī meḷ nathī?",
+      "options": [
+        "tyāgīno",
+        "bhaktanī",
+        "pāpīno",
+        "dharmīno"
+      ],
+      "correct_answer": "tyāgīno",
+      "explanation": "Vach.Va.20mā gṛuhī ane tyāgīno kāī meḷ nathī.",
+      "source_reference": "Vach.Va.20"
+    }
+  ]
+}

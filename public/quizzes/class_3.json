@@ -1,0 +1,75 @@
+{
+  "quiz_title": "Class 3 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Vach.Sā.9 mujab, શાનાથી અતિ સાચે ભાવે સત્સંગ કરે તો તેને કોઈ જાતનો દોષ હૈયામાં રહે નહિ અને દેહ છતાં જ બ્રહ્મરૂપ થઈ જાય?",
+      "options": [
+        "ati sāche bhāve",
+        "ati khuśī karīne",
+        "ati prem thī",
+        "ati ādar thī"
+      ],
+      "correct_answer": "ati sāche bhāve",
+      "explanation": "Vach.Sā.9 māṁ āvyu chhe ke ati sāche bhāve karīne satsang kare to tene koī jātno doṣh haiyāmā rahe nahī ane deh chhatā ja brahmarūp thaī jāy.",
+      "source_reference": "Vach.Sā.9"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Vach.Ga.An.2 mujab, જ્યારે આવો સંત-સમાગમ પ્રાપ્ત થયો ત્યારે દેહ મૂકીને જેને પામવા હતા તે તો દેહ છતાં જ શું થયા છે?",
+      "options": [
+        "maḷyā chhe",
+        "dūr thayā chhe",
+        "āgha thayā chhe",
+        "vichchhinn thayā chhe"
+      ],
+      "correct_answer": "maḷyā chhe",
+      "explanation": "Vach.Ga.An.2 māṁ āvyu chhe ke jyāre āvo sant-samāgam prāpt thayo tyāre deh mūkīne jene pāmavā hatā te to deh chhatā ja maḷyā chhe.",
+      "source_reference": "Vach.Ga.An.2"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Swā.Vāto: 1/17 mujab, Bhagwāne shu kahyu chhe je hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto?",
+      "options": [
+        "Jevo",
+        "Tevo",
+        "Kevo",
+        "Devo"
+      ],
+      "correct_answer": "Jevo",
+      "explanation": "Swā.Vāto: 1/17 mujab, Bhagwāne kahyu chhe je, “Jevo hu satsange karīne vash thāuchhu evo tap, yagna, yog, vrat, dānādik sādhane karīne paṇ vash nathī thāto.”",
+      "source_reference": "Swā.Vāto: 1/17"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Swā.Vāto: 1/17 mujab, Te satsang shu je, ‘Moṭā Ekāntikne hāth joḍavā ne te kahe tem karavu e ja શું છે’?",
+      "options": [
+        "chhe",
+        "nathi",
+        "hase",
+        "hoy"
+      ],
+      "correct_answer": "chhe",
+      "explanation": "Swā.Vāto: 1/17 mujab, Te satsang shu je, ‘Moṭā Ekāntikne hāth joḍavā ne te kahe tem karavu e ja chhe.’",
+      "source_reference": "Swā.Vāto: 1/17"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Bhaktachintamani: 84 mujab, Jan pratye jīvan kahe, jene jeṭalo ___________; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
+      "options": [
+        "satsang",
+        "prasang",
+        "utsang",
+        "visang"
+      ],
+      "correct_answer": "satsang",
+      "explanation": "Bhaktachintamani: 84 mujab, Jan pratye jīvan kahe, jene jeṭalo satsang; Tene teṭalā pāpno, thāy bāher bhītar bhang.",
+      "source_reference": "Bhaktachintamani: 84"
+    }
+  ]
+}

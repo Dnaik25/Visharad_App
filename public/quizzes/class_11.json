@@ -1,0 +1,83 @@
+{
+  "quiz_title": "Class 11 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "“Satpuruṣhno je prasang e ja ____________ viṣhe draḍh prīti thavānu kāraṇ chhe.”",
+      "options": [
+        "Parameshvarne",
+        "brahmane",
+        "akshardhamne"
+      ],
+      "correct_answer": "Parameshvarne",
+      "explanation": "The Vachanamrut states that association with the Satpurush is the cause of firm love for Parameshwar.",
+      "source_reference": "Vach.Ga.Pa.44"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Āvā Sādhune manmā sambhārīe to ____________ baḷī jāy ne vātu sāmbhaḷīe to kānnā pāp baḷī jāy ne darshan karīe to ānkhnā pāp baḷī jāy, em mahimā jāṇavo.",
+      "options": [
+        "mannā pāp",
+        "indriyona pāp",
+        "antahkaranna pāp"
+      ],
+      "correct_answer": "mannā pāp",
+      "explanation": "Swamini Vato states that by remembering such a Sadhu, the sins of the mind are burned away.",
+      "source_reference": "Swa.Vato.1/30"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Kāmdughā kalpataru, pāras ____________ chār; Sant samān e eke nahi, me manmā karyo vichār.",
+      "options": [
+        "chintāmaṇi",
+        "ratna",
+        "moti"
+      ],
+      "correct_answer": "chintāmaṇi",
+      "explanation": "Bhaktachintamani states 'Kāmdughā kalpataru, pāras chintāmaṇi chār; Sant samān e eke nahi, me manmā karyo vichār.'",
+      "source_reference": "Bhaktachintamani"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Alp sukh emā rahyu, maḷī ṭaḷī jāy chhe eh; Sant sevye sukh ūpaje, rahe ____________ eh.",
+      "options": [
+        "akhanḍ aṭaḷ",
+        "sadaiva",
+        "divya"
+      ],
+      "correct_answer": "akhanḍ aṭaḷ",
+      "explanation": "Bhaktachintamani states 'Sant sevye sukh ūpaje, rahe akhanḍ aṭaḷ eh.'",
+      "source_reference": "Bhaktachintamani"
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "question_text": "Jevī parokṣh devne viṣhe jīvne pratīti chhe tevī jo ____________ Harine viṣhe āve, to jeṭalā arth prāpt thavānā kahyā chhe teṭalā sarve arth tene prāpt thāy chhe.",
+      "options": [
+        "pratyakṣh gururūp",
+        "parokṣh gururūp",
+        "divyarūp"
+      ],
+      "correct_answer": "pratyakṣh gururūp",
+      "explanation": "Vachanamrut Gadhada Antya 2 states that if one has the same faith in the manifest Guru as in the indirect God, then he attains all the benefits.",
+      "source_reference": "Vach.Ga.An.2"
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "question_text": "Yasya deve parābhaktir, yathā deve tathā gurau | Tasyaite kathitā ____________, prakāshante mahātmanaha ||",
+      "options": [
+        "hyarthāhā",
+        "phaladayaka",
+        "mokshadayaka"
+      ],
+      "correct_answer": "hyarthāhā",
+      "explanation": "Shvetashvatar Upanishad states 'Tasyaite kathitā hyarthāhā, prakāshante mahātmanaha'.",
+      "source_reference": "Shvetashvatar Upanishad"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "quiz_title": "Class 18 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "jevā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene shu bākī rahyu nahī?",
+      "options": [
+        "dharmamā kāīye samajavu",
+        "mokshamā kāīye samajavu",
+        "kalyānnā mārgmā kāīye samajavu",
+        "bhaktimā kāīye samajavu"
+      ],
+      "correct_answer": "kalyānnā mārgmā kāīye samajavu",
+      "explanation": "pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī.",
+      "source_reference": "Vach.Ga.Ma.21"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Game tevo pāpī hoy ne ant same jo tene kayā nāmnu uchchāran thây to te sarva pāp thakī chhūtīne Brahmamoholne vishe nivās kare",
+      "options": [
+        " 'Shrī Krushna'",
+        "'Swāminārāyan'",
+        "'Shiva'",
+        "'Hari'"
+      ],
+      "correct_answer": "'Swāminārāyan'",
+      "explanation": "Game tevo pāpī hoy ne ant same jo tene 'Swāminārāyan evā nāmnu uchchāran thây to te sarva pāp thakī chhūtīne Brahmamoholne vishe nivās kare",
+      "source_reference": "Vach.Ga.Pa.56"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Swāminārāyan nāmnā mantra jevo bījo koī mantra kevo nathī?",
+      "options": [
+        "halo",
+        "patlo",
+        "baļiyo",
+        "sāro"
+      ],
+      "correct_answer": "baļiyo",
+      "explanation": "Swāminārāyan nāmnā mantra jevo bījo koī mantra āj baļiyo nathī",
+      "source_reference": "Swa.Vato.1/153"
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "question_text": "Swāminārāyan mantre shunā bandhan chhūtī jāy chhe?",
+      "options": [
+        "kāļ, karma, dayānu",
+        "karma, māyā, prem",
+        "kāļ, karma, māyānu",
+        "māyā, dayā, prem"
+      ],
+      "correct_answer": "kāļ, karma, māyānu",
+      "explanation": "e mantre kāļ, karma, māyānu bandhan chhūtī jāy chhe, evo bahu baliyo e mantra chhe.",
+      "source_reference": "Swa.Vato.1/153"
+    }
+  ]
+}

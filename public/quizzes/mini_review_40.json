@@ -1,0 +1,327 @@
+{
+  "quiz_title": "Mini-Review Questions (Classes 36-40)",
+  "questions": [
+    {
+      "id": "36-1",
+      "type": "MCQ",
+      "question_text": "Manushya dehe karīne na thāy evu shu chhe? Je nitye __________ rākhīne kare te thāy chhe.",
+      "options": [
+        "abhyās",
+        "sang",
+        "priti",
+        "bhakti"
+      ],
+      "correct_answer": "abhyās",
+      "explanation": "According to Vach.Ga.Ma.33, what cannot be achieved through the human body? It can be achieved by maintaining constant practice.",
+      "source_reference": "Vach.Ga.Ma.33"
+    },
+    {
+      "id": "36-2",
+      "type": "MCQ",
+      "question_text": "Have āj dinthī āpaṇā satsangmā koī paṇ evī __________ vāt karsho nahī, sadā himmatya sahit ja vāt karjyo.",
+      "options": [
+        "himmatyarahit",
+        "lobh vaḷī",
+        "krodh vaḷī",
+        "mān vaḷī"
+      ],
+      "correct_answer": "himmatyarahit",
+      "explanation": "According to Vach.Ga.Pr.17, from this day forward, no one in our Satsang should speak words devoid of courage; always speak with courage.",
+      "source_reference": "Vach.Ga.Pr.17"
+    },
+    {
+      "id": "36-3",
+      "type": "MCQ",
+      "question_text": "Jevā __________ sāmbhaḷe tevo jīv thaī jāy chhe. Māṭe baḷiyā Bhagwānnā bhakta hoy tenā __________ sāmbhaḷīe to jīvmā baḷ āve, paṇ napunsakne sange baḷ pamāy nahī.",
+      "options": [
+        "shabd, shabd",
+        "vichār, vichār",
+        "kām, kām",
+        "krodh, krodh"
+      ],
+      "correct_answer": "shabd, shabd",
+      "explanation": "According to Swa. Vato: 1/177, the soul becomes like the words it hears. Therefore, listening to the words of strong devotees of Bhagwan brings strength to the soul, but associating with the impotent does not.",
+      "source_reference": "Swa. Vato: 1/177"
+    },
+    {
+      "id": "36-4",
+      "type": "MCQ",
+      "question_text": "Bhagwān ne sādhunā mahimānī vātu nirantar karvī ne __________. Ne Mahārāj to potānu Akshardhām ne Pārshad ne potānu samagra aishvarya te laīne ānhī padhāryā chhe.",
+      "options": [
+        "sāmbhaḷvī",
+        "sambhaḷāvī",
+        "samajvī",
+        "vichārvī"
+      ],
+      "correct_answer": "sāmbhaḷvī",
+      "explanation": "According to Swa. Vato: 1/1, the glory of God and the Sadhu should be constantly talked about and listened to. And Maharaj has come here with his Akshardham, his Parshad and his entire fortune.",
+      "source_reference": "Swa. Vato: 1/1"
+    },
+    {
+      "id": "36-5",
+      "type": "MCQ",
+      "question_text": "Mahārāje anant prakārnī vātu jīvnā mokshane arthe pravartāvī chhe; paṇ temā chār vātu chhe te to jīvnu jīvan chhe. Te shu? To ek to Mahārājnī upāsanā ne bījī Mahārājnī āgnā ne trījī moṭā ekāntik sādhu sāthe prīti ne chothu bhagvadī sāthe __________, e chār vātu to jīvnu jīvan chhe, tene to mūkvi ja nahi.",
+      "options": [
+        "suhṛudpaṇu",
+        "prembhāv",
+        "bhaktibhāv",
+        "sevābhāv"
+      ],
+      "correct_answer": "suhṛudpaṇu",
+      "explanation": "According to Swa. Vato: 3/9, Maharaj has initiated infinite talks for the salvation of the soul, but four of them are the life of the soul. What are they? One is the worship of Maharaj, the second is the commands of Maharaj, the third is the love with the great Ekantik Sadhu, and the fourth is friendship with the devotees, these four things are the life of the soul, they should not be abandoned.",
+      "source_reference": "Swa. Vato: 3/9"
+    },
+    {
+      "id": "36-6",
+      "type": "MCQ",
+      "question_text": "Bhaktoe paraspar __________ rākhvo. Ek bhakta bījā bhakta pratye jeṭlo __________ thayo teṭlo te amāro prāṇ thayo.",
+      "options": [
+        "suhṛudbhāv, suhṛud",
+        "prembhāv, premī",
+        "sevābhāv, sevak",
+        "bhaktibhāv, bhakt"
+      ],
+      "correct_answer": "suhṛudbhāv, suhṛud",
+      "explanation": "According to Haricharitramrutsagar, devotees should maintain mutual goodwill. The more goodwill one devotee has towards another, the more he becomes our life.",
+      "source_reference": "Haricharitramrutsagar"
+    },
+    {
+      "id": "36-7",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā bhakta chhe te to kevaḷ __________ ja mūrtio chhe, ene viṣhe to manushyabhāv lāvvo ja nahī.",
+      "options": [
+        "brahmanī",
+        "māyānī",
+        "purushnī",
+        "devnī"
+      ],
+      "correct_answer": "brahmanī",
+      "explanation": "According to Vach.Ga.Ma.63, the devotees of God are the images of Brahman, and one should not have a human disposition towards them.",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "36-8",
+      "type": "MCQ",
+      "question_text": "Jevī Shvetdvīpmā sabhā chhe ne jevī Golok, Vaikuṇṭhlokne viṣhe sabhā chhe ne jevī Badarikāshramne viṣhe sabhā chhe, tethī paṇ hu ā __________ adhik jāṇu chhu ane sarve haribhaktane atishay prakāshe yukt dekhu chhu.",
+      "options": [
+        "satsangīnī sabhāne",
+        "bhaktīnī sabhāne",
+        "sevānī sabhāne",
+        "dharmnī sabhāne"
+      ],
+      "correct_answer": "satsangīnī sabhāne",
+      "explanation": "According to Vach.Ga.An.2, just as there is an assembly in Shvetdvip, and just as there is an assembly in Golok, Vaikunthalok, and just as there is an assembly in Badarikashram, I consider this Satsangi assembly to be even greater, and I see all the devotees as full of intense light.",
+      "source_reference": "Vach.Ga.An.2"
+    },
+    {
+      "id": "37-1",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā bhaktano paksh rākhatā thakā ābarū vadho athavā ghaṭo, athavā mān thāo ke apamān thāo, athavā deh jīvo ke maro, paṇ koī rīte Bhagwān ne __________ paksh mūkvo nahī ne emno abhāv āvvā devo nahī.",
+      "options": [
+        "Bhagwānnā bhaktano",
+        "Bhagwānnā sevakno",
+        "Bhagwānnā mandirno",
+        "Bhagwānnā dharmno"
+      ],
+      "correct_answer": "Bhagwānnā bhaktano",
+      "explanation": "According to Vach.Ga.An.7, even if one's honor increases or decreases, or one is honored or dishonored, or one's body lives or dies while siding with God's devotee, one should never abandon the side of God and God's devotee, and one should not let their absence come.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "37-2",
+      "type": "MCQ",
+      "question_text": "Je Bhagwānno bhakta hoy tene koīk mārī nānkhto hoy athavā tene koīk duhkha deto hoy ne te Bhagwānnā bhakta āḍo jaīne jo mare ke ghāyal thāy, to shāstramā em kahyu chhe je, 'Tenā __________ je panch mahāpāp te sarve maṭī jāy chhe;' evo Bhagwānnā bhaktano paksh rākhyāno pratāp chhe.",
+      "options": [
+        "brahmahatyādik",
+        "mithyātvādik",
+        "lobhādik",
+        "krodhādik"
+      ],
+      "correct_answer": "brahmahatyādik",
+      "explanation": "According to Vach.Ga.Ma.60, if someone is killing a devotee of God or someone is hurting him, and if that devotee of God goes in front and dies or gets injured, then it is said in the scriptures that 'All the five great sins of Brahmahatya etc. are erased;' such is the glory of taking the side of God's devotee.",
+      "source_reference": "Vach.Ga.Ma.60"
+    },
+    {
+      "id": "37-3",
+      "type": "MCQ",
+      "question_text": "Āgnā ne upāsanā e be __________ chhe, tene mūkvī ja nahi, to saheje ja Akshardhāmmā javāshe emā kāī sanshay nathī.",
+      "options": [
+        "pānkho",
+        "netro",
+        "hatho",
+        "pago"
+      ],
+      "correct_answer": "pānkho",
+      "explanation": "According to Swa. Vato: 3/31, Aagna and Upasana are two wings, they should not be abandoned, then Akshardham will be easily accessible, there is no doubt in it.",
+      "source_reference": "Swa. Vato: 3/31"
+    },
+    {
+      "id": "37-4",
+      "type": "MCQ",
+      "question_text": "Sant kahe tem karvu te __________ chhe ne mandhāryu karvu te __________ chhe, ne mangamtu karto hoy ne te tyāg rākhto hoy ne ākhā mandirnu kām eklo karto hoy ne game eṭlā māṇasne satsang karāvto hoy, to paṇ te nyūn chhe ne tene koīk divas vighna chhe.",
+      "options": [
+        "shreshṭha, kanishṭha",
+        "adhik, nyūn",
+        "rūḍu, bhūṇḍu",
+        "sāru, kharāb"
+      ],
+      "correct_answer": "shreshṭha, kanishṭha",
+      "explanation": "According to Swa. Vato: 2/49, it is better to do as the Saint says and it is inferior to do as one pleases, and even if one does as one pleases and maintains renunciation and does all the work of the entire temple alone and makes as many people as possible do satsang, he is still inferior and there is always an obstacle for him.",
+      "source_reference": "Swa. Vato: 2/49"
+    },
+    {
+      "id": "37-5",
+      "type": "MCQ",
+      "question_text": "Jene Bhagwānne viṣhe prīti hoy te Bhagwānnī āgnā koī kāḷe lope nahī. Jem Bhagwānnu gamtu hoy tem ja rahe e __________ chhe.",
+      "options": [
+        "prītinu lakshaṇ",
+        "bhaktinu lakshaṇ",
+        "sevānu lakshaṇ",
+        "dharmnu lakshaṇ"
+      ],
+      "correct_answer": "prītinu lakshaṇ",
+      "explanation": "According to Vach.Ka.11, one who has love for God never breaks God's command. It is a characteristic of love to remain as God likes.",
+      "source_reference": "Vach.Ka.11"
+    },
+    {
+      "id": "37-6",
+      "type": "MCQ",
+      "question_text": "Vachane nivṛutti vachane pravṛutti, Vachane baddha mukta kahiye; Te vachan Shrīhari mukhnā, __________ sarve lahiye.",
+      "options": [
+        "Sukhadāyak",
+        "Dukhadāyak",
+        "Mohdāyak",
+        "Lobhdāyak"
+      ],
+      "correct_answer": "Sukhadāyak",
+      "explanation": "According to Vachanvidhi - 2/9, Words bring cessation and words bring activity, words say bound and free; Those words of Shri Hari's mouth, we attain all that is Sukhadaayak.",
+      "source_reference": "Vachanvidhi - 2/9"
+    },
+    {
+      "id": "38-1",
+      "type": "MCQ",
+      "question_text": "Āpaṇā satsangī sarvene to em ja nishchay karvo je, 'Āpaṇe paṇ e aksharrūp je mukta temnī panktimā bhaḷvu chhe ane Akshardhāmmā jaīne akhand Bhagwānnī sevāmā hajūr rahevu chhe, paṇ __________ evu je māyik sukh tene ichchhvu nathī ne emā koī ṭhekāṇe lobhāvu nathī;' evo dṛuḍh nishchay rākhīne nirantar Bhagwānnī ekāntik bhakti karvī.",
+      "options": [
+        "nāshvant ne tuchchha",
+        "anant ne amulya",
+        "divya ne alaukik",
+        "shāshvat ne sundar"
+      ],
+      "correct_answer": "nāshvant ne tuchchha",
+      "explanation": "According to Vach.Ga.Pr.21, all our satsangis should resolve that, 'We too should join the ranks of those Akshar-like liberated ones and remain present in the unbroken service of Bhagwan in Akshardham, but we should not desire perishable and trivial Mayik pleasures and we should not be tempted in any way;' Having such a firm resolve, one should constantly practice the exclusive devotion of Bhagwan.",
+      "source_reference": "Vach.Ga.Pr.21"
+    },
+    {
+      "id": "38-2",
+      "type": "MCQ",
+      "question_text": "Atishay je moṭāpurush hoy teno je upar rājīpo thāy tenā game tevā __________ hoy to nāsh pāme ane moṭāpurushno rājīpo thayo hoy to rānk hoy te rājā thāy ane game tevā bhūnḍā prārabdha hoy to rūḍā thāy ane game tevu tene māthe vighna āvnāru hoy te nāsh thaī jāy.",
+      "options": [
+        "malin sanskār",
+        "shubh sanskār",
+        "divya sanskār",
+        "alaukik sanskār"
+      ],
+      "correct_answer": "malin sanskār",
+      "explanation": "According to Vach.Ga.Pr.58, whatever impure impressions one may have are destroyed by the pleasure of the exceedingly great Purush. If the great Purush is pleased, a pauper becomes a king, bad destiny becomes good, and any impending calamity is averted.",
+      "source_reference": "Vach.Ga.Pr.58"
+    },
+    {
+      "id": "38-3",
+      "type": "MCQ",
+      "question_text": "Hamaṇā jaṇātu nathī, paṇ āpaṇne __________ māṭe kṛutārtha thayā chhīe.",
+      "options": [
+        "Bhagwān maḷyā chhe",
+        "sādhu maḷyā chhe",
+        "sant maḷyā chhe",
+        "guru maḷyā chhe"
+      ],
+      "correct_answer": "Bhagwān maḷyā chhe",
+      "explanation": "According to Swa. Vato: 4/9, it is not apparent now, but we have become blessed because we have found God.",
+      "source_reference": "Swa. Vato: 4/9"
+    },
+    {
+      "id": "39-1",
+      "type": "MCQ",
+      "question_text": "Jīv em samaje je, 'Māru swarūp to māyā thakī mukt ne par evu je __________ te chhe.' Evī rīte nirantar manan karto sato brahmano sang kare to e brahmano guṇ e jīvne viṣhe āve.",
+      "options": [
+        "brahma",
+        "akshar",
+        "purush",
+        "ātmā"
+      ],
+      "correct_answer": "brahma",
+      "explanation": "According to Vach.Ga.Ma.31, the soul understands that, 'My form is Brahman, which is free from Maya and beyond.' If one constantly contemplates in this way and associates with Brahman, then this quality of Brahman comes into the soul.",
+      "source_reference": "Vach.Ga.Ma.31"
+    },
+    {
+      "id": "39-2",
+      "type": "MCQ",
+      "question_text": "Potānā jīvātmāne e __________ ekatā karīne Parabrahmanī swāmī-sevakbhāve upāsanā karvī.",
+      "options": [
+        "brahma sangāthe",
+        "ātmā sangāthe",
+        "māyā sangāthe",
+        "purush sangāthe"
+      ],
+      "correct_answer": "brahma sangāthe",
+      "explanation": "According to Vach.Ga.Ma.3, one should worship the Supreme Brahman with the attitude of master and servant, uniting one's soul with that Brahman.",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "39-3",
+      "type": "MCQ",
+      "question_text": "Jeṭlu kāī __________ chhe te sarve duhkha vinānu hoy nahi. E vāt paṇ ek jāṇī rākhvī.",
+      "options": [
+        "māyāmay sukh",
+        "brahmamay sukh",
+        "ātmamay sukh",
+        "divyamay sukh"
+      ],
+      "correct_answer": "māyāmay sukh",
+      "explanation": "According to Swa. Vato: 1/15, all the pleasures of Maya are not without sorrow. This too should be known.",
+      "source_reference": "Swa. Vato: 1/15"
+    },
+    {
+      "id": "39-4",
+      "type": "MCQ",
+      "question_text": "Ā pānch vārtānu amāre nitye nirantar anusandhān rahe chhe. Temā ek to em je, āpaṇe ā dehne mūkīne jarūr __________ chhe ne teno vilamb nathī jaṇāto, e to em ja nishchay jaṇāy chhe je, 'Ā ghaḍī, ā kshaṇmā āpaṇe marvu chhe.'",
+      "options": [
+        "marī javu",
+        "jīvī javu",
+        "dukkhī thavu",
+        "sukhhī thavu"
+      ],
+      "correct_answer": "marī javu",
+      "explanation": "According to Vach.Ga.An.30, these five stories are constantly in our minds. One of them is that we must leave this body and die, and there seems to be no delay, it seems certain that 'We have to die in this hour, in this moment.'",
+      "source_reference": "Vach.Ga.An.30"
+    },
+    {
+      "id": "40-1",
+      "type": "MCQ",
+      "question_text": "Āpaṇe jyāre tan-man-dhan Bhagwānne arpaṇ karyu tyāre have Bhagwānnī icchā te ja āpaṇu __________ chhe, te vinā bīju koī __________ nathī.",
+      "options": [
+        "prārabdha, prārabdha",
+        "karma, karma",
+        "bhāgya, bhāgya",
+        "dharma, dharma"
+      ],
+      "correct_answer": "prārabdha, prārabdha",
+      "explanation": "According to Vach.Ga.An.13, when we have offered body, mind, and wealth to God, then God's will is our destiny, and there is no other destiny.",
+      "source_reference": "Vach.Ga.An.13"
+    },
+    {
+      "id": "40-2",
+      "type": "MCQ",
+      "question_text": "Bhagwān āpaṇne hāthīe besāḍe to hāthīe besīne rājī rahevu ane gadheḍe besāḍe to gadheḍe besīne rājī rahevu. E Bhagwānnu karyu sarve thāy chhe. Māṭe sūku pānḍu jem vāyune ādhāre phare tem e Bhagwānne ādhīn rahīne ānandmā e Parameshwarnu __________ karvu ane koī jātno manmā udveg āvvā devo nahī.",
+      "options": [
+        "bhajan",
+        "dhyān",
+        "seva",
+        "pūjā"
+      ],
+      "correct_answer": "bhajan",
+      "explanation": "According to Vach.Ga.Pr.74, if God puts us on an elephant, we should be happy sitting on an elephant, and if he puts us on a donkey, we should be happy sitting on a donkey. All that happens is done by God. Therefore, just as a dry leaf moves according to the wind, one should remain dependent on God and happily sing the praises of that Parameshwar and not allow any kind of anxiety to enter the mind.",
+      "source_reference": "Vach.Ga.Pr.74"
+    }
+  ]
+}

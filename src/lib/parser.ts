@@ -7,8 +7,14 @@ export function parseClassTxt(text: string): ShlokBlock[] {
     let currentBlock: ShlokBlock | null = null;
     let currentSection: string | null = null;
 
+    // Track reference counts for deduplication within the file
+    const seenRefCounts: Record<string, number> = {};
+
     // Buffer for current reference being built
     let currentRef: RefItem | null = null;
+
+    // Topic/Title tracking
+    let currentTitle: string | null = null;
 
     // Helper to commit current ref to the current section
     const commitRef = () => {
@@ -44,6 +50,13 @@ export function parseClassTxt(text: string): ShlokBlock[] {
             };
             blocks.push(currentBlock);
             currentSection = 'SHLOK';
+            currentTitle = null; // Reset title for new shlok
+            continue;
+        }
+
+        // 1.5 Detect Title (Reference Topic)
+        if (trimmed.startsWith('Title:')) {
+            currentTitle = trimmed.substring(6).trim();
             continue;
         }
 
@@ -68,15 +81,35 @@ export function parseClassTxt(text: string): ShlokBlock[] {
         if (currentBlock && currentSection) {
             if (currentSection === 'SHLOK') {
                 const isBullet = trimmed.startsWith('- ') || trimmed.startsWith('• ');
-                const content = isBullet ? trimmed.substring(2).trim() : trimmed;
+                if (!isBullet) continue; // Ignore non-bullet lines in Shlok section
 
-                if (currentBlock.shlokTransliteration) {
-                    // Second line found -> First becomes Sanskrit, Second is Transliteration
-                    currentBlock.shlokSanskrit = currentBlock.shlokTransliteration;
-                    currentBlock.shlokTransliteration = content;
+                let originalContent = trimmed.substring(2).trim();
+                let content = originalContent;
+                // Replace single danda '।' or single pipe '|' with newline to break the shlok lines
+                // Ensure we don't break on double danda '॥' or double pipe '||'
+                content = content.replace(/(?<![|])\|(?![|])/g, '\n').replace(/।/g, '\n');
+
+                // Prevent line breaks inside shlok markers like "|| 8 ||" or "॥ 8 ॥"
+                // Wrap them in a span with white-space: nowrap to guarantee they stay together
+                content = content.replace(/([|॥]+\s+\d+(?:-\d+)?\s+[|॥]+)/g, '<span class="whitespace-nowrap">$1</span>');
+
+                // Ignore empty bullets acting as separators
+                if (!content) continue;
+
+                const isSanskritText = /(?:\|\||॥|\||।)\s*\d+(?:-\d+)?\s*(?:\|\||॥|\||।)\s*$/.test(originalContent);
+
+                if (isSanskritText) {
+                    if (currentBlock.shlokSanskrit) {
+                        currentBlock.shlokSanskrit += '\n' + content;
+                    } else {
+                        currentBlock.shlokSanskrit = content;
+                    }
                 } else {
-                    // First line found -> Tentatively Transliteration
-                    currentBlock.shlokTransliteration = content;
+                    if (currentBlock.shlokTransliteration) {
+                        currentBlock.shlokTransliteration += '\n' + content;
+                    } else {
+                        currentBlock.shlokTransliteration = content;
+                    }
                 }
             }
             else {
@@ -90,15 +123,33 @@ export function parseClassTxt(text: string): ShlokBlock[] {
                     if (refText.startsWith('•')) refText = refText.substring(1).trim();
                     else if (refText.startsWith('-')) refText = refText.substring(1).trim();
 
+                    // Handle duplicates: "Ref" -> "Ref (2)" -> "Ref (3)"
+                    const baseRef = refText;
+                    const count = seenRefCounts[baseRef] || 0;
+                    seenRefCounts[baseRef] = count + 1;
+
+                    let storedRef = baseRef;
+                    if (count > 0) {
+                        storedRef = `${baseRef} (${count + 1})`;
+                    }
+
                     currentRef = {
-                        ref: refText,
-                        text: ''
+                        ref: storedRef,
+                        displayRef: baseRef,
+                        text: '',
+                        title: currentTitle || undefined
                     };
                 } else {
                     // Continuation of current ref text
+                    // Default to newlines for most references (Aarti, Asthak, Kirtan, etc.)
+                    // Only use spaces for prose-heavy texts like Vachanamrut and Swamini Vato
+                    const isProse = currentSection?.includes('Vachanamrut') || currentSection?.includes('Swamini Vato');
+                    const joinChar = isProse ? ' ' : '\n';
+
+                    // Strict WYSIWYG: Use the content exactly as it is in the file line
                     if (currentRef) {
                         currentRef.text = currentRef.text
-                            ? currentRef.text + '\n' + trimmed
+                            ? currentRef.text + joinChar + trimmed
                             : trimmed;
                     }
                 }

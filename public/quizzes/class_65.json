@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 65 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Complete the verse from Bhaktichintamani 68/9: \"Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne _______.\"",
+      "options": [
+        "jaṇāvvu",
+        "batāvvu",
+        "darshāvvu",
+        "dekhāvvu"
+      ],
+      "correct_answer": "jaṇāvvu",
+      "explanation": "The Bhaktichintamani 68/9 verse states: \"Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.\"",
+      "source_reference": "Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "According to Bhaktichintamani 68/9, what is guaranteed to happen at 'antakāḷe' for 'mārā janne'?",
+      "options": [
+        "jarūr māre āvvu",
+        "sukh apāvvu",
+        "mukti apāvvu",
+        "darshan devu"
+      ],
+      "correct_answer": "jarūr māre āvvu",
+      "explanation": "The text from Bhaktichintamani 68/9 explicitly states: \"Mārā janne antakāḷe, jarūr māre āvvu\".",
+      "source_reference": "Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "As per Brahmanand Swami's Kirtan (Stanza 1), who are 'harijan sāchā'?",
+      "options": [
+        "je urmā himmat rākhe",
+        "je Hari bhajane rākhe",
+        "je tapasya rākhe",
+        "je dāna kare"
+      ],
+      "correct_answer": "je urmā himmat rākhe",
+      "explanation": "Stanza 1 of Brahmanand Swami's Kirtan says: \"Harijan sāchā re, je urmā himmat rākhe...\".",
+      "source_reference": "Kirtan - Brahmanand Swami, Stanza 1"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "According to Brahmanand Swami's Kirtan (Stanza 1), what do true Harijans not do when 'vipatti varatī'?",
+      "options": [
+        "kedī dīn vachan nav bhākhe",
+        "kedī shok nav bhākhe",
+        "kedī krodh nav bhākhe",
+        "kedī cintā nav bhākhe"
+      ],
+      "correct_answer": "kedī dīn vachan nav bhākhe",
+      "explanation": "Stanza 1 states: \"Vipatti varatī re, kedī dīn vachan nav bhākhe...\".",
+      "source_reference": "Kirtan - Brahmanand Swami, Stanza 1"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "How do true Harijans view 'jagnu sukhduḥkh' according to Brahmanand Swami's Kirtan (Stanza 2)?",
+      "options": [
+        "māyik mithyā karī jāṇe",
+        "īshwarnu vidhān karī jāṇe",
+        "prārabdh karī jāṇe",
+        "nitya satya karī jāṇe"
+      ],
+      "correct_answer": "māyik mithyā karī jāṇe",
+      "explanation": "Stanza 2 states: \"Jagnu sukhduḥkh re, māyik mithyā karī jāṇe...\".",
+      "source_reference": "Kirtan - Brahmanand Swami, Stanza 2"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "When 'tan dhan jātā', what do true Harijans not bring to their 'antarmā' as per Brahmanand Swami's Kirtan (Stanza 2)?",
+      "options": [
+        "shok na āṇe",
+        "lobh na āṇe",
+        "krodh na āṇe",
+        "cintā na āṇe"
+      ],
+      "correct_answer": "shok na āṇe",
+      "explanation": "Stanza 2 states: \"Tan dhan jātā re, antarmā shok na āṇe...\".",
+      "source_reference": "Kirtan - Brahmanand Swami, Stanza 2"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "In Brahmanand Swami's Kirtan (Stanza 3), how are 'par upkārī jan' described regarding their 'premniyam'?",
+      "options": [
+        "premniyammā pūrā",
+        "premniyammā kacā",
+        "premniyammā dhīmā",
+        "premniyammā adhurā"
+      ],
+      "correct_answer": "premniyammā pūrā",
+      "explanation": "Stanza 3 states: \"Par upkārī re, jan premniyammā pūrā...\".",
+      "source_reference": "Kirtan - Brahmanand Swami, Stanza 3"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "What is said about 'sādhu shūrā' in 'daihik duḥkhmā' in Brahmanand Swami's Kirtan (Stanza 3)?",
+      "options": [
+        "dāzhe nahi",
+        "rone nahi",
+        "dare nahi",
+        "vicāre nahi"
+      ],
+      "correct_answer": "dāzhe nahi",
+      "explanation": "Stanza 3 states: \"Daihik duḥkhmā re, dāzhe nahi sādhu shūrā...\".",
+      "source_reference": "Kirtan - Brahmanand Swami, Stanza 3"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "How do true Harijans remember Hari, as described in Brahmanand Swami's Kirtan (Stanza 4)?",
+      "options": [
+        "nitya ahonish umang bhariyā",
+        "ekāgratāthī",
+        "shraddhāthī",
+        "premthī"
+      ],
+      "correct_answer": "nitya ahonish umang bhariyā",
+      "explanation": "Stanza 4 states: \"Harine samare re, nitya ahonish umang bhariyā...\".",
+      "source_reference": "Kirtan - Brahmanand Swami, Stanza 4"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "According to Brahmanand Swami's Kirtan (Stanza 5), what do true Harijans not do even if 'Mastak jātā'?",
+      "options": [
+        "nav mele ṭek vichārī",
+        "mele ṭek vichārī",
+        "chhode ṭek vichārī",
+        "tyāge ṭek vichārī"
+      ],
+      "correct_answer": "nav mele ṭek vichārī",
+      "explanation": "Stanza 5 states: \"Mastak jātā re, nav mele ṭek vichārī...\".",
+      "source_reference": "Kirtan - Brahmanand Swami, Stanza 5"
+    }
+  ]
+}

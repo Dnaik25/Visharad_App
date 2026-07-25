@@ -1,0 +1,47 @@
+{
+  "quiz_title": "Class 19 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā bhaktanā drohe karīne jevu ā \t\t\tthây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu.",
+      "options": [
+        "jīvnu bhūndu",
+        "jīvnu rūdu",
+        "jīvnu sukh",
+        "jīvnu dukh"
+      ],
+      "correct_answer": "jīvnu bhūndu",
+      "explanation": "According to Vach.Ga.Ma.40, Bhagwānnā bhaktanā drohe karīne jevu ā jīvnu bhūndu thây chhe ne e jīvne kașht thāy chhe tevu koī pāpe karīne nathī thatu.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā \t\t\tthây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu.",
+      "options": [
+        "jīvnu rūdu",
+        "jīvnu bhūndu",
+        "jīvnu dukh",
+        "jīvnu kașht"
+      ],
+      "correct_answer": "jīvnu rūdu",
+      "explanation": "According to Vach.Ga.Ma.40, Bhagwānnā bhaktanī mane, vachane, dehe karīne je sevā banī āve ne tene karīne jevu ā jīvnu rūdu thây chhe ne e jīvne sukh thây chhe tevu bīje koī sādhane karīne nathī thatu.",
+      "source_reference": "Vach.Ga.Ma.40"
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "question_text": "Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne \t\t\t.",
+      "options": [
+        "droh na karavo",
+        "sevā karavo",
+        "bhakti karavo",
+        "pūjā karavo"
+      ],
+      "correct_answer": "droh na karavo",
+      "explanation": "According to Vach.Ga.Ma.40, Māte jene dehe karīne param sukhiyā thavu hoy ne deh mūkyā kede pan param sukhiya thavu hoy, tene Bhagwānnā bhaktano mane, vachane, dehe karīne droh na karavo.",
+      "source_reference": "Vach.Ga.Ma.40"
+    }
+  ]
+}

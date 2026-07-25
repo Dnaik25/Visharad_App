@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 10 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Āvī Bhagwatswarūp sambandhī je vārtā te to _________ paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā mukh thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.",
+      "options": [
+        "shāstramāthī",
+        "vedomāthī",
+        "upanishadomāthī",
+        "purnomāthī"
+      ],
+      "correct_answer": "shāstramāthī",
+      "explanation": "The Vachanamrut Ga.Ma.13 states that 'Āvī Bhagwatswarūp sambandhī je vārtā te to shāstramāthī paṇ potānī meḷe samajāy nahī; ane sadgranthomā āvī vārtā to hoy, paṇ jyāre satpuruṣh pragaṭ thāy chhe tyāre temnā mukh thakī ja vāt samajāymā āve chhe, paṇ potānī buddhi-baḷe karīne sadgranthomāthī paṇ samajātī nathī.'",
+      "source_reference": "Vach.Ga.Ma.13"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Satpuruṣhne viṣhe draḍh prīti e ja _________ chhe ane satpuruṣhno mahimā jāṇyānu paṇ e ja sāadhan chhe ane Parameshvarnu sākṣhāt darshan thāvānu paṇ e ja sāadhan chhe.",
+      "options": [
+        "ātmadarshannu sāadhan",
+        "brahmadarshannu sāadhan",
+        "ishwardarshannu sāadhan",
+        "devtadarshannu sāadhan"
+      ],
+      "correct_answer": "ātmadarshannu sāadhan",
+      "explanation": "According to Vach.Va.11, 'Satpuruṣhne viṣhe draḍh prīti e ja ātmadarshannu sāadhan chhe ane satpuruṣhno mahimā jāṇyānu paṇ e ja sāadhan chhe ane Parameshvarnu sākṣhāt darshan thāvānu paṇ e ja sāadhan chhe.'",
+      "source_reference": "Vach.Va.11"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Sant param hitkārī, jagat māhī… ṭek Prabhupadu pragaṭ karāvat _________, bharam miṭāvat bhārī… 1",
+      "options": [
+        "prīti",
+        "bhakti",
+        "shraddhā",
+        "sevā"
+      ],
+      "correct_answer": "prīti",
+      "explanation": "As per the kirtan by Sadguru Brahmanand Swami, 'Sant param hitkārī, jagat māhī… ṭek Prabhupadu pragaṭ karāvat prīti, bharam miṭāvat bhārī… 1'",
+      "source_reference": "Sant param hitkārī, jagat māhī…"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "shāstre kahyā je niṣhkām, nirlobh, nirmān, nihsvād, nihsneh ityādik santnā lakṣhaṇ tene sāmbhaḷīne evā lakṣhaṇ jyā dekhāy evā je sant tene ne _________ sākṣhāt sambandh hoy; māṭe evā santnā vachane karīne Bhagwānno nishchay karavo ne tenā vachanmā draḍh vishvās karavo tene nishchay kahīe.",
+      "options": [
+        "Bhagwānne",
+        "devtāo ne",
+        "ishwarne",
+        "brahmne"
+      ],
+      "correct_answer": "Bhagwānne",
+      "explanation": "Vach.Ga.An.27 states, 'shāstre kahyā je niṣhkām, nirlobh, nirmān, nihsvād, nihsneh ityādik santnā lakṣhaṇ tene sāmbhaḷīne evā lakṣhaṇ jyā dekhāy evā je sant tene ne Bhagwānne sākṣhāt sambandh hoy; māṭe evā santnā vachane karīne Bhagwānno nishchay karavo ne tenā vachanmā draḍh vishvās karavo tene nishchay kahīe.'",
+      "source_reference": "Vach.Ga.An.27"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu _________ Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam nirvikalp nishchayvāḷo kahīe.",
+      "options": [
+        "dhāmrūp",
+        "swarūp",
+        "jyotirp",
+        "akshardham"
+      ],
+      "correct_answer": "dhāmrūp",
+      "explanation": "According to Vach.Lo.12, 'aṣhṭāvarṇe yukta evā je koṭi koṭi brahmānḍ te je Akṣharne viṣhe aṇunī peṭhe jaṇāy chhe, evu je Puruṣhottam Nārāyaṇnu dhāmrūp Akṣhar te rūpe pote rahyo thako Puruṣhottamnī upāsanā kare, tene uttam nirvikalp nishchayvāḷo kahīe.'",
+      "source_reference": "Vach.Lo.12"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Nirvikalp uttam ati, _________ Ghanshyām;",
+      "options": [
+        "nischay tav",
+        "bhakti bhav",
+        "prem ras",
+        "dhyan dhara"
+      ],
+      "correct_answer": "nischay tav",
+      "explanation": "According to the kirtan by Sadguru Premanand Swami, 'Nirvikalp uttam ati, nischay tav Ghanshyām;'",
+      "source_reference": "Nirvikalp uttam ati, nischay tav Ghanshyām;"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "je brahmarūp thayo tene ja _________ adhikār chhe.",
+      "options": [
+        "Puruṣhottamnī bhaktino",
+        "Aksharbrahmanī bhaktino",
+        "Paramatmanī bhaktino",
+        "Sadgurunī bhaktino"
+      ],
+      "correct_answer": "Puruṣhottamnī bhaktino",
+      "explanation": "Vach.Lo.7 states that 'je brahmarūp thayo tene ja Puruṣhottamnī bhaktino adhikār chhe.'",
+      "source_reference": "Vach.Lo.7"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "jene _________ sthiti thaī hoy te thakī ja ekāntikno dharma pamāy chhe.",
+      "options": [
+        "ekāntiknā dharmamā",
+        "bhaktinā dharmamā",
+        "gnānnā dharmamā",
+        "sevānā dharmamā"
+      ],
+      "correct_answer": "ekāntiknā dharmamā",
+      "explanation": "Vach.Ga.Pa.60 states that 'jene ekāntiknā dharmamā sthiti thaī hoy te thakī ja ekāntikno dharma pamāy chhe.'",
+      "source_reference": "Vach.Ga.Pa.60"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Swadharma, gnān, vairāgya ane _________ teṇe sahit je Bhagwānnī bhakti teṇe yukta evā je Bhagwānnā Ekāntik Sādhu tenā prasang thakī Bhāgwat Dharmanu poṣhaṇ thāy chhe ane vaḷī jīvne mokṣhanu je dvār te paṇ evā Sādhunā prasang thakī ughāḍu thāy chhe.",
+      "options": [
+        "māhātmyagnān",
+        "ātmajnān",
+        "brahmajnān",
+        "dharmagnān"
+      ],
+      "correct_answer": "māhātmyagnān",
+      "explanation": "Vach.Ga.Pa.54 states, 'Swadharma, gnān, vairāgya ane māhātmyagnān teṇe sahit je Bhagwānnī bhakti teṇe yukta evā je Bhagwānnā Ekāntik Sādhu tenā prasang thakī Bhāgwat Dharmanu poṣhaṇ thāy chhe ane vaḷī jīvne mokṣhanu je dvār te paṇ evā Sādhunā prasang thakī ughāḍu thāy chhe.'",
+      "source_reference": "Vach.Ga.Pa.54"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Koṭi janme kasar ṭaḷavānī hoy te āj ṭaḷī jāy ne brahmarūp karī mūke, jo _________ maḷe ne te kahe tem kare to.",
+      "options": [
+        "kharekharā sādhu",
+        "uttam sādhu",
+        "divya sādhu",
+        "mahān sādhu"
+      ],
+      "correct_answer": "kharekharā sādhu",
+      "explanation": "Swa.Vato.1/119 states, 'Koṭi janme kasar ṭaḷavānī hoy te āj ṭaḷī jāy ne brahmarūp karī mūke, jo kharekharā sādhu maḷe ne te kahe tem kare to.'",
+      "source_reference": "Swa.Vato.1/119"
+    }
+  ]
+}

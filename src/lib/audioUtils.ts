@@ -32,13 +32,27 @@ export function parseSasUrl(fullUrl: string): ParsedSas {
 /**
  * 3️⃣ Build FULL audio URLs
  * @param reference The text reference (e.g., "Vach.Sā.1")
+ * @param classId Optional class ID for context-aware lookup (e.g. "12")
  * @returns The full signed URL or null if not found
  */
-export function getAudioUrl(reference: string): string | null {
-    const blobPath = AUDIO_MAPPING[reference];
+export function getAudioUrl(reference: string, classId?: string | number): string | null {
+    // 1. Try specific lookup if classId is provided
+    let blobPath = null;
+
+    if (classId) {
+        const specificKey = `${reference} (Class ${classId})`;
+        if (AUDIO_MAPPING[specificKey]) {
+            blobPath = AUDIO_MAPPING[specificKey];
+        }
+    }
+
+    // 2. Fallback to direct lookup
+    if (!blobPath) {
+        blobPath = AUDIO_MAPPING[reference];
+    }
 
     if (!blobPath) {
-        console.warn(`Audio mapping not found for reference: "${reference}"`);
+        console.warn(`Audio mapping not found for reference: "${reference}" (Class ${classId || 'N/A'})`);
         return null;
     }
 
@@ -67,44 +81,4 @@ export function getAudioUrl(reference: string): string | null {
     return finalUrl.toString();
 }
 
-/**
- * Helper to bind audio players to UI placeholders
- * Can be called in useEffect or on hydration.
- */
-export function injectAudioPlayers() {
-    // 1. Find every reference block
-    const blocks = document.querySelectorAll('.reference-block');
-
-    blocks.forEach((block) => {
-        // 2. Read reference value
-        const reference = block.getAttribute('data-reference');
-        const placeholder = block.querySelector('.audio-placeholder');
-
-        if (reference && placeholder) {
-            // Check if we already injected
-            if (placeholder.querySelector('audio')) {
-                return;
-            }
-
-            // 3. Look up audio mapping
-            const audioUrl = getAudioUrl(reference);
-
-            if (audioUrl) {
-                // Clear placeholder text first if it exists
-                placeholder.innerHTML = '';
-
-                // 4. Insert <audio> player
-                const audioEl = document.createElement('audio');
-                audioEl.controls = true;
-                audioEl.src = audioUrl;
-                audioEl.style.width = '100%';
-                audioEl.style.marginTop = '8px';
-                audioEl.style.marginBottom = '8px';
-
-                placeholder.appendChild(audioEl);
-            } else {
-                console.warn(`No audio mapping found for reference: "${reference}"`);
-            }
-        }
-    });
-}
+// injectAudioPlayers removed as it is replaced by AudioPlayer component

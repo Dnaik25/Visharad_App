@@ -1,0 +1,313 @@
+{
+  "quiz_title": "Mini-Review Questions (Classes 26-30)",
+  "questions": [
+    {
+      "id": "26-1",
+      "type": "MCQ",
+      "question_text": "Sarvādhār je ākāsh chhe te ākāshne _______ kahīe, Chidākāsh kahīe.",
+      "options": [
+        "Akṣharbrahma",
+        "Paramātmā",
+        "Māyā",
+        "Īshvar"
+      ],
+      "correct_answer": "Akṣharbrahma",
+      "explanation": "From Vach.Ga.Pa.46: Sarvādhār je ākāsh chhe te ākāshne Brahma kahīe, Chidākāsh kahīe.",
+      "source_reference": "Vach.Ga.Pa.46"
+    },
+    {
+      "id": "26-2",
+      "type": "MCQ",
+      "question_text": "Je Aksharbrahma chhe te to e Bhagwānne ______ dhām chhe.",
+      "options": [
+        "rahevānu",
+        "jovānu",
+        "sambhaḷvānu",
+        "sparsh karvānu"
+      ],
+      "correct_answer": "rahevānu",
+      "explanation": "From Vach.Pa.1: Je Aksharbrahma chhe te to e Bhagwānne rahevānu dhām chhe.",
+      "source_reference": "Vach.Pa.1"
+    },
+    {
+      "id": "26-3",
+      "type": "MCQ",
+      "question_text": "E Akshar bīje rūpe karīne Purushottam Nārāyaņnī _______ rahe chhe.",
+      "options": [
+        "sevāmā",
+        "pūjāmā",
+        "kathāmā",
+        "bhaktimā"
+      ],
+      "correct_answer": "sevāmā",
+      "explanation": "From Vach.Ga.Pa.21: E Akshar bīje rūpe karīne Purushottam Nārāyaņnī sevāmā rahe chhe.",
+      "source_reference": "Vach.Ga.Pa.21"
+    },
+    {
+      "id": "26-4",
+      "type": "MCQ",
+      "question_text": "Shrījī Mahārāje Sārangpurmā Rāṭhoḍ Dhādhalne gher samaiyo hutāshanīno karyo tyāre pote horī bole ke ‘.... Sadguru khele vasant.’ Em bolī Muktānand Swāmīne ne Ānand Swāmīne kahe ke evā Sadguru koṇ? Tyāre te banne kahe: Evā Sadguru āp. Tyāre Mahārāj kahe: Hamo to sākṣhāt Sadgurunā upāsya Puruṣhottam Bhagavān chhīe. Ne evā Sadguru to ā _______ chhe.",
+      "options": [
+        "Guṇātītānand Swāmī mūḷ Akṣhar",
+        "Gopāḷānand Swāmī mūḷ Akṣhar",
+        "Muktānand Swāmī mūḷ Akṣhar",
+        "Brahmānand Swāmī mūḷ Akṣhar"
+      ],
+      "correct_answer": "Guṇātītānand Swāmī mūḷ Akṣhar",
+      "explanation": "From Shastriji Maharajno Patra - PRASANG 1: Ne evā Sadguru to ā Guṇātītānand Swāmī mūḷ Akṣhar chhe.",
+      "source_reference": "Shastriji Maharajno Patra - PRASANG 1"
+    },
+    {
+      "id": "26-5",
+      "type": "MCQ",
+      "question_text": "Ek vakhat Shrījī Mahārāje moṭā moṭā Sadgurunī govāḷ manḍaḷī karī pote vachche rahī pīrsatā hatā. Te vakhat Brahmānand Swāmīne Mahārāj kahe: ‘Ā _______ jame chhe tem jamatā shīkho.’",
+      "options": [
+        "Guṇātītānand Swāmī",
+        "Gopāḷānand Swāmī",
+        "Muktānand Swāmī",
+        "Brahmānand Swāmī"
+      ],
+      "correct_answer": "Guṇātītānand Swāmī",
+      "explanation": "From Shastriji Maharajno Patra - PRASANG 2: Brahmānand Swāmīne Mahārāj kahe: ‘Ā Guṇātītānand Swāmī jame chhe tem jamatā shīkho.’",
+      "source_reference": "Shastriji Maharajno Patra - PRASANG 2"
+    },
+    {
+      "id": "27-1",
+      "type": "MCQ",
+      "question_text": "Bhagwānnā bhaktano paksh dradh karīne rākhyo joïe. Ane te paksh rākhatā thakā ābarū vadho athavā ghato, athavā mān thāo ke apamān thāo, athavā deh jīvo ke maro, pan koi rīte Bhagwān ne _______ mūkavo nahī ne emano abhāv āvavā devo nahī.",
+      "options": [
+        "Bhagwānnā bhaktano pakşh",
+        "potānā sagā sambandhī",
+        "potānā mitra",
+        "potānā guru"
+      ],
+      "correct_answer": "Bhagwānnā bhaktano pakşh",
+      "explanation": "From Vach.Ga.An.7: pan koi rīte Bhagwān ne Bhagwānnā bhaktano pakşh mūkavo nahī ne emano abhāv āvavā devo nahī.",
+      "source_reference": "Vach.Ga.An.7"
+    },
+    {
+      "id": "27-2",
+      "type": "MCQ",
+      "question_text": "E Purushottam Bhagwan, Aksharbrahma, māyā, īshvar ane jiv e je _______ bhed te anādi chhe.",
+      "options": [
+        "pach",
+        "chār",
+        "traṇ",
+        "chhe"
+      ],
+      "correct_answer": "pach",
+      "explanation": "From Vach.Ga.Pa.7: E Purushottam Bhagwan, Aksharbrahma, māyā, īshvar ane jiv e je pach bhed te anādi chhe.",
+      "source_reference": "Vach.Ga.Pa.7"
+    },
+    {
+      "id": "27-3",
+      "type": "MCQ",
+      "question_text": "Akṣhar par Puruṣhottam jeh, teṇe dharyu _______ deh.",
+      "options": [
+        "manuṣhyanu",
+        "devtanu",
+        "pashunu",
+        "pakshīnu"
+      ],
+      "correct_answer": "manuṣhyanu",
+      "explanation": "From Bhaktachintamani.77/4-7: Akṣhar par Puruṣhottam jeh, teṇe dharyu manuṣhyanu deh.",
+      "source_reference": "Bhaktachintamani.77/4-7"
+    },
+    {
+      "id": "27-4",
+      "type": "MCQ",
+      "question_text": "Māyā taravano upay e chhe je, jyāre sarva karma ane māyā teno nāsh karanārā ne māyāthī par je sākşhātkār Shri Purushottam Bhagwān athavā te Bhagwānnā maļel _______ temanī jīvne prāpti jyāre thāy chhe tyāre temanā āshraythī māyā ullanghāy chhe.",
+      "options": [
+        "sant",
+        "dev",
+        "pitā",
+        "mātā"
+      ],
+      "correct_answer": "sant",
+      "explanation": "From Vach.Je.1: athavā te Bhagwānnā maļel sant temanī jīvne prāpti jyāre thāy chhe tyāre temanā āshraythī māyā ullanghāy chhe.",
+      "source_reference": "Vach.Je.1"
+    },
+    {
+      "id": "27-5",
+      "type": "MCQ",
+      "question_text": "Jevo e jīvne potānā sambandhīne vișhe dradh prasang chhe tevo ne tevo ja prasang jo Bhagwānnā _______ vishe thāy to e jīvne mokshanu dvār ughādu thây chhe.",
+      "options": [
+        "Ekāntik Sādhune",
+        "Ekāntik Pārbhadne",
+        "Ekāntik Mitrane",
+        "Ekāntik Devne"
+      ],
+      "correct_answer": "Ekāntik Sādhune",
+      "explanation": "From Vach.Ga.Pa.54: jo Bhagwānnā Ekāntik Sādhune vishe thāy to e jīvne mokshanu dvār ughādu thây chhe.",
+      "source_reference": "Vach.Ga.Pa.54"
+    },
+    {
+      "id": "28-1",
+      "type": "MCQ",
+      "question_text": "E brahma thaki Parabrahma je Purushottam Nārāyan te nokhā chhe ne e brahmanā paņ _______ chhe ne ādhār chhe ne prerak chhe.",
+      "options": [
+        "kāraṇ",
+        "mitra",
+        "sevak",
+        "guru"
+      ],
+      "correct_answer": "kāraṇ",
+      "explanation": "From Vach.Ga.Ma.3: e brahmanā paņ kāran chhe ne ādhār chhe ne prerak chhe.",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "28-2",
+      "type": "MCQ",
+      "question_text": "Jīv īshwar taṇo re, māyā kāḷ puruṣh pradhān; Sahune vash karū̃ re, sahuno _______ hū̃ Bhagavān...",
+      "options": [
+        "prerak",
+        "sevak",
+        "mitra",
+        "guru"
+      ],
+      "correct_answer": "prerak",
+      "explanation": "From Premanand Swami - Oradānā Pad: Sahune vash karū̃ re, sahuno prerak hū̃ Bhagavān...",
+      "source_reference": "Premanand Swami - Oradānā Pad"
+    },
+    {
+      "id": "28-3",
+      "type": "MCQ",
+      "question_text": "Bhagwānnī mūrtinu baļ atishay rākhavu je, 'Sarvoparī ne sadā divya sākārmūrti ane sarva avatārnu avatārī evu je Bhagwānnu swarūp chhe te ja mane prāpt thayu chhe.' Ane je em jāņato hoy ne tethī jo kadāchit satsangthī bāher nīsarī javāņu toy pan tene Bhagwānnī mūrtimāthī _______ țaļatu nathī.",
+      "options": [
+        "het",
+        "prem",
+        "ādar",
+        "bhakti"
+      ],
+      "correct_answer": "het",
+      "explanation": "From Vach.Ga.Ma.9: tene Bhagwānnī mūrtimāthī het țaļatu nathī.",
+      "source_reference": "Vach.Ga.Ma.9"
+    },
+    {
+      "id": "28-4",
+      "type": "MCQ",
+      "question_text": "E je ekras tej chhe tene ātmā kahie tathā brahma kahīe ne _______ kahīe; ane e prakāshne vishe je Bhagwānnī mūrti chhe tene ātmānu tattva kahīe tathā Parabrahma kahīe tathā Purushottam kahīe...",
+      "options": [
+        "Akshardhām",
+        "Brahmdhām",
+        "Vishṇudham",
+        "Shivdham"
+      ],
+      "correct_answer": "Akshardhām",
+      "explanation": "From Vach.Ga.Ma.13: tene ātmā kahie tathā brahma kahīe ne Akshardhām kahīe.",
+      "source_reference": "Vach.Ga.Ma.13"
+    },
+    {
+      "id": "28-5",
+      "type": "MCQ",
+      "question_text": "Jevu paroksh Bhagwānnā Rām-Krushņādik avatārnu māhātmya jāņe chhe tathā Nārad, Sanakādik, Shukjī, Jad-Bharat, Hanuman, Uddhav ityādik je parokșh sādhu tenu jevu māhātmya jāņe chhe tevu ja pratyaksh evā je Bhagwān tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene _______ kāīye samajavu bākī rahyu nahī.",
+      "options": [
+        "kalyānnā mārgmā",
+        "bhaktinā mārgmā",
+        "gnānnā mārgmā",
+        "vairāgyanā mārgmā"
+      ],
+      "correct_answer": "kalyānnā mārgmā",
+      "explanation": "From Vach.Ga.Ma.21: tathā te Bhagwānnā bhakta sādhu tenu māhātmya samaje tene kalyānnā mārgmā kāīye samajavu bākī rahyu nahī.",
+      "source_reference": "Vach.Ga.Ma.21"
+    },
+    {
+      "id": "29-1",
+      "type": "MCQ",
+      "question_text": "Evā santnu darshan thayu tyāre em jāṇavu je, 'Mane _______ darshan thayu.'",
+      "options": [
+        "sākshātkār Bhagwānnu",
+        "sākshātkār Devnu",
+        "sākshātkār Pitānu",
+        "sākshātkār Mātānu"
+      ],
+      "correct_answer": "sākshātkār Bhagwānnu",
+      "explanation": "From Vach.Sā.10: 'Mane sākshātkār Bhagwānnu darshan thayu.'",
+      "source_reference": "Vach.Sā.10"
+    },
+    {
+      "id": "29-2",
+      "type": "MCQ",
+      "question_text": "Evā sant manushya chhe to paṇ _______ sevā karvā yogya chhe.",
+      "options": [
+        "Bhagwānnī peṭhe",
+        "Devnī peṭhe",
+        "Pitānī peṭhe",
+        "Mitranī peṭhe"
+      ],
+      "correct_answer": "Bhagwānnī peṭhe",
+      "explanation": "From Vach.Ga.An.26: Evā sant manushya chhe to paṇ Bhagwānnī peṭhe sevā karvā yogya chhe.",
+      "source_reference": "Vach.Ga.An.26"
+    },
+    {
+      "id": "29-3",
+      "type": "MCQ",
+      "question_text": "Mārī ashṭ prakārnī je pratimā tathā je _______ tene vishe hu akhand nivās karīne rahu chhu.",
+      "options": [
+        "sant",
+        "dev",
+        "pitā",
+        "mātā"
+      ],
+      "correct_answer": "sant",
+      "explanation": "From Vach.Ga.Pa.68: Mārī ashṭ prakārnī je pratimā tathā je sant tene vishe hu akhand nivās karīne rahu chhu.",
+      "source_reference": "Vach.Ga.Pa.68"
+    },
+    {
+      "id": "29-4",
+      "type": "MCQ",
+      "question_text": "Satpurushne viṣhe dṛuḍh prīti e ja _______ sādhan chhe ane satpurushno mahimā jāṇyānu paṇ e ja sādhan chhe ane Parameshwarnu sākshāt darshan thavānu paṇ e ja sādhan chhe.",
+      "options": [
+        "ātmadarshannu",
+        "devdarshannu",
+        "pitadarshannu",
+        "mitradashannu"
+      ],
+      "correct_answer": "ātmadarshannu",
+      "explanation": "From Vach.Va.11: Satpurushne viṣhe dṛuḍh prīti e ja ātmadarshannu sādhan chhe ane satpurushno mahimā jāṇyānu paṇ e ja sādhan chhe ane Parameshwarnu sākshāt darshan thavānu paṇ e ja sādhan chhe.",
+      "source_reference": "Vach.Va.11"
+    },
+    {
+      "id": "29-5",
+      "type": "MCQ",
+      "question_text": "Bhakti saras sahu kahe, paṇ bhakti bhaktimā bhed; Bhakti _______, em vade chhe chāre ved.",
+      "options": [
+        "Prabhu pragaṭnī",
+        "Dev pragaṭnī",
+        "Pitā pragaṭnī",
+        "Mitra pragaṭnī"
+      ],
+      "correct_answer": "Prabhu pragaṭnī",
+      "explanation": "From Bhaktinidhi - 9/3: Bhakti Prabhu pragaṭnī, em vade chhe chāre ved.",
+      "source_reference": "Bhaktinidhi - 9/3"
+    },
+    {
+      "id": "30-1",
+      "type": "MCQ",
+      "question_text": "Swāminārāyaṇ nāmnā mantra jevo bījo koī mantra āj baḷiyo nathī ne e mantre kāḷā nāgnu paṇ jher na chaḍe ne e mantre _______ ūḍī jāy chhe, brahmarūp thāy chhe ne kāḷ, karma, māyānu bandhan chhūṭī jāy chhe, evo bahu baḷiyo e mantra chhe.",
+      "options": [
+        "viṣhay",
+        "krodh",
+        "lobh",
+        "moh"
+      ],
+      "correct_answer": "viṣhay",
+      "explanation": "From Swa. Vato: 1/153: ne e mantre viṣhay ūḍī jāy chhe, brahmarūp thāy chhe ne kāḷ, karma, māyānu bandhan chhūṭī jāy chhe, evo bahu baḷiyo e mantra chhe.",
+      "source_reference": "Swa. Vato: 1/153"
+    },
+    {
+      "id": "30-2",
+      "type": "MCQ",
+      "question_text": "_______ māṭe āpaṇe vechāvu paḍe to paṇ te ochhu chhe.",
+      "options": [
+        "Aksharpurushottam",
+        "Sarvottam",
+        "Purushottam",
+        "Aksharbrahma"
+      ],
+      "correct_answer": "Aksharpurushottam",
+      "explanation": "From Shāstrījī Mahārāje prasangopātt uchchārelā chār mahāvākyo: Aksharpurushottam māṭe āpaṇe vechāvu paḍe to paṇ te ochhu chhe.",
+      "source_reference": "Shāstrījī Mahārāje prasangopātt uchchārelā chār mahāvākyo"
+    }
+  ]
+}

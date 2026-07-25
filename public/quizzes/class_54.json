@@ -1,0 +1,89 @@
+{
+  "quiz_title": "Class 54 Quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.29 pramāṇe, 'Pavitra deshmā rahevu ane bhūnḍo kāḷ vartato hoy tyāthī ______ khasī nīsarvu.'",
+      "options": [
+        "āghumpāchhu",
+        "tejīthī",
+        "nirvighne",
+        "anukūḷtāthī"
+      ],
+      "correct_answer": "āghumpāchhu",
+      "explanation": "Vachanamrut Gadhada Pratham 29 mukhye kahe chhe ke Pavitra deshmā rahevu ane bhūnḍo kāḷ vartato hoy tyāthī āghumpāchhu khasī nīsarvu.",
+      "source_reference": "Vach.Ga.Pr.29"
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.29 anusār, haribhaktane parameshwarnī bhakti nu baḷ vṛuddhi pāme te māṭe koṇno sang karvo joīe?",
+      "options": [
+        "Prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno",
+        "Keśa-dharī sādhu teno",
+        "Gruhastha bhakta teno",
+        "Ved-pāṭhī brāhmaṇ teno"
+      ],
+      "correct_answer": "Prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno",
+      "explanation": "Vachanamrut Gadhada Pratham 29 mā janāvyā pramāṇe, prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno sang karvāthī haribhaktane parameshwarnī bhakti nu baḷ vṛuddhi pāme.",
+      "source_reference": "Vach.Ga.Pr.29"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question_text": "Haribhaktane Parameshwarnī je bhakti tenu baḷ atishay vṛuddhi pāme te māṭe Vach.Ga.Pr.29 pramāṇe kevi rīte vartavu joīe?",
+      "options": [
+        "Pavitra deshmā rahevu ane bhūnḍo kāḷ vartato hoy tyāthī āghumpāchhu khasī nīsarvu, ane prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno sang karvo",
+        "Mandirmā nitya darshan karvu ane kathā sāmbhaḷvī",
+        "Nitya pūjā pāṭh karvo ane vrat upvās karvā",
+        "Sevā karvī ane dhan dān karvu"
+      ],
+      "correct_answer": "Pavitra deshmā rahevu ane bhūnḍo kāḷ vartato hoy tyāthī āghumpāchhu khasī nīsarvu, ane prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno sang karvo",
+      "explanation": "Vachanamrut Gadhada Pratham 29 pramāṇe, Pavitra deshmā rahevu ane bhūnḍo kāḷ vartato hoy tyāthī āghumpāchhu khasī nīsarvu, ane prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno sang karvāthī haribhaktane parameshwarnī je bhakti tenu baḷ atishay vṛuddhi pāme.",
+      "source_reference": "Vach.Ga.Pr.29"
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.29 pramāṇe, koṇo sang karvāthī haribhaktane parameshwarnī bhakti nu baḷ atishay vṛuddhi pāme? Te sādhu kevā hoy?",
+      "options": [
+        "Prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā",
+        "Kāyam mandirmā sevā kartā",
+        "Satsangnā niyamo pāḷtā",
+        "Gambhīr ane vichārśīl"
+      ],
+      "correct_answer": "Prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā",
+      "explanation": "Vachanamrut Gadhada Pratham 29 spashṭa kare chhe ke, prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno sang karvāthī haribhaktane parameshwarnī je bhakti tenu baḷ atishay vṛuddhi pāme.",
+      "source_reference": "Vach.Ga.Pr.29"
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question_text": "Pavitra deshmā rahevu ane bhūnḍo kāḷ vartato hoy tyāthī āghumpāchhu khasī nīsarvu, ane prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno sang karvo, to haribhaktane ______ tenu baḷ atishay vṛuddhi pāme.",
+      "options": [
+        "parameshwarnī je bhakti",
+        "svātmānu gnān",
+        "sarva duḥkho thī mukti",
+        "bhagwānnī prasannatā"
+      ],
+      "correct_answer": "parameshwarnī je bhakti",
+      "explanation": "Vachanamrut Gadhada Pratham 29 pramāṇe, ā upāyo karvāthī haribhaktane parameshwarnī je bhakti tenu baḷ atishay vṛuddhi pāme.",
+      "source_reference": "Vach.Ga.Pr.29"
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question_text": "Kyā Vachanamrutmā janāvyā pramāṇe, 'Pavitra deshmā rahevu ane bhūnḍo kāḷ vartato hoy tyāthī āghumpāchhu khasī nīsarvu, ane sang paṇ prabhunā bhakta ane panch vartamāne yukta evā je brahmavettā sādhu teno karvo, to haribhaktane parameshwarnī je bhakti tenu baḷ atishay vṛuddhi pāme'?",
+      "options": [
+        "Vach.Ga.Pr.29",
+        "Vach.Ga.Pr.1",
+        "Vach.Sa.Pr.7",
+        "Vach.Ka.Pr.12"
+      ],
+      "correct_answer": "Vach.Ga.Pr.29",
+      "explanation": "Ā uddharaṇ Vachanamrut Gadhada Pratham 29 mā āvelu chhe.",
+      "source_reference": "Vach.Ga.Pr.29"
+    }
+  ]
+}

@@ -302,9 +302,6 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Ma.50": "class 40/V GM50.m4a",
     "Haribalgita - 7/4": "class 40/Haribalgita_7_4.m4a",
 
-
-<<<<<<< Updated upstream
-=======
     //Class 43
     "Vach.Sā.2": "class 43/V S2.m4a",
 
@@ -432,5 +429,5 @@ export const AUDIO_MAPPING: Record<string, string> = {
 
     //class 73
     "Vach.Ga.Pr.70 (Class 73)": "Class 73/V GP70_Class_73.m4a",
->>>>>>> Stashed changes
+
 };

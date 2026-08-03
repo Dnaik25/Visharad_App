@@ -50,11 +50,14 @@ Satsang Diksha Shlok 239
 ---------------------
  - Sāmpradāyikasiddhānta-bādhakaram hi yad vachaḥ | Paṭhyam shravyam na mantavyam samshayotpādakam cha yat || 239 ||
 
+<<<<<<< Updated upstream
 Vachanamrut
 -----------
 • Vach.Ka.10
   Jeno sang karyā thakī tathā je shāstra sāmbhaḷvā thakī bhagwānnī upāsanānu khaṇḍan thaīne swāmīsevakbhāv ṭaḷī jato hoy, to te sangno tathā te shāstrano shvapacanī peṭhe tatkāḷ tyāg karvo.
 
+=======
+>>>>>>> Stashed changes
 Satsang Diksha Shlok 240
 ---------------------
  - Svāminārāyaṇe bhaktim parām dṛuḍhayitum hṛudi | Guruhareḥ samādeshāchchāturmāsye vratam charet || 240 ||
@@ -64,6 +67,7 @@ Satsang Diksha Shlok 241-242
  - Chāndrāyaṇopavāsādirmantrajapaḥ pradakshiṇāḥ | Kathāshrutirdaṇḍavachcha praṇāmā adhikāstadā || 241 ||
  - Ityādirūpe shraddhayā prītipūrvakam | Hariprasannatām prāptum visheṣhām bhaktimācharet || 242 ||
 
+<<<<<<< Updated upstream
 Vachanamrut
 -----------
 • Vach.Ka.10
@@ -79,6 +83,8 @@ Kirtan
   Tyār pachhī māgh māsmāy, karu parākakṛuchchh kahevāy;
   Chāndrāyaṇ ekādashī laī, sarve vrat karu chhu hu saī. 13
 
+=======
+>>>>>>> Stashed changes
 Satsang Diksha Shlok 243
 ---------------------
  - Sampradāyasya shāstrāṇām paṭhanam pāṭhanam tadā | Yathāruchi yathāshakti kuryād niyamapūrvakam || 243 ||
@@ -91,6 +97,7 @@ Satsang Diksha Shlok 245
 ---------------------
  - Janmamahotsavā nityam svāminārāyaṇaprabhoḥ | Brahmā'ksharagurūṇām cha kartavyā bhaktibhāvataḥ || 245 ||
 
+<<<<<<< Updated upstream
 Kirtan
 ------
 • Premanand Swami 
@@ -117,6 +124,8 @@ Kirtan
   Poḍho poḍho prabhu jagnā ādhār re,
   Premānand nitya navī līlā gāve re... 3
 
+=======
+>>>>>>> Stashed changes
 Satsang Diksha Shlok 246
 ---------------------
  - Harergurorvishiṣhṭānām prasangānām dineṣhu cha | Satsangibhiryathāshakti kāryāḥ parvotsavājanaiḥ || 246 ||

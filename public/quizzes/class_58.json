@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Quiz on Class 58: Swamini Vato and Kirtan",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MCQ",
+      "question_text": "Swa.Vato.1/177 states: \"Baḷiyā bhagwānnā bhakta hoy teno sang karīe to ____.\"",
+      "options": [
+        "jīvmā baḷ āve",
+        "manmā shankā āve",
+        "durijan mukh narasu lāge",
+        "kāchī te kāyā paḍashe"
+      ],
+      "correct_answer": "jīvmā baḷ āve",
+      "explanation": "As per Swa.Vato.1/177, \"Baḷiyā bhagwānnā bhakta hoy teno sang karīe to jīvmā baḷ āve.\"",
+      "source_reference": "Swa.Vato.1/177"
+    },
+    {
+      "id": "q2",
+      "type": "MCQ",
+      "question_text": "Muktanand Swami states in the kirtan: \"Sanmukh thātā shankā na kīje, mar ______ varase re.\"",
+      "options": [
+        "bhālā taṇā meh",
+        "durijan lok",
+        "amṛutpe ati mīṭhā",
+        "harijanne maḷashe"
+      ],
+      "correct_answer": "bhālā taṇā meh",
+      "explanation": "The kirtan, stanza 1, states, \"Sanmukh thātā shankā na kīje, mar bhālā taṇā meh varase re.\"",
+      "source_reference": "Kirtan, Stanza 1"
+    },
+    {
+      "id": "q3",
+      "type": "MCQ",
+      "question_text": "According to Muktanand Swami's kirtan, \"Hansa jaī harijanne maḷashe, pachhī ____.\"",
+      "options": [
+        "kāchī te kāyā paḍashe re",
+        "jīvmā baḷ āve re",
+        "sādhune sange rahīe re",
+        "harinā charitra suṇāve re"
+      ],
+      "correct_answer": "kāchī te kāyā paḍashe re",
+      "explanation": "The kirtan, stanza 1, states, \"Hansa jaī harijanne maḷashe, pachhī kāchī te kāyā paḍashe re.\"",
+      "source_reference": "Kirtan, Stanza 1"
+    },
+    {
+      "id": "q4",
+      "type": "MCQ",
+      "question_text": "Muktanand Swami advises: \"Shūḷī upar shayan karāve toy, ______.\"",
+      "options": [
+        "sādhune sange rahīe re",
+        "tenu sukhduḥkh sarve sahīe re",
+        "durijannu mukh manmā re",
+        "vās dejo harijananmā re"
+      ],
+      "correct_answer": "sādhune sange rahīe re",
+      "explanation": "The kirtan, stanza 2, states, \"Shūḷī upar shayan karāve toy, sādhune sange rahīe re.\"",
+      "source_reference": "Kirtan, Stanza 2"
+    },
+    {
+      "id": "q5",
+      "type": "MCQ",
+      "question_text": "The kirtan mentions: \"Durijan lok durbhāṣhaṇ bole, tenu ____.\"",
+      "options": [
+        "sukhduḥkh sarve sahīe re",
+        "mukh manmā narasu lāge re",
+        "sang shīd tajīe re",
+        "darshan karvāne āve re"
+      ],
+      "correct_answer": "sukhduḥkh sarve sahīe re",
+      "explanation": "The kirtan, stanza 2, states, \"Durijan lok durbhāṣhaṇ bole, tenu sukhduḥkh sarve sahīe re.\"",
+      "source_reference": "Kirtan, Stanza 2"
+    },
+    {
+      "id": "q6",
+      "type": "MCQ",
+      "question_text": "Muktanand Swami's kirtan mentions that \"Brahmā bhav sanakādik jevā, jenā darshan karvāne āve re\". Whose darshan are they coming to have?",
+      "options": [
+        "Mārā vā'lājī",
+        "Durijan lok",
+        "Muktānand",
+        "Sādhu"
+      ],
+      "correct_answer": "Mārā vā'lājī",
+      "explanation": "The kirtan begins with \"Mārā vā'lājī shu vā'lap dīse re...\" and stanza 3 refers to \"jenā darshan karvāne āve re\", implying Vā'lājī.",
+      "source_reference": "Kirtan, Stanza 3"
+    },
+    {
+      "id": "q7",
+      "type": "MCQ",
+      "question_text": "According to Muktanand Swami's kirtan, \"Narakkuṇḍthī narasu lāge, ____.\"",
+      "options": [
+        "durijannu mukh manmā re",
+        "kāchī te kāyā paḍashe re",
+        "jīvmā baḷ āve re",
+        "sukhduḥkh sarve sahīe re"
+      ],
+      "correct_answer": "durijannu mukh manmā re",
+      "explanation": "The kirtan, stanza 4, states, \"Narakkuṇḍthī narasu lāge, durijannu mukh manmā re.\"",
+      "source_reference": "Kirtan, Stanza 4"
+    },
+    {
+      "id": "q8",
+      "type": "MCQ",
+      "question_text": "Muktanand Swami, \"magan thaī māge vahālā\", requests: \"vās dejo ______.\"",
+      "options": [
+        "harijananmā re",
+        "narakkuṇḍmā re",
+        "sādhune sange re",
+        "vā'lājīnā darshanmā re"
+      ],
+      "correct_answer": "harijananmā re",
+      "explanation": "The kirtan, stanza 4, concludes, \"Muktānand magan thaī māge vahālā, vās dejo harijananmā re.\"",
+      "source_reference": "Kirtan, Stanza 4"
+    },
+    {
+      "id": "q9",
+      "type": "MCQ",
+      "question_text": "Who is the author of the kirtan \"Mārā vā'lājī shu vā'lap dīse re\"?",
+      "options": [
+        "Muktanand Swami",
+        "Brahmā",
+        "Sanakādik",
+        "Bhagwān"
+      ],
+      "correct_answer": "Muktanand Swami",
+      "explanation": "The kirtan is attributed to \"Muktanand Swami\" in the provided text's Kirtan section.",
+      "source_reference": "Kirtan heading"
+    },
+    {
+      "id": "q10",
+      "type": "MCQ",
+      "question_text": "What is the subject of the quote from Swa.Vato.1/177 that brings 'baḷ' to the 'jīv' when one associates with them?",
+      "options": [
+        "Baḷiyā bhagwānnā bhakta",
+        "Mārā vā'lājī",
+        "Durijan lok",
+        "Brahmā bhav sanakādik"
+      ],
+      "correct_answer": "Baḷiyā bhagwānnā bhakta",
+      "explanation": "The quote from Swa.Vato.1/177 begins, \"Baḷiyā bhagwānnā bhakta hoy teno sang karīe to...\"",
+      "source_reference": "Swa.Vato.1/177"
+    }
+  ]
+}

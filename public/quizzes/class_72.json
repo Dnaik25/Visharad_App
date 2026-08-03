@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 72 Quiz: Vachanamrut & Purushottam Bolya Prite",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Ma.63 states: \"Bhagwānnā bhakta chhe te to kevaḷ __________ ja murtio chhe.\"",
+      "options": [
+        "brahmanī",
+        "jīvanī",
+        "dehanī",
+        "ātmanī"
+      ],
+      "correct_answer": "brahmanī",
+      "explanation": "As stated in Vach.Ga.Ma.63, \"Bhagwānnā bhakta chhe te to kevaḷ brahmanī ja murtio chhe.\"",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "According to Vach.Ga.Ma.63, what should one not bring towards Bhagwān's devotees?",
+      "options": [
+        "manuṣhyabhāv",
+        "divyabhāv",
+        "bhaktibhav",
+        "prīti"
+      ],
+      "correct_answer": "manuṣhyabhāv",
+      "explanation": "Vach.Ga.Ma.63 explicitly states: \"...ene viṣhe to manuṣhyabhāv lāvvo ja nahī.\"",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Purushottam Bolya Prite states: \"Bhagwānne bhajtā sarve harijano __________ chhe.\"",
+      "options": [
+        "divya",
+        "māyik",
+        "prākrut",
+        "sādhāraṇ"
+      ],
+      "correct_answer": "divya",
+      "explanation": "The text from Purushottam Bolya Prite says: \"Bhagwānne bhajtā sarve harijano divya chhe.\"",
+      "source_reference": "Purushottam Bolya Prite"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "According to Purushottam Bolya Prite, those who understand, remember, and contemplate the profound secret become magna thaī jāy chhe ne __________.",
+      "options": [
+        "jag jītī jāy chhe",
+        "dukhī thaī jāy chhe",
+        "mohit thaī jāy chhe",
+        "shānt thaī jāy chhe"
+      ],
+      "correct_answer": "jag jītī jāy chhe",
+      "explanation": "Purushottam Bolya Prite states: \"...te magna thaī jāy chhe ne jag jītī jāy chhe.\"",
+      "source_reference": "Purushottam Bolya Prite"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "For those who understand, remember, and contemplate the profound secret, their joy never diminishes for how long, according to Purushottam Bolya Prite?",
+      "options": [
+        "Āṭho pahar",
+        "Ek pahar",
+        "Divas ane rāt",
+        "Jīvanparyant"
+      ],
+      "correct_answer": "Āṭho pahar",
+      "explanation": "Purushottam Bolya Prite mentions: \"Āṭho pahar ānand eno ṭaḷto nathī.\"",
+      "source_reference": "Purushottam Bolya Prite"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "According to Purushottam Bolya Prite, what three actions do those who become engrossed and conquer the world perform regarding the profound secret?",
+      "options": [
+        "samaje, dhāre ne vichāre chhe",
+        "jaṇe, bole ne māne chhe",
+        "sāmbhaḷe, kahe ne lakhe chhe",
+        "juve, vicāre ne prārthanā kare chhe"
+      ],
+      "correct_answer": "samaje, dhāre ne vichāre chhe",
+      "explanation": "The text states: \"Ā marmnī vāt je koī samaje, dhāre ne vichāre chhe te magna thaī jāy chhe...\"",
+      "source_reference": "Purushottam Bolya Prite"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Which text states: \"Bhagwānnā bhakta chhe te to kevaḷ brahmanī ja murtio chhe...\"?",
+      "options": [
+        "Vach.Ga.Ma.63",
+        "Purushottam Bolya Prite",
+        "Vach.Ga.Ma.10",
+        "Vach.Sa.1"
+      ],
+      "correct_answer": "Vach.Ga.Ma.63",
+      "explanation": "This statement is found in Vach.Ga.Ma.63.",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Which text contains the statement: \"Bhagwānne bhajtā sarve harijano divya chhe.\"",
+      "options": [
+        "Purushottam Bolya Prite",
+        "Vach.Ga.Ma.63",
+        "Vach.Ga.Ma.20",
+        "Vach.Sa.10"
+      ],
+      "correct_answer": "Purushottam Bolya Prite",
+      "explanation": "This statement is found in Purushottam Bolya Prite.",
+      "source_reference": "Purushottam Bolya Prite"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "According to Vach.Ga.Ma.63, what is the nature of Bhagwān's devotees?",
+      "options": [
+        "te to kevaḷ brahmanī ja murtio chhe",
+        "te to kevaḷ māyik chhe",
+        "te to kevaḷ jīv chhe",
+        "te to kevaḷ dehdhārī chhe"
+      ],
+      "correct_answer": "te to kevaḷ brahmanī ja murtio chhe",
+      "explanation": "Vach.Ga.Ma.63 states: \"Bhagwānnā bhakta chhe te to kevaḷ brahmanī ja murtio chhe.\"",
+      "source_reference": "Vach.Ga.Ma.63"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "What is the \"marmnī vāt\" (profound secret) mentioned in Purushottam Bolya Prite?",
+      "options": [
+        "Bhagwānne bhajtā sarve harijano divya chhe.",
+        "Bhagwānne bhajtā sarve harijano māyik chhe.",
+        "Bhagwānne bhajtā sarve harijano sāmānya manuṣhya chhe.",
+        "Bhagwānne bhajtā sarve harijano kevaḷ kalyāṇnā kām kare chhe."
+      ],
+      "correct_answer": "Bhagwānne bhajtā sarve harijano divya chhe.",
+      "explanation": "Purushottam Bolya Prite refers to \"Bhagwānne bhajtā sarve harijano divya chhe\" as the \"marmnī vāt.\"",
+      "source_reference": "Purushottam Bolya Prite"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "quiz_title": "Quiz on Swamini Vato - Class 71",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple_choice",
+      "question_text": "Mahārāj kahe je, karoḍ vahāṇe karīne ek manvār bharāy evī _______ bharvī chhe, eṭlā jīvnu kalyāṇ karvu chhe.",
+      "options": [
+        "ek manvār",
+        "so karoḍ manvāryu",
+        "dasa karoḍ manvāryu",
+        "pāch karoḍ manvāryu"
+      ],
+      "correct_answer": "so karoḍ manvāryu",
+      "explanation": "As per Swa.Vato.1/72, Mahārāj states, \"karoḍ vahāṇe karīne ek manvār bharāy evī so karoḍ manvāryu bharvī chhe\".",
+      "source_reference": "Swa.Vato.1/72"
+    },
+    {
+      "id": "Q2",
+      "type": "multiple_choice",
+      "question_text": "Mahārāj kahe je, karoḍ vahāṇe karīne ek manvār bharāy evī so karoḍ manvāryu bharvī chhe, eṭlā _______ karvu chhe.",
+      "options": [
+        "karma karvu",
+        "jīvnu kalyāṇ",
+        "sevā karvu",
+        "pūjā karvu"
+      ],
+      "correct_answer": "jīvnu kalyāṇ",
+      "explanation": "The statement in Swa.Vato.1/72 concludes with, \"eṭlā jīvnu kalyāṇ karvu chhe.\"",
+      "source_reference": "Swa.Vato.1/72"
+    },
+    {
+      "id": "Q3",
+      "type": "multiple_choice",
+      "question_text": "Mahārāj kahe je, _______ ek manvār bharāy evī so karoḍ manvāryu bharvī chhe, eṭlā jīvnu kalyāṇ karvu chhe.",
+      "options": [
+        "so vahāṇe karīne",
+        "das vahāṇe karīne",
+        "karoḍ vahāṇe karīne",
+        "ek vahāṇe karīne"
+      ],
+      "correct_answer": "karoḍ vahāṇe karīne",
+      "explanation": "The text states, \"karoḍ vahāṇe karīne ek manvār bharāy evī so karoḍ manvāryu bharvī chhe.\"",
+      "source_reference": "Swa.Vato.1/72"
+    },
+    {
+      "id": "Q4",
+      "type": "multiple_choice",
+      "question_text": "According to Swa.Vato.1/72, who said: \"karoḍ vahāṇe karīne ek manvār bharāy evī so karoḍ manvāryu bharvī chhe, eṭlā jīvnu kalyāṇ karvu chhe.\"",
+      "options": [
+        "Mahārāj",
+        "Swami",
+        "Sādhu",
+        "Bhakta"
+      ],
+      "correct_answer": "Mahārāj",
+      "explanation": "The Vato begins with \"Mahārāj kahe je,\" indicating that Mahārāj made this statement.",
+      "source_reference": "Swa.Vato.1/72"
+    },
+    {
+      "id": "Q5",
+      "type": "multiple_choice",
+      "question_text": "According to Mahārāj in Swa.Vato.1/72, how many 'vahāṇe' are required to fill one 'manvār'?",
+      "options": [
+        "ek vahāṇ",
+        "das vahāṇ",
+        "so vahāṇ",
+        "karoḍ vahāṇ"
+      ],
+      "correct_answer": "karoḍ vahāṇ",
+      "explanation": "The Vato states, \"karoḍ vahāṇe karīne ek manvār bharāy evī...\".",
+      "source_reference": "Swa.Vato.1/72"
+    },
+    {
+      "id": "Q6",
+      "type": "multiple_choice",
+      "question_text": "What is the purpose of filling 'so karoḍ manvāryu'?",
+      "options": [
+        "dhan prāpti",
+        "jīvnu kalyāṇ",
+        "yagna karvu",
+        "mandir banāvu"
+      ],
+      "correct_answer": "jīvnu kalyāṇ",
+      "explanation": "The Vato explicitly states, \"so karoḍ manvāryu bharvī chhe, eṭlā jīvnu kalyāṇ karvu chhe.\"",
+      "source_reference": "Swa.Vato.1/72"
+    },
+    {
+      "id": "Q7",
+      "type": "multiple_choice",
+      "question_text": "How many 'manvāryu' did Mahārāj express a wish to fill?",
+      "options": [
+        "ek manvār",
+        "das manvāryu",
+        "so manvāryu",
+        "so karoḍ manvāryu"
+      ],
+      "correct_answer": "so karoḍ manvāryu",
+      "explanation": "The Vato states, \"so karoḍ manvāryu bharvī chhe\".",
+      "source_reference": "Swa.Vato.1/72"
+    }
+  ]
+}

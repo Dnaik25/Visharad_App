@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 52 Vachanamrut Quiz",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "Multiple Choice",
+      "question_text": "Bhagwānno bhakta hoy athavā koī bījo hoy, paṇ garībmātrane __________ nahī. Ane jo garībne dukhve to tenu koī prakāre sāru thāy nahī ane jo garībne dukhve to brahmahatyā jeṭlu pāp thāy chhe.",
+      "options": [
+        "sahāy karvo",
+        "leshmātra dukhvavo",
+        "prem karvo",
+        "sneh karvo"
+      ],
+      "correct_answer": "leshmātra dukhvavo",
+      "explanation": "Vachanamrut Ga.Pr. 72 spashṭa kahe chhe ke garībmātrane leshmātra dukhvavo nahī.",
+      "source_reference": "Vach.Ga.Pr.72"
+    },
+    {
+      "id": "Q2",
+      "type": "Multiple Choice",
+      "question_text": "Vach.Ga.Pr.72 mujab, jo garībne dukhve to keṭlu pāp thāy chhe?",
+      "options": [
+        "chīr brahmahatyā jeṭlu pāp",
+        "dasa brahmahatyā jeṭlu pāp",
+        "brahmahatyā jeṭlu pāp",
+        "koi pāp nahī"
+      ],
+      "correct_answer": "brahmahatyā jeṭlu pāp",
+      "explanation": "Vachanamrut Ga.Pr. 72 mā lakhyu chhe ke jo garībne dukhve to brahmahatyā jeṭlu pāp thāy chhe.",
+      "source_reference": "Vach.Ga.Pr.72"
+    },
+    {
+      "id": "Q3",
+      "type": "Multiple Choice",
+      "question_text": "Vach.Ga.Pr.72 pramāṇe, Bhagwānno bhakta hoy athavā koī bījo hoy, paṇ garībne leshmātra dukhve to tenum shaṁuṁ thāy nahī?",
+      "options": [
+        "tenu dhan vaḍhe nahī",
+        "tenu koī prakāre sāru thāy nahī",
+        "tenu kalyāṇ thāy nahī",
+        "tenu namra thāy nahī"
+      ],
+      "correct_answer": "tenu koī prakāre sāru thāy nahī",
+      "explanation": "Vachanamrut Ga.Pr. 72 anusār, jo garībne dukhve to tenu koī prakāre sāru thāy nahī.",
+      "source_reference": "Vach.Ga.Pr.72"
+    },
+    {
+      "id": "Q4",
+      "type": "Multiple Choice",
+      "question_text": "Jo dharma, arth ne kām sambandhī je ___________ teno tyāg karīne tenā te shubh karma jo Bhagwānnī prasannatāne arthe kare to e ja shubh karma chhe te bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.",
+      "options": [
+        "sevānī icchā",
+        "phalānī prāpti",
+        "phaḷnī icchā",
+        "karmaṇī icchā"
+      ],
+      "correct_answer": "phaḷnī icchā",
+      "explanation": "Vachanamrut Ga.Ma. 11 kahe chhe ke dharma, arth ne kām sambandhī je phaḷnī icchā teno tyāg karvo.",
+      "source_reference": "Vach.Ga.Ma.11"
+    },
+    {
+      "id": "Q5",
+      "type": "Multiple Choice",
+      "question_text": "Vach.Ga.Ma.11 pramāṇe, shubh karma kyāre bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe?",
+      "options": [
+        "Bhagwānnī sevāne arthe kare to",
+        "Bhagwānnī prasannatāne arthe kare to",
+        "potānī icchāne arthe kare to",
+        "dharma, arth ne kāmne arthe kare to"
+      ],
+      "correct_answer": "Bhagwānnī prasannatāne arthe kare to",
+      "explanation": "Vachanamrut Ga.Ma. 11 anusār, shubh karma jo Bhagwānnī prasannatāne arthe kare to te bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.",
+      "source_reference": "Vach.Ga.Ma.11"
+    },
+    {
+      "id": "Q6",
+      "type": "Multiple Choice",
+      "question_text": "Jo dharma, arth ne kām sambandhī je phaḷnī icchā teno tyāg karīne tenā te shubh karma jo Bhagwānnī prasannatāne arthe kare to e ja shubh karma chhe te ___________ thaīne kevaḷ mokshane arthe thāy chhe.",
+      "options": [
+        "karmarūp",
+        "jñānrūp",
+        "bhaktirūp",
+        "taparūp"
+      ],
+      "correct_answer": "bhaktirūp",
+      "explanation": "Vachanamrut Ga.Ma. 11 spashṭa kahe chhe ke te shubh karma bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.",
+      "source_reference": "Vach.Ga.Ma.11"
+    },
+    {
+      "id": "Q7",
+      "type": "Multiple Choice",
+      "question_text": "Vach.Ga.Pr.72 mujab, garībmātrane leshmātra dukhvavo nahī — ā vachan koṇane lāgu paḍe chhe?",
+      "options": [
+        "fakta Bhagwānna bhaktaone",
+        "fakta koī bījaone",
+        "Bhagwānno bhakta hoy athavā koī bījo hoy",
+        "fakta satsangīone"
+      ],
+      "correct_answer": "Bhagwānno bhakta hoy athavā koī bījo hoy",
+      "explanation": "Vachanamrut Ga.Pr. 72 mā lakhyu chhe ke Bhagwānno bhakta hoy athavā koī bījo hoy, paṇ garībmātrane leshmātra dukhvavo nahī.",
+      "source_reference": "Vach.Ga.Pr.72"
+    },
+    {
+      "id": "Q8",
+      "type": "Multiple Choice",
+      "question_text": "Vach.Ga.Ma.11 pramāṇe, shubh karma ne bhaktirūp banāvavā māṭe kyā sambandhī phaḷnī icchāno tyāg karavānu kahyu chhe?",
+      "options": [
+        "dharma ne moksha sambandhī",
+        "arth ne kām sambandhī",
+        "dharma, arth ne kām sambandhī",
+        "moksha ne kām sambandhī"
+      ],
+      "correct_answer": "dharma, arth ne kām sambandhī",
+      "explanation": "Vachanamrut Ga.Ma. 11 mā dharma, arth ne kām sambandhī je phaḷnī icchā teno tyāg karavānu kahyu chhe.",
+      "source_reference": "Vach.Ga.Ma.11"
+    },
+    {
+      "id": "Q9",
+      "type": "Multiple Choice",
+      "question_text": "Vach.Ga.Ma.11 mujab, jo phaḷnī icchāno tyāg karīne shubh karma Bhagwānnī prasannatāne arthe kare to te kevaḷ shaṁuṁne arthe thāy chhe?",
+      "options": [
+        "dharmane arthe",
+        "sukha prāptine arthe",
+        "mokshane arthe",
+        "arth prāptine arthe"
+      ],
+      "correct_answer": "mokshane arthe",
+      "explanation": "Vachanamrut Ga.Ma. 11 anusār, te bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.",
+      "source_reference": "Vach.Ga.Ma.11"
+    },
+    {
+      "id": "Q10",
+      "type": "Multiple Choice",
+      "question_text": "Vach.Ga.Pr.72 mujab, jo garībne dukhve to tenu koī prakāre shuṁ thāy nahī?",
+      "options": [
+        "kalyāṇ",
+        "shanti",
+        "sāru",
+        "sukha"
+      ],
+      "correct_answer": "sāru",
+      "explanation": "Vachanamrut Ga.Pr. 72 mā spashṭa chhe ke garībne dukhvavāthī tenu koī prakāre sāru thāy nahī.",
+      "source_reference": "Vach.Ga.Pr.72"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 67 Quiz",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple_choice",
+      "question_text": "Panchviṣhay chhe te to pūrve dev-manuṣhyādikne viṣhe _______ dehe karīne āpaṇe jīve bhogavyā chhe to paṇ hajī lagaṇ e viṣhaynī _______ thaī nathī.",
+      "options": [
+        "anant, tṛupti",
+        "thodā, tṛupti",
+        "ghoḍā, prīti",
+        "sarva, virakti"
+      ],
+      "correct_answer": "anant, tṛupti",
+      "explanation": "Vachanamrut Ga.Ma.47 states: 'Panchviṣhay chhe te to pūrve dev-manuṣhyādikne viṣhe anant dehe karīne āpaṇe jīve bhogavyā chhe to paṇ hajī lagaṇ e viṣhaynī tṛupti thaī nathī'.",
+      "source_reference": "Vach.Ga.Ma.47"
+    },
+    {
+      "id": "Q2",
+      "type": "multiple_choice",
+      "question_text": "Jem pātāḷ sudhī pṛuthvī fāṭī hoy tene ________ karīne bharvā mānḍīe te kyārey bharāy nahī.",
+      "options": [
+        "pāṇīe",
+        "māṭīe",
+        "vātāvaraṇe",
+        "vṛukṣhoe"
+      ],
+      "correct_answer": "pāṇīe",
+      "explanation": "Vachanamrut Ga.Ma.47 states: 'Jem pātāḷ sudhī pṛuthvī fāṭī hoy tene pāṇīe karīne bharvā mānḍīe te kyārey bharāy nahī'.",
+      "source_reference": "Vach.Ga.Ma.47"
+    },
+    {
+      "id": "Q3",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Ma.47 pramāṇe, `bhagwānnā bhakta thaīne varṣh ke be varṣh ke pānch varṣh viṣhay bhogavīne pūrṇa thavāshe nahī` kem?",
+      "options": [
+        "Jem pātāḷ sudhī pṛuthvī fāṭī hoy tene pāṇīe karīne bharvā mānḍīe te kyārey bharāy nahī, tem indriyo chhe tene kyārey viṣhay thakī tṛupti thaī nathī ne thashe paṇ nahī.",
+        "Kāraṇ ke bhakta hoy tene kyārey viṣhay bhogavā na joīe.",
+        "Kāraṇ ke dev-manuṣhyādikne paṇ viṣhay nī tṛupti na thay.",
+        "Kāraṇ ke viṣhay nī tṛupti mātra bhagwān mā ja chhe."
+      ],
+      "correct_answer": "Jem pātāḷ sudhī pṛuthvī fāṭī hoy tene pāṇīe karīne bharvā mānḍīe te kyārey bharāy nahī, tem indriyo chhe tene kyārey viṣhay thakī tṛupti thaī nathī ne thashe paṇ nahī.",
+      "explanation": "Vachanamrut Ga.Ma.47 explains the reason with the analogy: 'Jem pātāḷ sudhī pṛuthvī fāṭī hoy tene pāṇīe karīne bharvā mānḍīe te kyārey bharāy nahī, tem indriyo chhe tene kyārey viṣhay thakī tṛupti thaī nathī ne thashe paṇ nahī'.",
+      "source_reference": "Vach.Ga.Ma.47"
+    },
+    {
+      "id": "Q4",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.An.38 pramāṇe, kayā ek `vānā` thakī jīvte ne marīne paṇ sukh kyārey thāy nahī?",
+      "options": [
+        "Ek dravyādikno lobh",
+        "Santno sang",
+        "Dharmik pravṛutti",
+        "Niyam nu pālān"
+      ],
+      "correct_answer": "Ek dravyādikno lobh",
+      "explanation": "Vachanamrut Ga.An.38 lists 'Ek dravyādikno lobh' as one of the six things that prevent happiness.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "Q5",
+      "type": "multiple_choice",
+      "question_text": "Ek dravyādikno lobh tathā strīne viṣhe beṭhā-ūṭhyānī vāsanā tathā rasne viṣhe _________ āsakti tathā dehābhimān tathā __________ het rahī jāy tathā sambandhīmā het hoy.",
+      "options": [
+        "jihvānī, kusangīmā",
+        "nāsikānī, satsangīmā",
+        "chakṣhunī, mitromā",
+        "shrōtranī, samājmā"
+      ],
+      "correct_answer": "jihvānī, kusangīmā",
+      "explanation": "Vachanamrut Ga.An.38 states: 'rasne viṣhe jihvānī āsakti tathā dehābhimān tathā kusangīmā het rahī jāy'.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "Q6",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.An.38 pramāṇe, jene `ek dravyādikno lobh` jevā `chha vānā` hoy tene shu thāy chhe?",
+      "options": [
+        "tene koī divas jīvte ne marīne paṇ sukh to kyārey thāy ja nahī",
+        "tene ghanu sukh thāy chhe",
+        "tene mātra jīvte sukh thāy chhe",
+        "tene marīne mokṣh thāy chhe"
+      ],
+      "correct_answer": "tene koī divas jīvte ne marīne paṇ sukh to kyārey thāy ja nahī",
+      "explanation": "Vachanamrut Ga.An.38 states: 'e chha vānā jene hoy tene koī divas jīvte ne marīne paṇ sukh to kyārey thāy ja nahī'.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "Q7",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.An.38 pramāṇe, nīche āpel mānthī kayī vastu `chha vānā` mānthī ek nathī?",
+      "options": [
+        "Dehābhimān",
+        "kusangīmā het",
+        "bhagwān mā prīti",
+        "strīne viṣhe beṭhā-ūṭhyānī vāsanā"
+      ],
+      "correct_answer": "bhagwān mā prīti",
+      "explanation": "Vachanamrut Ga.An.38 lists 'Dehābhimān', 'kusangīmā het', and 'strīne viṣhe beṭhā-ūṭhyānī vāsanā' as part of the `chha vānā`, but 'bhagwān mā prīti' is not listed.",
+      "source_reference": "Vach.Ga.An.38"
+    },
+    {
+      "id": "Q8",
+      "type": "multiple_choice",
+      "question_text": "Swa.Vato.2/993 pramāṇe, `Viṣhayno sambandh thayā morya to ________ peṭhe bīvu ne sambandh thaī jāy to tyā ________ thāvu`.",
+      "options": [
+        "bakarānī, sinh",
+        "kutrānī, vāgh",
+        "bilāḍīnī, sarp",
+        "sihnanī, bakrā"
+      ],
+      "correct_answer": "bakarānī, sinh",
+      "explanation": "Swamini Vato 2/993 states: 'Viṣhayno sambandh thayā morya to bakarānī peṭhe bīvu ne sambandh thaī jāy to tyā sinh thāvu'.",
+      "source_reference": "Swa.Vato.2/993"
+    },
+    {
+      "id": "Q9",
+      "type": "multiple_choice",
+      "question_text": "Swa.Vato.2/993 pramāṇe, `viṣhayno sambandh thayā morya` kevu vartavu joīe?",
+      "options": [
+        "bakarānī peṭhe bīvu",
+        "sinh thāvu",
+        "ghanu sukh bhogavavu",
+        "udāsīna thāvu"
+      ],
+      "correct_answer": "bakarānī peṭhe bīvu",
+      "explanation": "Swamini Vato 2/993 instructs: 'Viṣhayno sambandh thayā morya to bakarānī peṭhe bīvu'.",
+      "source_reference": "Swa.Vato.2/993"
+    },
+    {
+      "id": "Q10",
+      "type": "multiple_choice",
+      "question_text": "Swa.Vato.2/993 pramāṇe, `viṣhayno sambandh thaī jāy` to kevu thāvu joīe?",
+      "options": [
+        "tyā sinh thāvu",
+        "tyā bakarānī peṭhe bīvu",
+        "tyā santone pucchavu",
+        "tyā ghr̥uṇā karvī"
+      ],
+      "correct_answer": "tyā sinh thāvu",
+      "explanation": "Swamini Vato 2/993 instructs: 'ne sambandh thaī jāy to tyā sinh thāvu'.",
+      "source_reference": "Swa.Vato.2/993"
+    }
+  ]
+}

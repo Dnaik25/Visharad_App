@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 56 Quiz",
+  "questions": [
+    {
+      "id": "56-Q1",
+      "type": "fill_in_the_blank",
+      "question_text": "Jo indriyonī vṛuttione strīādiknā viṣhaymā pravartāve chhe to enu antaḥkaraṇ ______ thāy chhe ane ______ mārg thakī paḍī jāy chhe. (Vach.Ga.Pr.8)",
+      "options": [
+        "bhraṣhṭ, kalyāṇnā",
+        "prakaṭ, svadharma",
+        "baḷī, kām-krodhādik",
+        "akhaṇḍ, santnā"
+      ],
+      "correct_answer": "bhraṣhṭ, kalyāṇnā",
+      "explanation": "As stated in Vach.Ga.Pr.8, 'Jo indriyonī vṛuttione strīādiknā viṣhaymā pravartāve chhe to enu antaḥkaraṇ bhraṣhṭ thāy chhe ane kalyāṇnā mārg thakī paḍī jāy chhe.'",
+      "source_reference": "Vach.Ga.Pr.8"
+    },
+    {
+      "id": "56-Q2",
+      "type": "fill_in_the_blank",
+      "question_text": "Haribhaktane to jeṭlī kasar rahe chhe teṭlī potāne ______ karīne rahe chhe. (Vach.Ga.Pr.20)",
+      "options": [
+        "āḷase",
+        "kām-krodhādik",
+        "shraddhāvān",
+        "vivek"
+      ],
+      "correct_answer": "āḷase",
+      "explanation": "Vach.Ga.Pr.20 states, 'Haribhaktane to jeṭlī kasar rahe chhe teṭlī potāne āḷase karīne rahe chhe.'",
+      "source_reference": "Vach.Ga.Pr.20"
+    },
+    {
+      "id": "56-Q3",
+      "type": "multiple_choice",
+      "question_text": "According to Vach.Sā.18, when a shraddhāvān puruṣh obtains the company of a true sant and becomes faithful to their words, which of the following is an outcome?",
+      "options": [
+        "kām-krodhādik je vikār te baḷī jāy chhe.",
+        "kalyāṇnā mārg thakī paḍī jāy chhe.",
+        "potāne āḷase karīne kasar rahe chhe.",
+        "enu antaḥkaraṇ bhraṣhṭ thāy chhe."
+      ],
+      "correct_answer": "kām-krodhādik je vikār te baḷī jāy chhe.",
+      "explanation": "Vach.Sā.18 states, 'Je shraddhāvān puruṣh hoy ane tene jo sāchā santno sang maḷe ane te santnā vachanne viṣhe shraddhāvān thāy, to enā hṛudayne viṣhe svadharma, vairāgya, vivek, gnān, bhakti ādik je kalyāṇkārī guṇ te sarve prakaṭ thaī āve chhe ane kām-krodhādik je vikār te baḷī jāy chhe.'",
+      "source_reference": "Vach.Sā.18"
+    },
+    {
+      "id": "56-Q4",
+      "type": "fill_in_the_blank",
+      "question_text": "Je shraddhāvān puruṣh hoy ane tene jo sāchā santno sang maḷe ane te santnā vachanne viṣhe shraddhāvān thāy, to enā hṛudayne viṣhe svadharma, vairāgya, vivek, gnān, bhakti ādik je ______ te sarve prakaṭ thaī āve chhe. (Vach.Sā.18)",
+      "options": [
+        "kalyāṇkārī guṇ",
+        "kām-krodhādik vikār",
+        "indriyonī vṛuttio",
+        "kasar"
+      ],
+      "correct_answer": "kalyāṇkārī guṇ",
+      "explanation": "Vach.Sā.18 states, 'svadharma, vairāgya, vivek, gnān, bhakti ādik je kalyāṇkārī guṇ te sarve prakaṭ thaī āve chhe'.",
+      "source_reference": "Vach.Sā.18"
+    },
+    {
+      "id": "56-Q5",
+      "type": "multiple_choice",
+      "question_text": "What is the example (dṛuṣhṭānt) given in Swa.Vato.4/124 to explain the difference in association (sangno bhed)?",
+      "options": [
+        "lākaḍu ne pāṇo ekbījāne tāre ne buḍāḍe.",
+        "striyādiknā viṣhaymā pravartāve",
+        "svadharma, vairāgya, vivek",
+        "akhaṇḍ nivās karīne rahu chhu"
+      ],
+      "correct_answer": "lākaḍu ne pāṇo ekbījāne tāre ne buḍāḍe.",
+      "explanation": "Swa.Vato.4/124 states, 'Tyā dṛuṣhṭānt dīdhu je, lākaḍu ne pāṇo ekbījāne tāre ne buḍāḍe.'",
+      "source_reference": "Swa.Vato.4/124"
+    },
+    {
+      "id": "56-Q6",
+      "type": "fill_in_the_blank",
+      "question_text": "Swa.Vato.4/124 states that due to the difference in association (sangno bhed), one who is destined to become ekāntik in a hundred births becomes so ______; and one who is destined to become ekāntik in this birth, has to take ______ births.",
+      "options": [
+        "āj thāy, so janma",
+        "so janme, āj thāy",
+        "kalyāṇkārī guṇ, vikār",
+        "indriyonī vṛuttio, antaḥkaraṇ"
+      ],
+      "correct_answer": "āj thāy, so janma",
+      "explanation": "Swa.Vato.4/124 states, 'so janme ekāntik thavāno hoy te āj thāy ane ā janme ekāntik thavāno hoy tene paṇ so janma dharvā paḍe'.",
+      "source_reference": "Swa.Vato.4/124"
+    },
+    {
+      "id": "56-Q7",
+      "type": "multiple_choice",
+      "question_text": "According to Vach.Ga.Pr.68, in what does Maharaj reside eternally (akhaṇḍ nivās karīne rahu chhu)?",
+      "options": [
+        "Mārī aṣhṭ prakārnī je pratimā tathā je sant",
+        "indriyonī vṛuttione strīādiknā viṣhaymā",
+        "sāchā santno sang maḷe",
+        "Haribhaktane to jeṭlī kasar"
+      ],
+      "correct_answer": "Mārī aṣhṭ prakārnī je pratimā tathā je sant",
+      "explanation": "Vach.Ga.Pr.68 states, 'Mārī aṣhṭ prakārnī je pratimā tathā je sant tene viṣhe hu akhaṇḍ nivās karīne rahu chhu.'",
+      "source_reference": "Vach.Ga.Pr.68"
+    },
+    {
+      "id": "56-Q8",
+      "type": "fill_in_the_blank",
+      "question_text": "Mārī ______ prakārnī je pratimā tathā je sant tene viṣhe hu akhaṇḍ nivās karīne rahu chhu. (Vach.Ga.Pr.68)",
+      "options": [
+        "aṣhṭ",
+        "dvi",
+        "chār",
+        "pañch"
+      ],
+      "correct_answer": "aṣhṭ",
+      "explanation": "Vach.Ga.Pr.68 states, 'Mārī aṣhṭ prakārnī je pratimā tathā je sant tene viṣhe hu akhaṇḍ nivās karīne rahu chhu.'",
+      "source_reference": "Vach.Ga.Pr.68"
+    },
+    {
+      "id": "56-Q9",
+      "type": "multiple_choice",
+      "question_text": "According to Vach.Ga.Pr.8, what happens if one engages the senses' inclinations (indriyonī vṛuttione) in objects like women (strīādiknā viṣhaymā)?",
+      "options": [
+        "enu antaḥkaraṇ bhraṣhṭ thāy chhe ane kalyāṇnā mārg thakī paḍī jāy chhe.",
+        "svadharma, vairāgya, vivek, gnān, bhakti ādik je kalyāṇkārī guṇ te sarve prakaṭ thaī āve chhe.",
+        "potāne āḷase karīne kasar rahe chhe.",
+        "akhaṇḍ nivās karīne rahu chhu."
+      ],
+      "correct_answer": "enu antaḥkaraṇ bhraṣhṭ thāy chhe ane kalyāṇnā mārg thakī paḍī jāy chhe.",
+      "explanation": "Vach.Ga.Pr.8 states, 'Jo indriyonī vṛuttione strīādiknā viṣhaymā pravartāve chhe to enu antaḥkaraṇ bhraṣhṭ thāy chhe ane kalyāṇnā mārg thakī paḍī jāy chhe.'",
+      "source_reference": "Vach.Ga.Pr.8"
+    },
+    {
+      "id": "56-Q10",
+      "type": "multiple_choice",
+      "question_text": "According to Vach.Ga.Pr.20, what is the reason for the remaining shortcomings (kasar) in a Haribhakt?",
+      "options": [
+        "potāne āḷase karīne rahe chhe.",
+        "strīādiknā viṣhaymā pravartāve chhe.",
+        "kām-krodhādik je vikār te baḷī jāy chhe.",
+        "sangno bhed"
+      ],
+      "correct_answer": "potāne āḷase karīne rahe chhe.",
+      "explanation": "Vach.Ga.Pr.20 states, 'Haribhaktane to jeṭlī kasar rahe chhe teṭlī potāne āḷase karīne rahe chhe.'",
+      "source_reference": "Vach.Ga.Pr.20"
+    }
+  ]
+}

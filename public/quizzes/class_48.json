@@ -1,0 +1,103 @@
+{
+  "quiz_title": "Class 48 Quiz",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple_choice",
+      "question_text": "The statement \"Atithidevo bhava.\" is found in which reference?",
+      "options": [
+        "Taittiriya Upanishad - 1/11/2",
+        "Bhaktichintamani - 68/9",
+        "Class 48",
+        "Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe."
+      ],
+      "correct_answer": "Taittiriya Upanishad - 1/11/2",
+      "explanation": "As per Class 48, Taittiriya Upanishad - 1/11/2 states \"Atithidevo bhava.\"",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "Q2",
+      "type": "multiple_choice",
+      "question_text": "Complete the statement from Taittiriya Upanishad - 1/11/2: \"______ bhava.\"",
+      "options": [
+        "Atithidevo",
+        "Devo",
+        "Atithi",
+        "Bhava"
+      ],
+      "correct_answer": "Atithidevo",
+      "explanation": "Taittiriya Upanishad - 1/11/2 states \"Atithidevo bhava.\"",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "Q3",
+      "type": "multiple_choice",
+      "question_text": "Complete the statement from Bhaktichintamani - 68/9: \"Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne _______.\"",
+      "options": [
+        "jaṇāvvu",
+        "āvvu",
+        "badle",
+        "sarve"
+      ],
+      "correct_answer": "jaṇāvvu",
+      "explanation": "Bhaktichintamani - 68/9 states \"Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.\"",
+      "source_reference": "Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "Q4",
+      "type": "multiple_choice",
+      "question_text": "The statement \"Birud māru e na badle, te sarve janne jaṇāvvu.\" is found in which reference?",
+      "options": [
+        "Bhaktichintamani - 68/9",
+        "Taittiriya Upanishad - 1/11/2",
+        "Class 48",
+        "Atithidevo bhava."
+      ],
+      "correct_answer": "Bhaktichintamani - 68/9",
+      "explanation": "As per Class 48, Bhaktichintamani - 68/9 states \"Birud māru e na badle, te sarve janne jaṇāvvu.\"",
+      "source_reference": "Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "Q5",
+      "type": "multiple_choice",
+      "question_text": "Which of the following statements is from Bhaktichintamani - 68/9?",
+      "options": [
+        "Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.",
+        "Atithidevo bhava.",
+        "Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe.",
+        "Mārā janne jarūr māre āvvu."
+      ],
+      "correct_answer": "Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.",
+      "explanation": "Bhaktichintamani - 68/9 states \"Mārā janne antakāḷe, jarūr māre āvvu; Birud māru e na badle, te sarve janne jaṇāvvu.\"",
+      "source_reference": "Bhaktichintamani - 68/9"
+    },
+    {
+      "id": "Q6",
+      "type": "multiple_choice",
+      "question_text": "Which of the following statements is from Taittiriya Upanishad - 1/11/2?",
+      "options": [
+        "Atithidevo bhava.",
+        "Mārā janne antakāḷe, jarūr māre āvvu;",
+        "Birud māru e na badle,",
+        "Te sarve janne jaṇāvvu."
+      ],
+      "correct_answer": "Atithidevo bhava.",
+      "explanation": "Taittiriya Upanishad - 1/11/2 states \"Atithidevo bhava.\"",
+      "source_reference": "Taittiriya Upanishad - 1/11/2"
+    },
+    {
+      "id": "Q7",
+      "type": "multiple_choice",
+      "question_text": "The title for Class 48 is:",
+      "options": [
+        "Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe.",
+        "Atithidevo bhava.",
+        "Mārā janne antakāḷe, jarūr māre āvvu;",
+        "Birud māru e na badle, te sarve janne jaṇāvvu."
+      ],
+      "correct_answer": "Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe.",
+      "explanation": "As stated in the provided context, the title for Class 48 is \"Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe.\"",
+      "source_reference": "Title: Antakale dhamma lai javanu Swaminarayan Bhagwannu vardan chhe."
+    }
+  ]
+}

@@ -138,7 +138,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //class24
     "Vach.Ga.An.24": "class 24/V GA24.m4a",
     "Vach.Ka.12": "class 24/V K12.m4a",
-    //"Swa.Vato.1/1": "class 24/SV 1.1.m4a",
+    "Swa.Vato.1/1": "class 24/SV 1.1.m4a",
 
     //class25
     "Vach.Ga.Ma.13 (Class 25)": "class 25/V GM13.m4a",
@@ -170,10 +170,10 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Ma.3 (Class 28)": "class 28/V GM3.m4a",
     "Muktanand Swami (Class 28)": "class 28/kirtan_muktanand_swami_bhagwan_ne_bhajya.m4a",
     "Vach.Ga.Pa.27": "class 28/V GP27.m4a",
-    //"Premanand Swāmī- Oradānā Pad": "class 28/kirtan_premanand_swami_oradana_pad.m4a",
+    "Premanand Swāmī- Oradānā Pad": "class 28/kirtan_premanand_swami_oradana_pad.m4a",
     "Vach.Ga.Ma.9": "class 28/V GM9.m4a",
-    //"Vach.Ga.Ma.13": "class 28/V GM13.m4a",
-    //"Bhaktinidhi - 15/8": "class 28/Bhaktinidhi_15_8.m4a",
+    "Vach.Ga.Ma.13 (Class 28)": "class 28/V GM13.m4a",
+    "Bhaktinidhi - 15/8": "class 28/Bhaktinidhi_15_8.m4a",
 
     //class29
     "Vach.Sā.10": "class 29/V SA10.m4a",
@@ -184,7 +184,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Pa.27 (Class 29)": "class 29/V GP27_Class29.m4a",
     "Vach.Ga.Pa.37": "class 29/V GP37.m4a",
     "Bhaktichintamani - 164/6": "class 29/V BC164_6.m4a",
-    "Purushottam Prakash - 41/9": "class 29/V PP41_9.m4a",
+    "Purushottam Prakash - 41/9 (Class 29)": "class 29/PurushottamPrakash_41_9_Class_29.m4a",
     "Nishkuḷānand Swami": "class 29/V Nishkulanand_Swami_Kirtan.m4a",
     "Vach.Va.11 (Class 29)": "class 29/V Var11_Class_29.m4a",
     "Vach.Ga.An.2 (Class 29)": "class 29/V GA2_Class_29.m4a",
@@ -192,7 +192,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
 
     //class 30
     "Swa. Vato: 1/153": "class 30/SV 1.153.m4a",
-    //"Mahavakya": "class30/Mahavakya1.m4a",
+    "Mahavakya": "class30/Mahavakya1.m4a",
 
     //class 31
     "Vach.Ga.Ma.3 (Class 31)": "class 31/V GM3_Class_31.m4a",
@@ -204,7 +204,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Ma.28 (Class 32)": "class 32/V GM28_Class_32.m4a",
     "Vach.Ga.Ma.59 (Class 32)": "class 32/V GM59_Class_32.m4a",
     "Vach.Ga.Ma.41 (Class 32)": "class 32/V GM41_Class_32.m4a",
-    //"Muktanand Swami": "class 32/kirtan_muktanand_swami_dindayal_prabhu.m4a",
+    "Muktanand Swami": "class 32/kirtan_muktanand_swami_dindayal_prabhu.m4a",
 
     //class 33
     "Swa. Vato: 3/32": "class 33/SV 3.32.m4a",
@@ -217,19 +217,19 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Vach.Ga.Pr.24 (Class 33)": "class 33/V GP24_Class_33.m4a",
     "Swa. Vato: 1/294": "class 33/SV 1.294.m4a",
     "Swa. Vato: 1/163": "class 33/SV 1.163.m4a",
-    //"Chosath Padi - 27": "class 33/Chosath_padi_27.m4a",
+    "Chosath Padi - 27": "class 33/Chosath_padi_27.m4a",
 
     //class 34
     "Vach.Ga.Ma.52": "class 34/V GM52.m4a",
     "Vach.Ga.Ma.11": "class 34/V GM11.m4a",
     "Vach.Ga.Ma.28 (Class 34)": "class 34/V GM28_Class_34.m4a",
     "Vach.Ga.Ma.41 (Class 34)": "class 34/V GM41_Class_34.m4a",
-    //"Nishkuḷānand Swami": "class 34/kirtan_nishkulanand_swami_kariye_raji_ghanshyam.m4a",
+    "Nishkuḷānand Swami (Class 34)": "class 34/kirtan_nishkulanand_swami_kariye_raji_ghanshyam.m4a",
     "Swa. Vato: 3/36": "class 34/SV 3.36.m4a",
     "Swa. Vato: 4/85": "class 34/SV 4.85.m4a",
     "Vach.Pa.7": "class 34/V P7.m4a",
     //"Swa. Vato: 5/66": "class 34/SV 5.66.m4a",
-    "Premanand Swami": "class 34/kirtan_premanand_swami_mari_murati.m4a",
+    "Premanand Swami (Class 34)": "class 34/kirtan_premanand_swami_mari_murati.m4a",
     "Vach.Sā.9 (Class 34)": "class 34/V S9_Class_34.m4a",
     //"Swa. Vato: 1/126": "class 34/SV 1.126.m4a",
 
@@ -251,7 +251,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //"Swa. Vato: 1/177": "class 36/SV 1.177.m4a",
     "Swa. Vato: 1/1": "class 36/SV 1.1.m4a",
     "Swa. Vato: 4/136": "class 36/SV 4.136.m4a",
-    //"Swa. Vato: 3/9": "class 36/SV 3.9.m4a",
+    "Swa. Vato: 3/17": "class 36/SV 3.17.m4a",
     "Haricharitramrutsagar_1": "class 36/Haricharitramrutsagar_1.m4a",
     "Haricharitramrutsagar_2": "class 36/Haricharitramrutsagar_2.m4a",
     "Vach.Ga.Ma.63": "class 36/V GM63.m4a",
@@ -277,7 +277,7 @@ export const AUDIO_MAPPING: Record<string, string> = {
     "Swa. Vato: 4/9": "class 38/SV 4.9.m4a",
     //"Swa. Vato: 2/176": "class 38/SV 2.176.m4a",
     //"Swa. Vato: 4/24": "class 38/SV 4.24.m4a",
-    //"Nishkuḷānand Swami": "class 38/kirtan_nishkulanand_swami_anand_urma.m4a",
+    "Nishkuḷānand Swami (Class 38)": "class 38/kirtan_nishkulanand_swami_anand_urma.m4a",
 
     //class 39
     "Vach.Ga.Ma.31": "class 39/V GM31.m4a",
@@ -291,16 +291,25 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //class 40
     "Vach.Ga.An.13 (Class 40)": "class 40/V GA13_Class_40.m4a",
     "Vach.Ga.Pr.74": "class 40/V GP74.m4a",
-    "Vach.Ga.Pr.20": "class 40/V GP20.m4a",
+    "Vach.Ga.Pr.20 (Class 40)": "class 40/V GP20_Class_40.m4a",
     "Swa. Vato: 1/148": "class 40/SV 1.148.m4a",
     "Bhaktichintamani - Ch. 64": "class 40/Bhaktichintamani_64.m4a",
-    "Vach.Ga.An.38 (Class 40)": "class 40/V GA38_Class_40.m4a",
+    //"Vach.Ga.An.38 (Class 40)": "class 40/V GA38_Class_40.m4a",
     "Swa. Vato: 2/30": "class 40/SV 2.30.m4a",
-    "Swa. Vato: 2/147": "class 40/SV 2.147.m4a",
-    "Swa. Vato: 1/272": "class 40/SV 1.272.m4a",
-    "Vach.Ga.Ma.13": "class 40/V GM13.m4a",
-    "Vach.Ga.Ma.50": "class 40/V GM50.m4a",
+    "Vach.Ga.Ma.13 (Class 40)": "class 40/V GM13_Class_40.m4a",
+    "Vach.Ga.Ma.50 (Class 40)": "class 40/V GM50_Class_40.m4a",
     "Haribalgita - 7/4": "class 40/Haribalgita_7_4.m4a",
+
+    //Class 41
+    "Swa. Vato: 4/119": "class 41/SV 4.119.m4a",
+    "Swa. Vato: 2/57 (Class 41)": "class 41/SV 2.57_Class_41.m4a",
+    "Purushottam Bolya Prite (Class 41)": "class 41/PBP_Class_41.m4a",
+    "Vach.Va.1": "class 41/V Var1.m4a",
+    "Vachanvidhi - 4/5,7": "class 41/Vachanvidhi_4_5_7.m4a",
+    "Sar-Siddhi - 28/9": "class 41/Sar_siddhi_28_9.m4a",
+    "Swa. Vato: 6/156": "class 41/SV 6.156.m4a",
+    "Vachanvidhi - 42/2": "class 41/Vachanvidhi_42_2.m4a",
+    "Bhaktichintamani - 76/39-41": "class 41/Bhaktichintamani_76_39_41.m4a",
 
     //Class 43
     "Vach.Sā.2": "class 43/V S2.m4a",
@@ -383,51 +392,50 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //class 62
 
     //class 63
-    "Premanand Swami (Class 63)": "Class 63/Premanand_Swami_Class_63.m4a",
-    "Paṇ jiyā lagī prāṇ raheshe, jībhā svāmī sahajānand kaheshe; (Class 63)": "Class 63/Paṇ_jiyā_lagī_prāṇ_raheshe_jībhā_svāmī_sahajānand_kaheshe_Class_63.m4a",
-    "Vach.Ga.Ma.11 (Class 63)": "Class 63/V GM11_Class_63.m4a",
-    "Vach.Ka.3 (Class 63)": "Class 63/V Ka3_Class_63.m4a",
-    "Purushottam Bolya Prite (Class 63)": "Class 63/PBP_Class_63.m4a",
-    "Brahmanand Swami (Class 63)": "Class 63/Brahmanand_Swami_Class_63.m4a",
+    "Premanand Swami (Class 63)": "class 63/Premanand_Swami_Class_63.m4a",
+    "Paṇ jiyā lagī prāṇ raheshe, jībhā svāmī sahajānand kaheshe; (Class 63)": "class 63/Paṇ_jiyā_lagī_prāṇ_raheshe_jībhā_svāmī_sahajānand_kaheshe_Class_63.m4a",
+    "Vach.Ga.Ma.11 (Class 63)": "class 63/V GM11_Class_63.m4a",
+    "Vach.Ka.3 (Class 63)": "class 63/V Ka3_Class_63.m4a",
+    "Purushottam Bolya Prite (Class 63)": "class 63/PBP_Class_63.m4a",
+    "Brahmanand Swami (Class 63)": "class 63/Brahmanand_Swami_Class_63.m4a",
 
     //class 64
 
     //class 65
-    "Bhaktichintamani - 68/9 (Class 65)": "Class 65/Bhaktichintamani_68_9_Class_65.m4a",
-    "Brahmanand Swami (Class 65)": "Class 65/Brahmanand_Swami_Class_65.m4a",
+    "Bhaktichintamani - 68/9 (Class 65)": "class 65/Bhaktichintamani_68_9_Class_65.m4a",
+    "Brahmanand Swami (Class 65)": "class 65/Brahmanand_Swami_Class_65.m4a",
 
     //class 66
-    "1. Om Shri Swāminārāyaṇāya Namah (Class 66)": "Class 66/Om_Sri_Swaminarayanaya_Namah_Class_66.m4a",
-    "Vach.Ga.Pr.72 (Class 66)": "Class 66/V GP72_Class_66.m4a",
-    "Swa.Vato.5/250 (Class 66)": "Class 66/SV 5.250_Class_66.m4a",
+    "1. Om Shri Swāminārāyaṇāya Namah (Class 66)": "class 66/Om_Sri_Swaminarayanaya_Namah_Class_66.m4a",
+    "Vach.Ga.Pr.72 (Class 66)": "class 66/V GP72_Class_66.m4a",
+    "Swa.Vato.5/250 (Class 66)": "class 66/SV 5.250_Class_66.m4a",
 
     //class 67 
-    "Vach.Ga.Ma.47 (Class 67)": "Class 67/V GM47_Class_67.m4a",
-    "Vach.Ga.An.38 (Class 67)": "Class 67/V GA38_Class_67.m4a",
-    "Swa.vato.2/993 (Class 67)": "Class 67/SV 2.993_Class_67.m4a",
+    "Vach.Ga.Ma.47 (Class 67)": "class 67/V GM47_Class_67.m4a",
+    "Vach.Ga.An.38 (Class 67)": "class 67/V GA38_Class_67.m4a",
+    "Swa.vato.2/993 (Class 67)": "class 67/SV 2.993_Class_67.m4a",
     
     //class 68
     
     //class 69
-    "Muktanand Swami (Class 69)": "Class 69/Muktanand_Swami_Class_69.m4a",
-    "Premanand Swami (Class 69)": "Class 69/Premanand_Swami_Class_69.m4a",
-    "Premanand Swami (Class 69) - 1": "Class 69/Premanand_Swami_Class_69_1.m4a",
-    "Bhaktichintamani.76/39-41 (Class 69)": "Class 69/Bhaktichintamani_76_39_41_Class_69.m4a",
-    "Vach.Ga.An.2 (Class 69)": "Class 69/V GA2_Class_69.m4a",
+    "Muktanand Swami (Class 69)": "class 69/Muktanand_Swami_Class_69.m4a",
+    "Premanand Swami (Class 69)": "class 69/Premanand_Swami_Class_69.m4a",
+    "Premanand Swami (Class 69) - 1": "class 69/Premanand_Swami_Class_69_1.m4a",
+    "Bhaktichintamani.76/39-41 (Class 69)": "class 69/Bhaktichintamani_76_39_41_Class_69.m4a",
+    "Vach.Ga.An.2 (Class 69)": "class 69/V GA2_Class_69.m4a",
 
     //class 70
-    "Vach.Ga.Ma.3 (Class 70)": "Class 70/V GM3_Class_70.m4a",
-    "Vach.Ka.5 (Class 70)": "Class 70/V Ka5_Class_70.m4a",
-    "Nishkulanand Swami (Class 70)": "Class 70/Nishkulanand_Swami_Class_70.m4a",
+    "Vach.Ga.Ma.3 (Class 70)": "class 70/V GM3_Class_70.m4a",
+    "Vach.Ka.5 (Class 70)": "class 70/V Ka5_Class_70.m4a",
+    "Nishkulanand Swami (Class 70)": "class 70/Nishkulanand_Swami_Class_70.m4a",
     
     //class 71
-    "Swa.Vato.1/72 (Class 71)": "Class 71/SV 1.72_Class_71.m4a",
+    "Swa.Vato.1/72 (Class 71)": "class 71/SV 1.72_Class_71.m4a",
 
     //class 72
-    "Vach.Ga.Ma.63 (Class 72)": "Class 72/V GM63_Class_72.m4a",
-    "Purushottam Bolya Prite (Class 72)": "Class 72/PBP_Class_72.m4a",
+    "Vach.Ga.Ma.63 (Class 72)": "class 72/V GM63_Class_72.m4a",
+    "Purushottam Bolya Prite (Class 72)": "class 72/PBP_Class_72.m4a",
 
     //class 73
     "Vach.Ga.Pr.70 (Class 73)": "Class 73/V GP70_Class_73.m4a",
-
 };

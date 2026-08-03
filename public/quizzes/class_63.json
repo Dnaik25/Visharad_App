@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 63 Quiz",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "mcq",
+      "question_text": "Premānand Swami kahe chhe ke hamāre man dūsro na bhāve?",
+      "options": [
+        "sahajānand",
+        "svāminārāyaṇ",
+        "bhagwān",
+        "harikṛiṣhṇa"
+      ],
+      "correct_answer": "svāminārāyaṇ",
+      "explanation": "The Kirtan by Premanand Swami states: \"Hamāre man svāminārāyaṇ dūsro na bhāve...\"",
+      "source_reference": "Kirtan (Premanand Swami)"
+    },
+    {
+      "id": "Q2",
+      "type": "mcq",
+      "question_text": "Aṇimādik aṣhṭ siddhi muktikun na chā've, Sabko phal _______ charan chitta lāve.",
+      "options": [
+        "Harikrishna",
+        "Sahajanand",
+        "Swaminarayan",
+        "Pragji Bhakta"
+      ],
+      "correct_answer": "Sahajanand",
+      "explanation": "The Kirtan by Premanand Swami states: \"Aṇimādik aṣhṭ siddhi muktikun na chā've, Sabko phal sahajānand charan chitta lāve...\"",
+      "source_reference": "Kirtan (Premanand Swami)"
+    },
+    {
+      "id": "Q3",
+      "type": "mcq",
+      "question_text": "Jiyā lagī prāṇ raheshe, jībhā ______ kaheshe. (Shloka 48)",
+      "options": [
+        "Bhagwān Swaminarayan",
+        "Swami Sahajanand",
+        "Svāmī Sahajānand",
+        "Narayanan"
+      ],
+      "correct_answer": "Svāmī Sahajānand",
+      "explanation": "The Kirtan (Shloka 48) states: \"Paṇ jiyā lagī prāṇ raheshe, jībhā svāmī sahajānand kaheshe;\"",
+      "source_reference": "Kirtan (Paṇ jiyā lagī prāṇ raheshe...) Shloka 48"
+    },
+    {
+      "id": "Q4",
+      "type": "mcq",
+      "question_text": "Kān nahi suṇe bījo uchchār, netra nahi juve ______. (Shloka 49)",
+      "options": [
+        "bhagwānnā darshan",
+        "bījo ākār",
+        "anyano akār",
+        "sundar chitra"
+      ],
+      "correct_answer": "bījo ākār",
+      "explanation": "The Kirtan (Shloka 49) states: \"Kān nahi suṇe bījo uchchār, netra nahi juve bījo ākār;\"",
+      "source_reference": "Kirtan (Paṇ jiyā lagī prāṇ raheshe...) Shloka 49"
+    },
+    {
+      "id": "Q5",
+      "type": "mcq",
+      "question_text": "Shloka 50 pramāṇe, buddhi nahi kare nishche _______ vinya.",
+      "options": [
+        "Guruji",
+        "sant",
+        "Hari",
+        "svami"
+      ],
+      "correct_answer": "Hari",
+      "explanation": "The Kirtan (Shloka 50) states: \"buddhi nahi kare nishche hari vinya;\"",
+      "source_reference": "Kirtan (Paṇ jiyā lagī prāṇ raheshe...) Shloka 50"
+    },
+    {
+      "id": "Q6",
+      "type": "mcq",
+      "question_text": "Bhagwānnī prasannatāne arthe karvāmā āvel shubh karma bhaktirūp thaīne kevaḷ _______ arthe thāy chhe.",
+      "options": [
+        "swarglok",
+        "mokshane",
+        "dharma",
+        "artha"
+      ],
+      "correct_answer": "mokshane",
+      "explanation": "Vachanamrut Ga.Ma.11 states: \"...e ja shubh karma chhe te bhaktirūp thaīne kevaḷ mokshane arthe thāy chhe.\"",
+      "source_reference": "Vachanamrut Ga.Ma.11"
+    },
+    {
+      "id": "Q7",
+      "type": "mcq",
+      "question_text": "Sharīrnu daman ne ______ e be vānā gṛuhasth satsangīne paṇ jarūr rākhyā joie, tyāre tyāgīne to jarūr rākhyā ja joie.",
+      "options": [
+        "vichār",
+        "tapas",
+        "dhyān",
+        "bhakti"
+      ],
+      "correct_answer": "vichār",
+      "explanation": "Vachanamrut Ka.3 states: \"Sharīrnu daman ne vichār e be vānā to gṛuhasth satsangīne paṇ jarūr rākhyā joie, tyāre tyāgīne to jarūr rākhyā ja joie.\"",
+      "source_reference": "Vachanamrut Ka.3"
+    },
+    {
+      "id": "Q8",
+      "type": "mcq",
+      "question_text": "Koṭi yagna jeṭlu ek _______ vratnu faḷ kahyu chhe.",
+      "options": [
+        "janmāṣhṭamī",
+        "rām navamī",
+        "ekādashīnā",
+        "chaturmas"
+      ],
+      "correct_answer": "ekādashīnā",
+      "explanation": "Purushottam Bolya Prite states: \"Koṭi yagna jeṭlu ek ekādashīnā vratnu faḷ kahyu chhe.\"",
+      "source_reference": "Purushottam Bolya Prite"
+    },
+    {
+      "id": "Q9",
+      "type": "mcq",
+      "question_text": "Bhagwāne kahyu chhe ke ekādashīne divase ajāṇtā paṇ anna khāy chhe te ______ bāṇ māre chhe.",
+      "options": [
+        "guru ne",
+        "santa ne",
+        "mane chhātīmā",
+        "manushya ne"
+      ],
+      "correct_answer": "mane chhātīmā",
+      "explanation": "Purushottam Bolya Prite states: \"Vaḷī, bhagwāne kahyu chhe ke ekādashīne divase ajāṇtā paṇ anna khāy chhe te mane chhātīmā bāṇ māre chhe.\"",
+      "source_reference": "Purushottam Bolya Prite"
+    },
+    {
+      "id": "Q10",
+      "type": "mcq",
+      "question_text": "Brahmānand Swami kahe chhe ke ______ maḷyāno upāy chhe. (Koḍe 3)",
+      "options": [
+        "Avināshī",
+        "Mukti",
+        "Swarga",
+        "Sarva sukh"
+      ],
+      "correct_answer": "Avināshī",
+      "explanation": "Brahmanand Swami Kirtan (Koḍe 3) states: \"Avināshī maḷyāno upāy chhe re...\"",
+      "source_reference": "Kirtan (Brahmanand Swami) Koḍe 3"
+    }
+  ]
+}

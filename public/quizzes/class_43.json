@@ -1,0 +1,61 @@
+{
+  "quiz_title": "Class 43 Vachanamrut Quiz",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "multiple_choice",
+      "question_text": "Vach.Sā.2 pramāṇe, 'Vachane karīne to jīvprāṇīmātrane _______ nahī.'",
+      "options": [
+        "jovā",
+        "samajavvā",
+        "dukhavvā",
+        "kāryamāṃ lesavā"
+      ],
+      "correct_answer": "dukhavvā",
+      "explanation": "The Vachanamrut states, 'Vachane karīne to jīvprāṇīmātrane dukhavvā nahī,' meaning 'one should not distress all living beings with words.'",
+      "source_reference": "Vach.Sā.2"
+    },
+    {
+      "id": "Q2",
+      "type": "multiple_choice",
+      "question_text": "Vachane karīne koṇane dukhavvā nahī?",
+      "options": [
+        "Bhaktone",
+        "Jīvprāṇīmātrane",
+        "Paryāvaranane",
+        "Sādhukoone"
+      ],
+      "correct_answer": "Jīvprāṇīmātrane",
+      "explanation": "As per Vach.Sā.2, the instruction is 'Vachane karīne to jīvprāṇīmātrane dukhavvā nahī,' referring to 'all living beings'.",
+      "source_reference": "Vach.Sā.2"
+    },
+    {
+      "id": "Q3",
+      "type": "multiple_choice",
+      "question_text": "Vach.Sā.2 pramāṇe, vachane karīne jīvprāṇīmātrane shuṃ nahī karavuṃ?",
+      "options": [
+        "Samajavā",
+        "Upadesha āpavā",
+        "Dukhavvā",
+        "Prem karavā"
+      ],
+      "correct_answer": "Dukhavvā",
+      "explanation": "The Vachanamrut clearly states, 'Vachane karīne to jīvprāṇīmātrane dukhavvā nahī,' meaning one should not 'distress' with words.",
+      "source_reference": "Vach.Sā.2"
+    },
+    {
+      "id": "Q4",
+      "type": "multiple_choice",
+      "question_text": "Kayā Vachanamrutmā એમ kahevāmāṃ āvyuṃ che ke 'Vachane karīne to jīvprāṇīmātrane dukhavvā nahī'?",
+      "options": [
+        "Vach.Sā.1",
+        "Vach.Sā.2",
+        "Vach.G.P.1",
+        "Vach.G.M.1"
+      ],
+      "correct_answer": "Vach.Sā.2",
+      "explanation": "The statement 'Vachane karīne to jīvprāṇīmātrane dukhavvā nahī' is found in Vach.Sā.2.",
+      "source_reference": "Vach.Sā.2"
+    }
+  ]
+}

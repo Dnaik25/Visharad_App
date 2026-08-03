@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Vachanamrut Vach.Ga.Pr.70 Quiz",
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, Mahārāje Rāmānand Swāmī pāse var māgyo ke, 'Tamārā satsangī hoy tene ek vīchhīnu dukh thavānu hoy to te mane ek ek rūvāḍe __________ paṇ tamārā satsangīne te thāo nahī.'",
+      "options": [
+        "ek vīchhīnu dukh thāo",
+        "koṭi koṭi vīchhīnu dukh thāo",
+        "thodakaj dukh thāo",
+        "ghanu dukh thāo"
+      ],
+      "correct_answer": "koṭi koṭi vīchhīnu dukh thāo",
+      "explanation": "Ā vākya Vach.Ga.Pr.70 mā \"mane ek ek rūvāḍe koṭi koṭi vīchhīnu dukh thāo\" em ja āpelu chhe.",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, Mahārāje Rāmānand Swāmī pāse var māgyo ke, 'Tamārā satsangīne prārabdhamā __________ lakhyu hoy te __________ mane āve paṇ tamārā satsangī annavastre karīne dukhī na thāy.'",
+      "options": [
+        "rāmpattar, rāmpattar",
+        "sukh, sukh",
+        "dukh, dukh",
+        "sampatti, sampatti"
+      ],
+      "correct_answer": "rāmpattar, rāmpattar",
+      "explanation": "Ā vākya Vach.Ga.Pr.70 mā \"Tamārā satsangīne prārabdhamā rāmpattar lakhyu hoy te rāmpattar mane āve\" em ja āpelu chhe.",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, Mahārāje māgelā var koṇe āpyā?",
+      "options": [
+        "Muktānand Swāmīe",
+        "Gopālānand Swāmīe",
+        "Rāmānand Swāmīe",
+        "Guṇātītānand Swāmīe"
+      ],
+      "correct_answer": "Rāmānand Swāmīe",
+      "explanation": "Vach.Ga.Pr.70 pramāṇe, \"mane Rāmānand Swāmīe rājī thaīne e var āpyo chhe.\"",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, Mahārāje var māgyo tyāre Rāmānand Swāmīe kevo bhāv dharāvyā?",
+      "options": [
+        "Khījāīne",
+        "Udās thaīne",
+        "Rājī thaīne",
+        "Vichār karīne"
+      ],
+      "correct_answer": "Rājī thaīne",
+      "explanation": "Vach.Ga.Pr.70 pramāṇe, \"tyāre mane Rāmānand Swāmīe rājī thaīne e var āpyo chhe.\"",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, Mahārāje Rāmānand Swāmī pāse var māgyo ke, 'Tamārā satsangī hoy tene ek vīchhīnu dukh thavānu hoy to te mane ek ek rūvāḍe koṭi koṭi vīchhīnu dukh thāo paṇ __________.'",
+      "options": [
+        "tamārā satsangīne te thāo nahī",
+        "tamārā satsangīne te pan thāo",
+        "māra satsangīne te thāo nahī",
+        "bījā satsangīne te thāo nahī"
+      ],
+      "correct_answer": "tamārā satsangīne te thāo nahī",
+      "explanation": "Ā vākya Vach.Ga.Pr.70 mā \"paṇ tamārā satsangīne te thāo nahī\" em ja āpelu chhe.",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, Mahārāje Rāmānand Swāmī pāse var māgyo ke, 'Tamārā satsangīne prārabdhamā rāmpattar lakhyu hoy te rāmpattar mane āve paṇ __________.'",
+      "options": [
+        "tamārā satsangī dhanī na thāy",
+        "tamārā satsangī nirdhan na thāy",
+        "tamārā satsangī annavastre karīne dukhī na thāy",
+        "tamārā satsangī sukhi na thāy"
+      ],
+      "correct_answer": "tamārā satsangī annavastre karīne dukhī na thāy",
+      "explanation": "Ā vākya Vach.Ga.Pr.70 mā \"paṇ tamārā satsangī annavastre karīne dukhī na thāy\" em ja āpelu chhe.",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, Mahārāje Rāmānand Swāmī pāse keṭlā var māgyā?",
+      "options": [
+        "Ek",
+        "Be",
+        "Traṇ",
+        "Chār"
+      ],
+      "correct_answer": "Be",
+      "explanation": "Vach.Ga.Pr.70 pramāṇe, \"e be var mane āpo.' Em me Rāmānand Swāmī pāse māgyu.\"",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, 'Ame Rāmānand Swāmī pāse māgī līdhu chhe' - Ahī var koṇnā satsangī māṭe māgyā?",
+      "options": [
+        "Swaminarayan Bhagwan'nā",
+        "Rāmānand Swāmī'nā",
+        "Muktānand Swāmī'nā",
+        "Brahmanand Swāmī'nā"
+      ],
+      "correct_answer": "Rāmānand Swāmī'nā",
+      "explanation": "Vach.Ga.Pr.70 pramāṇe, Mahārāje 'Tamārā satsangī hoy tene...' em kahīne Rāmānand Swāmīnā satsangī māṭe var māgyā chhe.",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, 'Tamārā satsangī hoy tene ek __________ dukh thavānu hoy to te mane ek ek rūvāḍe koṭi koṭi __________ dukh thāo paṇ tamārā satsangīne te thāo nahī.'",
+      "options": [
+        "sarpnu, sarpnu",
+        "vīchhīnu, vīchhīnu",
+        "vāghnu, vāghnu",
+        "sihnnu, sihnnu"
+      ],
+      "correct_answer": "vīchhīnu, vīchhīnu",
+      "explanation": "Ā vākya Vach.Ga.Pr.70 mā \"ek vīchhīnu dukh thavānu hoy\" em ja āpelu chhe.",
+      "source_reference": "Vach.Ga.Pr.70"
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "question_text": "Vach.Ga.Pr.70 pramāṇe, Mahārāje Rāmānand Swāmī pāse var māgyo ke, 'Tamārā satsangī hoy tene ek vīchhīnu dukh thavānu hoy to te mane __________ koṭi koṭi vīchhīnu dukh thāo paṇ tamārā satsangīne te thāo nahī.'",
+      "options": [
+        "ek ek angmā",
+        "ek ek rūvāḍe",
+        "ek ek haḍkāmā",
+        "samasta dehmā"
+      ],
+      "correct_answer": "ek ek rūvāḍe",
+      "explanation": "Ā vākya Vach.Ga.Pr.70 mā \"mane ek ek rūvāḍe koṭi koṭi vīchhīnu dukh thāo\" em ja āpelu chhe.",
+      "source_reference": "Vach.Ga.Pr.70"
+    }
+  ]
+}

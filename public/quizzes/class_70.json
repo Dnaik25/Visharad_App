@@ -1,0 +1,145 @@
+{
+  "quiz_title": "Class 70 Quiz",
+  "questions": [
+    {
+      "id": "Q001",
+      "type": "multiple_choice",
+      "question_text": "Vachanamrut Ga.Ma.3 pramāṇe, puruṣhottam nārāyaṇ brahma thakī nokhā chhe ane e brahmanā shu chhe?",
+      "options": [
+        "kāraṇ, ādhār, ne prerak",
+        "swāmī ane sevak",
+        "bhakta ane bhagwān",
+        "manorath pūrā karnār"
+      ],
+      "correct_answer": "kāraṇ, ādhār, ne prerak",
+      "explanation": "Vachanamrut Ga.Ma.3 mā lakhyu chhe ke 'Brahma thakī parabrahma je puruṣhottam nārāyaṇ te nokhā chhe ne e brahmanā paṇ kāraṇ chhe ne ādhār chhe ne prerak chhe'.",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "Q002",
+      "type": "multiple_choice",
+      "question_text": "Vachanamrut Ga.Ma.3 pramāṇe, potānā jīvātmāne e brahma sangāthe ekatā karīne parabrahmanī kevi upāsanā karvī?",
+      "options": [
+        "svāmī-sevakbhāve",
+        "premrūpe",
+        "māt-tāt samet",
+        "manorath pūrā karvā"
+      ],
+      "correct_answer": "svāmī-sevakbhāve",
+      "explanation": "Vachanamrut Ga.Ma.3 mā jaṇāvyu chhe ke 'potānā jīvātmāne e brahma sangāthe ekatā karīne parabrahmanī svāmī-sevakbhāve upāsanā karvī'.",
+      "source_reference": "Vach.Ga.Ma.3"
+    },
+    {
+      "id": "Q003",
+      "type": "fill_in_the_blank",
+      "question_text": "Potānā je premī bhakta tenā manorath pūrā karvā e ja bhagwānne avatār dharyānu _________ chhe.",
+      "options": [
+        "prayojan",
+        "kāraṇ",
+        "ādhār",
+        "sambhāḷ"
+      ],
+      "correct_answer": "prayojan",
+      "explanation": "Vachanamrut Ka.5 mā spaṣhṭa chhe ke 'Potānā je premī bhakta tenā manorath pūrā karvā e ja bhagwānne avatār dharyānu prayojan chhe'.",
+      "source_reference": "Vach.Ka.5"
+    },
+    {
+      "id": "Q004",
+      "type": "multiple_choice",
+      "question_text": "Vachanamrut Ka.5 pramāṇe, bhagwānne avatār dharyānu prayojan shu chhe?",
+      "options": [
+        "Potānā je premī bhakta tenā manorath pūrā karvā",
+        "Brahma sangāthe ekatā karvā",
+        "svāmī-sevakbhāve upāsanā karvā",
+        "garbhvāsabī trās ṭāḷvā"
+      ],
+      "correct_answer": "Potānā je premī bhakta tenā manorath pūrā karvā",
+      "explanation": "Vachanamrut Ka.5 mā kahelu chhe: 'Potānā je premī bhakta tenā manorath pūrā karvā e ja bhagwānne avatār dharyānu prayojan chhe'.",
+      "source_reference": "Vach.Ka.5"
+    },
+    {
+      "id": "Q005",
+      "type": "multiple_choice",
+      "question_text": "Niṣhkuḷānand Swāmī anusār, harie jevu het karyu chhe, tevu bīju koṇ kare āpaṇe re?",
+      "options": [
+        "koṇ nahi kare",
+        "māt tāt",
+        "sagā samet",
+        "sanehī bhoḷāpaṇe"
+      ],
+      "correct_answer": "koṇ nahi kare",
+      "explanation": "Kirtan Stanza 1 mā Niṣhkuḷānand Swāmī puchhe chhe: 'Je je harie karyu het, evu kare koṇ āpaṇe re; Māt tāt sagā samet, mānyā sanehī bhoḷāpaṇe re...' je darshāve chhe ke Hari jevu het bīju koṇ nahi kare.",
+      "source_reference": "Kirtan, Nishkulanand Swami, Stanza 1"
+    },
+    {
+      "id": "Q006",
+      "type": "fill_in_the_blank",
+      "question_text": "Jone garbhvāsabī trās, ṭaḷī ṭaḷe kem koynī re; Te paṇ ṭāḷīne __________, rākhe khabar anna toynī re...",
+      "options": [
+        "avināsh",
+        "māt tāt",
+        "sagā samet",
+        "sanehī"
+      ],
+      "correct_answer": "avināsh",
+      "explanation": "Kirtan Stanza 2 pramāṇe: 'Te paṇ ṭāḷīne avināsh, rākhe khabar anna toynī re...'",
+      "source_reference": "Kirtan, Nishkulanand Swami, Stanza 2"
+    },
+    {
+      "id": "Q007",
+      "type": "multiple_choice",
+      "question_text": "Niṣhkuḷānand Swāmī anusār, garbhvāsabī trās koṇ ṭāḷe chhe ane anna toynī khabar koṇ rākhe chhe?",
+      "options": [
+        "Avināsh",
+        "Māt",
+        "Tāt",
+        "Sagā"
+      ],
+      "correct_answer": "Avināsh",
+      "explanation": "Kirtan Stanza 2 mā Niṣhkuḷānand Swāmī kahelu chhe: 'Te paṇ ṭāḷīne avināsh, rākhe khabar anna toynī re...'",
+      "source_reference": "Kirtan, Nishkulanand Swami, Stanza 2"
+    },
+    {
+      "id": "Q008",
+      "type": "fill_in_the_blank",
+      "question_text": "Vaḷī same same _________, jāṇo kare harijanne re; Bīju evu koṇ dayāḷ, kā re manāy nahi manne re...",
+      "options": [
+        "sambhāḷ",
+        "het",
+        "unmattāī",
+        "garbhvāsabī trās"
+      ],
+      "correct_answer": "sambhāḷ",
+      "explanation": "Kirtan Stanza 3 mā ā pamāṇe lakhyu chhe: 'Vaḷī same same sambhāḷ, jāṇo kare harijanne re;'",
+      "source_reference": "Kirtan, Nishkulanand Swami, Stanza 3"
+    },
+    {
+      "id": "Q009",
+      "type": "multiple_choice",
+      "question_text": "Niṣhkuḷānand Swāmī anusār, em samajyā vinā janne unmattāī āve, ane pachhī man kyā māne chhe?",
+      "options": [
+        "kusangmā",
+        "unmattāī angmā",
+        "anna toynī",
+        "same same sambhāḷ"
+      ],
+      "correct_answer": "kusangmā",
+      "explanation": "Kirtan Stanza 4 mā Niṣhkuḷānand Swāmī kahelu chhe: 'Em samajyā vinā jan, āve unmattāī angmā re; Kahe niṣhkuḷānand vachan, pachhī man māne kusangmā re...'",
+      "source_reference": "Kirtan, Nishkulanand Swami, Stanza 4"
+    },
+    {
+      "id": "Q010",
+      "type": "multiple_choice",
+      "question_text": "Niṣhkuḷānand Swāmī anusār, shu samajyā vinā janne unmattāī āve chhe ane man kusangmā māne chhe?",
+      "options": [
+        "Je het harie karyu chhe, garbhvāsabī trās ṭāḷīne anna toynī khabar rākhe chhe, ane same same sambhāḷ kare chhe te",
+        "Bhagwānnu prayojan",
+        "Brahma sangāthe ekatā",
+        "Parabrahmanī upāsanā"
+      ],
+      "correct_answer": "Je het harie karyu chhe, garbhvāsabī trās ṭāḷīne anna toynī khabar rākhe chhe, ane same same sambhāḷ kare chhe te",
+      "explanation": "Kirtan Stanza 4 mā 'Em samajyā vinā jan' kahevat mā 'Em' e Hariye karela het (Stanza 1), garbhvāsabī trās ṭāḷī anna toynī khabar rākhe te (Stanza 2), ane same same sambhāḷ kare te (Stanza 3) darshāve chhe.",
+      "source_reference": "Kirtan, Nishkulanand Swami, Stanza 4 (referencing Stanzas 1-3)"
+    }
+  ]
+}

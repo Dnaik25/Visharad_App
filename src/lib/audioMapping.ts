@@ -392,49 +392,49 @@ export const AUDIO_MAPPING: Record<string, string> = {
     //class 62
 
     //class 63
-    "Premanand Swami (Class 63)": "class 63/Premanand_Swami_Class_63.m4a",
-    "Paṇ jiyā lagī prāṇ raheshe, jībhā svāmī sahajānand kaheshe; (Class 63)": "class 63/Paṇ_jiyā_lagī_prāṇ_raheshe_jībhā_svāmī_sahajānand_kaheshe_Class_63.m4a",
-    "Vach.Ga.Ma.11 (Class 63)": "class 63/V GM11_Class_63.m4a",
-    "Vach.Ka.3 (Class 63)": "class 63/V Ka3_Class_63.m4a",
-    "Purushottam Bolya Prite (Class 63)": "class 63/PBP_Class_63.m4a",
-    "Brahmanand Swami (Class 63)": "class 63/Brahmanand_Swami_Class_63.m4a",
+    "Premanand Swami (Class 63)": "Class 63/Premanand_Swami_Class_63.m4a",
+    "Paṇ jiyā lagī prāṇ raheshe, jībhā svāmī sahajānand kaheshe; (Class 63)": "Class 63/Paṇ_jiyā_lagī_prāṇ_raheshe_jībhā_svāmī_sahajānand_kaheshe_Class_63.m4a",
+    "Vach.Ga.Ma.11 (Class 63)": "Class 63/V GM11_Class_63.m4a",
+    "Vach.Ka.3 (Class 63)": "Class 63/V Ka3_Class_63.m4a",
+    "Purushottam Bolya Prite (Class 63)": "Class 63/PBP_Class_63.m4a",
+    "Brahmanand Swami (Class 63)": "Class 63/Brahmanand_Swami_Class_63.m4a",
 
     //class 64
 
     //class 65
-    "Bhaktichintamani - 68/9 (Class 65)": "class 65/Bhaktichintamani_68_9_Class_65.m4a",
-    "Brahmanand Swami (Class 65)": "class 65/Brahmanand_Swami_Class_65.m4a",
+    "Bhaktichintamani - 68/9 (Class 65)": "Class 65/Bhaktichintamani_68_9_Class_65.m4a",
+    "Brahmanand Swami (Class 65)": "Class 65/Brahmanand_Swami_Class_65.m4a",
 
     //class 66
-    "1. Om Shri Swāminārāyaṇāya Namah (Class 66)": "class 66/Om_Sri_Swaminarayanaya_Namah_Class_66.m4a",
-    "Vach.Ga.Pr.72 (Class 66)": "class 66/V GP72_Class_66.m4a",
-    "Swa.Vato.5/250 (Class 66)": "class 66/SV 5.250_Class_66.m4a",
+    "1. Om Shri Swāminārāyaṇāya Namah (Class 66)": "Class 66/Om_Sri_Swaminarayanaya_Namah_Class_66.m4a",
+    "Vach.Ga.Pr.72 (Class 66)": "Class 66/V GP72_Class_66.m4a",
+    "Swa.Vato.5/250 (Class 66)": "Class 66/SV 5.250_Class_66.m4a",
 
     //class 67 
-    "Vach.Ga.Ma.47 (Class 67)": "class 67/V GM47_Class_67.m4a",
-    "Vach.Ga.An.38 (Class 67)": "class 67/V GA38_Class_67.m4a",
-    "Swa.vato.2/993 (Class 67)": "class 67/SV 2.993_Class_67.m4a",
+    "Vach.Ga.Ma.47 (Class 67)": "Class 67/V GM47_Class_67.m4a",
+    "Vach.Ga.An.38 (Class 67)": "Class 67/V GA38_Class_67.m4a",
+    "Swa.vato.2/993 (Class 67)": "Class 67/SV 2.993_Class_67.m4a",
     
     //class 68
     
     //class 69
-    "Muktanand Swami (Class 69)": "class 69/Muktanand_Swami_Class_69.m4a",
-    "Premanand Swami (Class 69)": "class 69/Premanand_Swami_Class_69.m4a",
-    "Premanand Swami (Class 69) - 1": "class 69/Premanand_Swami_Class_69_1.m4a",
-    "Bhaktichintamani.76/39-41 (Class 69)": "class 69/Bhaktichintamani_76_39_41_Class_69.m4a",
-    "Vach.Ga.An.2 (Class 69)": "class 69/V GA2_Class_69.m4a",
+    "Muktanand Swami (Class 69)": "Class 69/Muktanand_Swami_Class_69.m4a",
+    "Premanand Swami (Class 69)": "Class 69/Premanand_Swami_Class_69.m4a",
+    "Premanand Swami (Class 69) - 1": "Class 69/Premanand_Swami_Class_69_1.m4a",
+    "Bhaktichintamani.76/39-41 (Class 69)": "Class 69/Bhaktichintamani_76_39_41_Class_69.m4a",
+    "Vach.Ga.An.2 (Class 69)": "Class 69/V GA2_Class_69.m4a",
 
     //class 70
-    "Vach.Ga.Ma.3 (Class 70)": "class 70/V GM3_Class_70.m4a",
-    "Vach.Ka.5 (Class 70)": "class 70/V Ka5_Class_70.m4a",
-    "Nishkulanand Swami (Class 70)": "class 70/Nishkulanand_Swami_Class_70.m4a",
+    "Vach.Ga.Ma.3 (Class 70)": "Class 70/V GM3_Class_70.m4a",
+    "Vach.Ka.5 (Class 70)": "Class 70/V Ka5_Class_70.m4a",
+    "Nishkulanand Swami (Class 70)": "Class 70/Nishkulanand_Swami_Class_70.m4a",
     
     //class 71
-    "Swa.Vato.1/72 (Class 71)": "class 71/SV 1.72_Class_71.m4a",
+    "Swa.Vato.1/72 (Class 71)": "Class 71/SV 1.72_Class_71.m4a",
 
     //class 72
-    "Vach.Ga.Ma.63 (Class 72)": "class 72/V GM63_Class_72.m4a",
-    "Purushottam Bolya Prite (Class 72)": "class 72/PBP_Class_72.m4a",
+    "Vach.Ga.Ma.63 (Class 72)": "Class 72/V GM63_Class_72.m4a",
+    "Purushottam Bolya Prite (Class 72)": "Class 72/PBP_Class_72.m4a",
 
     //class 73
     "Vach.Ga.Pr.70 (Class 73)": "Class 73/V GP70_Class_73.m4a",

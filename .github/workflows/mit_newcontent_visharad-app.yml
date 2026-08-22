@@ -1,0 +1,26 @@
+name: Build and deploy Node.js app to Azure Web App - visharad-app
+
+on:
+  push:
+    branches:
+      - mit_newcontent
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Deploy to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: 'visharad-app'
+          slot-name: 'Production'
+          package: .
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1750BC49C6D4F68A1FA954D62094CF5 }}

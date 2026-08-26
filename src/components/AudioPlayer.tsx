@@ -38,17 +38,17 @@ export function AudioPlayer({ reference, displayRef, classId }: AudioPlayerProps
 
     if (!audioUrl) {
         return (
-            <div className="bg-gray-50 border border-gray-100 rounded-lg p-3 mb-4 flex flex-col items-center justify-center text-center">
-                <div className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-1">
+            <div className="bg-charcoal-50 border border-charcoal-100 rounded-xl p-3 mb-4 flex flex-col items-center justify-center text-center">
+                <div className="text-xs font-semibold text-charcoal-400 uppercase tracking-wider mb-1">
                     {`Audio for ${displayRef || reference}`}
                 </div>
-                <div className="text-sm text-gray-500">Coming soon</div>
+                <div className="text-sm text-charcoal-400">Coming soon</div>
             </div>
         );
     }
 
     return (
-        <div className="w-full mt-2 mb-2 flex flex-col items-center bg-gray-50 p-2 rounded-lg border border-gray-100">
+        <div className="w-full mt-2 mb-2 flex flex-col items-center bg-charcoal-50 p-2 rounded-xl border border-charcoal-100">
             <div className="w-full flex items-center gap-2">
                 <audio
                     ref={audioRef}
@@ -56,13 +56,13 @@ export function AudioPlayer({ reference, displayRef, classId }: AudioPlayerProps
                     src={audioUrl}
                     loop={isLooping}
                     onPlay={handlePlay}
-                    className="w-full h-10"
+                    className="w-full h-10 accent-saffron-500"
                 />
                 <button
                     onClick={toggleLoop}
                     className={`p-2 rounded-full transition-colors ${isLooping
-                            ? 'bg-blue-100 text-blue-600 hover:bg-blue-200'
-                            : 'bg-gray-200 text-gray-500 hover:bg-gray-300'
+                            ? 'bg-saffron-100 text-saffron-600 hover:bg-saffron-200'
+                            : 'bg-charcoal-200 text-charcoal-500 hover:bg-charcoal-300'
                         }`}
                     title={isLooping ? "Disable Loop" : "Enable Loop"}
                     aria-label={isLooping ? "Disable Loop" : "Enable Loop"}
@@ -71,7 +71,7 @@ export function AudioPlayer({ reference, displayRef, classId }: AudioPlayerProps
                 </button>
             </div>
             {/* Optional: label confirming what is playing */}
-            <div className="text-[10px] text-gray-400 mt-1 self-start ml-1">
+            <div className="text-[10px] text-charcoal-400 mt-1 self-start ml-1">
                 {displayRef || reference}
             </div>
         </div>

@@ -25,17 +25,21 @@ export default async function TestYourselfPage() {
   const miniReviews = await getMiniReviews();
 
   return (
-    <div className="max-w-4xl mx-auto p-6">
+    <div className="max-w-4xl mx-auto p-4 sm:p-6">
       <div className="mb-10 text-center">
-        <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-4">
+        <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full mb-5 bg-saffron-50 text-saffron-700 text-xs font-semibold tracking-wide uppercase">
+          <BookOpen size={14} />
+          Mini Reviews
+        </div>
+        <h1 className="text-4xl font-display font-extrabold text-charcoal-900 mb-4">
           Test Yourself
         </h1>
-        <p className="text-lg text-gray-600 dark:text-gray-300">
+        <p className="text-lg text-charcoal-500">
           Challenge yourself with mini-reviews covering multiple classes.
         </p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {miniReviews.map((id) => {
           const startClass = Math.max(1, id - 4);
           const endClass = id;
@@ -43,34 +47,34 @@ export default async function TestYourselfPage() {
             <Link
               key={id}
               href={`/test-yourself/${id}`}
-              className="group relative bg-white dark:bg-neutral-800 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 dark:border-neutral-700 hover:border-orange-500/50 dark:hover:border-orange-500/50"
+              className="group relative bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 overflow-hidden border border-charcoal-100 hover:border-saffron-300 hover:-translate-y-0.5"
             >
-              <div className="p-8">
+              <div className="p-7">
                 <div className="flex items-start justify-between mb-6">
-                  <div className="p-3 bg-orange-100 dark:bg-orange-900/30 rounded-xl text-orange-600 dark:text-orange-400 group-hover:scale-110 transition-transform duration-300">
-                    <BookOpen size={32} />
+                  <div className="p-3 bg-saffron-50 rounded-xl text-saffron-600 group-hover:scale-110 group-hover:bg-saffron-100 transition-all duration-300">
+                    <BookOpen size={28} />
                   </div>
-                  <div className="p-2 rounded-full bg-gray-50 dark:bg-neutral-700 text-gray-400 group-hover:text-orange-500 transition-colors">
-                    <ArrowRight size={20} />
+                  <div className="p-2 rounded-full bg-charcoal-50 text-charcoal-400 group-hover:bg-saffron-500 group-hover:text-white transition-colors duration-300">
+                    <ArrowRight size={18} />
                   </div>
                 </div>
 
-                <h2 className="text-2xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-orange-600 transition-colors">
+                <h2 className="text-xl font-display font-bold text-charcoal-800 mb-2 group-hover:text-saffron-600 transition-colors">
                   Mini-Review {startClass}-{endClass}
                 </h2>
-                <p className="text-gray-500 dark:text-gray-400">
+                <p className="text-charcoal-500 text-sm leading-relaxed">
                   Comprehensive review covering material from classes {startClass} to{" "}
                   {endClass}.
                 </p>
               </div>
-              <div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-orange-400 to-red-500 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></div>
+              <div className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-saffron-400 to-saffron-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></div>
             </Link>
           );
         })}
 
         {miniReviews.length === 0 && (
-          <div className="col-span-full text-center py-12 bg-gray-50 dark:bg-neutral-800/50 rounded-2xl border border-dashed border-gray-300 dark:border-neutral-700">
-            <p className="text-gray-500 dark:text-gray-400">
+          <div className="col-span-full text-center py-12 bg-charcoal-50/50 rounded-2xl border border-dashed border-charcoal-200">
+            <p className="text-charcoal-500">
               No mini-reviews available yet.
             </p>
           </div>

@@ -1,26 +1,140 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fafaf9;
+  --foreground: #1b1b1f;
+
+  /* Saffron — primary brand accent */
+  --color-saffron-50: #fff8ed;
+  --color-saffron-100: #ffeacc;
+  --color-saffron-200: #ffd199;
+  --color-saffron-300: #ffb35c;
+  --color-saffron-400: #ff9a2e;
+  --color-saffron-500: #f5820b;
+  --color-saffron-600: #db6a02;
+  --color-saffron-700: #b25302;
+  --color-saffron-800: #8a4108;
+  --color-saffron-900: #6b330a;
+  --color-saffron-950: #431c04;
+
+  /* Charcoal — neutral, slightly warm dark scale */
+  --color-charcoal-50: #f7f7f8;
+  --color-charcoal-100: #eeeef0;
+  --color-charcoal-200: #dcdce0;
+  --color-charcoal-300: #b8b8c0;
+  --color-charcoal-400: #8a8a96;
+  --color-charcoal-500: #64646f;
+  --color-charcoal-600: #4a4a54;
+  --color-charcoal-700: #35353d;
+  --color-charcoal-800: #232329;
+  --color-charcoal-900: #17171b;
+  --color-charcoal-950: #0d0d10;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  --color-saffron-50: var(--color-saffron-50);
+  --color-saffron-100: var(--color-saffron-100);
+  --color-saffron-200: var(--color-saffron-200);
+  --color-saffron-300: var(--color-saffron-300);
+  --color-saffron-400: var(--color-saffron-400);
+  --color-saffron-500: var(--color-saffron-500);
+  --color-saffron-600: var(--color-saffron-600);
+  --color-saffron-700: var(--color-saffron-700);
+  --color-saffron-800: var(--color-saffron-800);
+  --color-saffron-900: var(--color-saffron-900);
+  --color-saffron-950: var(--color-saffron-950);
+
+  --color-charcoal-50: var(--color-charcoal-50);
+  --color-charcoal-100: var(--color-charcoal-100);
+  --color-charcoal-200: var(--color-charcoal-200);
+  --color-charcoal-300: var(--color-charcoal-300);
+  --color-charcoal-400: var(--color-charcoal-400);
+  --color-charcoal-500: var(--color-charcoal-500);
+  --color-charcoal-600: var(--color-charcoal-600);
+  --color-charcoal-700: var(--color-charcoal-700);
+  --color-charcoal-800: var(--color-charcoal-800);
+  --color-charcoal-900: var(--color-charcoal-900);
+  --color-charcoal-950: var(--color-charcoal-950);
+
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-manrope);
+  --font-devanagari: var(--font-noto-devanagari);
+  --font-gujarati: var(--font-noto-gujarati);
+
+  --animate-fade-in-up: fade-in-up 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+  --animate-flag-sway: flag-sway 4s ease-in-out infinite;
+  --animate-shimmer: shimmer 2s linear infinite;
+
+  @keyframes fade-in-up {
+    from {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes flag-sway {
+    0%, 100% { transform: rotate(-3deg); }
+    50% { transform: rotate(3deg); }
+  }
+
+  @keyframes shimmer {
+    from { background-position: -200% 0; }
+    to { background-position: 200% 0; }
+  }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  scrollbar-color: var(--color-charcoal-300) transparent;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
 }
+
+::selection {
+  background: var(--color-saffron-200);
+  color: var(--color-saffron-950);
+}
+
+/* Slim, unobtrusive scrollbars for nav / panels */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: var(--color-charcoal-600);
+  border-radius: 9999px;
+}
+
+/* Subtle dot-grid texture used behind hero / panel headers */
+.bg-dot-grid {
+  background-image: radial-gradient(var(--color-charcoal-400) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+.bg-shimmer {
+  background-image: linear-gradient(
+    110deg,
+    var(--color-charcoal-100) 8%,
+    var(--color-charcoal-50) 18%,
+    var(--color-charcoal-100) 33%
+  );
+  background-size: 200% 100%;
+  animation: var(--animate-shimmer);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+

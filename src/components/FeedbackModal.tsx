@@ -104,7 +104,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                     </h3>
                     <button
                         onClick={onClose}
-                        className="text-saffron-800/60 hover:text-saffron-900 transition-colors"
+                        className="text-saffron-800/60 hover:text-saffron-900 hover:scale-110 transition-all"
                         aria-label="Close"
                     >
                         <X size={20} />
@@ -183,7 +183,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                 <div className="bg-gray-50 px-6 py-4 flex flex-col-reverse sm:flex-row gap-3 sm:justify-end border-t border-gray-100 shrink-0">
                     <button
                         onClick={onClose}
-                        className="px-4 py-2 text-sm font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-100/50 rounded-lg transition-colors"
+                        className="px-4 py-2 text-sm font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-100/50 hover:scale-105 rounded-lg transition-all"
                         disabled={submitting}
                     >
                         Close
@@ -191,7 +191,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                     <button
                         onClick={handleSubmit}
                         disabled={submitting || overallRating === 0}
-                        className="px-6 py-2 text-sm font-medium text-white bg-saffron-600 hover:bg-saffron-700 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg shadow-sm shadow-saffron-600/20 transition-all active:scale-95"
+                        className="px-6 py-2 text-sm font-medium text-white bg-saffron-600 hover:bg-saffron-700 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100 rounded-lg shadow-sm hover:shadow-lg shadow-saffron-600/20 hover:scale-105 transition-all active:scale-95"
                     >
                         {submitting ? 'Sending...' : 'Submit Feedback'}
                     </button>

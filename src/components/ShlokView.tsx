@@ -4,9 +4,27 @@ import Link from 'next/link';
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { RefItem } from '@/lib/types';
-import { ChevronDown, ChevronUp, ArrowLeft, ArrowRight, Sparkles } from 'lucide-react';
+import { ChevronDown, ChevronUp, ArrowLeft, ArrowRight, Sparkles, Type } from 'lucide-react';
+import { markShlokRead } from '@/lib/progress';
+import { useReadingMode } from '@/lib/readingMode';
 
+export function ReadingModeToggle() {
+    const { readingMode, toggleReadingMode } = useReadingMode();
 
+    return (
+        <button
+            onClick={toggleReadingMode}
+            className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border transition-all ${readingMode
+                ? 'bg-saffron-100 text-saffron-800 border-saffron-200'
+                : 'bg-charcoal-100 text-charcoal-700 border-transparent hover:bg-charcoal-200'
+                }`}
+            title={readingMode ? 'Exit reading mode' : 'Reading mode: larger text, dimmed sidebar'}
+        >
+            <Type size={13} />
+            Reading Mode
+        </button>
+    );
+}
 
 export function ExplanationPlaceholder() {
     return (
@@ -24,11 +42,13 @@ export function ExplanationPlaceholder() {
 export function ShlokCard({
     shlokSanskrit,
     shlokTransliteration,
-    shlokNumber
+    shlokNumber,
+    classId
 }: {
     shlokSanskrit: string | null;
     shlokTransliteration: string | null;
     shlokNumber: number;
+    classId?: string;
 }) {
     // Helper to format shlok text: separate multiple shloks by line
     // Look for "॥ <digits> ॥" or "(<digits>)" and append newline
@@ -38,6 +58,14 @@ export function ShlokCard({
             .replace(/(॥\s*\d+(?:-\d+)?\s*॥)/g, '$1\n')
             .replace(/(\(\d+(?:-\d+)?\))/g, '$1\n');
     };
+
+    useEffect(() => {
+        if (classId) {
+            markShlokRead(classId, shlokNumber);
+        }
+    }, [classId, shlokNumber]);
+
+    const { readingMode } = useReadingMode();
 
     return (
         <motion.div
@@ -55,14 +83,17 @@ export function ShlokCard({
 
             {shlokSanskrit && (
                 <h2
-                    className="font-devanagari text-2xl md:text-3xl text-charcoal-900 leading-relaxed mb-4 whitespace-pre-wrap"
+                    className={`font-devanagari text-charcoal-900 whitespace-pre-wrap ${readingMode ? 'text-3xl md:text-4xl leading-loose mb-6' : 'text-2xl md:text-3xl leading-relaxed mb-4'}`}
                     dangerouslySetInnerHTML={{ __html: formatShlokText(shlokSanskrit) || '' }}
                 />
             )}
 
             {shlokTransliteration && (
                 <p
-                    className={`leading-relaxed whitespace-pre-wrap ${shlokSanskrit ? 'text-lg text-charcoal-500 italic' : 'font-devanagari text-2xl text-charcoal-900'}`}
+                    className={`whitespace-pre-wrap ${readingMode ? 'leading-loose' : 'leading-relaxed'} ${shlokSanskrit
+                        ? `${readingMode ? 'text-xl' : 'text-lg'} text-charcoal-500 italic`
+                        : `font-devanagari text-charcoal-900 ${readingMode ? 'text-3xl' : 'text-2xl'}`
+                        }`}
                     dangerouslySetInnerHTML={{ __html: formatShlokText(shlokTransliteration) || '' }}
                 />
             )}
@@ -102,6 +133,7 @@ export function ReferenceItem({
     const [translation, setTranslation] = useState<string | null>(null);
     const [isExpanded, setIsExpanded] = useState(false);
     const [isLoading, setIsLoading] = useState(false);
+    const { readingMode } = useReadingMode();
 
     const handleRefClick = async () => {
         setIsExpanded(prev => !prev);
@@ -232,7 +264,7 @@ export function ReferenceItem({
                 </div>
 
                 {/* Gujarati Text */}
-                <p className="font-gujarati text-charcoal-700 leading-relaxed whitespace-pre-wrap">
+                <p className={`font-gujarati text-charcoal-700 whitespace-pre-wrap ${readingMode ? 'text-lg leading-loose' : 'leading-relaxed'}`}>
                     {formattedText}
                 </p>
 
@@ -248,12 +280,13 @@ export function ReferenceItem({
                         >
                             <div className="mt-4 pt-4 border-t border-dashed border-charcoal-200">
                                 {isLoading ? (
-                                    <div className="flex items-center gap-2 text-charcoal-400 text-xs italic">
-                                        <div className="animate-spin rounded-full h-3 w-3 border-b-2 border-saffron-500"></div>
-                                        Loading translation...
+                                    <div className="bg-charcoal-50 rounded-xl p-3 border border-charcoal-100 space-y-2">
+                                        <div className="h-3 w-full rounded bg-shimmer" />
+                                        <div className="h-3 w-5/6 rounded bg-shimmer" />
+                                        <div className="h-3 w-2/3 rounded bg-shimmer" />
                                     </div>
                                 ) : (
-                                    <div className="bg-charcoal-50 rounded-xl p-3 text-charcoal-800 text-sm leading-relaxed border border-charcoal-100">
+                                    <div className={`bg-charcoal-50 rounded-xl p-3 text-charcoal-800 border border-charcoal-100 ${readingMode ? 'font-serif text-base leading-loose' : 'text-sm leading-relaxed'}`}>
                                         <p className="whitespace-pre-wrap">{translation}</p>
                                     </div>
                                 )}
@@ -309,14 +342,14 @@ export function ReferenceSection({
             <div className="flex justify-end gap-3 mb-4">
                 <button
                     onClick={() => setExpandSignal({ expand: true, timestamp: Date.now() })}
-                    className="flex items-center gap-1.5 px-3 py-1.5 bg-charcoal-100 text-charcoal-700 text-xs font-semibold rounded-lg hover:bg-charcoal-200 transition-colors"
+                    className="flex items-center gap-1.5 px-3 py-1.5 bg-charcoal-100 text-charcoal-700 text-xs font-semibold rounded-lg hover:bg-charcoal-200 hover:scale-105 hover:shadow-md transition-all"
                 >
                     <ChevronDown className="w-3 h-3" />
                     Expand All
                 </button>
                 <button
                     onClick={() => setExpandSignal({ expand: false, timestamp: Date.now() })}
-                    className="flex items-center gap-1.5 px-3 py-1.5 bg-charcoal-100 text-charcoal-700 text-xs font-semibold rounded-lg hover:bg-charcoal-200 transition-colors"
+                    className="flex items-center gap-1.5 px-3 py-1.5 bg-charcoal-100 text-charcoal-700 text-xs font-semibold rounded-lg hover:bg-charcoal-200 hover:scale-105 hover:shadow-md transition-all"
                 >
                     <ChevronUp className="w-3 h-3" />
                     Collapse All
@@ -377,7 +410,7 @@ export function NavButtons({
             {prevHref ? (
                 <Link
                     href={prevHref}
-                    className="w-full sm:w-auto flex items-center justify-center gap-1.5 px-6 py-3 sm:py-2.5 border border-charcoal-200 rounded-full text-charcoal-600 hover:bg-charcoal-50 hover:text-charcoal-900 hover:border-charcoal-300 transition-all text-sm font-medium"
+                    className="w-full sm:w-auto flex items-center justify-center gap-1.5 px-6 py-3 sm:py-2.5 border border-charcoal-200 rounded-full text-charcoal-600 hover:bg-charcoal-50 hover:text-charcoal-900 hover:border-charcoal-300 hover:scale-105 hover:shadow-md transition-all text-sm font-medium"
                 >
                     <ArrowLeft size={15} />
                     Previous Shlok

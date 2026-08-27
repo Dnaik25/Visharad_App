@@ -1,18 +1,22 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect, useRef, type ReactNode } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { AnimatePresence, motion } from 'framer-motion';
 import { X, Search, ChevronRight, FileQuestion, Home } from 'lucide-react';
 import { DharmaFlag } from './DharmaFlag';
+import { ProgressRing } from './ProgressRing';
+import { useClassProgress } from '@/lib/useClassProgress';
+
+type ClassMeta = {
+    filename: string;
+    label: string;
+    shloks: number[];
+};
 
 type SidebarProps = {
-    classes: {
-        filename: string;
-        label: string;
-        shloks: number[];
-    }[];
+    classes: ClassMeta[];
     onLinkClick?: () => void;
     onClose?: () => void; // For the close button
 };
@@ -84,7 +88,7 @@ export function Sidebar({ classes, onLinkClick, onClose }: SidebarProps) {
                     {onClose && (
                         <button
                             onClick={onClose}
-                            className="p-1.5 rounded-md text-charcoal-400 hover:text-white hover:bg-white/10 md:hidden transition-colors"
+                            className="p-1.5 rounded-md text-charcoal-400 hover:text-white hover:bg-white/10 hover:scale-105 md:hidden transition-all"
                             aria-label="Close sidebar"
                         >
                             <X size={20} />
@@ -112,13 +116,18 @@ export function Sidebar({ classes, onLinkClick, onClose }: SidebarProps) {
                         href="/"
                         onClick={onLinkClick}
                         className={`
-                            flex items-center gap-2 px-3 py-2 text-sm font-medium rounded-lg transition-all mb-3
+                            relative group/nav flex items-center gap-2 px-3 py-2 text-sm font-medium rounded-lg transition-all mb-3
                             ${pathname === '/'
                                 ? 'bg-saffron-500/15 text-saffron-300'
                                 : 'text-charcoal-300 hover:bg-white/5 hover:text-white'
                             }
                         `}
                     >
+                        <span
+                            aria-hidden="true"
+                            className={`absolute left-0 top-1/2 -translate-y-1/2 w-[3px] rounded-r-full bg-saffron-400 transition-all duration-200 ease-out ${pathname === '/' ? 'h-4/5' : 'h-0 group-hover/nav:h-3/5'
+                                }`}
+                        />
                         <Home size={15} />
                         Home
                     </Link>
@@ -130,87 +139,164 @@ export function Sidebar({ classes, onLinkClick, onClose }: SidebarProps) {
                     </div>
                 )}
 
-                {displayClasses.map((cls) => {
-                    const isExpanded = isSearching || expanded[cls.filename];
-                    const classNumMatch = cls.filename.match(/(\d+)/);
-                    const classId = classNumMatch ? classNumMatch[0] : '1';
-
-                    return (
-                        <div key={cls.filename} className="group">
-                            <button
-                                onClick={() => toggle(cls.filename)}
-                                className="w-full flex items-center justify-between px-2.5 py-2 text-left text-charcoal-100 text-sm font-semibold hover:bg-white/5 rounded-lg transition-colors"
-                            >
-                                <span>{cls.label}</span>
-                                <ChevronRight
-                                    size={14}
-                                    className={`text-charcoal-500 transition-transform duration-200 ${isExpanded ? 'rotate-90' : ''}`}
-                                />
-                            </button>
-
-                            <AnimatePresence initial={false}>
-                                {isExpanded && (
-                                    <motion.div
-                                        initial={{ height: 0, opacity: 0 }}
-                                        animate={{ height: 'auto', opacity: 1 }}
-                                        exit={{ height: 0, opacity: 0 }}
-                                        transition={{ duration: 0.2, ease: 'easeOut' }}
-                                        className="overflow-hidden"
-                                    >
-                                        <div className="mt-1 mb-2 ml-4 space-y-0.5 border-l border-white/10 pl-3">
-                                            {cls.shloks.map((shlokNum) => {
-                                                const href = `/class/${classId}/shlok/${shlokNum}`;
-                                                const isActive = pathname === href;
-
-                                                // Simple highlight logic if searching for specific number
-                                                const isMatch = searchTerm.match(/\d+/)
-                                                    && parseInt(searchTerm.match(/\d+/)![0]) === shlokNum;
-
-                                                return (
-                                                    <Link
-                                                        key={shlokNum}
-                                                        href={href}
-                                                        onClick={onLinkClick}
-                                                        className={`
-                                                          block px-2.5 py-1.5 text-sm rounded-md transition-all
-                                                          ${isActive
-                                                                ? 'bg-saffron-500/15 text-saffron-300 font-medium'
-                                                                : isMatch
-                                                                    ? 'bg-saffron-500/10 text-saffron-200'
-                                                                    : 'text-charcoal-400 hover:text-white hover:bg-white/5'
-                                                            }
-                                                        `}
-                                                    >
-                                                        Shlok {shlokNum}
-                                                    </Link>
-                                                );
-                                            })}
-
-                                            {/* Quiz Link */}
-                                            <Link
-                                                href={`/class/${classId}/quiz`}
-                                                onClick={onLinkClick}
-                                                className={`
-                                                    flex items-center gap-1.5 px-2.5 py-1.5 text-sm rounded-md transition-all
-                                                    ${pathname === `/class/${classId}/quiz`
-                                                        ? 'bg-saffron-500/15 text-saffron-300 font-medium'
-                                                        : searchTerm.toLowerCase().includes('quiz')
-                                                            ? 'bg-saffron-500/10 text-saffron-200'
-                                                            : 'text-charcoal-400 hover:text-white hover:bg-white/5'
-                                                    }
-                                                `}
-                                            >
-                                                <FileQuestion size={13} />
-                                                Quiz {classId}
-                                            </Link>
-                                        </div>
-                                    </motion.div>
-                                )}
-                            </AnimatePresence>
-                        </div>
-                    );
-                })}
+                {displayClasses.map((cls) => (
+                    <ClassNavItem
+                        key={cls.filename}
+                        cls={cls}
+                        isExpanded={isSearching || expanded[cls.filename]}
+                        pathname={pathname}
+                        searchTerm={searchTerm}
+                        onToggle={() => toggle(cls.filename)}
+                        onLinkClick={onLinkClick}
+                    />
+                ))}
             </nav>
         </aside>
+    );
+}
+
+function ClassNavItem({
+    cls,
+    isExpanded,
+    pathname,
+    searchTerm,
+    onToggle,
+    onLinkClick,
+}: {
+    cls: ClassMeta;
+    isExpanded: boolean;
+    pathname: string;
+    searchTerm: string;
+    onToggle: () => void;
+    onLinkClick?: () => void;
+}) {
+    const classNumMatch = cls.filename.match(/(\d+)/);
+    const classId = classNumMatch ? classNumMatch[0] : '1';
+    const progress = useClassProgress(classId, cls.shloks);
+
+    return (
+        <div className="group">
+            <button
+                onClick={onToggle}
+                className="w-full flex items-center justify-between px-2.5 py-2 text-left text-charcoal-100 text-sm font-semibold hover:bg-white/5 rounded-lg transition-colors"
+                title={`${Math.round(progress * 100)}% complete`}
+            >
+                <span>{cls.label}</span>
+                <div className="flex items-center gap-2">
+                    <ProgressRing progress={progress} />
+                    <ChevronRight
+                        size={14}
+                        className={`text-charcoal-500 transition-transform duration-200 ${isExpanded ? 'rotate-90' : ''}`}
+                    />
+                </div>
+            </button>
+
+            <AnimatePresence initial={false}>
+                {isExpanded && (
+                    <motion.div
+                        initial={{ height: 0, opacity: 0 }}
+                        animate={{ height: 'auto', opacity: 1 }}
+                        exit={{ height: 0, opacity: 0 }}
+                        transition={{ duration: 0.2, ease: 'easeOut' }}
+                        className="overflow-hidden"
+                    >
+                        <div className="mt-1 mb-2 ml-4 space-y-0.5 border-l border-white/10 pl-3">
+                            {cls.shloks.map((shlokNum) => {
+                                const href = `/class/${classId}/shlok/${shlokNum}`;
+                                const isActive = pathname === href;
+
+                                // Simple highlight logic if searching for specific number
+                                const isMatch = searchTerm.match(/\d+/)
+                                    && parseInt(searchTerm.match(/\d+/)![0]) === shlokNum;
+
+                                return (
+                                    <SearchMatchLink
+                                        key={shlokNum}
+                                        href={href}
+                                        onClick={onLinkClick}
+                                        isMatch={!!isMatch}
+                                        className={`
+                                          relative group/nav block px-2.5 py-1.5 text-sm rounded-md transition-all
+                                          ${isActive
+                                                ? 'bg-saffron-500/15 text-saffron-300 font-medium'
+                                                : isMatch
+                                                    ? 'bg-saffron-500/10 text-saffron-200'
+                                                    : 'text-charcoal-400 hover:text-white hover:bg-white/5'
+                                            }
+                                        `}
+                                    >
+                                        <span
+                                            aria-hidden="true"
+                                            className={`absolute left-0 top-1/2 -translate-y-1/2 w-[3px] rounded-r-full bg-saffron-400 transition-all duration-200 ease-out ${isActive || isMatch ? 'h-4/5' : 'h-0 group-hover/nav:h-3/5'
+                                                }`}
+                                        />
+                                        Shlok {shlokNum}
+                                    </SearchMatchLink>
+                                );
+                            })}
+
+                            {/* Quiz Link */}
+                            <SearchMatchLink
+                                href={`/class/${classId}/quiz`}
+                                onClick={onLinkClick}
+                                isMatch={searchTerm.toLowerCase().includes('quiz')}
+                                className={`
+                                    relative group/nav flex items-center gap-1.5 px-2.5 py-1.5 text-sm rounded-md transition-all
+                                    ${pathname === `/class/${classId}/quiz`
+                                        ? 'bg-saffron-500/15 text-saffron-300 font-medium'
+                                        : searchTerm.toLowerCase().includes('quiz')
+                                            ? 'bg-saffron-500/10 text-saffron-200'
+                                            : 'text-charcoal-400 hover:text-white hover:bg-white/5'
+                                    }
+                                `}
+                            >
+                                <span
+                                    aria-hidden="true"
+                                    className={`absolute left-0 top-1/2 -translate-y-1/2 w-[3px] rounded-r-full bg-saffron-400 transition-all duration-200 ease-out ${pathname === `/class/${classId}/quiz` || searchTerm.toLowerCase().includes('quiz') ? 'h-4/5' : 'h-0 group-hover/nav:h-3/5'
+                                        }`}
+                                />
+                                <FileQuestion size={13} />
+                                Quiz {classId}
+                            </SearchMatchLink>
+                        </div>
+                    </motion.div>
+                )}
+            </AnimatePresence>
+        </div>
+    );
+}
+
+// A nav Link that, when it becomes a search match, smooth-scrolls itself into view
+// within the sidebar's scroll container and plays a brief highlight flash.
+function SearchMatchLink({
+    href,
+    isMatch,
+    onClick,
+    className,
+    children,
+}: {
+    href: string;
+    isMatch: boolean;
+    onClick?: () => void;
+    className: string;
+    children: ReactNode;
+}) {
+    const ref = useRef<HTMLAnchorElement>(null);
+
+    useEffect(() => {
+        if (isMatch) {
+            ref.current?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+    }, [isMatch]);
+
+    return (
+        <Link
+            ref={ref}
+            href={href}
+            onClick={onClick}
+            className={`${className} ${isMatch ? 'animate-highlight-flash' : ''}`}
+        >
+            {children}
+        </Link>
     );
 }

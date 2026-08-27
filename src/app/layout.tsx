@@ -5,6 +5,7 @@ import './globals.css';
 import { MainLayout } from '@/components/MainLayout';
 import { getAllClassesMetadata } from '@/lib/data';
 import { FeedbackButton } from '@/components/FeedbackButton';
+import { CursorGlow } from '@/components/CursorGlow';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 const manrope = Manrope({ subsets: ['latin'], variable: '--font-manrope' });
@@ -40,6 +41,7 @@ export default async function RootLayout({
       <body
         className={`${inter.variable} ${manrope.variable} ${notoDevanagari.variable} ${notoGujarati.variable} font-sans antialiased`}
       >
+        <CursorGlow />
         <MainLayout classes={classesData}>
           {children}
         </MainLayout>

@@ -74,7 +74,7 @@ export function MainLayout({ classes, children }: MainLayoutProps) {
             </div>
 
             {/* Main Content */}
-            <main className="flex-1 w-full max-w-5xl mx-auto md:px-8 px-4 py-6 md:py-10">
+            <main className="relative z-10 flex-1 w-full max-w-5xl mx-auto md:px-8 px-4 py-6 md:py-10">
                 {children}
             </main>
 

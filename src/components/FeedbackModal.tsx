@@ -87,7 +87,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                 >
                     <Star
                         size={28}
-                        className={`${star <= rating ? 'fill-amber-400 text-amber-400' : 'text-gray-200'} transition-colors duration-200`}
+                        className={`${star <= rating ? 'fill-saffron-400 text-saffron-400' : 'text-charcoal-200'} transition-colors duration-200`}
                     />
                 </button>
             ))}
@@ -98,13 +98,13 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
         <div className="fixed inset-0 z-[10000] flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-in fade-in duration-200">
             <div className="bg-white rounded-2xl shadow-xl w-full max-w-lg overflow-hidden animate-in zoom-in-95 duration-200 max-h-[90vh] flex flex-col">
                 {/* Header */}
-                <div className="bg-amber-50 px-6 py-4 border-b border-amber-100 flex justify-between items-center shrink-0">
-                    <h3 className="text-lg font-semibold text-amber-900">
+                <div className="bg-saffron-50 px-6 py-4 border-b border-saffron-100 flex justify-between items-center shrink-0">
+                    <h3 className="text-lg font-semibold text-saffron-900">
                         Your Feedback Matters
                     </h3>
                     <button
                         onClick={onClose}
-                        className="text-amber-800/60 hover:text-amber-900 transition-colors"
+                        className="text-saffron-800/60 hover:text-saffron-900 hover:scale-110 transition-all"
                         aria-label="Close"
                     >
                         <X size={20} />
@@ -129,7 +129,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                         </label>
                         <textarea
                             rows={2}
-                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm text-black placeholder-gray-500"
+                            className="w-full px-3 py-2 border border-charcoal-200 rounded-lg focus:ring-2 focus:ring-saffron-500/20 focus:border-saffron-500 transition-all resize-none text-sm text-black placeholder-charcoal-400"
                             placeholder="e.g., finding the quizzes..."
                             value={confusingParts}
                             onChange={(e) => setConfusingParts(e.target.value)}
@@ -143,7 +143,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                         </label>
                         <textarea
                             rows={2}
-                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm text-black placeholder-gray-500"
+                            className="w-full px-3 py-2 border border-charcoal-200 rounded-lg focus:ring-2 focus:ring-saffron-500/20 focus:border-saffron-500 transition-all resize-none text-sm text-black placeholder-charcoal-400"
                             placeholder="e.g., daily reminders..."
                             value={featureRequest}
                             onChange={(e) => setFeatureRequest(e.target.value)}
@@ -165,7 +165,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                         </label>
                         <textarea
                             rows={3}
-                            className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all resize-none text-sm text-black placeholder-gray-500"
+                            className="w-full px-3 py-2 border border-charcoal-200 rounded-lg focus:ring-2 focus:ring-saffron-500/20 focus:border-saffron-500 transition-all resize-none text-sm text-black placeholder-charcoal-400"
                             placeholder="Tell us anything else..."
                             value={generalComment}
                             onChange={(e) => setGeneralComment(e.target.value)}
@@ -183,7 +183,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                 <div className="bg-gray-50 px-6 py-4 flex flex-col-reverse sm:flex-row gap-3 sm:justify-end border-t border-gray-100 shrink-0">
                     <button
                         onClick={onClose}
-                        className="px-4 py-2 text-sm font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-100/50 rounded-lg transition-colors"
+                        className="px-4 py-2 text-sm font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-100/50 hover:scale-105 rounded-lg transition-all"
                         disabled={submitting}
                     >
                         Close
@@ -191,7 +191,7 @@ export function FeedbackModal({ isOpen, onClose, onSubmitSuccess, pageUrl }: Fee
                     <button
                         onClick={handleSubmit}
                         disabled={submitting || overallRating === 0}
-                        className="px-6 py-2 text-sm font-medium text-white bg-amber-600 hover:bg-amber-700 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg shadow-sm shadow-amber-600/20 transition-all active:scale-95"
+                        className="px-6 py-2 text-sm font-medium text-white bg-saffron-600 hover:bg-saffron-700 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100 rounded-lg shadow-sm hover:shadow-lg shadow-saffron-600/20 hover:scale-105 transition-all active:scale-95"
                     >
                         {submitting ? 'Sending...' : 'Submit Feedback'}
                     </button>

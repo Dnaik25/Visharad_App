@@ -4,7 +4,8 @@ import {
     ShlokCard,
     ExplanationPlaceholder,
     ReferenceSection,
-    NavButtons
+    NavButtons,
+    ReadingModeToggle
 } from '@/components/ShlokView';
 
 type Props = {
@@ -53,11 +54,16 @@ export default async function ShlokPage({ params }: Props) {
 
     return (
         <div className="max-w-3xl mx-auto px-6 py-12 pb-24">
+            <div className="flex justify-end mb-4">
+                <ReadingModeToggle />
+            </div>
+
             {/* 2. Shlok Text */}
             <ShlokCard
                 shlokSanskrit={shlok.shlokSanskrit}
                 shlokTransliteration={shlok.shlokTransliteration}
                 shlokNumber={shlok.shlokNumber}
+                classId={classId}
             />
 
 

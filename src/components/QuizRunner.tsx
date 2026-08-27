@@ -1,7 +1,120 @@
 'use client';
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
+import { AnimatePresence, motion, animate, useMotionValue, useTransform } from "framer-motion";
 import { CheckCircle, XCircle, ArrowRight, RefreshCw, AlertCircle } from "lucide-react";
+import { markQuizDone } from "@/lib/progress";
+
+// Draw-in checkmark / shaking X used for the per-question feedback panel.
+function FeedbackIcon({ correct }: { correct: boolean }) {
+    return (
+        <motion.div
+            className={correct ? 'text-emerald-600' : 'text-red-600'}
+            animate={!correct ? { x: [0, -6, 6, -4, 4, -2, 2, 0] } : undefined}
+            transition={!correct ? { duration: 0.45, delay: 0.15 } : undefined}
+        >
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none">
+                <motion.circle
+                    cx="12" cy="12" r="10"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    style={{ transformOrigin: '50% 50%' }}
+                    initial={{ scale: 0, opacity: 0 }}
+                    animate={{ scale: 1, opacity: 1 }}
+                    transition={{ type: 'spring', stiffness: 300, damping: 15 }}
+                />
+                {correct ? (
+                    <motion.path
+                        d="M7 12.5l3 3 7-7"
+                        stroke="currentColor"
+                        strokeWidth="2.5"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        initial={{ pathLength: 0 }}
+                        animate={{ pathLength: 1 }}
+                        transition={{ duration: 0.35, delay: 0.25, ease: 'easeOut' }}
+                    />
+                ) : (
+                    <>
+                        <motion.path
+                            d="M8 8l8 8"
+                            stroke="currentColor"
+                            strokeWidth="2.5"
+                            strokeLinecap="round"
+                            initial={{ pathLength: 0 }}
+                            animate={{ pathLength: 1 }}
+                            transition={{ duration: 0.2, delay: 0.25 }}
+                        />
+                        <motion.path
+                            d="M16 8l-8 8"
+                            stroke="currentColor"
+                            strokeWidth="2.5"
+                            strokeLinecap="round"
+                            initial={{ pathLength: 0 }}
+                            animate={{ pathLength: 1 }}
+                            transition={{ duration: 0.2, delay: 0.4 }}
+                        />
+                    </>
+                )}
+            </svg>
+        </motion.div>
+    );
+}
+
+// Counts up from 0 to `score` when it mounts (the results screen reveal).
+function AnimatedScore({ score, total }: { score: number; total: number }) {
+    const count = useMotionValue(0);
+    const rounded = useTransform(count, (latest) => Math.round(latest));
+    const [display, setDisplay] = useState(0);
+
+    useEffect(() => {
+        const controls = animate(count, score, { duration: 1.1, ease: 'easeOut' });
+        const unsubscribe = rounded.on('change', setDisplay);
+        return () => {
+            controls.stop();
+            unsubscribe();
+        };
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [score]);
+
+    return <>{display} / {total}</>;
+}
+
+// A small one-shot confetti burst for high-scoring results.
+function ConfettiBurst() {
+    const pieces = useMemo(() => {
+        const colors = ['bg-saffron-400', 'bg-saffron-500', 'bg-emerald-400', 'bg-saffron-300', 'bg-charcoal-300'];
+        return Array.from({ length: 24 }, (_, i) => {
+            const angle = Math.random() * Math.PI * 2;
+            const distance = 50 + Math.random() * 90;
+            return {
+                id: i,
+                x: Math.cos(angle) * distance,
+                y: Math.sin(angle) * distance - 30,
+                rotate: Math.random() * 360,
+                color: colors[i % colors.length],
+                delay: Math.random() * 0.15,
+                width: 5 + Math.random() * 5,
+                height: 3 + Math.random() * 5,
+            };
+        });
+    }, []);
+
+    return (
+        <div className="pointer-events-none absolute inset-0 flex items-center justify-center" aria-hidden="true">
+            {pieces.map((p) => (
+                <motion.span
+                    key={p.id}
+                    className={`absolute rounded-sm ${p.color}`}
+                    style={{ width: p.width, height: p.height }}
+                    initial={{ x: 0, y: 0, opacity: 1, rotate: 0, scale: 0.6 }}
+                    animate={{ x: p.x, y: p.y + 110, opacity: 0, rotate: p.rotate, scale: 1 }}
+                    transition={{ duration: 1.1, delay: p.delay, ease: 'easeOut' }}
+                />
+            ))}
+        </div>
+    );
+}
 
 type Question = {
     id: string;
@@ -167,6 +280,9 @@ export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerPr
             setCurrentQuestionIndex((prev) => prev + 1);
         } else {
             setShowResults(true);
+            if (type === 'class_quiz') {
+                markQuizDone(classId);
+            }
         }
     };
 
@@ -183,9 +299,30 @@ export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerPr
 
     if (loading) {
         return (
-            <div className="flex flex-col items-center justify-center min-h-[50vh]">
-                <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-red-600 mb-4"></div>
-                <p className="text-lg text-gray-600 dark:text-gray-300">Generating grounded questions...</p>
+            <div className="max-w-2xl mx-auto p-4 sm:p-6 min-h-[60vh] flex flex-col justify-center">
+                <div className="mb-6 flex justify-between items-center">
+                    <div className="h-6 w-24 rounded-full bg-shimmer" />
+                    <div className="h-4 w-28 rounded bg-shimmer" />
+                </div>
+
+                <div className="w-full bg-charcoal-100 rounded-full h-2 mb-8 overflow-hidden">
+                    <div className="h-2 w-1/4 rounded-full bg-shimmer" />
+                </div>
+
+                <div className="bg-white p-6 sm:p-8 rounded-3xl shadow-xl border border-charcoal-100 mb-8">
+                    <div className="h-6 w-3/4 rounded bg-shimmer mb-3" />
+                    <div className="h-6 w-1/2 rounded bg-shimmer mb-8" />
+
+                    <div className="space-y-3">
+                        {[0, 1, 2, 3].map((i) => (
+                            <div key={i} className="h-14 rounded-xl bg-shimmer" />
+                        ))}
+                    </div>
+                </div>
+
+                <div className="flex justify-end">
+                    <div className="h-14 w-40 rounded-full bg-shimmer" />
+                </div>
             </div>
         );
     }
@@ -193,12 +330,12 @@ export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerPr
     if (error) {
         return (
             <div className="max-w-4xl mx-auto p-6 text-center">
-                <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-8 rounded-xl relative mb-6">
+                <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-8 rounded-2xl relative mb-6">
                     <AlertCircle size={48} className="mx-auto mb-4 text-red-600" />
                     <h3 className="text-lg font-bold">Failed to load quiz</h3>
                     <p className="mt-2">{error}</p>
                 </div>
-                <button onClick={fetchQuizPool} className="px-6 py-2 bg-red-600 text-white rounded-full">Try Again</button>
+                <button onClick={fetchQuizPool} className="px-6 py-2 bg-saffron-500 hover:bg-saffron-600 hover:scale-105 hover:shadow-lg text-white rounded-full font-semibold transition-all">Try Again</button>
             </div>
         );
     }
@@ -209,40 +346,48 @@ export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerPr
         const incorrectQuestions = quizData.questions.filter(q => userAnswers[q.id] !== q.correct_answer);
 
         return (
-            <div className="max-w-3xl mx-auto p-6">
-                <div className="bg-white dark:bg-neutral-800 rounded-2xl shadow-xl overflow-hidden mb-8">
-                    <div className="p-8 text-center border-b border-gray-100 dark:border-neutral-700">
-                        <h2 className="text-3xl font-bold mb-2 dark:text-white">Quiz Completed!</h2>
-                        <div className="text-5xl font-extrabold text-red-600 mb-2">{score} / {quizData.questions.length}</div>
-                        <p className="text-gray-500 dark:text-gray-400">{percentage}% Accuracy</p>
+            <motion.div
+                initial={{ opacity: 0, y: 12 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.4 }}
+                className="max-w-3xl mx-auto p-4 sm:p-6"
+            >
+                <div className="bg-white rounded-3xl shadow-xl border border-charcoal-100 overflow-hidden mb-8">
+                    <div className="relative p-8 text-center border-b border-charcoal-100 bg-gradient-to-b from-saffron-50/60 to-white overflow-hidden">
+                        {percentage >= 80 && <ConfettiBurst />}
+                        <h2 className="text-3xl font-display font-bold mb-2 text-charcoal-900">Quiz Completed!</h2>
+                        <div className="text-6xl font-display font-extrabold text-saffron-600 mb-2">
+                            <AnimatedScore score={score} total={quizData.questions.length} />
+                        </div>
+                        <p className="text-charcoal-500">{percentage}% Accuracy</p>
                     </div>
 
-                    <div className="p-8 space-y-6">
-                        <h3 className="text-xl font-bold border-b pb-2">Incorrect Answers Review</h3>
+                    <div className="p-6 sm:p-8 space-y-6">
+                        <h3 className="text-xl font-display font-bold border-b border-charcoal-100 pb-3 text-charcoal-800">Incorrect Answers Review</h3>
                         {incorrectQuestions.length === 0 ? (
-                            <div className="text-center text-green-600 py-4">
+                            <div className="text-center text-emerald-600 py-4">
                                 <CheckCircle size={48} className="mx-auto mb-2" />
                                 <p className="font-bold">Perfect Score! No incorrect answers.</p>
                             </div>
                         ) : (
-                            incorrectQuestions.map((q, idx) => (
-                                <div key={q.id} className="p-4 rounded-xl border border-red-200 bg-red-50 dark:bg-red-900/10 dark:border-red-800">
+                            incorrectQuestions.map((q) => (
+                                <div key={q.id} className="p-4 rounded-2xl border border-red-200 bg-red-50/60">
                                     <div className="flex gap-3 mb-2">
-                                        <h3 className="font-medium text-lg dark:text-gray-200">{q.question_text}</h3>
+                                        <h3 className="font-medium text-lg text-charcoal-800">{q.question_text}</h3>
                                     </div>
                                     <div className="ml-0 text-sm space-y-2 mt-3">
                                         <div className="flex items-center gap-2">
-                                            <XCircle size={16} className="text-red-600" />
-                                            <span className="font-semibold dark:text-gray-300">You selected:</span>
+                                            <XCircle size={16} className="text-red-600 shrink-0" />
+                                            <span className="font-semibold text-charcoal-600">You selected:</span>
                                             <span className="text-red-700 font-medium">{userAnswers[q.id] || "Skipped"}</span>
                                         </div>
                                         <div className="flex items-center gap-2">
-                                            <CheckCircle size={16} className="text-green-600" />
-                                            <span className="font-semibold dark:text-gray-300">Correct:</span>
-                                            <span className="text-green-700 font-medium dark:text-green-400">{q.correct_answer}</span>
+                                            <CheckCircle size={16} className="text-emerald-600 shrink-0" />
+                                            <span className="font-semibold text-charcoal-600">Correct:</span>
+                                            <span className="text-emerald-700 font-medium">{q.correct_answer}</span>
                                         </div>
                                         <div className="mt-2 pt-2 border-t border-red-200/50">
-                                            <p className="text-gray-700 dark:text-gray-300 text-sm">
+                                            <p className="text-charcoal-700 text-sm">
                                                 <span className="font-bold">Reason:</span> {q.explanation}
                                             </p>
                                         </div>
@@ -252,25 +397,25 @@ export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerPr
                         )}
                     </div>
 
-                    <div className="p-6 bg-gray-50 dark:bg-neutral-900 flex justify-center gap-4">
+                    <div className="p-6 bg-charcoal-50 flex flex-col sm:flex-row justify-center gap-4">
                         <button
                             onClick={handleTakeAgain}
-                            className="flex items-center gap-2 px-6 py-3 bg-white border border-gray-200 text-gray-700 rounded-full font-bold hover:bg-gray-50 transition"
+                            className="flex items-center justify-center gap-2 px-6 py-3 bg-white border border-charcoal-200 text-charcoal-700 rounded-full font-bold hover:bg-charcoal-50 hover:border-charcoal-300 hover:scale-105 hover:shadow-md transition-all"
                         >
-                            <RefreshCw size={20} /> Take Another Quiz
+                            <RefreshCw size={18} /> Take Another Quiz
                         </button>
 
                         {nextClassPath && (
                             <a
                                 href={nextClassPath}
-                                className="flex items-center gap-2 px-6 py-3 bg-red-600 text-white rounded-full font-bold hover:bg-red-700 transition"
+                                className="flex items-center justify-center gap-2 px-6 py-3 bg-saffron-500 text-white rounded-full font-bold hover:bg-saffron-600 hover:scale-105 transition-all shadow-md hover:shadow-lg shadow-saffron-900/15"
                             >
-                                Next Class <ArrowRight size={20} />
+                                Next Class <ArrowRight size={18} />
                             </a>
                         )}
                     </div>
                 </div>
-            </div>
+            </motion.div>
         );
     }
 
@@ -281,95 +426,131 @@ export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerPr
 
         return (
             <div className="max-w-2xl mx-auto p-4 sm:p-6 min-h-[60vh] flex flex-col justify-center">
-                <div className="mb-6 flex justify-between items-center text-sm font-medium text-gray-500 dark:text-gray-400">
-                    <span className="bg-gray-100 px-3 py-1 rounded-full">{title}</span>
+                <div className="mb-6 flex justify-between items-center text-sm font-medium text-charcoal-500">
+                    <span className="bg-charcoal-100 text-charcoal-700 px-3 py-1 rounded-full font-semibold">{title}</span>
                     <span>Question {currentQuestionIndex + 1} of {quizData.questions.length}</span>
                 </div>
 
                 {/* Progress Bar */}
-                <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2.5 mb-8">
-                    <div
-                        className="bg-red-600 h-2.5 rounded-full transition-all duration-300"
-                        style={{ width: `${((currentQuestionIndex + 1) / quizData.questions.length) * 100}%` }}
-                    ></div>
+                <div className="w-full bg-charcoal-100 rounded-full h-2 mb-8 overflow-hidden">
+                    <motion.div
+                        className="bg-gradient-to-r from-saffron-400 to-saffron-600 h-2 rounded-full"
+                        animate={{ width: `${((currentQuestionIndex + 1) / quizData.questions.length) * 100}%` }}
+                        transition={{ duration: 0.4, ease: 'easeOut' }}
+                    />
                 </div>
 
-                <div className="bg-white dark:bg-neutral-800 p-8 rounded-3xl shadow-xl border border-gray-100 dark:border-neutral-700 mb-8">
-                    <h2 className="text-xl md:text-2xl font-bold mb-8 leading-relaxed text-gray-800 dark:text-white">
-                        {question.question_text}
-                    </h2>
-
-                    <div className="space-y-4">
-                        {question.options.map((opt, i) => {
-                            let optionClass = `flex items-center p-4 rounded-xl border-2 transition-all `;
-
-                            if (isSubmitted) {
-                                if (opt === question.correct_answer) {
-                                    // Correct answer always green
-                                    optionClass += 'border-green-500 bg-green-50 dark:bg-green-900/20 ';
-                                } else if (userAnswers[question.id] === opt && opt !== question.correct_answer) {
-                                    // Wrong user selection red
-                                    optionClass += 'border-red-500 bg-red-50 dark:bg-red-900/20 ';
-                                } else {
-                                    // Others gray
-                                    optionClass += 'border-gray-200 dark:border-neutral-700 opacity-50 ';
-                                }
-                            } else {
-                                // Not submitted yet
-                                if (userAnswers[question.id] === opt) {
-                                    optionClass += 'border-red-500 bg-red-50 dark:bg-red-900/20 cursor-pointer ';
-                                } else {
-                                    optionClass += 'border-gray-200 dark:border-neutral-700 hover:border-red-200 dark:hover:border-neutral-600 cursor-pointer ';
-                                }
-                            }
-
-                            return (
-                                <label
-                                    key={i}
-                                    className={optionClass}
-                                >
-                                    <input
-                                        type="radio"
-                                        name={`question-${question.id}`}
-                                        value={opt}
-                                        checked={userAnswers[question.id] === opt}
-                                        onChange={() => handleOptionSelect(opt)}
-                                        disabled={isSubmitted}
-                                        className="w-5 h-5 text-red-600 border-gray-300 focus:ring-red-500 disabled:opacity-50"
-                                    />
-                                    <span className="ml-3 text-lg text-gray-700 dark:text-gray-200">{opt}</span>
-                                </label>
-                            );
-                        })}
-                    </div>
-
-                    {/* Immediate Feedback Section */}
-                    {isSubmitted && (
-                        <div className={`mt-6 p-4 rounded-xl border ${isCorrect ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'} animate-in fade-in slide-in-from-top-2`}>
-                            <div className="flex items-center gap-2 mb-2">
-                                {isCorrect ? (
-                                    <>
-                                        <CheckCircle className="text-green-600" size={24} />
-                                        <h3 className="font-bold text-green-800">Correct!</h3>
-                                    </>
-                                ) : (
-                                    <>
-                                        <XCircle className="text-red-600" size={24} />
-                                        <h3 className="font-bold text-red-800">Incorrect</h3>
-                                    </>
-                                )}
-                            </div>
-                            <p className="text-gray-700 dark:text-gray-300">
-                                {question.explanation}
-                            </p>
-                            {!isCorrect && (
-                                <p className="mt-2 text-sm text-gray-500">
-                                    Correct Answer: <span className="font-semibold">{question.correct_answer}</span>
-                                </p>
+                <AnimatePresence mode="wait">
+                    <motion.div
+                        key={question.id}
+                        initial={{ opacity: 0, x: 24 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        exit={{ opacity: 0, x: -24 }}
+                        transition={{ duration: 0.25, ease: 'easeOut' }}
+                        className="relative overflow-hidden bg-white p-6 sm:p-8 rounded-3xl shadow-xl border border-charcoal-100 mb-8"
+                    >
+                        {/* Quick color flash on submit */}
+                        <AnimatePresence>
+                            {isSubmitted && (
+                                <motion.div
+                                    key="flash"
+                                    className={`absolute inset-0 z-20 pointer-events-none ${isCorrect ? 'bg-emerald-400' : 'bg-red-400'}`}
+                                    initial={{ opacity: 0.35 }}
+                                    animate={{ opacity: 0 }}
+                                    transition={{ duration: 0.6, ease: 'easeOut' }}
+                                />
                             )}
+                        </AnimatePresence>
+
+                        <h2 className="text-xl md:text-2xl font-display font-bold mb-8 leading-relaxed text-charcoal-900">
+                            {question.question_text}
+                        </h2>
+
+                        <div className="space-y-3">
+                            {question.options.map((opt, i) => {
+                                let optionClass = `flex items-center p-4 rounded-xl border-2 transition-all `;
+
+                                const isWrongSelected = isSubmitted && userAnswers[question.id] === opt && opt !== question.correct_answer;
+                                const isCorrectReveal = isSubmitted && opt === question.correct_answer;
+
+                                if (isSubmitted) {
+                                    if (opt === question.correct_answer) {
+                                        optionClass += 'border-emerald-500 bg-emerald-50 ';
+                                    } else if (isWrongSelected) {
+                                        optionClass += 'border-red-500 bg-red-50 ';
+                                    } else {
+                                        optionClass += 'border-charcoal-100 opacity-50 ';
+                                    }
+                                } else {
+                                    if (userAnswers[question.id] === opt) {
+                                        optionClass += 'border-saffron-500 bg-saffron-50 cursor-pointer ';
+                                    } else {
+                                        optionClass += 'border-charcoal-150 border-charcoal-200 hover:border-saffron-300 hover:bg-saffron-50/40 cursor-pointer ';
+                                    }
+                                }
+
+                                return (
+                                    <motion.label
+                                        key={i}
+                                        whileTap={{ scale: 0.99 }}
+                                        animate={
+                                            isWrongSelected
+                                                ? { x: [0, -8, 8, -6, 6, -3, 3, 0] }
+                                                : isCorrectReveal
+                                                    ? { scale: [1, 1.03, 1] }
+                                                    : { x: 0, scale: 1 }
+                                        }
+                                        transition={{ duration: 0.5 }}
+                                        className={optionClass}
+                                    >
+                                        <input
+                                            type="radio"
+                                            name={`question-${question.id}`}
+                                            value={opt}
+                                            checked={userAnswers[question.id] === opt}
+                                            onChange={() => handleOptionSelect(opt)}
+                                            disabled={isSubmitted}
+                                            className="w-5 h-5 accent-saffron-600 border-charcoal-300 disabled:opacity-50"
+                                        />
+                                        <span className="ml-3 text-lg text-charcoal-700">{opt}</span>
+                                    </motion.label>
+                                );
+                            })}
                         </div>
-                    )}
-                </div>
+
+                        {/* Immediate Feedback Section */}
+                        <AnimatePresence>
+                            {isSubmitted && (
+                                <motion.div
+                                    initial={{ opacity: 0, height: 0 }}
+                                    animate={{ opacity: 1, height: 'auto' }}
+                                    exit={{ opacity: 0, height: 0 }}
+                                    transition={{ duration: 0.25 }}
+                                    className="overflow-hidden"
+                                >
+                                    <div className={`mt-6 p-4 rounded-xl border ${isCorrect ? 'bg-emerald-50 border-emerald-200' : 'bg-red-50 border-red-200'}`}>
+                                        <div className="flex items-center gap-2 mb-2">
+                                            <FeedbackIcon correct={isCorrect} />
+                                            {isCorrect ? (
+                                                <h3 className="font-bold text-emerald-800">Correct!</h3>
+                                            ) : (
+                                                <h3 className="font-bold text-red-800">Incorrect</h3>
+                                            )}
+                                        </div>
+                                        <p className="text-charcoal-700">
+                                            {question.explanation}
+                                        </p>
+                                        {!isCorrect && (
+                                            <p className="mt-2 text-sm text-charcoal-500">
+                                                Correct Answer: <span className="font-semibold">{question.correct_answer}</span>
+                                            </p>
+                                        )}
+                                    </div>
+                                </motion.div>
+                            )}
+                        </AnimatePresence>
+                    </motion.div>
+                </AnimatePresence>
 
                 <div className="flex justify-end">
                     {!isSubmitted ? (
@@ -377,8 +558,8 @@ export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerPr
                             onClick={handleSubmitAnswer}
                             disabled={!userAnswers[question.id]}
                             className={`flex items-center gap-2 px-8 py-4 rounded-full font-bold text-lg transition-all ${!userAnswers[question.id]
-                                ? 'bg-gray-300 text-gray-500 cursor-not-allowed dark:bg-neutral-700 dark:text-neutral-500'
-                                : 'bg-blue-600 text-white hover:bg-blue-700 shadow-lg shadow-blue-900/30 hover:scale-105'
+                                ? 'bg-charcoal-200 text-charcoal-400 cursor-not-allowed'
+                                : 'bg-charcoal-900 text-white hover:bg-charcoal-800 shadow-lg shadow-charcoal-900/20 hover:scale-105'
                                 }`}
                         >
                             Submit Answer
@@ -386,7 +567,7 @@ export function QuizRunner({ classId, type, title, nextClassPath }: QuizRunnerPr
                     ) : (
                         <button
                             onClick={handleNext}
-                            className="flex items-center gap-2 px-8 py-4 rounded-full font-bold text-lg transition-all bg-red-600 text-white hover:bg-red-700 shadow-lg shadow-red-900/30 hover:scale-105"
+                            className="flex items-center gap-2 px-8 py-4 rounded-full font-bold text-lg transition-all bg-saffron-500 text-white hover:bg-saffron-600 shadow-lg shadow-saffron-900/25 hover:scale-105"
                         >
                             {currentQuestionIndex === quizData.questions.length - 1 ? 'View Results' : 'Next Question'}
                             <ArrowRight size={20} />

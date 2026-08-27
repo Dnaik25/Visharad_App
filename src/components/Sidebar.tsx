@@ -1,16 +1,22 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect, useRef, type ReactNode } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { X } from 'lucide-react';
+import { AnimatePresence, motion } from 'framer-motion';
+import { X, Search, ChevronRight, FileQuestion, Home } from 'lucide-react';
+import { DharmaFlag } from './DharmaFlag';
+import { ProgressRing } from './ProgressRing';
+import { useClassProgress } from '@/lib/useClassProgress';
+
+type ClassMeta = {
+    filename: string;
+    label: string;
+    shloks: number[];
+};
 
 type SidebarProps = {
-    classes: {
-        filename: string;
-        label: string;
-        shloks: number[];
-    }[];
+    classes: ClassMeta[];
     onLinkClick?: () => void;
     onClose?: () => void; // For the close button
 };
@@ -64,134 +70,233 @@ export function Sidebar({ classes, onLinkClick, onClose }: SidebarProps) {
     const isSearching = !!searchTerm.trim();
 
     return (
-        <aside className="h-full flex flex-col bg-gray-50 border-r border-gray-200">
+        <aside className="h-full flex flex-col bg-charcoal-900 text-charcoal-200">
             {/* Header */}
-            <div className="p-4 border-b border-gray-200 bg-white sticky top-0 z-10 space-y-3">
+            <div className="p-4 border-b border-white/10 space-y-3 shrink-0">
                 <div className="flex items-center justify-between">
                     <Link
                         href="/"
                         onClick={onLinkClick}
-                        className="text-xl font-semibold text-gray-800 tracking-tight hover:text-blue-600 transition-colors"
+                        className="flex items-center gap-2.5 group"
                     >
-                        Visharad Sahayak
+                        <DharmaFlag className="w-4 h-6 shrink-0" />
+                        <span className="text-lg font-display font-bold text-white tracking-tight group-hover:text-saffron-300 transition-colors">
+                            Visharad Sahayak
+                        </span>
                     </Link>
                     {/* Mobile Close Button */}
                     {onClose && (
                         <button
                             onClick={onClose}
-                            className="p-1 rounded-md text-gray-500 hover:bg-gray-100 md:hidden"
+                            className="p-1.5 rounded-md text-charcoal-400 hover:text-white hover:bg-white/10 hover:scale-105 md:hidden transition-all"
                             aria-label="Close sidebar"
                         >
-                            <X size={24} />
+                            <X size={20} />
                         </button>
                     )}
                 </div>
 
                 {/* Search Bar */}
                 <div className="relative">
+                    <Search size={15} className="absolute left-3 top-1/2 -translate-y-1/2 text-charcoal-400 pointer-events-none" />
                     <input
                         type="text"
                         placeholder="Search Shlok, Class, Quiz..."
                         value={searchTerm}
                         onChange={(e) => setSearchTerm(e.target.value)}
-                        className="w-full px-3 py-2 bg-gray-100 border border-transparent focus:bg-white focus:border-blue-500 rounded-md text-sm outline-none transition-all"
+                        className="w-full pl-9 pr-3 py-2 bg-white/5 border border-white/10 focus:bg-white/10 focus:border-saffron-500/50 rounded-lg text-sm text-white placeholder-charcoal-400 outline-none transition-all"
                     />
                 </div>
             </div>
 
             {/* Navigation */}
-            <nav className="flex-1 p-4 space-y-2 overflow-y-auto">
+            <nav className="flex-1 p-3 space-y-1 overflow-y-auto scrollbar-thin">
                 {!isSearching && (
                     <Link
                         href="/"
                         onClick={onLinkClick}
                         className={`
-                            block px-3 py-2 text-sm font-medium rounded-md transition-all mb-4
+                            relative group/nav flex items-center gap-2 px-3 py-2 text-sm font-medium rounded-lg transition-all mb-3
                             ${pathname === '/'
-                                ? 'bg-blue-50 text-blue-700 border-l-4 border-blue-500'
-                                : 'text-gray-700 hover:bg-gray-100 hover:text-gray-900'
+                                ? 'bg-saffron-500/15 text-saffron-300'
+                                : 'text-charcoal-300 hover:bg-white/5 hover:text-white'
                             }
                         `}
                     >
+                        <span
+                            aria-hidden="true"
+                            className={`absolute left-0 top-1/2 -translate-y-1/2 w-[3px] rounded-r-full bg-saffron-400 transition-all duration-200 ease-out ${pathname === '/' ? 'h-4/5' : 'h-0 group-hover/nav:h-3/5'
+                                }`}
+                        />
+                        <Home size={15} />
                         Home
                     </Link>
                 )}
 
                 {displayClasses.length === 0 && (
-                    <div className="text-center text-gray-500 text-sm py-4">
+                    <div className="text-center text-charcoal-500 text-sm py-4">
                         No results found
                     </div>
                 )}
 
-                {displayClasses.map((cls) => {
-                    const isExpanded = isSearching || expanded[cls.filename];
-                    const classNumMatch = cls.filename.match(/(\d+)/);
-                    const classId = classNumMatch ? classNumMatch[0] : '1';
+                {displayClasses.map((cls) => (
+                    <ClassNavItem
+                        key={cls.filename}
+                        cls={cls}
+                        isExpanded={isSearching || expanded[cls.filename]}
+                        pathname={pathname}
+                        searchTerm={searchTerm}
+                        onToggle={() => toggle(cls.filename)}
+                        onLinkClick={onLinkClick}
+                    />
+                ))}
+            </nav>
+        </aside>
+    );
+}
 
-                    return (
-                        <div key={cls.filename} className="group">
-                            <button
-                                onClick={() => toggle(cls.filename)}
-                                className="w-full flex items-center justify-between p-2 text-left text-gray-700 font-medium hover:bg-gray-100 rounded-md transition-colors"
-                            >
-                                <span>{cls.label}</span>
-                                <span className="text-gray-400 text-sm">
-                                    {isExpanded ? '▼' : '▶'}
-                                </span>
-                            </button>
+function ClassNavItem({
+    cls,
+    isExpanded,
+    pathname,
+    searchTerm,
+    onToggle,
+    onLinkClick,
+}: {
+    cls: ClassMeta;
+    isExpanded: boolean;
+    pathname: string;
+    searchTerm: string;
+    onToggle: () => void;
+    onLinkClick?: () => void;
+}) {
+    const classNumMatch = cls.filename.match(/(\d+)/);
+    const classId = classNumMatch ? classNumMatch[0] : '1';
+    const progress = useClassProgress(classId, cls.shloks);
 
-                            {isExpanded && (
-                                <div className="mt-1 ml-4 space-y-1 border-l-2 border-gray-100 pl-2">
-                                    {cls.shloks.map((shlokNum) => {
-                                        const href = `/class/${classId}/shlok/${shlokNum}`;
-                                        const isActive = pathname === href;
+    return (
+        <div className="group">
+            <button
+                onClick={onToggle}
+                className="w-full flex items-center justify-between px-2.5 py-2 text-left text-charcoal-100 text-sm font-semibold hover:bg-white/5 rounded-lg transition-colors"
+                title={`${Math.round(progress * 100)}% complete`}
+            >
+                <span>{cls.label}</span>
+                <div className="flex items-center gap-2">
+                    <ProgressRing progress={progress} />
+                    <ChevronRight
+                        size={14}
+                        className={`text-charcoal-500 transition-transform duration-200 ${isExpanded ? 'rotate-90' : ''}`}
+                    />
+                </div>
+            </button>
 
-                                        // Simple highlight logic if searching for specific number
-                                        const isMatch = searchTerm.match(/\d+/)
-                                            && parseInt(searchTerm.match(/\d+/)![0]) === shlokNum;
+            <AnimatePresence initial={false}>
+                {isExpanded && (
+                    <motion.div
+                        initial={{ height: 0, opacity: 0 }}
+                        animate={{ height: 'auto', opacity: 1 }}
+                        exit={{ height: 0, opacity: 0 }}
+                        transition={{ duration: 0.2, ease: 'easeOut' }}
+                        className="overflow-hidden"
+                    >
+                        <div className="mt-1 mb-2 ml-4 space-y-0.5 border-l border-white/10 pl-3">
+                            {cls.shloks.map((shlokNum) => {
+                                const href = `/class/${classId}/shlok/${shlokNum}`;
+                                const isActive = pathname === href;
 
-                                        return (
-                                            <Link
-                                                key={shlokNum}
-                                                href={href}
-                                                onClick={onLinkClick}
-                                                className={`
-                                                  block px-3 py-2 text-sm rounded-md transition-all
-                                                  ${isActive
-                                                        ? 'bg-blue-50 text-blue-700 font-medium border-l-4 border-blue-500'
-                                                        : isMatch
-                                                            ? 'bg-yellow-50 text-yellow-800' // Highlight match
-                                                            : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
-                                                    }
-                                                `}
-                                            >
-                                                Shlok {shlokNum}
-                                            </Link>
-                                        );
-                                    })}
+                                // Simple highlight logic if searching for specific number
+                                const isMatch = searchTerm.match(/\d+/)
+                                    && parseInt(searchTerm.match(/\d+/)![0]) === shlokNum;
 
-                                    {/* Quiz Link */}
-                                    <Link
-                                        href={`/class/${classId}/quiz`}
+                                return (
+                                    <SearchMatchLink
+                                        key={shlokNum}
+                                        href={href}
                                         onClick={onLinkClick}
+                                        isMatch={!!isMatch}
                                         className={`
-                                            block px-3 py-2 text-sm rounded-md transition-all
-                                            ${pathname === `/class/${classId}/quiz`
-                                                ? 'bg-purple-50 text-purple-700 font-medium border-l-4 border-purple-500'
-                                                : searchTerm.toLowerCase().includes('quiz')
-                                                    ? 'bg-yellow-50 text-yellow-800'
-                                                    : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
+                                          relative group/nav block px-2.5 py-1.5 text-sm rounded-md transition-all
+                                          ${isActive
+                                                ? 'bg-saffron-500/15 text-saffron-300 font-medium'
+                                                : isMatch
+                                                    ? 'bg-saffron-500/10 text-saffron-200'
+                                                    : 'text-charcoal-400 hover:text-white hover:bg-white/5'
                                             }
                                         `}
                                     >
-                                        📝 Quiz {classId}
-                                    </Link>
-                                </div>
-                            )}
+                                        <span
+                                            aria-hidden="true"
+                                            className={`absolute left-0 top-1/2 -translate-y-1/2 w-[3px] rounded-r-full bg-saffron-400 transition-all duration-200 ease-out ${isActive || isMatch ? 'h-4/5' : 'h-0 group-hover/nav:h-3/5'
+                                                }`}
+                                        />
+                                        Shlok {shlokNum}
+                                    </SearchMatchLink>
+                                );
+                            })}
+
+                            {/* Quiz Link */}
+                            <SearchMatchLink
+                                href={`/class/${classId}/quiz`}
+                                onClick={onLinkClick}
+                                isMatch={searchTerm.toLowerCase().includes('quiz')}
+                                className={`
+                                    relative group/nav flex items-center gap-1.5 px-2.5 py-1.5 text-sm rounded-md transition-all
+                                    ${pathname === `/class/${classId}/quiz`
+                                        ? 'bg-saffron-500/15 text-saffron-300 font-medium'
+                                        : searchTerm.toLowerCase().includes('quiz')
+                                            ? 'bg-saffron-500/10 text-saffron-200'
+                                            : 'text-charcoal-400 hover:text-white hover:bg-white/5'
+                                    }
+                                `}
+                            >
+                                <span
+                                    aria-hidden="true"
+                                    className={`absolute left-0 top-1/2 -translate-y-1/2 w-[3px] rounded-r-full bg-saffron-400 transition-all duration-200 ease-out ${pathname === `/class/${classId}/quiz` || searchTerm.toLowerCase().includes('quiz') ? 'h-4/5' : 'h-0 group-hover/nav:h-3/5'
+                                        }`}
+                                />
+                                <FileQuestion size={13} />
+                                Quiz {classId}
+                            </SearchMatchLink>
                         </div>
-                    );
-                })}
-            </nav>
-        </aside>
+                    </motion.div>
+                )}
+            </AnimatePresence>
+        </div>
+    );
+}
+
+// A nav Link that, when it becomes a search match, smooth-scrolls itself into view
+// within the sidebar's scroll container and plays a brief highlight flash.
+function SearchMatchLink({
+    href,
+    isMatch,
+    onClick,
+    className,
+    children,
+}: {
+    href: string;
+    isMatch: boolean;
+    onClick?: () => void;
+    className: string;
+    children: ReactNode;
+}) {
+    const ref = useRef<HTMLAnchorElement>(null);
+
+    useEffect(() => {
+        if (isMatch) {
+            ref.current?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+    }, [isMatch]);
+
+    return (
+        <Link
+            ref={ref}
+            href={href}
+            onClick={onClick}
+            className={`${className} ${isMatch ? 'animate-highlight-flash' : ''}`}
+        >
+            {children}
+        </Link>
     );
 }
